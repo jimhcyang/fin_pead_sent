@@ -1,0 +1,8 @@
+{
+  "ticker": "TSLA",
+  "call_date": "2025-10-22",
+  "fmp_year": 2025,
+  "fmp_quarter": 3,
+  "downloaded_at_et": "2025-12-26T23:04:03.454032-05:00",
+  "source": "Financial Modeling Prep (FMP) earning_call_transcript endpoint"
+}

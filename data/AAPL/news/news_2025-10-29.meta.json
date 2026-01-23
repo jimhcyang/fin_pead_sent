@@ -1,0 +1,20 @@
+{
+  "ticker": "AAPL",
+  "api_symbol_used": "AAPL",
+  "target_day_et": "2025-10-29",
+  "pad_days": 1,
+  "page_limit": 100,
+  "max_pages": 200,
+  "pages_fetched": 2,
+  "raw_unique_items": 130,
+  "filtered_items_et_day": 44,
+  "final_deduped_items": 44,
+  "base_url_used": "https://financialmodelingprep.com",
+  "records_written": 44,
+  "query_window_used": {
+    "from": "2025-10-28",
+    "to": "2025-10-30"
+  },
+  "downloaded_at_et": "2025-12-26T22:59:10.104067-05:00",
+  "source": "FMP /stable/news/stock (paginated page+limit; filtered to ET day)"
+}

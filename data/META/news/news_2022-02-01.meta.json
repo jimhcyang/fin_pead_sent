@@ -1,0 +1,20 @@
+{
+  "ticker": "META",
+  "api_symbol_used": "META",
+  "target_day_et": "2022-02-01",
+  "pad_days": 1,
+  "page_limit": 100,
+  "max_pages": 200,
+  "pages_fetched": 1,
+  "raw_unique_items": 70,
+  "filtered_items_et_day": 13,
+  "final_deduped_items": 13,
+  "base_url_used": "https://financialmodelingprep.com",
+  "records_written": 13,
+  "query_window_used": {
+    "from": "2022-01-31",
+    "to": "2022-02-02"
+  },
+  "downloaded_at_et": "2025-12-26T23:03:03.771452-05:00",
+  "source": "FMP /stable/news/stock (paginated page+limit; filtered to ET day)"
+}

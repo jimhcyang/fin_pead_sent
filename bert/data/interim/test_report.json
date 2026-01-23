@@ -1,0 +1,25 @@
+{
+  "classification_report_text": "              precision    recall  f1-score   support\n\n    positive     0.9483    1.0000    0.9735        55\n    negative     0.9355    0.9667    0.9508        30\n     neutral     1.0000    0.9718    0.9857       142\n\n    accuracy                         0.9780       227\n   macro avg     0.9613    0.9795    0.9700       227\nweighted avg     0.9789    0.9780    0.9781       227\n",
+  "confusion_matrix": [
+    [
+      55,
+      0,
+      0
+    ],
+    [
+      1,
+      29,
+      0
+    ],
+    [
+      2,
+      2,
+      138
+    ]
+  ],
+  "target_names": [
+    "positive",
+    "negative",
+    "neutral"
+  ]
+}

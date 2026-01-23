@@ -1,0 +1,20 @@
+{
+  "ticker": "AMZN",
+  "api_symbol_used": "AMZN",
+  "target_day_et": "2021-10-27",
+  "pad_days": 1,
+  "page_limit": 100,
+  "max_pages": 200,
+  "pages_fetched": 1,
+  "raw_unique_items": 58,
+  "filtered_items_et_day": 17,
+  "final_deduped_items": 17,
+  "base_url_used": "https://financialmodelingprep.com",
+  "records_written": 17,
+  "query_window_used": {
+    "from": "2021-10-26",
+    "to": "2021-10-28"
+  },
+  "downloaded_at_et": "2025-12-26T23:00:56.741321-05:00",
+  "source": "FMP /stable/news/stock (paginated page+limit; filtered to ET day)"
+}

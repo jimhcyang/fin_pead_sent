@@ -1,0 +1,54 @@
+# --- Core ---
+pandas>=2.2.2
+numpy>=1.26.4
+lxml>=5.2.0
+python-dotenv>=1.0.1
+tqdm>=4.67.1
+requests>=2.32.3
+tenacity>=8.3.0
+pydantic>=2.7.1
+
+# --- Excel / Parquet ---
+openpyxl>=3.1.0
+pyarrow>=16.0.0
+
+# --- Market + SEC (for later steps) ---
+yfinance>=0.2.44
+sec-edgar-downloader>=5.0.0
+
+# --- Plotting + notebooks ---
+matplotlib>=3.8.0
+jupyterlab>=4.2.0
+
+# --- HF + Training (pinned for stability with scripts/10_train_finbert_lora.py) ---
+transformers==4.57.1
+datasets==2.21.0
+huggingface-hub==0.36.0
+tokenizers==0.22.1
+fsspec[http]==2024.6.1       # pin to satisfy datasets==2.21.0
+safetensors>=0.6.2
+evaluate>=0.4.2
+accelerate>=0.33.0
+peft>=0.11.1
+torch>=2.6.0                 # Apple Silicon MPS works via PyPI wheels
+
+# --- Metrics & utils ---
+scikit-learn>=1.4.0
+sentencepiece>=0.2.0
+protobuf>=5.27.3
+packaging>=23.2
+PyYAML>=6.0.1
+
+# --- Data APIs ---
+finnhub-python>=2.4.19
+newsapi-python>=0.2.7
+
+# --- Optional: API LLM benchmarking ---
+openai>=1.45.0
+anthropic>=0.36.0
+google-generativeai>=0.7.2
+
+# --- Optional but handy ---
+tyro>=0.8.4
+omegaconf>=2.3.0
+rich>=13.7.1

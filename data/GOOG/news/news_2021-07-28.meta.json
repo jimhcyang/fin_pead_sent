@@ -1,0 +1,20 @@
+{
+  "ticker": "GOOG",
+  "api_symbol_used": "GOOG",
+  "target_day_et": "2021-07-28",
+  "pad_days": 1,
+  "page_limit": 100,
+  "max_pages": 200,
+  "pages_fetched": 1,
+  "raw_unique_items": 57,
+  "filtered_items_et_day": 19,
+  "final_deduped_items": 19,
+  "base_url_used": "https://financialmodelingprep.com",
+  "records_written": 19,
+  "query_window_used": {
+    "from": "2021-07-27",
+    "to": "2021-07-29"
+  },
+  "downloaded_at_et": "2025-12-26T23:02:02.855255-05:00",
+  "source": "FMP /stable/news/stock (paginated page+limit; filtered to ET day)"
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "TSLA",
+  "api_symbol_used": "TSLA",
+  "target_day_et": "2022-10-20",
+  "pad_days": 1,
+  "page_limit": 100,
+  "max_pages": 200,
+  "pages_fetched": 1,
+  "raw_unique_items": 90,
+  "filtered_items_et_day": 36,
+  "final_deduped_items": 36,
+  "base_url_used": "https://financialmodelingprep.com",
+  "records_written": 36,
+  "query_window_used": {
+    "from": "2022-10-19",
+    "to": "2022-10-21"
+  },
+  "downloaded_at_et": "2025-12-26T23:04:14.925776-05:00",
+  "source": "FMP /stable/news/stock (paginated page+limit; filtered to ET day)"
+}

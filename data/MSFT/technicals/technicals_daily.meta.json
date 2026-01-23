@@ -1,0 +1,7 @@
+{
+  "ticker": "MSFT",
+  "source_prices": "Yahoo Finance (via yfinance)",
+  "generated_at_et": "2025-12-26T22:59:38.675280-05:00",
+  "rows": 1252,
+  "notes": "All indicators computed from daily OHLCV; returns use adjusted close."
+}

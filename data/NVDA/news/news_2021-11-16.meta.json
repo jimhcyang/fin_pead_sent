@@ -1,0 +1,20 @@
+{
+  "ticker": "NVDA",
+  "api_symbol_used": "NVDA",
+  "target_day_et": "2021-11-16",
+  "pad_days": 1,
+  "page_limit": 100,
+  "max_pages": 200,
+  "pages_fetched": 1,
+  "raw_unique_items": 50,
+  "filtered_items_et_day": 19,
+  "final_deduped_items": 19,
+  "base_url_used": "https://financialmodelingprep.com",
+  "records_written": 19,
+  "query_window_used": {
+    "from": "2021-11-15",
+    "to": "2021-11-17"
+  },
+  "downloaded_at_et": "2025-12-26T22:57:20.794336-05:00",
+  "source": "FMP /stable/news/stock (paginated page+limit; filtered to ET day)"
+}

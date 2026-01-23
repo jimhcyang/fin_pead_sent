@@ -1,0 +1,7 @@
+.sentvenv/
+temp_trash/
+.DS_Store
+__pycache__/
+*.pyc
+.sentvenv/
+.ipynb_checkpoints/

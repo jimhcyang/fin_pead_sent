@@ -1,0 +1,8 @@
+{
+  "ticker": "AAPL",
+  "call_date": "2025-10-30",
+  "fmp_year": 2025,
+  "fmp_quarter": 4,
+  "downloaded_at_et": "2025-12-26T22:58:42.152786-05:00",
+  "source": "Financial Modeling Prep (FMP) earning_call_transcript endpoint"
+}

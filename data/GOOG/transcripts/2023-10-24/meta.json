@@ -1,0 +1,8 @@
+{
+  "ticker": "GOOG",
+  "call_date": "2023-10-24",
+  "fmp_year": 2023,
+  "fmp_quarter": 3,
+  "downloaded_at_et": "2025-12-26T23:01:55.318613-05:00",
+  "source": "Financial Modeling Prep (FMP) earning_call_transcript endpoint"
+}

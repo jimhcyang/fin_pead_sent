@@ -1,0 +1,20 @@
+{
+  "ticker": "MSFT",
+  "api_symbol_used": "MSFT",
+  "target_day_et": "2022-07-25",
+  "pad_days": 1,
+  "page_limit": 100,
+  "max_pages": 200,
+  "pages_fetched": 1,
+  "raw_unique_items": 37,
+  "filtered_items_et_day": 11,
+  "final_deduped_items": 11,
+  "base_url_used": "https://financialmodelingprep.com",
+  "records_written": 11,
+  "query_window_used": {
+    "from": "2022-07-24",
+    "to": "2022-07-26"
+  },
+  "downloaded_at_et": "2025-12-26T22:59:56.554793-05:00",
+  "source": "FMP /stable/news/stock (paginated page+limit; filtered to ET day)"
+}
