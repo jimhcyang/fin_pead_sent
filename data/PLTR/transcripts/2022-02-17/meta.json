@@ -1,0 +1,8 @@
+{
+  "ticker": "PLTR",
+  "call_date": "2022-02-17",
+  "fmp_year": 2021,
+  "fmp_quarter": 4,
+  "downloaded_at_et": "2026-01-22T20:43:12.298613-05:00",
+  "source": "Financial Modeling Prep (FMP) earning_call_transcript endpoint"
+}

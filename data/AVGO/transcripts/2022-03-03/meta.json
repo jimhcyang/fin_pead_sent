@@ -1,0 +1,8 @@
+{
+  "ticker": "AVGO",
+  "call_date": "2022-03-03",
+  "fmp_year": 2022,
+  "fmp_quarter": 1,
+  "downloaded_at_et": "2026-01-22T20:40:41.009935-05:00",
+  "source": "Financial Modeling Prep (FMP) earning_call_transcript endpoint"
+}

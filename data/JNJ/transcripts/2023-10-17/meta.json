@@ -1,0 +1,8 @@
+{
+  "ticker": "JNJ",
+  "call_date": "2023-10-17",
+  "fmp_year": 2023,
+  "fmp_quarter": 3,
+  "downloaded_at_et": "2026-01-22T20:42:06.121854-05:00",
+  "source": "Financial Modeling Prep (FMP) earning_call_transcript endpoint"
+}

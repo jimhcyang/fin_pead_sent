@@ -1,5 +1,6 @@
 .sentvenv/
 temp_trash/
+_data/
 .DS_Store
 __pycache__/
 *.pyc

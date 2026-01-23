@@ -1,0 +1,9 @@
+{
+  "ticker": "PLTR",
+  "source": "FMP legacy endpoint: /api/v3/historical/earning_calendar/{symbol}",
+  "start": "2021-01-01",
+  "end": "2025-12-31",
+  "downloaded_at_et": "2026-01-22T20:43:09.646712-05:00",
+  "rows": 20,
+  "notes": "announce_timing is typically 'amc' or 'bmo'; ET placeholder is for ordering only."
+}

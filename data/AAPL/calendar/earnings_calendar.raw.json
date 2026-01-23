@@ -15,10 +15,10 @@
     "symbol": "AAPL",
     "eps": null,
     "epsEstimated": 2.65,
-    "time": "bmo",
+    "time": "amc",
     "revenue": null,
-    "revenueEstimated": 138253076640,
-    "updatedFromDate": "2025-12-27",
+    "revenueEstimated": 138454576990,
+    "updatedFromDate": "2026-01-22",
     "fiscalDateEnding": "2025-12-27"
   },
   {
@@ -29,7 +29,7 @@
     "time": "amc",
     "revenue": 102466000000,
     "revenueEstimated": 102227074560,
-    "updatedFromDate": "2025-12-27",
+    "updatedFromDate": "2026-01-22",
     "fiscalDateEnding": "2025-09-27"
   },
   {

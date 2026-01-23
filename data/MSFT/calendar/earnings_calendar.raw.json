@@ -7,18 +7,18 @@
     "time": "amc",
     "revenue": null,
     "revenueEstimated": null,
-    "updatedFromDate": "2025-12-25",
+    "updatedFromDate": "2026-01-21",
     "fiscalDateEnding": "2026-03-30"
   },
   {
-    "date": "2026-02-04",
+    "date": "2026-01-28",
     "symbol": "MSFT",
     "eps": null,
     "epsEstimated": 3.86,
-    "time": "bmo",
+    "time": "amc",
     "revenue": null,
-    "revenueEstimated": null,
-    "updatedFromDate": "2025-12-25",
+    "revenueEstimated": 80270732300,
+    "updatedFromDate": "2026-01-21",
     "fiscalDateEnding": "2025-12-30"
   },
   {
@@ -29,7 +29,7 @@
     "time": "amc",
     "revenue": 77673000000,
     "revenueEstimated": 75494678452,
-    "updatedFromDate": "2025-12-25",
+    "updatedFromDate": "2026-01-21",
     "fiscalDateEnding": "2025-09-30"
   },
   {

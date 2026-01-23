@@ -1,0 +1,8 @@
+{
+  "ticker": "AMD",
+  "call_date": "2025-02-04",
+  "fmp_year": 2024,
+  "fmp_quarter": 4,
+  "downloaded_at_et": "2026-01-22T20:43:05.434546-05:00",
+  "source": "Financial Modeling Prep (FMP) earning_call_transcript endpoint"
+}

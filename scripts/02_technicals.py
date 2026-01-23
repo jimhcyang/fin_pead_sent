@@ -20,11 +20,29 @@ def main() -> None:
     ticker = args.ticker.upper()
     data_dir = Path(args.data_dir) if args.data_dir else default_data_dir()
 
-    prices_path = data_dir / ticker / "prices" / "yf_ohlcv_daily.csv"
-    if not prices_path.exists():
-        raise RuntimeError(f"Missing prices file: {prices_path}. Run 01_yf_prices.py first.")
+    prices_dir = data_dir / ticker / "prices"
+    prices_trim_path = prices_dir / "yf_ohlcv_daily.csv"
+    prices_raw_path = prices_dir / "yf_ohlcv_daily_raw.csv"
 
-    df = read_csv(prices_path)
+    if not prices_trim_path.exists():
+        raise RuntimeError(f"Missing prices file: {prices_trim_path}. Run 01_yf_prices.py first.")
+
+    # Trimmed window defines what we save (alignment for joins)
+    df_trim = read_csv(prices_trim_path)
+    df_trim["date"] = pd.to_datetime(df_trim["date"])
+    df_trim = df_trim.sort_values("date").reset_index(drop=True)
+
+    analysis_start = df_trim["date"].min()
+    analysis_end = df_trim["date"].max()
+
+    # Raw (buffered) is used to compute indicators (warm-up)
+    if prices_raw_path.exists():
+        df = read_csv(prices_raw_path)
+        source_prices = "Yahoo Finance (via yfinance) [raw with buffer]"
+    else:
+        df = df_trim.copy()
+        source_prices = "Yahoo Finance (via yfinance) [trimmed only]"
+
     df["date"] = pd.to_datetime(df["date"])
     df = df.sort_values("date").reset_index(drop=True)
 
@@ -36,21 +54,16 @@ def main() -> None:
     open_ = df["open"].astype(float)
     vol = df["volume"].astype(float)
 
-    out = pd.DataFrame({"date": df["date"].dt.date.astype(str)})
+    out = pd.DataFrame({"date": df["date"]})
 
     # Returns & drift helpers
     out["ret_1d"] = adj.pct_change()
     out["logret_1d"] = np.log(adj / adj.shift(1))
     out["ret_5d"] = adj.pct_change(5)
     out["ret_20d"] = adj.pct_change(20)
-    out["ret_60d"] = adj.pct_change(60)
-
-    # Drawdown
-    roll_max = adj.rolling(252, min_periods=252).max()
-    out["drawdown_252"] = adj / roll_max - 1
 
     # Trend
-    for w in [5, 10, 20, 50, 100, 200]:
+    for w in [5, 20, 50]:
         out[f"sma_{w}"] = sma(adj, w)
         out[f"ema_{w}"] = ema(adj, w)
 
@@ -67,7 +80,7 @@ def main() -> None:
 
     # Volatility
     out["vol_20"] = out["logret_1d"].rolling(20, min_periods=20).std()
-    out["vol_60"] = out["logret_1d"].rolling(60, min_periods=60).std()
+    out["vol_60"] = out["logret_1d"].rolling(50, min_periods=50).std()
     out["atr_14"] = atr(high, low, close, 14)
 
     # Bands
@@ -86,6 +99,10 @@ def main() -> None:
     out["hl_range"] = (high - low) / close.replace(0, np.nan)
     out["oc_gap"] = (open_ - close) / close.replace(0, np.nan)
 
+    # Truncate output back to analysis window (so it aligns with event panel)
+    out = out[(out["date"] >= analysis_start) & (out["date"] <= analysis_end)].copy()
+    out["date"] = out["date"].dt.date.astype(str)
+
     out_dir = data_dir / ticker / "technicals"
     ensure_dir(out_dir)
 
@@ -94,10 +111,12 @@ def main() -> None:
 
     meta = {
         "ticker": ticker,
-        "source_prices": "Yahoo Finance (via yfinance)",
+        "source_prices": source_prices,
         "generated_at_et": now_iso(),
         "rows": int(out.shape[0]),
-        "notes": "All indicators computed from daily OHLCV; returns use adjusted close.",
+        "analysis_window_start": analysis_start.date().isoformat(),
+        "analysis_window_end": analysis_end.date().isoformat(),
+        "notes": "Indicators computed from buffered daily OHLCV when available; saved output is truncated to the analysis window defined by yf_ohlcv_daily.csv. Returns use adjusted close.",
     }
     write_json(meta, out_dir / "technicals_daily.meta.json")
 

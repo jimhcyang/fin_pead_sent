@@ -1,0 +1,8 @@
+{
+  "ticker": "JPM",
+  "call_date": "2023-04-14",
+  "fmp_year": 2023,
+  "fmp_quarter": 1,
+  "downloaded_at_et": "2026-01-22T20:41:29.431036-05:00",
+  "source": "Financial Modeling Prep (FMP) earning_call_transcript endpoint"
+}

@@ -1,0 +1,8 @@
+{
+  "ticker": "ORCL",
+  "call_date": "2025-12-10",
+  "fmp_year": 2026,
+  "fmp_quarter": 2,
+  "downloaded_at_et": "2026-01-22T20:42:20.718274-05:00",
+  "source": "Financial Modeling Prep (FMP) earning_call_transcript endpoint"
+}
