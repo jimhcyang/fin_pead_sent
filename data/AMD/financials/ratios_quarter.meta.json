@@ -1,0 +1,15 @@
+{
+  "ticker": "AMD",
+  "events": 16,
+  "matched": 16,
+  "missing_keys_in_events": 0,
+  "missing_financial_rows": 0,
+  "endpoint": "/api/v3/ratios/AMD",
+  "params": {
+    "period": "quarter",
+    "limit": 400
+  },
+  "aligned_to": "transcripts",
+  "downloaded_at_et": "2026-01-23T20:03:17.178460-05:00",
+  "rows_saved": 16
+}

@@ -7,7 +7,7 @@
     "time": "amc",
     "revenue": null,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-01-21",
+    "updatedFromDate": "2026-01-23",
     "fiscalDateEnding": "2026-05-22"
   },
   {
@@ -18,7 +18,7 @@
     "time": "bmo",
     "revenue": null,
     "revenueEstimated": 68964351640,
-    "updatedFromDate": "2026-01-21",
+    "updatedFromDate": "2026-01-23",
     "fiscalDateEnding": "2026-02-23"
   },
   {
@@ -29,7 +29,7 @@
     "time": "amc",
     "revenue": 67307000000,
     "revenueEstimated": 67143234240,
-    "updatedFromDate": "2026-01-21",
+    "updatedFromDate": "2026-01-23",
     "fiscalDateEnding": "2025-11-23"
   },
   {

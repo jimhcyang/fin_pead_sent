@@ -1,0 +1,15 @@
+{
+  "ticker": "MU",
+  "events": 21,
+  "matched": 21,
+  "missing_keys_in_events": 0,
+  "missing_financial_rows": 0,
+  "endpoint": "/api/v3/key-metrics/MU",
+  "params": {
+    "period": "quarter",
+    "limit": 400
+  },
+  "aligned_to": "transcripts",
+  "downloaded_at_et": "2026-01-23T20:02:53.930084-05:00",
+  "rows_saved": 21
+}

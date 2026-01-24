@@ -96,6 +96,8 @@ def main() -> None:
     ap.add_argument("--ticker", required=True)
     ap.add_argument("--start", default="2021-01-01")
     ap.add_argument("--end", default="2025-12-31")
+    ap.add_argument("--data-dir", default=None, help="Default: repo_root/data")
+
     args = ap.parse_args()
 
     ticker = args.ticker.upper()
@@ -104,7 +106,8 @@ def main() -> None:
 
     cfg = FMPConfig.from_env()
 
-    out_dir = Path("data") / ticker / "calendar"
+    base_dir = Path(args.data_dir) if args.data_dir else Path("data")
+    out_dir = base_dir / ticker / "calendar"
     _ensure_dir(out_dir)
 
     raw = fetch_company_earning_calendar(cfg, ticker)
