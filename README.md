@@ -1,13 +1,22 @@
 # PEAD Sentiment Research Pipeline
 
-This repository builds a research dataset for post–earnings announcement drift (PEAD) style analyses by assembling, **per ticker**, a consistent set of raw inputs:
+This repository builds a research dataset for post–earnings announcement drift (PEAD) style analyses by assembling, **per ticker**, a consistent set of raw inputs and a standardized **event-level panel**.
 
+## Raw inputs (per ticker)
 - Daily prices from Yahoo Finance (via `yfinance`)
 - Daily technical indicators computed from prices
 - Earnings calendar events from Financial Modeling Prep (FMP)
 - Earnings call transcripts from FMP
 - Quarterly processed fundamentals from FMP (ratios + key metrics), **aligned to transcript events**
 - Optional: stock news articles from FMP (can be fetched separately)
+
+## Event-level outputs (PEAD-ready)
+From the raw inputs, the pipeline builds:
+- Trading-day **earnings anchors** (pre/react/+5/+10/+20)
+- Close-only (adjusted close) **event price path**
+- Minimal **event returns** (price levels, $ deltas, % returns)
+- A merged **numeric event panel** (returns + surprises + selected fundamentals)
+- A final **event panel** with **market (SPX) returns** and **market-adjusted abnormal returns**
 
 All data are saved under `data/{TICKER}/...` using a standardized folder layout so downstream modeling can be swapped in/out without changing collection logic.
 
@@ -16,7 +25,7 @@ All data are saved under `data/{TICKER}/...` using a standardized folder layout 
 ## Repository layout
 
 - `scripts/`  
-  Data collection and feature building scripts.
+  Data collection, panel building, and visualization scripts.
 
 - `data/`  
   Generated outputs and intermediate files, organized by ticker.
@@ -36,6 +45,8 @@ After preparing one ticker, the folder structure looks like:
 - `yf_ohlcv_daily.csv`  
   Trimmed to the requested `[start, end]` window (canonical file used downstream).
 
+> Note: the event-level PEAD pipeline (scripts 21–26) uses **adjusted close only** and ignores intraday OHLC and volume.
+
 ### `data/{TICKER}/technicals/`
 - `technicals_daily.csv`
 - `technicals_daily.meta.json`
@@ -50,7 +61,7 @@ After preparing one ticker, the folder structure looks like:
 - `transcript.json`
 - `transcript.txt`
 
-> Note: transcript folders are keyed by the **earnings call date** returned by FMP.
+> Transcript folders are keyed by the **earnings call date** returned by FMP.
 
 ### `data/{TICKER}/financials/`
 - `ratios_quarter.csv`
@@ -62,8 +73,55 @@ These are **aligned to the transcript event dates** (the transcript dates define
 ### `data/{TICKER}/news/`
 Empty unless you run `05_fmp_news.py`.
 
-### `data/{TICKER}/events/`
-Empty unless you build an event-level panel downstream.
+### `data/{TICKER}/events/`  (created by scripts 21–26 / 30)
+- `earnings_anchors.csv` (+ `.meta.json`)  
+  Event anchors per earnings event:
+  - `pre_date`: “close before the announcement”
+  - `react_date`: “close after the announcement is incorporated”
+  - `d5/d10/d20`: trading-day offsets from `react_date`
+
+  Timing rules:
+  - **BMO**: `pre_date = previous trading day`, `react_date = same day`
+  - **AMC**: `pre_date = same day`, `react_date = next trading day`
+
+- `event_price_path.csv` (+ `.meta.json`)  
+  Close-only adjusted-close levels:
+  - `pre_adj_close`, `react_adj_close`, `adj_close_p5/p10/p20`
+
+- `event_returns.csv` (+ `.meta.json`)  
+  Minimal PEAD/event-study outputs:
+  - price levels (adj close)
+  - $ deltas vs pre and vs react
+  - simple returns in percent: `100*(P2/P1 - 1)`
+  - “drift” returns are measured from `react_date` (e.g., `react→d20`)
+
+- `event_panel_numeric.csv` (+ `.meta.json`)  
+  Merged panel:
+  - event returns
+  - earnings surprises (EPS and revenue surprise %)
+  - selected quarterly fundamentals:
+    - `km_*` (key metrics)
+    - `rt_*` (ratios)
+
+- `event_panel.csv` (+ `.meta.json`)  
+  Final panel adds:
+  - market (SPX) adjusted-close levels at the same anchor dates
+  - market returns (percent) over the same windows
+  - abnormal returns (percent): `abn = stock_return - market_return`
+
+---
+
+## Market data cache (SPX)
+
+The event-panel builder uses SPX for abnormal return construction:
+
+- `data/_tmp_market/spx/prices/yf_ohlcv_daily.csv`
+
+This file is **close-only** (date + adjusted close).
+
+**Important behavior**
+- If you run the full orchestrator `30_build_events_all.py`, it will **re-download SPX as needed**.
+- If you run `26_compute_abnormal_returns.py` directly and SPX is missing, run `25_yf_download_spx.py` (or rerun `30`).
 
 ---
 
@@ -81,8 +139,6 @@ pip install -r requirements.txt
 
 FMP endpoints require `FMP_API_KEY` in your environment.
 
-Check if it is set:
-
 ```bash
 echo $FMP_API_KEY
 python -c "import os; print(os.getenv('FMP_API_KEY'))"
@@ -98,11 +154,9 @@ To make it permanent, add that line to your shell profile (e.g., `~/.zshrc`).
 
 ---
 
-## Script overview (00 → 06)
+## Script overview (00 → 06): raw inputs
 
 ### 00 Initialize ticker directories
-
-Creates the folder structure under `data/{TICKER}/`.
 
 ```bash
 python scripts/00_init_ticker_dirs.py --ticker NVDA
@@ -110,18 +164,11 @@ python scripts/00_init_ticker_dirs.py --ticker NVDA
 
 ### 01 Download prices from Yahoo Finance
 
-Downloads daily OHLCV (+ adjusted close). Saves two files:
-
-* buffered raw file (indicator warmup)
-* trimmed canonical file for the requested window
-
 ```bash
 python scripts/01_yf_prices.py --ticker NVDA --start 2021-01-01 --end 2025-12-31
 ```
 
 ### 02 Compute technical indicators
-
-Reads `prices/yf_ohlcv_daily.csv` and writes indicators:
 
 ```bash
 python scripts/02_technicals.py --ticker NVDA
@@ -129,15 +176,11 @@ python scripts/02_technicals.py --ticker NVDA
 
 ### 03 Download earnings calendar from FMP
 
-Creates a clean earnings event table:
-
 ```bash
 python scripts/03_fmp_earnings_calendar.py --ticker NVDA --start 2021-01-01 --end 2025-12-31
 ```
 
 ### 04 Download earnings call transcripts from FMP
-
-Downloads transcripts for earnings calls in range and saves them under `data/{TICKER}/transcripts/{YYYY-MM-DD}/`.
 
 ```bash
 python scripts/04_fmp_transcripts.py --ticker NVDA --start 2021-01-01 --end 2025-12-31
@@ -145,47 +188,23 @@ python scripts/04_fmp_transcripts.py --ticker NVDA --start 2021-01-01 --end 2025
 
 ### 05 Download stock news from FMP (optional)
 
-Fetches news items for a ticker on a single day:
-
 ```bash
 python scripts/05_fmp_news.py --ticker NVDA --date 2024-11-20
 ```
 
 ### 06 Download processed quarterly fundamentals from FMP (aligned)
 
-Fetches:
-
-* quarterly ratios
-* quarterly key metrics
-
-Then aligns them to the transcript event dates and writes:
-
-* `data/{TICKER}/financials/ratios_quarter.csv`
-* `data/{TICKER}/financials/key_metrics_quarter.csv`
-
 ```bash
 python scripts/06_fmp_financials.py --ticker NVDA --start 2021-01-01 --end 2025-12-31
 ```
 
-Useful options (if present in your current `06_fmp_financials.py -h`):
-
-* `--limit N` : cap rows fetched from endpoints (default in runner is 400)
-* `--refresh` : force re-fetch even if outputs exist
-* `--save-as-is` : save raw endpoint payloads “as is” in addition to the aligned tables
-
-Example:
-
-```bash
-python scripts/06_fmp_financials.py --ticker NVDA --start 2021-01-01 --end 2025-12-31 --limit 400 --save-as-is
-```
-
-**Important:** `06_fmp_financials.py` requires transcripts to exist first. If you run it before transcripts, it will error.
+> Important: `06_fmp_financials.py` requires transcripts to exist first.
 
 ---
 
-## End-to-end prep runner (10)
+## End-to-end raw prep runner (10)
 
-`scripts/10_ticker_prep_all.py` runs a full per-ticker pipeline:
+Runs:
 
 * 00 init dirs
 * 01 prices
@@ -194,53 +213,181 @@ python scripts/06_fmp_financials.py --ticker NVDA --start 2021-01-01 --end 2025-
 * 04 transcripts
 * 06 aligned quarterly fundamentals
 
-### Run for one ticker
-
 ```bash
 python scripts/10_ticker_prep_all.py --ticker NVDA --start 2021-01-01 --end 2025-12-31
 ```
 
-### Run for multiple tickers
+---
+
+## Event-level PEAD panel builder (21 → 26, orchestrated by 30)
+
+These scripts build PEAD-ready, close-only (adjusted close) event panels.
+
+### 21 Build event anchors
 
 ```bash
-python scripts/10_ticker_prep_all.py --tickers AAPL MSFT NVDA --start 2021-01-01 --end 2025-12-31
+python scripts/21_build_event_anchors.py --ticker NVDA
 ```
 
-### Run from a ticker file
-
-* CSV with a `ticker` column, OR
-* text file with one ticker per line (`#` comments allowed)
+### 22 Extract close-only event price path (adj_close only)
 
 ```bash
-python scripts/10_ticker_prep_all.py --tickers-file tickers.csv --start 2021-01-01 --end 2025-12-31
+python scripts/22_extract_event_price_path.py --ticker NVDA
 ```
 
-### Notes on runner behavior
-
-* The runner **auto-detects** which flags `06_fmp_financials.py` supports and will only forward compatible flags.
-* If financials are enabled, the runner forces transcripts/calendar steps because alignment depends on transcript event cadence.
-* By default, the runner performs a **hard alignment check** (last transcript date matches last row date in the aligned financial CSVs). You can disable it with:
+### 23 Compute minimal event returns (levels, $ deltas, % returns)
 
 ```bash
-python scripts/10_ticker_prep_all.py --no-align-check
+python scripts/23_compute_event_returns.py --ticker NVDA
+```
+
+### 24 Merge event returns with surprises + selected fundamentals
+
+```bash
+python scripts/24_merge_event_fundamentals.py --ticker NVDA
+```
+
+### 25 Download SPX close-only data (for abnormal returns)
+
+```bash
+python scripts/25_yf_download_spx.py --symbol ^GSPC --start 2021-01-01 --end 2025-12-31 --out-rel _tmp_market/spx/prices/yf_ohlcv_daily.csv
+```
+
+### 26 Compute market-adjusted abnormal returns
+
+```bash
+python scripts/26_compute_abnormal_returns.py --ticker NVDA
+```
+
+### 30 Orchestrator: build everything above for many tickers
+
+```bash
+python scripts/30_build_events_all.py --tickers AAPL MSFT NVDA
 ```
 
 ---
 
-## Helper modules
+## Visualization scripts (31 → 38) and runner (40)
 
-* `scripts/_common.py`
-  Shared utilities (IO helpers, HTTP helpers, timestamp helpers).
+Figures are saved to:
 
-* `scripts/_indicators.py`
-  Indicator functions used by `02_technicals.py`.
+* `data/{TICKER}/viz/` (ticker-level overview figures + matrices)
+* `data/{TICKER}/viz/events/` (per-event cards)
+
+### 31 — Event overview visuals (per ticker)
+
+Narrative-first figures (time ordered):
+
+* Price series with earnings markers
+* Average cumulative abnormal return curve (from PRE)
+* Average abnormal drift bars (from REACT)
+* Histogram of 20-day abnormal drift
+
+```bash
+python scripts/31_viz_event_overview.py --ticker AAPL
+```
+
+### 32 — Surprise vs drift (scatter)
+
+Scatterplots:
+
+* EPS surprise vs 20d abnormal drift
+* Revenue surprise vs 20d abnormal drift
+
+```bash
+python scripts/32_viz_surprise_vs_drift.py --ticker AAPL
+```
+
+### 33 — Surprise buckets (heatmaps)
+
+Heatmaps of mean abnormal returns by surprise buckets (when sample size permits):
+
+* Drift returns (REACT→+h)
+* Total cumulative abnormal returns (PRE→+h)
+
+```bash
+python scripts/33_viz_surprise_heatmaps.py --ticker AAPL
+```
+
+### 34 — Feature correlation + ranked CSV
+
+* Correlation scan vs target abnormal drift
+* Correlation heatmap (top correlated predictors)
+* Writes a ranked CSV used by later plots
+
+```bash
+python scripts/34_viz_feature_correlation.py --ticker AAPL
+```
+
+### 35 — Event “spaghetti” paths (each event is its own line)
+
+Event-ordered paths (no reordering):
+
+* Abnormal cumulative return from PRE across horizons
+* Abnormal drift from REACT across horizons
+
+```bash
+python scripts/35_viz_event_paths.py --ticker AAPL
+```
+
+### 36 — Per-event “cards” (one PNG per earnings event)
+
+Each earnings event gets its own figure containing:
+
+* Adj-close price path at anchors (PRE/REACT/+5/+10/+20)
+* Return heatmap (stock vs market vs abnormal) across windows
+* Text summary of anchors and key drift metrics
+
+```bash
+python scripts/36_viz_event_cards.py --ticker AAPL
+```
+
+Outputs:
+
+* `data/AAPL/viz/events/YYYY-MM-DD_event_card.png`
+
+### 37 — Event-by-event matrix heatmaps (each event is a row)
+
+“Scan views” in **date order**:
+
+* Abnormal totals from PRE (events × horizons)
+* Abnormal drift from REACT (events × horizons)
+* Surprises (events × surprise metrics)
+
+```bash
+python scripts/37_viz_event_matrix.py --ticker AAPL
+```
+
+### 38 — Top predictor timelines (z-scored, date ordered)
+
+Uses the ranked CSV from script 34 (if present) to plot the top predictors through time.
+
+```bash
+python scripts/38_viz_top_feature_timelines.py --ticker AAPL
+```
+
+---
+
+## 40 — Generate all figures for many tickers (recommended)
+
+Runs 31–38 (skips any missing viz scripts instead of crashing).
+
+```bash
+python scripts/40_make_figures_all.py --tickers AAPL MSFT NVDA
+```
+
+If you don’t want many per-event PNGs:
+
+```bash
+python scripts/40_make_figures_all.py --tickers AAPL MSFT NVDA --skip-event-cards
+```
 
 ---
 
 ## Notes on dates and time zone
 
 We treat U.S. equity market alignment in Eastern Time when building event-level datasets.
-Earnings timing (AMC vs BMO) matters for defining pre/post windows in downstream panels.
+Earnings timing (AMC vs BMO) matters for defining pre/post windows in the event anchors.
 
 ---
 
@@ -248,15 +395,13 @@ Earnings timing (AMC vs BMO) matters for defining pre/post windows in downstream
 
 ### Missing / invalid FMP key
 
-If you see “Missing FMP_API_KEY” or “Invalid API KEY”, confirm:
-
 ```bash
 echo $FMP_API_KEY
 ```
 
 ### `events/` is empty
 
-Normal until you run an event-panel builder downstream.
+Normal until you run `30_build_events_all.py` (or scripts 21–26 individually).
 
 ### `news/` is empty
 
@@ -270,3 +415,14 @@ Run transcripts first:
 python scripts/04_fmp_transcripts.py --ticker NFLX --start 2021-01-01 --end 2025-12-31
 python scripts/06_fmp_financials.py --ticker NFLX --start 2021-01-01 --end 2025-12-31
 ```
+
+### Abnormal returns fail because SPX is missing
+
+If you deleted the SPX cache and are running script 26 directly:
+
+```bash
+python scripts/25_yf_download_spx.py --symbol ^GSPC --start 2021-01-01 --end 2025-12-31 --out-rel _tmp_market/spx/prices/yf_ohlcv_daily.csv
+python scripts/26_compute_abnormal_returns.py --ticker NVDA
+```
+
+If you run `30_build_events_all.py`, SPX will be re-fetched automatically.
