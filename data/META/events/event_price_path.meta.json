@@ -1,0 +1,9 @@
+{
+  "ticker": "META",
+  "rows": 20,
+  "created_at_local": "2026-01-26T19:00:45.429784",
+  "notes": [
+    "Close-only: uses adj_close, no OHLC, no volume.",
+    "Anchor dates come from 21_build_event_anchors.py."
+  ]
+}

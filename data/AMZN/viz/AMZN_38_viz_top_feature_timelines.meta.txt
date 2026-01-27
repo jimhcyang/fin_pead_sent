@@ -1,0 +1,6 @@
+ticker=AMZN
+created_at=2026-01-26T19:01:25.715301-05:00
+panel=event_panel
+top_k=8
+target=abn_retpct_drift_20_vs_react
+features=['rt_assetTurnover', 'km_researchAndDdevelopementToRevenue', 'rt_grossProfitMargin', 'rt_receivablesTurnover', 'rt_daysOfSalesOutstanding', 'rt_inventoryTurnover', 'rt_daysOfPayablesOutstanding', 'rt_daysOfInventoryOutstanding']

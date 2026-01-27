@@ -1,0 +1,10 @@
+{
+  "ticker": "AAPL",
+  "rows": 20,
+  "created_at_local": "2026-01-26T19:00:42.399009",
+  "spx_source": "_tmp_market/spx/prices/yf_ohlcv_daily.csv",
+  "notes": [
+    "Close-only abnormal returns: simple returns (%) computed from adj_close.",
+    "Abnormal returns are computed as stock - market for the same anchor dates."
+  ]
+}

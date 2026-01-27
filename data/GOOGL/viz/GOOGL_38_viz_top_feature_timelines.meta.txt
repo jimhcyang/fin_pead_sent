@@ -1,0 +1,6 @@
+ticker=GOOGL
+created_at=2026-01-26T19:01:13.885120-05:00
+panel=event_panel
+top_k=8
+target=abn_retpct_drift_20_vs_react
+features=['rt_assetTurnover', 'km_researchAndDdevelopementToRevenue', 'rt_operatingCashFlowSalesRatio', 'km_roic', 'rt_returnOnCapitalEmployed', 'km_pocfratio', 'rt_priceToOperatingCashFlowsRatio', 'km_operatingCashFlowPerShare']

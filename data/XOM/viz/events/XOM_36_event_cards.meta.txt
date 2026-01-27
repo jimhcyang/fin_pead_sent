@@ -1,0 +1,5 @@
+ticker=XOM
+created_at=2026-01-26T19:01:56.865060-05:00
+panel=event_panel
+rows=20
+written=0

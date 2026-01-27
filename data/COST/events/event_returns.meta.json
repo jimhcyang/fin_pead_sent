@@ -1,0 +1,9 @@
+{
+  "ticker": "COST",
+  "rows": 20,
+  "created_at_local": "2026-01-26T19:01:00.422674",
+  "notes": [
+    "Minimal event-study outputs: price levels, $ deltas, and simple returns (%) only.",
+    "Drift returns (post-event) are measured vs react_date close (retpct_drift_*)."
+  ]
+}

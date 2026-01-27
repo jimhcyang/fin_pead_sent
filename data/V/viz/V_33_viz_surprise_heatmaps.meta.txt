@@ -1,0 +1,6 @@
+ticker=V
+created_at=2026-01-26T19:01:50.939325-05:00
+panel=event_panel
+rows=20
+deciles=10
+K=10

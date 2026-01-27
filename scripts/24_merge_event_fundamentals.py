@@ -225,7 +225,19 @@ def main() -> None:
         )
         out = _drop_symbol_cols(merged)
 
+    # ---- Fill-forward fundamentals to eliminate "pointless" missingness ----
+    # Quarterly fundamentals should behave like step functions between reports.
+    out["_earn_dt"] = pd.to_datetime(out["earnings_date"], errors="coerce")
+    out = out.sort_values("_earn_dt")
+
+    fund_cols = [c for c in out.columns if c.startswith(("km_", "rt_"))]
+    if fund_cols:
+        out[fund_cols] = out[fund_cols].apply(pd.to_numeric, errors="coerce").ffill()
+
+    out = out.drop(columns=["_earn_dt"])
+
     out_dir = data_dir / ticker / "events"
+
     ensure_dir(out_dir)
     out_csv = out_dir / f"{args.out_name}.csv"
     out.to_csv(out_csv, index=False)

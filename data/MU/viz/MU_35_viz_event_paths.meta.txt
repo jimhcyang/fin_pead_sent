@@ -1,0 +1,4 @@
+ticker=MU
+created_at=2026-01-26T19:02:11.652153-05:00
+panel=event_panel
+rows=21

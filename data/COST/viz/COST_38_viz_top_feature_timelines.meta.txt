@@ -1,0 +1,6 @@
+ticker=COST
+created_at=2026-01-26T19:02:17.042127-05:00
+panel=event_panel
+top_k=8
+target=abn_retpct_drift_20_vs_react
+features=['km_capexToRevenue', 'rt_netProfitMargin', 'rt_effectiveTaxRate', 'rt_ebitPerRevenue', 'rt_operatingProfitMargin', 'rt_grossProfitMargin', 'km_pbRatio', 'rt_priceFairValue']

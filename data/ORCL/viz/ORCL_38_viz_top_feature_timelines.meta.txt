@@ -1,0 +1,6 @@
+ticker=ORCL
+created_at=2026-01-26T19:02:05.199638-05:00
+panel=event_panel
+top_k=8
+target=abn_retpct_drift_20_vs_react
+features=['km_earningsYield', 'rt_netProfitMargin', 'rt_operatingProfitMargin', 'rt_ebitPerRevenue', 'rt_returnOnAssets', 'km_roic', 'rt_interestCoverage', 'km_evToSales']
