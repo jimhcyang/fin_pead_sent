@@ -10,6 +10,11 @@
     "limit": 400
   },
   "aligned_to": "transcripts",
-  "downloaded_at_et": "2026-01-23T20:01:38.554029-05:00",
-  "rows_saved": 20
+  "downloaded_at_et": "2026-01-28T18:55:53.257683-05:00",
+  "rows_saved": 20,
+  "events_raw_in_window": 20,
+  "events_saved": 20,
+  "expected": 20,
+  "trimmed_to_expected": false,
+  "trim_policy": null
 }

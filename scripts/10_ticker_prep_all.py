@@ -166,6 +166,9 @@ def main() -> None:
     ap.add_argument("--start", default="2021-01-01")
     ap.add_argument("--end", default="2025-12-31")
 
+    # Expected rows
+    ap.add_argument("--expected", type=int, default=20, help="Expected number of quarterly events (default 20).")
+
     # Storage
     ap.add_argument("--data-dir", default=None, help="Pass through to scripts if supported; default is repo_root/data.")
 
@@ -198,7 +201,22 @@ def main() -> None:
         help="Disable alignment checks (meta matched/events + last transcript date == last row date).",
     )
 
+    # Gap check integration
+    ap.add_argument("--skip-gap-check", action="store_true", help="Skip 07_check_data_gaps.py at the end.")
+    ap.add_argument(
+        "--gap-check-strict",
+        action="store_true",
+        help="If set, wrapper fails if 07 reports real failures (uses --strict).",
+    )
+    ap.add_argument(
+        "--gap-report",
+        default="outputs/07_data_gap_report.csv",
+        help="Output path for the 07 report (default outputs/07_data_gap_report.csv).",
+    )
+
     args = ap.parse_args()
+
+    expected = int(args.expected)
 
     # Resolve tickers
     tickers: list[str] = []
@@ -254,6 +272,7 @@ def main() -> None:
     print(f"[INFO] Data base: {data_base}", flush=True)
     print(f"[INFO] Tickers ({len(tickers)}): {tickers}", flush=True)
     print(f"[INFO] Range: {args.start} .. {args.end}", flush=True)
+    print(f"[INFO] expected={expected}", flush=True)
     print(
         f"[INFO] skip_technicals={args.skip_technicals} skip_fmp={args.skip_fmp} "
         f"skip_transcripts={args.skip_transcripts} skip_financials={args.skip_financials} "
@@ -287,13 +306,27 @@ def main() -> None:
             # 03 + 04 (forced if financials on)
             if will_run_fmp:
                 run(
-                    [py, "-u", str(scripts / "03_fmp_earnings_calendar.py"), "--ticker", tkr, "--start", args.start, "--end", args.end] + common,
+                    [
+                        py, "-u", str(scripts / "03_fmp_earnings_calendar.py"),
+                        "--ticker", tkr,
+                        "--start", args.start,
+                        "--end", args.end,
+                        "--expected", str(expected),
+                    ] + common,
                     cwd=root,
                 )
-                run(
-                    [py, "-u", str(scripts / "04_fmp_transcripts.py"), "--ticker", tkr, "--start", args.start, "--end", args.end] + common,
-                    cwd=root,
-                )
+
+                if not args.skip_transcripts or force_fmp_for_financials:
+                    run(
+                        [
+                            py, "-u", str(scripts / "04_fmp_transcripts.py"),
+                            "--ticker", tkr,
+                            "--start", args.start,
+                            "--end", args.end,
+                            "--expected", str(expected),
+                        ] + common,
+                        cwd=root,
+                    )
 
             if args.with_news and will_run_fmp:
                 print("[WARN] --with-news not bulk-fetched in this runner. Use 05_fmp_news.py separately.", flush=True)
@@ -388,6 +421,25 @@ def main() -> None:
             print(f"[ERROR] {tkr} failed: {e}", flush=True)
             if not args.continue_on_error:
                 raise
+
+    # Run gap check once at end (aggregated report)
+    if not args.skip_gap_check:
+        gap_script = scripts / "07_check_data_gaps.py"
+        out_report = (root / args.gap_report).resolve()
+        out_report.parent.mkdir(parents=True, exist_ok=True)
+
+        cmd = [
+            py, "-u", str(gap_script),
+            "--data-root", str(data_base),
+            "--expected", str(expected),
+            "--out", str(out_report),
+            "--tickers", *tickers,
+        ]
+        if args.gap_check_strict:
+            cmd.append("--strict")
+
+        print("\n=== [POST] 07_check_data_gaps ===", flush=True)
+        run(cmd, cwd=root)
 
     print("\n[OK] Prep complete.", flush=True)
 

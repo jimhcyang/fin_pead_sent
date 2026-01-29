@@ -1,6 +1,0 @@
-ticker=LLY
-created_at=2026-01-26T19:01:41.558734-05:00
-panel=event_panel
-top_k=8
-target=abn_retpct_drift_20_vs_react
-features=['km_freeCashFlowPerShare', 'km_capexToRevenue', 'km_cashPerShare', 'km_freeCashFlowYield', 'km_netDebtToEBITDA', 'rt_interestCoverage', 'km_enterpriseValueOverEBITDA', 'rt_enterpriseValueMultiple']

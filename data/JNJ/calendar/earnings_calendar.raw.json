@@ -3,11 +3,11 @@
     "date": "2026-04-21",
     "symbol": "JNJ",
     "eps": null,
-    "epsEstimated": 2.75,
+    "epsEstimated": 2.68,
     "time": "bmo",
     "revenue": null,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-01-23",
+    "updatedFromDate": "2026-01-28",
     "fiscalDateEnding": "2026-03-28"
   },
   {
@@ -18,7 +18,7 @@
     "time": "bmo",
     "revenue": 24564000000,
     "revenueEstimated": 24147989823,
-    "updatedFromDate": "2026-01-23",
+    "updatedFromDate": "2026-01-28",
     "fiscalDateEnding": "2025-12-28"
   },
   {

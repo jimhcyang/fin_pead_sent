@@ -1,9 +1,0 @@
-{
-  "ticker": "COST",
-  "rows": 20,
-  "created_at_local": "2026-01-26T19:01:00.205420",
-  "notes": [
-    "Close-only: uses adj_close, no OHLC, no volume.",
-    "Anchor dates come from 21_build_event_anchors.py."
-  ]
-}

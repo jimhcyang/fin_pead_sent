@@ -311,6 +311,7 @@ def main() -> None:
     ap.add_argument("--ticker", required=True)
     ap.add_argument("--start", default="2021-01-01")
     ap.add_argument("--end", default="2025-12-31")
+    ap.add_argument("--expected", type=int, default=20, help="Keep only the last N transcript events (default 20).")
     ap.add_argument("--data-dir", default=None)
     ap.add_argument("--limit", type=int, default=400)
     ap.add_argument("--refresh", action="store_true")
@@ -320,6 +321,7 @@ def main() -> None:
     ticker = args.ticker.upper().strip()
     start_d = _parse_yyyy_mm_dd(args.start)
     end_d = _parse_yyyy_mm_dd(args.end)
+    expected = int(args.expected)
 
     cfg = FMPConfig.from_env()
 
@@ -335,6 +337,13 @@ def main() -> None:
             f"No transcript events found under {transcripts_dir} in [{start_d}..{end_d}].\n"
             f"Run transcripts first (04_fmp_transcripts.py), then re-run this script."
         )
+
+    events_raw_in_window = int(events.shape[0])
+    trimmed = False
+    if events_raw_in_window > expected:
+        # sort oldest->newest and keep last N (prevents MU=21 bleed-through)
+        events = events.sort_values("earnings_date", ascending=True, kind="mergesort").tail(expected).reset_index(drop=True)
+        trimmed = True
 
     # ---- KEY FIX #2: fail fast if transcript events have missing keys ----
     bad = events[events["fiscalYear"].isna() | events["period"].isna()]
@@ -379,6 +388,11 @@ def main() -> None:
             "aligned_to": "transcripts",
             "downloaded_at_et": _now_et_iso(),
             "rows_saved": int(ratios_aligned.shape[0]),
+            "events_raw_in_window": events_raw_in_window,
+            "events_saved": int(events.shape[0]),
+            "expected": expected,
+            "trimmed_to_expected": trimmed,
+            "trim_policy": "sorted_by_earnings_date_take_last_expected" if trimmed else None,
         },
     )
     _write_json(
@@ -390,11 +404,16 @@ def main() -> None:
             "aligned_to": "transcripts",
             "downloaded_at_et": _now_et_iso(),
             "rows_saved": int(km_aligned.shape[0]),
+            "events_raw_in_window": events_raw_in_window,
+            "events_saved": int(events.shape[0]),
+            "expected": expected,
+            "trimmed_to_expected": trimmed,
+            "trim_policy": "sorted_by_earnings_date_take_last_expected" if trimmed else None,
         },
     )
 
     print(f"[OK] {ticker} financials aligned to transcripts:", flush=True)
-    print(f"     events (transcripts): {events.shape[0]}", flush=True)
+    print(f"     events (transcripts): {events.shape[0]} (raw_in_window={events_raw_in_window} expected={expected} trimmed={trimmed})", flush=True)
     print(f"     ratios_quarter.csv      rows={ratios_aligned.shape[0]}  matched={ratios_meta['matched']}", flush=True)
     print(f"     key_metrics_quarter.csv rows={km_aligned.shape[0]}  matched={km_meta['matched']}", flush=True)
     print(f"[OK] wrote -> {fin_dir}", flush=True)

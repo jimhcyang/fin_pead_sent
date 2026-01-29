@@ -7,18 +7,18 @@
     "time": "bmo",
     "revenue": null,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-01-24",
+    "updatedFromDate": "2026-01-28",
     "fiscalDateEnding": "2026-03-30"
   },
   {
     "date": "2026-01-29",
     "symbol": "MA",
     "eps": null,
-    "epsEstimated": 4.21,
+    "epsEstimated": 4.2,
     "time": "bmo",
     "revenue": null,
-    "revenueEstimated": 8784830310,
-    "updatedFromDate": "2026-01-24",
+    "revenueEstimated": 8779963760,
+    "updatedFromDate": "2026-01-28",
     "fiscalDateEnding": "2025-12-30"
   },
   {
@@ -29,7 +29,7 @@
     "time": "bmo",
     "revenue": 8602000000,
     "revenueEstimated": 8534549338,
-    "updatedFromDate": "2026-01-24",
+    "updatedFromDate": "2026-01-28",
     "fiscalDateEnding": "2025-09-30"
   },
   {

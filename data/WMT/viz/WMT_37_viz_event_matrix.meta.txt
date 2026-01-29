@@ -1,4 +1,0 @@
-ticker=WMT
-created_at=2026-01-26T19:01:44.659230-05:00
-panel=event_panel
-rows=18

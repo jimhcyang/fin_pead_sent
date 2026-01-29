@@ -1,6 +1,0 @@
-ticker=AMD
-created_at=2026-01-26T19:02:20.981663-05:00
-panel=event_panel
-top_k=8
-target=abn_retpct_drift_20_vs_react
-features=['km_revenuePerShare', 'rt_grossProfitMargin', 'km_marketCap', 'km_enterpriseValue', 'km_operatingCashFlowPerShare', 'km_freeCashFlowPerShare', 'rt_operatingProfitMargin', 'rt_ebitPerRevenue']

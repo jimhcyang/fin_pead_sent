@@ -3,7 +3,11 @@
   "source": "FMP legacy endpoint: /api/v3/historical/earning_calendar/{symbol}",
   "start": "2021-01-01",
   "end": "2025-12-31",
-  "downloaded_at_et": "2026-01-23T19:59:42.802840-05:00",
-  "rows": 20,
+  "downloaded_at_et": "2026-01-28T18:54:08.207170-05:00",
+  "rows_raw_in_window": 20,
+  "rows_saved": 20,
+  "expected": 20,
+  "trimmed_to_expected": false,
+  "trim_policy": null,
   "notes": "announce_timing is typically 'amc' or 'bmo'; ET placeholder is for ordering only."
 }

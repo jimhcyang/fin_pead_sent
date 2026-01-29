@@ -1,9 +1,0 @@
-{
-  "ticker": "JNJ",
-  "rows": 20,
-  "created_at_local": "2026-01-26T19:00:55.482161",
-  "notes": [
-    "Minimal event-study outputs: price levels, $ deltas, and simple returns (%) only.",
-    "Drift returns (post-event) are measured vs react_date close (retpct_drift_*)."
-  ]
-}

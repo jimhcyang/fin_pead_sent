@@ -1,5 +1,0 @@
-ticker=AMD
-created_at=2026-01-26T19:02:20.516459-05:00
-panel=event_panel
-rows=20
-written=0

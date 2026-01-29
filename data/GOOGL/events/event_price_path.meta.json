@@ -1,9 +1,0 @@
-{
-  "ticker": "GOOGL",
-  "rows": 20,
-  "created_at_local": "2026-01-26T19:00:40.519119",
-  "notes": [
-    "Close-only: uses adj_close, no OHLC, no volume.",
-    "Anchor dates come from 21_build_event_anchors.py."
-  ]
-}

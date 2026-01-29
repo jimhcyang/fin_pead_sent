@@ -7,18 +7,18 @@
     "time": "amc",
     "revenue": null,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-01-23",
+    "updatedFromDate": "2026-01-28",
     "fiscalDateEnding": "2026-03-30"
   },
   {
     "date": "2026-01-28",
     "symbol": "MSFT",
     "eps": null,
-    "epsEstimated": 3.86,
+    "epsEstimated": 3.88,
     "time": "amc",
     "revenue": null,
-    "revenueEstimated": 80278428000,
-    "updatedFromDate": "2026-01-23",
+    "revenueEstimated": 80279321740,
+    "updatedFromDate": "2026-01-28",
     "fiscalDateEnding": "2025-12-30"
   },
   {
@@ -29,7 +29,7 @@
     "time": "amc",
     "revenue": 77673000000,
     "revenueEstimated": 75494678452,
-    "updatedFromDate": "2026-01-23",
+    "updatedFromDate": "2026-01-28",
     "fiscalDateEnding": "2025-09-30"
   },
   {

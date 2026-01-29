@@ -96,6 +96,7 @@ def main() -> None:
     ap.add_argument("--ticker", required=True)
     ap.add_argument("--start", default="2021-01-01")
     ap.add_argument("--end", default="2025-12-31")
+    ap.add_argument("--expected", type=int, default=20, help="Keep only the last N events (default 20).")
     ap.add_argument("--data-dir", default=None, help="Default: repo_root/data")
 
     args = ap.parse_args()
@@ -103,6 +104,7 @@ def main() -> None:
     ticker = args.ticker.upper()
     start_d = _parse_yyyy_mm_dd(args.start)
     end_d = _parse_yyyy_mm_dd(args.end)
+    expected = int(args.expected)
 
     cfg = FMPConfig.from_env()
 
@@ -112,7 +114,7 @@ def main() -> None:
 
     raw = fetch_company_earning_calendar(cfg, ticker)
 
-    # Save raw
+    # Save raw (as returned)
     raw_path = out_dir / "earnings_calendar.raw.json"
     raw_path.write_text(json.dumps(raw, indent=2), encoding="utf-8")
 
@@ -173,7 +175,21 @@ def main() -> None:
         "revenue_actual",
         "event_datetime_et_placeholder",
     ]
-    df_out = df[out_cols].sort_values(["earnings_date", "event_datetime_et_placeholder"], ascending=True)
+
+    # Sort oldest -> newest, then keep last N (prevents MU=21)
+    df_out = df[out_cols].sort_values(
+        ["earnings_date", "event_datetime_et_placeholder"],
+        ascending=True,
+        kind="mergesort",
+    )
+
+    rows_raw_in_window = int(df_out.shape[0])
+    trimmed = False
+    if rows_raw_in_window > expected:
+        df_out = df_out.tail(expected).copy()
+        trimmed = True
+
+    df_out = df_out.reset_index(drop=True)
 
     csv_path = out_dir / "earnings_calendar.csv"
     df_out.to_csv(csv_path, index=False)
@@ -184,7 +200,11 @@ def main() -> None:
         "start": str(start_d),
         "end": str(end_d),
         "downloaded_at_et": datetime.now(ET).isoformat() if ET else datetime.utcnow().isoformat() + "Z",
-        "rows": int(df_out.shape[0]),
+        "rows_raw_in_window": rows_raw_in_window,
+        "rows_saved": int(df_out.shape[0]),
+        "expected": expected,
+        "trimmed_to_expected": trimmed,
+        "trim_policy": "sorted_by_earnings_date_take_last_expected" if trimmed else None,
         "notes": "announce_timing is typically 'amc' or 'bmo'; ET placeholder is for ordering only.",
     }
     meta_path = out_dir / "earnings_calendar.meta.json"
