@@ -1,43 +1,32 @@
+# scripts/10_ticker_prep_all.py
 #!/usr/bin/env python3
 from __future__ import annotations
 
 import argparse
 import csv
-import json
 import os
-import re
 import subprocess
 import sys
 import time
 from datetime import datetime, date
 from pathlib import Path
+from typing import List, Optional, Tuple
 
-
-DEFAULT_20 = [
-    "NVDA", "GOOGL", "AAPL", "MSFT", "AMZN",
-    "META", "AVGO", "TSLA", "LLY", "WMT",
-    "JPM", "V", "XOM", "JNJ", "ORCL",
-    "MA", "MU", "COST", "AMD", "PLTR",
-]
-
-DATE_DIR_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+from _common import DEFAULT_20
 
 
 def repo_root() -> Path:
     return Path(__file__).resolve().parents[1]
 
 
-def run(cmd: list[str], cwd: Path) -> None:
+def run(cmd: List[str], cwd: Path) -> None:
     print("[RUN]", " ".join(cmd), flush=True)
-    subprocess.check_call(cmd, cwd=str(cwd))
+    r = subprocess.run(cmd, cwd=str(cwd))
+    if r.returncode != 0:
+        raise RuntimeError(f"Command failed (exit={r.returncode}): {' '.join(cmd)}")
 
 
 def read_tickers_file(path: Path) -> list[str]:
-    """
-    Accepts either:
-      - CSV with a 'ticker' column
-      - or plain text file with one ticker per line (comments allowed with #)
-    """
     if not path.exists():
         raise FileNotFoundError(path)
 
@@ -46,11 +35,7 @@ def read_tickers_file(path: Path) -> list[str]:
             reader = csv.DictReader(f)
             if not reader.fieldnames:
                 raise ValueError(f"{path} is empty.")
-            ticker_col = None
-            for c in reader.fieldnames:
-                if c.strip().lower() == "ticker":
-                    ticker_col = c
-                    break
+            ticker_col = next((c for c in reader.fieldnames if c.strip().lower() == "ticker"), None)
             if ticker_col is None:
                 raise ValueError(f"{path} has no 'ticker' column.")
             out: list[str] = []
@@ -74,151 +59,127 @@ def clean_tickers(tickers: list[str]) -> list[str]:
     seen: set[str] = set()
     for t in tickers:
         tt = t.strip().upper()
-        if not tt:
-            continue
-        if tt not in seen:
+        if tt and tt not in seen:
             out.append(tt)
             seen.add(tt)
     return out
 
 
-def _parse_yyyy_mm_dd(s: str) -> date:
-    return datetime.strptime(s, "%Y-%m-%d").date()
-
-
-def _data_base(root: Path, data_dir: str | None) -> Path:
-    if data_dir:
-        p = Path(data_dir)
-        return (p if p.is_absolute() else (root / p)).resolve()
-    return (root / "data").resolve()
-
-
-def _latest_transcript_date(transcripts_dir: Path) -> date:
-    if not transcripts_dir.exists():
-        raise FileNotFoundError(f"Missing transcripts dir: {transcripts_dir}")
-    dates: list[date] = []
-    for child in transcripts_dir.iterdir():
-        if child.is_dir() and DATE_DIR_RE.match(child.name):
-            dates.append(_parse_yyyy_mm_dd(child.name))
-    if not dates:
-        raise RuntimeError(f"No transcript date folders found under: {transcripts_dir}")
-    return max(dates)
-
-
-def _last_csv_date(csv_path: Path, candidates: tuple[str, ...] = ("earnings_date", "date")) -> date:
-    if not csv_path.exists():
-        raise FileNotFoundError(f"Missing CSV: {csv_path}")
-
-    with csv_path.open("r", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        if not reader.fieldnames:
-            raise ValueError(f"Empty CSV: {csv_path}")
-
-        cols = [c.strip() for c in reader.fieldnames]
-        col = next((c for c in candidates if c in cols), None)
-        if col is None:
-            raise ValueError(f"CSV has none of columns {candidates}: {csv_path} (cols={cols})")
-
-        last: date | None = None
-        for row in reader:
-            ds = (row.get(col) or "").strip()
-            if not ds:
-                continue
-            last = _parse_yyyy_mm_dd(ds)
-
-    if last is None:
-        raise ValueError(f"No valid dates found in column {col}: {csv_path}")
-    return last
-
-
-def _help_text(py: str, script_path: Path, cwd: Path) -> str:
+def _parse_iso_date(s: str) -> Optional[date]:
+    s = (s or "").strip()
+    if not s:
+        return None
     try:
-        out = subprocess.check_output(
-            [py, str(script_path), "-h"],
-            cwd=str(cwd),
-            text=True,
-            stderr=subprocess.STDOUT,
-        )
-        return out or ""
+        # accepts YYYY-MM-DD
+        return datetime.fromisoformat(s).date()
     except Exception:
-        return ""
+        return None
 
 
-def _read_json(path: Path) -> dict:
-    if not path.exists():
-        raise FileNotFoundError(f"Missing JSON: {path}")
-    return json.loads(path.read_text(encoding="utf-8"))
+def calendar_cutoff_and_count(cal_csv: Path, ticker: str) -> Tuple[Optional[str], int]:
+    """
+    Returns:
+      (max_earnings_date_iso, n_rows_for_ticker)
+    If csv missing/unreadable/empty => (None, 0)
+    """
+    if not cal_csv.exists():
+        return None, 0
+
+    try:
+        with cal_csv.open("r", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            if not reader.fieldnames:
+                return None, 0
+
+            # choose date column
+            cols = {c.strip(): c for c in reader.fieldnames}
+            if "earnings_date" in cols:
+                date_col = cols["earnings_date"]
+            elif "date" in cols:
+                date_col = cols["date"]
+            else:
+                return None, 0
+
+            tkr_col = cols.get("ticker", None)
+
+            max_d: Optional[date] = None
+            n = 0
+            for row in reader:
+                if tkr_col:
+                    rt = (row.get(tkr_col) or "").strip().upper()
+                    if rt and rt != ticker:
+                        continue
+
+                d = _parse_iso_date(row.get(date_col, ""))
+                if d is None:
+                    continue
+                n += 1
+                if max_d is None or d > max_d:
+                    max_d = d
+
+            if max_d is None:
+                return None, 0
+            return max_d.isoformat(), n
+
+    except Exception:
+        return None, 0
 
 
 def main() -> None:
     ap = argparse.ArgumentParser(
-        description="Prepare per-ticker data: YF prices + technicals + FMP earnings calendar + transcripts + aligned financials."
+        description="Prep per-ticker data: init dirs, Yahoo prices+technicals, FMP calendar+transcripts+financials, and FMP STABLE statements/estimates."
     )
 
-    # Single ticker (legacy)
-    ap.add_argument("--ticker", default=None, help="Single ticker (legacy mode). Example: --ticker NVDA")
+    # tickers
+    ap.add_argument("--ticker", default=None)
+    ap.add_argument("--tickers", nargs="*", default=None)
+    ap.add_argument("--tickers-file", default=None)
+    ap.add_argument("--max-tickers", type=int, default=None)
 
-    # Batch
-    ap.add_argument("--tickers", nargs="*", default=None, help="Space-separated tickers. Example: --tickers AAPL MSFT NVDA")
-    ap.add_argument("--tickers-file", default=None, help="CSV(with ticker col) or txt file (one per line).")
-
-    # Date range
+    # window + expected count (earnings events)
     ap.add_argument("--start", default="2021-01-01")
     ap.add_argument("--end", default="2025-12-31")
+    ap.add_argument("--expected", type=int, default=20)
 
-    # Expected rows
-    ap.add_argument("--expected", type=int, default=20, help="Expected number of quarterly events (default 20).")
+    # storage
+    ap.add_argument("--data-dir", default="data")
 
-    # Storage
-    ap.add_argument("--data-dir", default=None, help="Pass through to scripts if supported; default is repo_root/data.")
+    # throttling
+    ap.add_argument("--sleep", type=float, default=0.25)
 
-    # Controls
-    ap.add_argument("--skip-technicals", action="store_true", help="Skip 02_technicals.py")
-    ap.add_argument("--skip-fmp", action="store_true", help="Skip FMP steps (03 calendar + 04 transcripts).")
-    ap.add_argument("--skip-transcripts", action="store_true", help="Skip 04_fmp_transcripts.py (still runs 03).")
+    # skips
+    ap.add_argument("--skip_yf", action="store_true", help="Skip Yahoo prices + technicals.")
+    ap.add_argument("--skip_technicals", action="store_true")
+    ap.add_argument("--skip_fmp", action="store_true", help="Skip legacy FMP: calendar/transcripts/financials/news.")
+    ap.add_argument("--skip_transcripts", action="store_true")
+    ap.add_argument("--skip_financials", action="store_true")
+    ap.add_argument("--with_news", action="store_true")
+    ap.add_argument("--skip_stable", action="store_true", help="Skip STABLE endpoints (script 08).")
 
-    # Financials
-    ap.add_argument("--skip-financials", action="store_true", help="Skip 06_fmp_financials.py")
-    ap.add_argument("--financials-limit", type=int, default=400, help="Row limit for financials endpoints.")
+    # stable controls
+    ap.add_argument("--stable-tail-n", type=int, default=20)
+    ap.add_argument("--stable-align-window-days", type=int, default=14)
+    ap.add_argument("--stable-stmt-period", choices=["quarter", "annual"], default="quarter")
+    ap.add_argument("--stable-est-period", choices=["quarter", "annual"], default="quarter")
+    ap.add_argument("--stable-stmt-limit", type=int, default=400)
+    ap.add_argument("--stable-est-limit", type=int, default=100)
 
-    # Keep these for future compatibility, but we only pass them if 06 supports them.
-    # NOTE: your latest 06 script does NOT define --period / --with-statements, so these will be auto-ignored.
-    ap.add_argument("--financials-period", choices=["quarter", "annual"], default="quarter", help="(Only used if 06 supports --period).")
-    ap.add_argument("--with-statements", action="store_true", help="(Only used if 06 supports --with-statements).")
-    ap.add_argument("--save-as-is", action="store_true", help="(Only used if 06 supports --save-as-is).")
-
-    # News optional
-    ap.add_argument("--with-news", action="store_true", help="Also fetch news (not recommended for bulk). Off by default.")
-    ap.add_argument("--sleep", type=float, default=0.25, help="Sleep seconds between tickers.")
-
-    ap.add_argument("--continue-on-error", action="store_true", help="Keep going if one ticker fails.")
-    ap.add_argument("--max-tickers", type=int, default=None, help="Optional cap for quick testing.")
-
-    # Sanity checks
+    # NEW: stable cutoff derived from earnings_calendar.csv max date
     ap.add_argument(
-        "--no-align-check",
+        "--stable-cutoff-from-calendar",
         action="store_true",
-        help="Disable alignment checks (meta matched/events + last transcript date == last row date).",
+        default=True,
+        help="Use max(earnings_date) in data/{TICKER}/calendar/earnings_calendar.csv as cutoff for STABLE (fixes off-by-one). Default: True.",
     )
 
-    # Gap check integration
-    ap.add_argument("--skip-gap-check", action="store_true", help="Skip 07_check_data_gaps.py at the end.")
-    ap.add_argument(
-        "--gap-check-strict",
-        action="store_true",
-        help="If set, wrapper fails if 07 reports real failures (uses --strict).",
-    )
-    ap.add_argument(
-        "--gap-report",
-        default="outputs/07_data_gap_report.csv",
-        help="Output path for the 07 report (default outputs/07_data_gap_report.csv).",
-    )
+    # post checks
+    ap.add_argument("--skip_gap_check", action="store_true")
+    ap.add_argument("--gap_report", default="outputs/07_data_gap_report.csv")
+    ap.add_argument("--continue_on_error", action="store_true")
 
     args = ap.parse_args()
 
-    expected = int(args.expected)
-
-    # Resolve tickers
+    # ---- resolve tickers ----
     tickers: list[str] = []
     if args.ticker:
         tickers = [args.ticker]
@@ -234,212 +195,207 @@ def main() -> None:
     if args.max_tickers is not None:
         tickers = tickers[: args.max_tickers]
 
+    # ---- env requirement ----
+    needs_fmp = (not args.skip_fmp) or (not args.skip_stable)
+    if needs_fmp and not os.getenv("FMP_API_KEY"):
+        raise RuntimeError("FMP_API_KEY not set. Example:\n  export FMP_API_KEY='...'\n")
+
     root = repo_root()
     scripts = root / "scripts"
     py = sys.executable
-    data_base = _data_base(root, args.data_dir)
 
-    common: list[str] = []
-    if args.data_dir:
-        common += ["--data-dir", args.data_dir]
-
-    # If financials ON, FORCE transcripts/calendar (alignment depends on transcript events)
-    force_fmp_for_financials = not args.skip_financials
-    if force_fmp_for_financials and (args.skip_fmp or args.skip_transcripts):
-        print(
-            "[WARN] Financials alignment requires calendar+transcripts. "
-            "Overriding --skip-fmp/--skip-transcripts for this run.",
-            flush=True,
-        )
-
-    # Will we run any FMP step?
-    will_run_fmp = (not args.skip_fmp) or force_fmp_for_financials
-
-    if will_run_fmp and not os.getenv("FMP_API_KEY"):
-        raise RuntimeError(
-            "FMP_API_KEY not set. Do: export FMP_API_KEY='...'\n"
-            "(Or run with --skip-fmp and --skip-financials)"
-        )
-
-    # Detect supported flags for 06 once
-    fin_script = scripts / "06_fmp_financials.py"
-    fin_help = _help_text(py, fin_script, root)
-    fin_supports_period = "--period" in fin_help
-    fin_supports_statements = "--with-statements" in fin_help
-    fin_supports_save_as_is = "--save-as-is" in fin_help
-
-    print(f"[INFO] Repo root: {root}", flush=True)
-    print(f"[INFO] Data base: {data_base}", flush=True)
-    print(f"[INFO] Tickers ({len(tickers)}): {tickers}", flush=True)
-    print(f"[INFO] Range: {args.start} .. {args.end}", flush=True)
-    print(f"[INFO] expected={expected}", flush=True)
     print(
-        f"[INFO] skip_technicals={args.skip_technicals} skip_fmp={args.skip_fmp} "
-        f"skip_transcripts={args.skip_transcripts} skip_financials={args.skip_financials} "
-        f"financials_limit={args.financials_limit} align_check={not args.no_align_check}",
-        flush=True,
-    )
-    print(
-        "[INFO] 06_fmp_financials.py supports:"
-        f" --period={fin_supports_period}"
-        f" --with-statements={fin_supports_statements}"
-        f" --save-as-is={fin_supports_save_as_is}",
+        f"[CONFIG] DATA_DIR={args.data_dir} range={args.start}..{args.end} tickers={tickers} "
+        f"skip_yf={args.skip_yf} skip_fmp={args.skip_fmp} skip_transcripts={args.skip_transcripts} "
+        f"skip_financials={args.skip_financials} skip_stable={args.skip_stable} with_news={args.with_news} "
+        f"sleep={args.sleep}",
         flush=True,
     )
 
-    for idx, tkr in enumerate(tickers, start=1):
-        print(f"\n=== [{idx}/{len(tickers)}] {tkr} ===", flush=True)
+    common_data_dir = ["--data-dir", args.data_dir]
+
+    for i, tkr in enumerate(tickers, start=1):
+        tkr = tkr.upper()
+        print(f"\n=== [{i}/{len(tickers)}] {tkr} ===", flush=True)
+
         try:
             # 00 init
-            run([py, "-u", str(scripts / "00_init_ticker_dirs.py"), "--ticker", tkr] + common, cwd=root)
+            run([py, "-u", str(scripts / "00_init_ticker_dirs.py"), "--ticker", tkr] + common_data_dir, cwd=root)
 
-            # 01 prices
-            run(
-                [py, "-u", str(scripts / "01_yf_prices.py"), "--ticker", tkr, "--start", args.start, "--end", args.end] + common,
-                cwd=root,
-            )
-
-            # 02 technicals
-            if not args.skip_technicals:
-                run([py, "-u", str(scripts / "02_technicals.py"), "--ticker", tkr] + common, cwd=root)
-
-            # 03 + 04 (forced if financials on)
-            if will_run_fmp:
+            # 01 prices (uses --outdir)
+            if not args.skip_yf:
                 run(
                     [
-                        py, "-u", str(scripts / "03_fmp_earnings_calendar.py"),
-                        "--ticker", tkr,
-                        "--start", args.start,
-                        "--end", args.end,
-                        "--expected", str(expected),
-                    ] + common,
+                        py,
+                        "-u",
+                        str(scripts / "01_yf_prices.py"),
+                        "--ticker",
+                        tkr,
+                        "--start",
+                        args.start,
+                        "--end",
+                        args.end,
+                        "--outdir",
+                        args.data_dir,
+                    ],
                     cwd=root,
                 )
 
-                if not args.skip_transcripts or force_fmp_for_financials:
+            # 02 technicals
+            if not args.skip_yf and not args.skip_technicals:
+                run([py, "-u", str(scripts / "02_technicals.py"), "--ticker", tkr] + common_data_dir, cwd=root)
+
+            # Legacy FMP: 03/04/06/05
+            cal_csv: Optional[Path] = None
+            cal_cutoff: Optional[str] = None
+            cal_n: int = 0
+
+            if not args.skip_fmp:
+                run(
+                    [
+                        py,
+                        "-u",
+                        str(scripts / "03_fmp_earnings_calendar.py"),
+                        "--ticker",
+                        tkr,
+                        "--start",
+                        args.start,
+                        "--end",
+                        args.end,
+                        "--expected",
+                        str(int(args.expected)),
+                    ]
+                    + common_data_dir,
+                    cwd=root,
+                )
+
+                # locate calendar file + compute cutoff (max earnings_date)
+                cal_csv = Path(args.data_dir) / tkr / "calendar" / "earnings_calendar.csv"
+                cal_cutoff, cal_n = calendar_cutoff_and_count(cal_csv, tkr)
+
+                if not args.skip_transcripts:
                     run(
                         [
-                            py, "-u", str(scripts / "04_fmp_transcripts.py"),
-                            "--ticker", tkr,
-                            "--start", args.start,
-                            "--end", args.end,
-                            "--expected", str(expected),
-                        ] + common,
+                            py,
+                            "-u",
+                            str(scripts / "04_fmp_transcripts.py"),
+                            "--ticker",
+                            tkr,
+                            "--start",
+                            args.start,
+                            "--end",
+                            args.end,
+                            "--expected",
+                            str(int(args.expected)),
+                        ]
+                        + common_data_dir,
                         cwd=root,
                     )
 
-            if args.with_news and will_run_fmp:
-                print("[WARN] --with-news not bulk-fetched in this runner. Use 05_fmp_news.py separately.", flush=True)
-
-            # 06 financials
-            if not args.skip_financials:
-                cmd = [
-                    py, "-u", str(fin_script),
-                    "--ticker", tkr,
-                    "--start", args.start,
-                    "--end", args.end,
-                    "--limit", str(args.financials_limit),
-                ] + common
-
-                # Only pass optional flags if 06 supports them
-                if args.financials_period != "quarter" and not fin_supports_period:
-                    print(f"[WARN] 06 does not support --period; ignoring --financials-period {args.financials_period}", flush=True)
-                if fin_supports_period:
-                    cmd += ["--period", args.financials_period]
-
-                if args.with_statements and not fin_supports_statements:
-                    print("[WARN] 06 does not support --with-statements; ignoring --with-statements", flush=True)
-                if args.with_statements and fin_supports_statements:
-                    cmd += ["--with-statements"]
-
-                if args.save_as_is and not fin_supports_save_as_is:
-                    print("[WARN] 06 does not support --save-as-is; ignoring --save-as-is", flush=True)
-                if args.save_as_is and fin_supports_save_as_is:
-                    cmd += ["--save-as-is"]
-
-                run(cmd, cwd=root)
-
-                # Alignment checks (IMPROVED)
-                if not args.no_align_check:
-                    transcripts_dir = data_base / tkr / "transcripts"
-                    fin_dir = data_base / tkr / "financials"
-
-                    km_csv = fin_dir / "key_metrics_quarter.csv"
-                    ra_csv = fin_dir / "ratios_quarter.csv"
-
-                    km_meta_p = fin_dir / "key_metrics_quarter.meta.json"
-                    ra_meta_p = fin_dir / "ratios_quarter.meta.json"
-
-                    # 1) Meta-based check (catches "all-NaN" failures even if dates look OK)
-                    km_meta = _read_json(km_meta_p)
-                    ra_meta = _read_json(ra_meta_p)
-
-                    km_events = int(km_meta.get("events", 0) or 0)
-                    ra_events = int(ra_meta.get("events", 0) or 0)
-                    km_matched = int(km_meta.get("matched", 0) or 0)
-                    ra_matched = int(ra_meta.get("matched", 0) or 0)
-
-                    if km_events <= 0 or ra_events <= 0:
-                        raise RuntimeError(f"[ALIGNMENT FAIL] {tkr}: meta events missing/zero (km_events={km_events}, ra_events={ra_events}).")
-
-                    if km_matched != km_events or ra_matched != ra_events:
-                        raise RuntimeError(
-                            f"[ALIGNMENT FAIL] {tkr}: matched != events "
-                            f"(key_metrics matched={km_matched}/{km_events}, ratios matched={ra_matched}/{ra_events})."
-                        )
-
-                    if int(km_meta.get("missing_keys_in_events", 0) or 0) > 0 or int(ra_meta.get("missing_keys_in_events", 0) or 0) > 0:
-                        raise RuntimeError(
-                            f"[ALIGNMENT FAIL] {tkr}: missing fiscalYear/period in transcript events "
-                            f"(km_missing_keys={km_meta.get('missing_keys_in_events')}, ra_missing_keys={ra_meta.get('missing_keys_in_events')})."
-                        )
-
-                    # 2) Date-based check (kept; useful sanity check)
-                    t_last = _latest_transcript_date(transcripts_dir)
-                    km_last = _last_csv_date(km_csv, candidates=("earnings_date", "date"))
-                    ra_last = _last_csv_date(ra_csv, candidates=("earnings_date", "date"))
-
-                    if km_last != t_last or ra_last != t_last:
-                        raise RuntimeError(
-                            f"[ALIGNMENT FAIL] {tkr}: last transcript date={t_last} "
-                            f"but key_metrics last date={km_last}, ratios last date={ra_last}."
-                        )
-
-                    print(
-                        f"[CHECK] Alignment OK: {tkr} events={km_events} matched={km_matched} last_date={t_last}",
-                        flush=True,
+                if not args.skip_financials:
+                    run(
+                        [
+                            py,
+                            "-u",
+                            str(scripts / "06_fmp_financials.py"),
+                            "--ticker",
+                            tkr,
+                            "--start",
+                            args.start,
+                            "--end",
+                            args.end,
+                            "--expected",
+                            str(int(args.expected)),
+                            "--limit",
+                            "400",
+                        ]
+                        + common_data_dir,
+                        cwd=root,
                     )
 
+                if args.with_news:
+                    run(
+                        [
+                            py,
+                            "-u",
+                            str(scripts / "05_fmp_news.py"),
+                            "--ticker",
+                            tkr,
+                            "--start",
+                            args.start,
+                            "--end",
+                            args.end,
+                        ]
+                        + common_data_dir,
+                        cwd=root,
+                    )
+
+            # STABLE: 08 (tail-N aligned), cutoff from earnings_calendar max date
+            if not args.skip_stable:
+                stable_cutoff_end = args.end
+                stable_tail_n = int(args.stable_tail_n)
+
+                if args.stable_cutoff_from_calendar and cal_cutoff:
+                    stable_cutoff_end = cal_cutoff
+                    # keep row counts aligned with calendar if calendar is shorter
+                    if cal_n > 0:
+                        stable_tail_n = min(stable_tail_n, cal_n)
+
+                run(
+                    [
+                        py,
+                        "-u",
+                        str(scripts / "08_fmp_stable_income_and_estimates.py"),
+                        "--tickers",
+                        tkr,
+                        "--data-dir",
+                        args.data_dir,
+                        "--sleep",
+                        str(float(args.sleep)),
+                        "--stmt-period",
+                        args.stable_stmt_period,
+                        "--stmt-limit",
+                        str(int(args.stable_stmt_limit)),
+                        "--est-period",
+                        args.stable_est_period,
+                        "--est-limit",
+                        str(int(args.stable_est_limit)),
+                        "--tail-n",
+                        str(int(stable_tail_n)),
+                        "--cutoff-end",
+                        stable_cutoff_end,
+                        "--align-window-days",
+                        str(int(args.stable_align_window_days)),
+                    ],
+                    cwd=root,
+                )
+
             print(f"[OK] Done: {tkr}", flush=True)
-            time.sleep(args.sleep)
+            time.sleep(float(args.sleep))
 
-        except subprocess.CalledProcessError as e:
-            print(f"[ERROR] {tkr} failed with exit code {e.returncode}", flush=True)
-            if not args.continue_on_error:
-                raise
         except Exception as e:
-            print(f"[ERROR] {tkr} failed: {e}", flush=True)
+            print(f"[ERR] {tkr}: {e}", flush=True)
             if not args.continue_on_error:
                 raise
 
-    # Run gap check once at end (aggregated report)
+    # Gap check once at end
     if not args.skip_gap_check:
-        gap_script = scripts / "07_check_data_gaps.py"
-        out_report = (root / args.gap_report).resolve()
-        out_report.parent.mkdir(parents=True, exist_ok=True)
-
-        cmd = [
-            py, "-u", str(gap_script),
-            "--data-root", str(data_base),
-            "--expected", str(expected),
-            "--out", str(out_report),
-            "--tickers", *tickers,
-        ]
-        if args.gap_check_strict:
-            cmd.append("--strict")
-
-        print("\n=== [POST] 07_check_data_gaps ===", flush=True)
-        run(cmd, cwd=root)
+        run(
+            [
+                py,
+                "-u",
+                str(scripts / "07_check_data_gaps.py"),
+                "--data-root",
+                args.data_dir,
+                "--expected",
+                str(int(args.expected)),
+                "--out",
+                args.gap_report,
+                "--tickers",
+                *tickers,
+            ],
+            cwd=root,
+        )
 
     print("\n[OK] Prep complete.", flush=True)
 

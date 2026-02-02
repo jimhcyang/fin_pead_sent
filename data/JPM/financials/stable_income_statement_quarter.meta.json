@@ -1,0 +1,16 @@
+{
+  "ticker": "JPM",
+  "endpoint": "stable/income-statement",
+  "params": {
+    "symbol": "JPM",
+    "period": "quarter",
+    "limit": 400
+  },
+  "downloaded_at_et": "2026-01-31T20:17:37.369154-05:00",
+  "cutoff_end_used": "2025-10-14",
+  "cutoff_source": "arg",
+  "tail_n": 20,
+  "rows_saved": 20,
+  "anchor_source": "income-statement",
+  "sort": "date_asc"
+}

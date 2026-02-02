@@ -1,13 +1,13 @@
 [
   {
-    "date": "2026-04-14",
+    "date": "2026-04-10",
     "symbol": "JPM",
     "eps": null,
-    "epsEstimated": 5.35,
+    "epsEstimated": 5.26,
     "time": "bmo",
     "revenue": null,
-    "revenueEstimated": 48057552610,
-    "updatedFromDate": "2026-01-28",
+    "revenueEstimated": null,
+    "updatedFromDate": "2026-02-01",
     "fiscalDateEnding": "2026-03-31"
   },
   {
@@ -18,7 +18,7 @@
     "time": "bmo",
     "revenue": 45798000000,
     "revenueEstimated": 46166454906,
-    "updatedFromDate": "2026-01-28",
+    "updatedFromDate": "2026-02-01",
     "fiscalDateEnding": "2025-12-31"
   },
   {

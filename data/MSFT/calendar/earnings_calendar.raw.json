@@ -1,25 +1,25 @@
 [
   {
-    "date": "2026-04-28",
+    "date": "2026-04-29",
     "symbol": "MSFT",
     "eps": null,
-    "epsEstimated": null,
+    "epsEstimated": 3.96,
     "time": "amc",
     "revenue": null,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-01-28",
+    "updatedFromDate": "2026-01-31",
     "fiscalDateEnding": "2026-03-30"
   },
   {
     "date": "2026-01-28",
     "symbol": "MSFT",
-    "eps": null,
-    "epsEstimated": 3.88,
+    "eps": 4.14,
+    "epsEstimated": 3.91,
     "time": "amc",
-    "revenue": null,
-    "revenueEstimated": 80279321740,
-    "updatedFromDate": "2026-01-28",
-    "fiscalDateEnding": "2025-12-30"
+    "revenue": 81273000000,
+    "revenueEstimated": 80308701686,
+    "updatedFromDate": "2026-01-31",
+    "fiscalDateEnding": "2025-12-31"
   },
   {
     "date": "2025-10-29",
@@ -29,7 +29,7 @@
     "time": "amc",
     "revenue": 77673000000,
     "revenueEstimated": 75494678452,
-    "updatedFromDate": "2026-01-28",
+    "updatedFromDate": "2026-01-29",
     "fiscalDateEnding": "2025-09-30"
   },
   {

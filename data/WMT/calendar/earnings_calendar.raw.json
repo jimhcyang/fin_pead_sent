@@ -1,13 +1,24 @@
 [
   {
+    "date": "2026-05-13",
+    "symbol": "WMT",
+    "eps": null,
+    "epsEstimated": null,
+    "time": "bmo",
+    "revenue": null,
+    "revenueEstimated": null,
+    "updatedFromDate": "2026-02-01",
+    "fiscalDateEnding": "2026-04-30"
+  },
+  {
     "date": "2026-02-19",
     "symbol": "WMT",
     "eps": null,
     "epsEstimated": 0.73,
     "time": "bmo",
     "revenue": null,
-    "revenueEstimated": 188368280590,
-    "updatedFromDate": "2026-01-28",
+    "revenueEstimated": 188337380590,
+    "updatedFromDate": "2026-02-01",
     "fiscalDateEnding": "2026-01-31"
   },
   {
@@ -18,7 +29,7 @@
     "time": "bmo",
     "revenue": 179496000000,
     "revenueEstimated": 177444408069,
-    "updatedFromDate": "2026-01-28",
+    "updatedFromDate": "2026-02-01",
     "fiscalDateEnding": "2025-10-31"
   },
   {

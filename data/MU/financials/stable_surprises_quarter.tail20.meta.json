@@ -1,0 +1,9 @@
+{
+  "ticker": "MU",
+  "created_at_et": "2026-01-31T20:18:58.294249-05:00",
+  "cutoff_end_used": "2025-12-17",
+  "cutoff_source": "arg",
+  "tail_n": 20,
+  "anchor_source": "income-statement",
+  "notes": "Row-aligned to income-statement anchor dates; surprise = actual - est_avg; pct uses /abs(est)."
+}

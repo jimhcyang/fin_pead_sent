@@ -3,11 +3,11 @@
     "date": "2026-04-29",
     "symbol": "META",
     "eps": null,
-    "epsEstimated": 6.65,
+    "epsEstimated": 6.66,
     "time": "amc",
     "revenue": null,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-01-28",
+    "updatedFromDate": "2026-02-01",
     "fiscalDateEnding": "2026-03-30"
   },
   {
@@ -16,10 +16,10 @@
     "eps": 8.88,
     "epsEstimated": 8.19,
     "time": "amc",
-    "revenue": 59893000000,
+    "revenue": 59894000000,
     "revenueEstimated": 58330095020,
-    "updatedFromDate": "2026-01-28",
-    "fiscalDateEnding": "2025-12-30"
+    "updatedFromDate": "2026-02-01",
+    "fiscalDateEnding": "2025-12-31"
   },
   {
     "date": "2025-10-29",
@@ -29,7 +29,7 @@
     "time": "amc",
     "revenue": 51242000000,
     "revenueEstimated": 49508128269,
-    "updatedFromDate": "2026-01-28",
+    "updatedFromDate": "2026-01-29",
     "fiscalDateEnding": "2025-09-30"
   },
   {

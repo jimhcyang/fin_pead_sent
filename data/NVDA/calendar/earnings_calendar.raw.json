@@ -7,7 +7,7 @@
     "time": "amc",
     "revenue": null,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-01-28",
+    "updatedFromDate": "2026-01-31",
     "fiscalDateEnding": "2026-04-26"
   },
   {
@@ -15,10 +15,10 @@
     "symbol": "NVDA",
     "eps": null,
     "epsEstimated": 1.52,
-    "time": "bmo",
+    "time": "amc",
     "revenue": null,
-    "revenueEstimated": 65561943629,
-    "updatedFromDate": "2026-01-28",
+    "revenueEstimated": 65550735640,
+    "updatedFromDate": "2026-01-31",
     "fiscalDateEnding": "2026-01-26"
   },
   {
@@ -29,7 +29,7 @@
     "time": "amc",
     "revenue": 57006000000,
     "revenueEstimated": 54961119678,
-    "updatedFromDate": "2026-01-28",
+    "updatedFromDate": "2026-01-31",
     "fiscalDateEnding": "2025-10-26"
   },
   {

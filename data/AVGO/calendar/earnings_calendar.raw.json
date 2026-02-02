@@ -3,11 +3,11 @@
     "date": "2026-03-05",
     "symbol": "AVGO",
     "eps": null,
-    "epsEstimated": 2.02,
+    "epsEstimated": 2.03,
     "time": "bmo",
     "revenue": null,
     "revenueEstimated": 19097571680,
-    "updatedFromDate": "2026-01-27",
+    "updatedFromDate": "2026-01-31",
     "fiscalDateEnding": "2026-02-02"
   },
   {
@@ -18,7 +18,7 @@
     "time": "amc",
     "revenue": 18015000000,
     "revenueEstimated": 17465943054,
-    "updatedFromDate": "2026-01-27",
+    "updatedFromDate": "2026-01-31",
     "fiscalDateEnding": "2025-11-02"
   },
   {

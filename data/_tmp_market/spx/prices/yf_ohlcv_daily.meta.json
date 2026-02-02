@@ -1,0 +1,11 @@
+{
+  "symbol": "^GSPC",
+  "rows": 1254,
+  "start": "2021-01-01",
+  "end": "2025-12-31",
+  "created_at_local": "2026-01-31T20:50:49.131231",
+  "schema": [
+    "date",
+    "adj_close"
+  ]
+}

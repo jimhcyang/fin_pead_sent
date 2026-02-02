@@ -13,12 +13,12 @@
   {
     "date": "2026-01-29",
     "symbol": "AAPL",
-    "eps": null,
-    "epsEstimated": 2.65,
+    "eps": 2.84,
+    "epsEstimated": 2.67,
     "time": "amc",
-    "revenue": null,
-    "revenueEstimated": 138521919670,
-    "updatedFromDate": "2026-01-28",
+    "revenue": 143756000000,
+    "revenueEstimated": 138391007589,
+    "updatedFromDate": "2026-01-29",
     "fiscalDateEnding": "2025-12-27"
   },
   {
@@ -29,7 +29,7 @@
     "time": "amc",
     "revenue": 102466000000,
     "revenueEstimated": 102227074560,
-    "updatedFromDate": "2026-01-28",
+    "updatedFromDate": "2026-01-29",
     "fiscalDateEnding": "2025-09-27"
   },
   {

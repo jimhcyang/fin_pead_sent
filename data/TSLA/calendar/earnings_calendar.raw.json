@@ -7,19 +7,19 @@
     "time": "amc",
     "revenue": null,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-01-28",
+    "updatedFromDate": "2026-02-01",
     "fiscalDateEnding": "2026-03-30"
   },
   {
     "date": "2026-01-28",
     "symbol": "TSLA",
     "eps": 0.5,
-    "epsEstimated": 0.45,
+    "epsEstimated": 0.4512,
     "time": "amc",
     "revenue": 24901000000,
-    "revenueEstimated": 24779926190,
-    "updatedFromDate": "2026-01-28",
-    "fiscalDateEnding": "2025-12-30"
+    "revenueEstimated": 24739883475,
+    "updatedFromDate": "2026-02-01",
+    "fiscalDateEnding": "2025-12-31"
   },
   {
     "date": "2025-10-22",

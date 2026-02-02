@@ -1,0 +1,16 @@
+{
+  "ticker": "V",
+  "endpoint": "stable/income-statement-growth",
+  "params": {
+    "symbol": "V",
+    "period": "quarter",
+    "limit": 400
+  },
+  "downloaded_at_et": "2026-01-31T20:17:50.624646-05:00",
+  "cutoff_end_used": "2025-10-28",
+  "cutoff_source": "arg",
+  "tail_n": 20,
+  "rows_saved": 20,
+  "anchor_source": "income-statement",
+  "sort": "date_asc"
+}

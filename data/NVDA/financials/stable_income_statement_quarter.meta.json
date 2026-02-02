@@ -1,0 +1,16 @@
+{
+  "ticker": "NVDA",
+  "endpoint": "stable/income-statement",
+  "params": {
+    "symbol": "NVDA",
+    "period": "quarter",
+    "limit": 400
+  },
+  "downloaded_at_et": "2026-01-31T20:15:16.665575-05:00",
+  "cutoff_end_used": "2025-11-19",
+  "cutoff_source": "arg",
+  "tail_n": 20,
+  "rows_saved": 20,
+  "anchor_source": "income-statement",
+  "sort": "date_asc"
+}

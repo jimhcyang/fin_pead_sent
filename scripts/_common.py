@@ -5,9 +5,9 @@ import json
 import os
 import time
 from dataclasses import dataclass
-from datetime import datetime, date
+from datetime import datetime
 from pathlib import Path
-from typing import Any, Dict, Iterable, List, Optional
+from typing import Any, Dict, Iterable, Optional
 
 import pandas as pd
 
@@ -19,6 +19,16 @@ except ImportError:  # pragma: no cover
 
 ET = ZoneInfo("America/New_York")
 UTC = ZoneInfo("UTC")
+
+# ---------------------------------------------------------------------
+# Default tickers (your core 20)
+# ---------------------------------------------------------------------
+DEFAULT_20 = [
+    "NVDA", "GOOGL", "AAPL", "MSFT", "AMZN",
+    "META", "AVGO", "TSLA", "LLY", "WMT",
+    "JPM", "V", "XOM", "JNJ", "ORCL",
+    "MA", "MU", "COST", "AMD", "PLTR",
+]
 
 
 def repo_root() -> Path:
@@ -67,18 +77,19 @@ def parse_dt_any(s: str, assume_tz: ZoneInfo = UTC) -> datetime:
     """
     Parse datetimes like:
       - '2024-11-20 15:45:00' (naive)
+      - '2024-11-20' (date only)
       - ISO with offset
       - '...Z'
-    If naive, assume assume_tz (default UTC), then convert as needed.
+    If naive, assume assume_tz (default UTC).
     """
-    s = s.strip()
-    # common: "YYYY-MM-DD HH:MM:SS"
-    fmts = ["%Y-%m-%d %H:%M:%S", "%Y-%m-%d"]
+    s = (s or "").strip()
+    if not s:
+        raise ValueError("parse_dt_any: empty datetime string")
+
     dt: Optional[datetime] = None
 
     # ISO-ish
     try:
-        # handle Z
         if s.endswith("Z"):
             dt = datetime.fromisoformat(s.replace("Z", "+00:00"))
         else:
@@ -86,8 +97,9 @@ def parse_dt_any(s: str, assume_tz: ZoneInfo = UTC) -> datetime:
     except Exception:
         dt = None
 
+    # Common fallbacks
     if dt is None:
-        for fmt in fmts:
+        for fmt in ("%Y-%m-%d %H:%M:%S", "%Y-%m-%d"):
             try:
                 dt = datetime.strptime(s, fmt)
                 break
@@ -99,6 +111,7 @@ def parse_dt_any(s: str, assume_tz: ZoneInfo = UTC) -> datetime:
 
     if dt.tzinfo is None:
         dt = dt.replace(tzinfo=assume_tz)
+
     return dt
 
 
@@ -111,6 +124,7 @@ def to_et(dt: datetime) -> datetime:
 @dataclass
 class FMPConfig:
     api_key: str
+    # Used by transcripts endpoint in 04: {base_url}/v3/earning_call_transcript/{ticker}
     base_url: str = "https://financialmodelingprep.com/api"
 
     @staticmethod
@@ -122,7 +136,7 @@ class FMPConfig:
 
 
 def http_get_json(url: str, params: Dict[str, Any], sleep_s: float = 0.2) -> Any:
-    import requests  # keep local import
+    import requests  # local import
 
     r = requests.get(url, params=params, timeout=60)
     if r.status_code >= 400:

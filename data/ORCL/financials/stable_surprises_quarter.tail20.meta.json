@@ -1,0 +1,9 @@
+{
+  "ticker": "ORCL",
+  "created_at_et": "2026-01-31T20:18:30.305456-05:00",
+  "cutoff_end_used": "2025-12-10",
+  "cutoff_source": "arg",
+  "tail_n": 20,
+  "anchor_source": "income-statement",
+  "notes": "Row-aligned to income-statement anchor dates; surprise = actual - est_avg; pct uses /abs(est)."
+}

@@ -1,0 +1,17 @@
+{
+  "ticker": "XOM",
+  "endpoint": "stable/analyst-estimates",
+  "params": {
+    "period": "quarter",
+    "limit": 100,
+    "page": "looped_until_empty"
+  },
+  "downloaded_at_et": "2026-01-31T20:18:03.612187-05:00",
+  "cutoff_end_used": "2025-10-31",
+  "cutoff_source": "arg",
+  "tail_n": 20,
+  "align_window_days": 14,
+  "rows_saved": 20,
+  "anchor_source": "income-statement",
+  "sort": "date_asc"
+}
