@@ -1,0 +1,34 @@
+{
+  "ticker": "AMD",
+  "api_symbol": "AMD",
+  "endpoint": "https://financialmodelingprep.com/stable/news/stock",
+  "mode": "earnings_window",
+  "earnings_date": "2025-02-04",
+  "pre_bdays": 5,
+  "post_bdays": 10,
+  "start": "2025-01-28",
+  "end": "2025-02-18",
+  "chunks": [
+    {
+      "start": "2025-01-28",
+      "end": "2025-02-18"
+    }
+  ],
+  "page_limit": 100,
+  "max_pages": 100,
+  "chunk_days": 0,
+  "pad_days": 1,
+  "sleep": 0.25,
+  "fetched_total": 99,
+  "kept_total": 95,
+  "dropped_dupes": 1,
+  "min_publishedDateET": "2025-02-05T09:20:00-05:00",
+  "max_publishedDateET": "2025-02-18T21:15:11-05:00",
+  "outputs": {
+    "raw_json": "data/AMD/news/2025-02-04/stock_news.raw.json",
+    "jsonl": "data/AMD/news/2025-02-04/stock_news.jsonl",
+    "csv": "data/AMD/news/2025-02-04/stock_news.csv"
+  },
+  "generated_at": "2026-02-02T20:38:06.065493-05:00",
+  "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
+}

@@ -7,7 +7,7 @@
     "time": "amc",
     "revenue": null,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-02-01",
+    "updatedFromDate": "2026-02-03",
     "fiscalDateEnding": "2026-03-27"
   },
   {
@@ -17,8 +17,8 @@
     "epsEstimated": 1.32,
     "time": "amc",
     "revenue": null,
-    "revenueEstimated": 9670347420,
-    "updatedFromDate": "2026-02-01",
+    "revenueEstimated": 9670272490,
+    "updatedFromDate": "2026-02-03",
     "fiscalDateEnding": "2025-12-27"
   },
   {
@@ -29,7 +29,7 @@
     "time": "amc",
     "revenue": 9246000000,
     "revenueEstimated": 8756463065,
-    "updatedFromDate": "2026-02-01",
+    "updatedFromDate": "2026-02-03",
     "fiscalDateEnding": "2025-09-27"
   },
   {

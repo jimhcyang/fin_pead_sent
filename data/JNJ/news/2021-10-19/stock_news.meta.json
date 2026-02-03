@@ -1,0 +1,34 @@
+{
+  "ticker": "JNJ",
+  "api_symbol": "JNJ",
+  "endpoint": "https://financialmodelingprep.com/stable/news/stock",
+  "mode": "earnings_window",
+  "earnings_date": "2021-10-19",
+  "pre_bdays": 5,
+  "post_bdays": 10,
+  "start": "2021-10-12",
+  "end": "2021-11-02",
+  "chunks": [
+    {
+      "start": "2021-10-12",
+      "end": "2021-11-02"
+    }
+  ],
+  "page_limit": 100,
+  "max_pages": 100,
+  "chunk_days": 0,
+  "pad_days": 1,
+  "sleep": 0.25,
+  "fetched_total": 111,
+  "kept_total": 106,
+  "dropped_dupes": 0,
+  "min_publishedDateET": "2021-10-12T04:00:00-04:00",
+  "max_publishedDateET": "2021-11-02T18:44:37-04:00",
+  "outputs": {
+    "raw_json": "data/JNJ/news/2021-10-19/stock_news.raw.json",
+    "jsonl": "data/JNJ/news/2021-10-19/stock_news.jsonl",
+    "csv": "data/JNJ/news/2021-10-19/stock_news.csv"
+  },
+  "generated_at": "2026-02-02T20:35:31.879523-05:00",
+  "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
+}

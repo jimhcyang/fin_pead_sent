@@ -1,0 +1,34 @@
+{
+  "ticker": "NVDA",
+  "api_symbol": "NVDA",
+  "endpoint": "https://financialmodelingprep.com/stable/news/stock",
+  "mode": "earnings_window",
+  "earnings_date": "2021-02-24",
+  "pre_bdays": 5,
+  "post_bdays": 10,
+  "start": "2021-02-17",
+  "end": "2021-03-10",
+  "chunks": [
+    {
+      "start": "2021-02-17",
+      "end": "2021-03-10"
+    }
+  ],
+  "page_limit": 100,
+  "max_pages": 100,
+  "chunk_days": 0,
+  "pad_days": 1,
+  "sleep": 0.25,
+  "fetched_total": 92,
+  "kept_total": 89,
+  "dropped_dupes": 0,
+  "min_publishedDateET": "2021-02-17T01:00:59-05:00",
+  "max_publishedDateET": "2021-03-10T17:53:55-05:00",
+  "outputs": {
+    "raw_json": "data/NVDA/news/2021-02-24/stock_news.raw.json",
+    "jsonl": "data/NVDA/news/2021-02-24/stock_news.jsonl",
+    "csv": "data/NVDA/news/2021-02-24/stock_news.csv"
+  },
+  "generated_at": "2026-02-02T20:27:09.960243-05:00",
+  "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
+}

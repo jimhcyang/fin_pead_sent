@@ -1,0 +1,34 @@
+{
+  "ticker": "WMT",
+  "api_symbol": "WMT",
+  "endpoint": "https://financialmodelingprep.com/stable/news/stock",
+  "mode": "earnings_window",
+  "earnings_date": "2024-03-15",
+  "pre_bdays": 5,
+  "post_bdays": 10,
+  "start": "2024-03-08",
+  "end": "2024-03-29",
+  "chunks": [
+    {
+      "start": "2024-03-08",
+      "end": "2024-03-29"
+    }
+  ],
+  "page_limit": 100,
+  "max_pages": 100,
+  "chunk_days": 0,
+  "pad_days": 1,
+  "sleep": 0.25,
+  "fetched_total": 84,
+  "kept_total": 78,
+  "dropped_dupes": 0,
+  "min_publishedDateET": "2024-03-08T04:02:42-05:00",
+  "max_publishedDateET": "2024-03-29T11:30:01-04:00",
+  "outputs": {
+    "raw_json": "data/WMT/news/2024-03-15/stock_news.raw.json",
+    "jsonl": "data/WMT/news/2024-03-15/stock_news.jsonl",
+    "csv": "data/WMT/news/2024-03-15/stock_news.csv"
+  },
+  "generated_at": "2026-02-02T20:33:37.981646-05:00",
+  "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
+}

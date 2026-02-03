@@ -35,9 +35,9 @@
     "netIncome": 6501000000,
     "netIncomeDeductions": 0,
     "bottomLineNetIncome": 6501000000,
-    "eps": 1.72,
+    "eps": 1.5,
     "epsDiluted": 1.53,
-    "weightedAverageShsOut": 0,
+    "weightedAverageShsOut": 4331000000,
     "weightedAverageShsOutDil": 4238000000
   },
   {

@@ -154,6 +154,15 @@ def main() -> None:
     ap.add_argument("--skip_transcripts", action="store_true")
     ap.add_argument("--skip_financials", action="store_true")
     ap.add_argument("--with_news", action="store_true")
+    ap.set_defaults(with_news=True)
+
+    # News window (earnings-date centered): [-pre_bdays, +post_bdays], weekdays-only
+    ap.add_argument("--news-pre-bdays", type=int, default=5)
+    ap.add_argument("--news-post-bdays", type=int, default=10)
+    ap.add_argument("--news-page-limit", type=int, default=100)
+    ap.add_argument("--news-max-pages", type=int, default=100)
+    ap.add_argument("--news-chunk-days", type=int, default=0, help="0 = no chunking; fetch window in one call")
+    ap.add_argument("--news-pad-days", type=int, default=1)
     ap.add_argument("--skip_stable", action="store_true", help="Skip STABLE endpoints (script 08).")
 
     # stable controls
@@ -314,21 +323,61 @@ def main() -> None:
                     )
 
                 if args.with_news:
-                    run(
-                        [
-                            py,
-                            "-u",
-                            str(scripts / "05_fmp_news.py"),
-                            "--ticker",
-                            tkr,
-                            "--start",
-                            args.start,
-                            "--end",
-                            args.end,
-                        ]
-                        + common_data_dir,
-                        cwd=root,
-                    )
+                    # Pull news in an earnings-centered window for EACH earnings date in the calendar.
+                    cal_csv = Path(args.data_dir) / tkr / "calendar" / "earnings_calendar.csv"
+                    if not cal_csv.exists():
+                        raise FileNotFoundError(
+                            f"Missing earnings_calendar.csv for {tkr}. Expected: {cal_csv}. "
+                            "Run without --skip_fmp (or ensure script 03 ran) before --with_news."
+                        )
+
+                    earnings_dates: list[str] = []
+                    with cal_csv.open("r", newline="", encoding="utf-8") as f:
+                        reader = csv.DictReader(f)
+                        fields = [c.strip() for c in (reader.fieldnames or [])]
+                        if "earnings_date" not in fields:
+                            raise ValueError(
+                                f"{cal_csv} missing 'earnings_date' column. Found: {fields}"
+                            )
+                        for row in reader:
+                            d = (row.get("earnings_date") or "").strip()
+                            if d:
+                                earnings_dates.append(d)
+
+                    # De-duplicate + stable order
+                    earnings_dates = sorted(set(earnings_dates))
+
+                    if not earnings_dates:
+                        print(f"[WARN] {tkr}: no earnings dates found in {cal_csv}; skipping news")
+                    else:
+                        for ed in earnings_dates:
+                            run(
+                                [
+                                    py,
+                                    "-u",
+                                    str(scripts / "05_fmp_news.py"),
+                                    "--ticker",
+                                    tkr,
+                                    "--earnings-date",
+                                    ed,
+                                    "--pre-bdays",
+                                    str(int(args.news_pre_bdays)),
+                                    "--post-bdays",
+                                    str(int(args.news_post_bdays)),
+                                    "--page-limit",
+                                    str(int(args.news_page_limit)),
+                                    "--max-pages",
+                                    str(int(args.news_max_pages)),
+                                    "--chunk-days",
+                                    str(int(args.news_chunk_days)),
+                                    "--pad-days",
+                                    str(int(args.news_pad_days)),
+                                    "--sleep",
+                                    str(float(args.sleep)),
+                                ]
+                                + common_data_dir,
+                                cwd=root,
+                            )
 
             # STABLE: 08 (tail-N aligned), cutoff from earnings_calendar max date
             if not args.skip_stable:

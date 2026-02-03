@@ -1,0 +1,34 @@
+{
+  "ticker": "AVGO",
+  "api_symbol": "AVGO",
+  "endpoint": "https://financialmodelingprep.com/stable/news/stock",
+  "mode": "earnings_window",
+  "earnings_date": "2025-12-11",
+  "pre_bdays": 5,
+  "post_bdays": 10,
+  "start": "2025-12-04",
+  "end": "2025-12-25",
+  "chunks": [
+    {
+      "start": "2025-12-04",
+      "end": "2025-12-25"
+    }
+  ],
+  "page_limit": 100,
+  "max_pages": 100,
+  "chunk_days": 0,
+  "pad_days": 1,
+  "sleep": 0.25,
+  "fetched_total": 361,
+  "kept_total": 347,
+  "dropped_dupes": 1,
+  "min_publishedDateET": "2025-12-04T01:34:00-05:00",
+  "max_publishedDateET": "2025-12-25T05:10:42-05:00",
+  "outputs": {
+    "raw_json": "data/AVGO/news/2025-12-11/stock_news.raw.json",
+    "jsonl": "data/AVGO/news/2025-12-11/stock_news.jsonl",
+    "csv": "data/AVGO/news/2025-12-11/stock_news.csv"
+  },
+  "generated_at": "2026-02-02T20:31:51.938254-05:00",
+  "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
+}

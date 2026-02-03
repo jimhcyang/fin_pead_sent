@@ -1,0 +1,34 @@
+{
+  "ticker": "V",
+  "api_symbol": "V",
+  "endpoint": "https://financialmodelingprep.com/stable/news/stock",
+  "mode": "earnings_window",
+  "earnings_date": "2022-04-26",
+  "pre_bdays": 5,
+  "post_bdays": 10,
+  "start": "2022-04-19",
+  "end": "2022-05-10",
+  "chunks": [
+    {
+      "start": "2022-04-19",
+      "end": "2022-05-10"
+    }
+  ],
+  "page_limit": 100,
+  "max_pages": 100,
+  "chunk_days": 0,
+  "pad_days": 1,
+  "sleep": 0.25,
+  "fetched_total": 52,
+  "kept_total": 49,
+  "dropped_dupes": 0,
+  "min_publishedDateET": "2022-04-19T11:23:27-04:00",
+  "max_publishedDateET": "2022-05-10T08:00:00-04:00",
+  "outputs": {
+    "raw_json": "data/V/news/2022-04-26/stock_news.raw.json",
+    "jsonl": "data/V/news/2022-04-26/stock_news.jsonl",
+    "csv": "data/V/news/2022-04-26/stock_news.csv"
+  },
+  "generated_at": "2026-02-02T20:34:34.924438-05:00",
+  "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
+}

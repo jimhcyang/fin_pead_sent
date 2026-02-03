@@ -1,0 +1,34 @@
+{
+  "ticker": "LLY",
+  "api_symbol": "LLY",
+  "endpoint": "https://financialmodelingprep.com/stable/news/stock",
+  "mode": "earnings_window",
+  "earnings_date": "2023-11-02",
+  "pre_bdays": 5,
+  "post_bdays": 10,
+  "start": "2023-10-26",
+  "end": "2023-11-16",
+  "chunks": [
+    {
+      "start": "2023-10-26",
+      "end": "2023-11-16"
+    }
+  ],
+  "page_limit": 100,
+  "max_pages": 100,
+  "chunk_days": 0,
+  "pad_days": 1,
+  "sleep": 0.25,
+  "fetched_total": 90,
+  "kept_total": 81,
+  "dropped_dupes": 0,
+  "min_publishedDateET": "2023-10-31T13:54:52-04:00",
+  "max_publishedDateET": "2023-11-16T09:00:00-05:00",
+  "outputs": {
+    "raw_json": "data/LLY/news/2023-11-02/stock_news.raw.json",
+    "jsonl": "data/LLY/news/2023-11-02/stock_news.jsonl",
+    "csv": "data/LLY/news/2023-11-02/stock_news.csv"
+  },
+  "generated_at": "2026-02-02T20:33:04.505596-05:00",
+  "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
+}

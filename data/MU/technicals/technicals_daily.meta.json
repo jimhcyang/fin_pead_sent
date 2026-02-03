@@ -1,7 +1,7 @@
 {
   "ticker": "MU",
   "source_prices": "Yahoo Finance (via yfinance) [raw with buffer]",
-  "generated_at_et": "2026-01-31T20:18:47.906045-05:00",
+  "generated_at_et": "2026-02-02T20:36:42.730058-05:00",
   "rows": 1255,
   "analysis_window_start": "2021-01-04",
   "analysis_window_end": "2025-12-31",

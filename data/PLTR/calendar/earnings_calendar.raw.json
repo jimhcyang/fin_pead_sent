@@ -3,23 +3,23 @@
     "date": "2026-05-04",
     "symbol": "PLTR",
     "eps": null,
-    "epsEstimated": null,
+    "epsEstimated": 0.21,
     "time": "amc",
     "revenue": null,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-02-01",
-    "fiscalDateEnding": "2026-03-30"
+    "updatedFromDate": "2026-02-03",
+    "fiscalDateEnding": "2026-03-31"
   },
   {
     "date": "2026-02-02",
     "symbol": "PLTR",
-    "eps": null,
+    "eps": 0.2365,
     "epsEstimated": 0.23,
     "time": "amc",
-    "revenue": null,
-    "revenueEstimated": 1341358940,
-    "updatedFromDate": "2026-02-01",
-    "fiscalDateEnding": "2025-12-30"
+    "revenue": 1406802000,
+    "revenueEstimated": 1326363310,
+    "updatedFromDate": "2026-02-03",
+    "fiscalDateEnding": "2025-12-31"
   },
   {
     "date": "2025-11-03",
@@ -29,7 +29,7 @@
     "time": "amc",
     "revenue": 1181092000,
     "revenueEstimated": 1091837803,
-    "updatedFromDate": "2026-02-01",
+    "updatedFromDate": "2026-02-03",
     "fiscalDateEnding": "2025-09-30"
   },
   {
