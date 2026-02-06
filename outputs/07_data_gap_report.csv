@@ -5,7 +5,7 @@ AMD,True,20,20,0,,,earnings_date,True,20,1,2023-05-02,True,20,True,20,20,0,0,"[0
 AMZN,True,20,20,0,,,earnings_date,True,20,2,"2022-04-28,2022-07-28",True,20,True,20,20,0,0,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",nz=0 avg=0,graham_missing,
 AVGO,True,20,20,0,,,earnings_date,True,20,1,2024-09-05,True,20,True,20,20,0,0,"[0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",nz=1 avg=6,graham_missing;tx_gap_nonzero,
 COST,True,20,20,1,revenue_est,2022-05-26:revenue_est,earnings_date,True,20,0,,True,20,True,20,20,0,0,"[0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",nz=2 avg=1,tx_gap_nonzero,calendar_missing_cells
-GOOGL,True,18,18,0,,,earnings_date,True,20,0,,True,20,True,20,20,0,0,,NA,tx_gap_na,calendar_rows!=20
+GOOGL,True,20,20,0,,,earnings_date,True,20,0,,True,20,True,20,20,0,0,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",nz=0 avg=0,,
 JNJ,True,20,20,2,revenue_est,2021-01-26:revenue_est | 2021-04-20:revenue_est,earnings_date,True,20,1,2023-04-18,True,20,True,20,20,0,0,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",nz=0 avg=0,graham_missing,calendar_missing_cells
 JPM,True,20,20,0,,,earnings_date,True,20,0,,True,20,True,20,20,0,0,"[39, 0, 0, 0, 39, 0, 0, 0, 39, 0, 0, 0, 17, 0, 0, 0, 30, 0, 0, 0]",nz=5 avg=33,tx_gap_nonzero,
 LLY,True,20,20,1,revenue_est,2025-02-06:revenue_est,earnings_date,True,20,1,2023-11-02,True,20,True,20,20,0,0,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",nz=0 avg=0,graham_missing,calendar_missing_cells

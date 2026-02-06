@@ -40,6 +40,18 @@ def main() -> None:
     ap.add_argument("--symbol", default="^GSPC")
     ap.add_argument("--start", required=True)
     ap.add_argument("--end", default="2026-01-31")
+    ap.add_argument(
+        "--buffer-before-months",
+        type=int,
+        default=15,
+        help="Download this many months before --start (align with price buffers).",
+    )
+    ap.add_argument(
+        "--buffer-after-months",
+        type=int,
+        default=1,
+        help="Download this many months after --end (align with price buffers).",
+    )
     ap.add_argument("--out-rel", default="_tmp_market/spx/prices/yf_ohlcv_daily.csv")
     ap.add_argument("--force", action="store_true")
     args = ap.parse_args()
@@ -54,10 +66,15 @@ def main() -> None:
 
     import yfinance as yf
 
+    start_dt = pd.to_datetime(args.start)
+    end_dt = pd.to_datetime(args.end)
+    dl_start = (start_dt - pd.DateOffset(months=int(args.buffer_before_months))).strftime("%Y-%m-%d")
+    dl_end = (end_dt + pd.DateOffset(months=int(args.buffer_after_months)) + pd.Timedelta(days=1)).strftime("%Y-%m-%d")
+
     df = yf.download(
         args.symbol,
-        start=args.start,
-        end=args.end,
+        start=dl_start,
+        end=dl_end,
         auto_adjust=False,
         progress=False,
     )
@@ -85,6 +102,10 @@ def main() -> None:
         "rows": int(df.shape[0]),
         "start": args.start,
         "end": args.end,
+        "buffer_before_months": int(args.buffer_before_months),
+        "buffer_after_months": int(args.buffer_after_months),
+        "download_start": dl_start,
+        "download_end": dl_end,
         "created_at_local": datetime.now().isoformat(),
         "schema": ["date", "adj_close"],
     }

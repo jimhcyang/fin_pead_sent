@@ -29,6 +29,6 @@
     "jsonl": "data/AVGO/news/2023-12-07/stock_news.jsonl",
     "csv": "data/AVGO/news/2023-12-07/stock_news.csv"
   },
-  "generated_at": "2026-02-06T01:53:25.981786-05:00",
+  "generated_at": "2026-02-06T17:08:17.671868-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

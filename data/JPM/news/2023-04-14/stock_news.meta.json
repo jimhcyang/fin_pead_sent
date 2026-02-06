@@ -29,6 +29,6 @@
     "jsonl": "data/JPM/news/2023-04-14/stock_news.jsonl",
     "csv": "data/JPM/news/2023-04-14/stock_news.csv"
   },
-  "generated_at": "2026-02-06T01:55:40.550700-05:00",
+  "generated_at": "2026-02-06T17:10:36.706408-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

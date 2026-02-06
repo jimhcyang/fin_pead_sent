@@ -6,11 +6,11 @@
     "period": "quarter",
     "limit": 400
   },
-  "downloaded_at_et": "2026-02-06T01:50:19.835943-05:00",
+  "downloaded_at_et": "2026-02-06T17:05:09.169852-05:00",
   "cutoff_end_used": "2025-10-29",
   "cutoff_source": "arg",
-  "tail_n": 18,
-  "rows_saved": 18,
+  "tail_n": 20,
+  "rows_saved": 20,
   "anchor_source": "income-statement",
   "sort": "date_asc"
 }

@@ -3,10 +3,10 @@
     "date": "2026-04-23",
     "symbol": "GOOGL",
     "eps": null,
-    "epsEstimated": 2.51,
+    "epsEstimated": 2.58,
     "time": "amc",
     "revenue": null,
-    "revenueEstimated": 106481005280,
+    "revenueEstimated": 106470452510,
     "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2026-03-30"
   },
@@ -29,7 +29,7 @@
     "time": "amc",
     "revenue": 102346000000,
     "revenueEstimated": 99927409490,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2025-09-30"
   },
   {
@@ -40,8 +40,19 @@
     "time": "amc",
     "revenue": 96428000000,
     "revenueEstimated": 99826215370,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2025-06-30"
+  },
+  {
+    "date": "2025-04-24",
+    "symbol": "GOOGL",
+    "eps": 2.81,
+    "epsEstimated": 2.02,
+    "time": "amc",
+    "revenue": 90234000000,
+    "revenueEstimated": 89152056270,
+    "updatedFromDate": "2026-02-06",
+    "fiscalDateEnding": "2025-03-31"
   },
   {
     "date": "2025-02-04",
@@ -51,8 +62,19 @@
     "time": "amc",
     "revenue": 96469000000,
     "revenueEstimated": 96668969540,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2024-12-31"
+  },
+  {
+    "date": "2024-10-29",
+    "symbol": "GOOGL",
+    "eps": 2.12,
+    "epsEstimated": 1.85,
+    "time": "amc",
+    "revenue": 88268000000,
+    "revenueEstimated": 86302900000,
+    "updatedFromDate": "2026-02-06",
+    "fiscalDateEnding": "2024-09-30"
   },
   {
     "date": "2024-07-23",
@@ -62,7 +84,7 @@
     "time": "amc",
     "revenue": 84742000000,
     "revenueEstimated": 84191000000,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2024-06-30"
   },
   {
@@ -73,7 +95,7 @@
     "time": "amc",
     "revenue": 80539000000,
     "revenueEstimated": 78609200000,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2024-03-31"
   },
   {
@@ -84,7 +106,7 @@
     "time": "amc",
     "revenue": 86310000000,
     "revenueEstimated": 85305800000,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2023-12-31"
   },
   {
@@ -95,7 +117,7 @@
     "time": "amc",
     "revenue": 76693000000,
     "revenueEstimated": 75943800000,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2023-09-30"
   },
   {
@@ -106,7 +128,7 @@
     "time": "amc",
     "revenue": 74604000000,
     "revenueEstimated": 72798900000,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2023-06-30"
   },
   {
@@ -117,7 +139,7 @@
     "time": "amc",
     "revenue": 69787000000,
     "revenueEstimated": 68904000000,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2023-03-31"
   },
   {
@@ -128,7 +150,7 @@
     "time": "amc",
     "revenue": 76048000000,
     "revenueEstimated": 76178599640,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2022-12-31"
   },
   {
@@ -139,7 +161,7 @@
     "time": "amc",
     "revenue": 69092000000,
     "revenueEstimated": 70976575302,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2022-09-30"
   },
   {
@@ -150,7 +172,7 @@
     "time": "amc",
     "revenue": 69685000000,
     "revenueEstimated": 69798841230,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2022-06-30"
   },
   {
@@ -161,7 +183,7 @@
     "time": "amc",
     "revenue": 68011000000,
     "revenueEstimated": 68055248066,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2022-03-31"
   },
   {
@@ -172,7 +194,7 @@
     "time": "amc",
     "revenue": 75325000000,
     "revenueEstimated": 72270996583,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2021-12-31"
   },
   {
@@ -183,7 +205,7 @@
     "time": "amc",
     "revenue": 65118000000,
     "revenueEstimated": 63259500000,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2021-09-30"
   },
   {
@@ -194,7 +216,7 @@
     "time": "amc",
     "revenue": 61880000000,
     "revenueEstimated": 63237000000,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2021-06-30"
   },
   {
@@ -205,7 +227,7 @@
     "time": "amc",
     "revenue": 55314000000,
     "revenueEstimated": 46297503317,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2021-03-31"
   },
   {
@@ -216,7 +238,7 @@
     "time": "amc",
     "revenue": 56898000000,
     "revenueEstimated": 53074900000,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2020-12-31"
   },
   {
@@ -227,7 +249,7 @@
     "time": "amc",
     "revenue": 46173000000,
     "revenueEstimated": 31786168902,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2020-09-30"
   },
   {
@@ -238,7 +260,7 @@
     "time": "amc",
     "revenue": 38297000000,
     "revenueEstimated": 31038338598,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2020-06-30"
   },
   {
@@ -249,7 +271,7 @@
     "time": "amc",
     "revenue": 41159000000,
     "revenueEstimated": 43077251266,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2020-03-31"
   },
   {
@@ -260,7 +282,7 @@
     "time": "amc",
     "revenue": 46075000000,
     "revenueEstimated": 37610407166,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2019-12-31"
   },
   {
@@ -271,7 +293,7 @@
     "time": "amc",
     "revenue": 40499000000,
     "revenueEstimated": 49703318181,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2019-09-30"
   },
   {
@@ -282,7 +304,7 @@
     "time": "amc",
     "revenue": 38944000000,
     "revenueEstimated": 30968838845,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2019-06-30"
   },
   {
@@ -293,7 +315,7 @@
     "time": "amc",
     "revenue": 36339000000,
     "revenueEstimated": 40584925263,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2019-03-31"
   },
   {
@@ -304,7 +326,7 @@
     "time": "amc",
     "revenue": 39276000000,
     "revenueEstimated": 33278490211,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2018-12-31"
   },
   {
@@ -315,7 +337,7 @@
     "time": "amc",
     "revenue": 33740000000,
     "revenueEstimated": 26919663093,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2018-09-30"
   },
   {
@@ -326,7 +348,7 @@
     "time": "amc",
     "revenue": 32657000000,
     "revenueEstimated": 68982517621,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2018-06-30"
   },
   {
@@ -337,7 +359,7 @@
     "time": "amc",
     "revenue": 31146000000,
     "revenueEstimated": 21683036759,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2018-03-31"
   },
   {
@@ -348,7 +370,7 @@
     "time": "amc",
     "revenue": 32323000000,
     "revenueEstimated": 33256035051,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2017-12-31"
   },
   {
@@ -359,7 +381,7 @@
     "time": "amc",
     "revenue": 27772000000,
     "revenueEstimated": 24173538140,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2017-09-30"
   },
   {
@@ -370,7 +392,7 @@
     "time": "amc",
     "revenue": 26010000000,
     "revenueEstimated": 23310359281,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2017-06-30"
   },
   {
@@ -381,7 +403,7 @@
     "time": "amc",
     "revenue": 24750000000,
     "revenueEstimated": 23661384217,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2017-03-31"
   },
   {
@@ -392,7 +414,7 @@
     "time": "amc",
     "revenue": 26064000000,
     "revenueEstimated": 26871538461,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2016-12-31"
   },
   {
@@ -403,7 +425,7 @@
     "time": "amc",
     "revenue": 22451000000,
     "revenueEstimated": 21385444812,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2016-09-30"
   },
   {
@@ -414,7 +436,7 @@
     "time": "amc",
     "revenue": 21500000000,
     "revenueEstimated": 20529691211,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2016-06-30"
   },
   {
@@ -425,7 +447,7 @@
     "time": "amc",
     "revenue": 20257000000,
     "revenueEstimated": 21526438666,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2016-03-31"
   },
   {
@@ -436,7 +458,7 @@
     "time": "amc",
     "revenue": 21329000000,
     "revenueEstimated": 19951348327,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2015-12-31"
   },
   {
@@ -447,7 +469,7 @@
     "time": "amc",
     "revenue": 18675000000,
     "revenueEstimated": 18312378640,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2015-09-30"
   },
   {
@@ -458,7 +480,7 @@
     "time": "amc",
     "revenue": 17727000000,
     "revenueEstimated": 16959711940,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2015-06-30"
   },
   {
@@ -469,7 +491,7 @@
     "time": "amc",
     "revenue": 17258000000,
     "revenueEstimated": 17336445454,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2015-03-31"
   },
   {
@@ -480,7 +502,7 @@
     "time": "amc",
     "revenue": 18103000000,
     "revenueEstimated": 18688610407,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2014-12-31"
   },
   {
@@ -491,7 +513,7 @@
     "time": "amc",
     "revenue": 16523000000,
     "revenueEstimated": 16978457886,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2014-09-30"
   },
   {
@@ -502,7 +524,7 @@
     "time": "amc",
     "revenue": 15955000000,
     "revenueEstimated": 16364102564,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2014-06-30"
   },
   {
@@ -513,7 +535,7 @@
     "time": "amc",
     "revenue": 15420000000,
     "revenueEstimated": 15756786271,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2014-03-31"
   },
   {
@@ -524,7 +546,7 @@
     "time": "bmo",
     "revenue": 16858000000,
     "revenueEstimated": 15938742622,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2013-12-31"
   },
   {
@@ -535,7 +557,7 @@
     "time": "bmo",
     "revenue": 13754000000,
     "revenueEstimated": 13221930367,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2013-09-30"
   },
   {
@@ -546,7 +568,7 @@
     "time": "bmo",
     "revenue": 13107000000,
     "revenueEstimated": 14590352504,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2013-06-30"
   },
   {
@@ -557,7 +579,7 @@
     "time": "bmo",
     "revenue": 12951000000,
     "revenueEstimated": 11833277673,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2013-03-31"
   },
   {
@@ -568,7 +590,7 @@
     "time": "bmo",
     "revenue": 13215000000,
     "revenueEstimated": 14169919385,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2012-12-31"
   },
   {
@@ -579,7 +601,7 @@
     "time": "bmo",
     "revenue": 13304000000,
     "revenueEstimated": 15350769230,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2012-09-30"
   },
   {
@@ -590,7 +612,7 @@
     "time": "bmo",
     "revenue": 11807000000,
     "revenueEstimated": 11712920318,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2012-06-30"
   },
   {
@@ -601,7 +623,7 @@
     "time": "bmo",
     "revenue": 10645000000,
     "revenueEstimated": 10182173913,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2012-03-31"
   },
   {
@@ -612,7 +634,7 @@
     "time": "bmo",
     "revenue": 10583000000,
     "revenueEstimated": 11592000000,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2011-12-31"
   },
   {
@@ -623,7 +645,7 @@
     "time": "bmo",
     "revenue": 9720000000,
     "revenueEstimated": 8630114416,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2011-09-30"
   },
   {
@@ -634,7 +656,7 @@
     "time": "bmo",
     "revenue": 9026000000,
     "revenueEstimated": 8015455470,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2011-06-30"
   },
   {
@@ -645,7 +667,7 @@
     "time": "bmo",
     "revenue": 8575000000,
     "revenueEstimated": 8596172839,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2011-03-31"
   },
   {
@@ -656,7 +678,7 @@
     "time": "bmo",
     "revenue": 8440000000,
     "revenueEstimated": 7752296296,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2010-12-31"
   },
   {
@@ -667,7 +689,7 @@
     "time": "bmo",
     "revenue": 7286000000,
     "revenueEstimated": 6263785074,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2010-09-30"
   },
   {
@@ -678,7 +700,7 @@
     "time": "bmo",
     "revenue": 6820000000,
     "revenueEstimated": 6882760736,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2010-06-30"
   },
   {
@@ -689,7 +711,7 @@
     "time": "bmo",
     "revenue": 6775000000,
     "revenueEstimated": 6610757575,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2010-03-31"
   },
   {
@@ -700,7 +722,7 @@
     "time": "bmo",
     "revenue": 6673863000,
     "revenueEstimated": 6344419753,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2009-12-31"
   },
   {
@@ -711,7 +733,7 @@
     "time": "bmo",
     "revenue": 5945000000,
     "revenueEstimated": 5418505535,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2009-09-30"
   },
   {
@@ -722,7 +744,7 @@
     "time": "bmo",
     "revenue": 5523000000,
     "revenueEstimated": 5218582677,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2009-06-30"
   },
   {
@@ -733,7 +755,7 @@
     "time": "bmo",
     "revenue": 5509000000,
     "revenueEstimated": 5240268292,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2009-03-31"
   },
   {
@@ -744,7 +766,7 @@
     "time": "bmo",
     "revenue": 5700950000,
     "revenueEstimated": 5540084677,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2008-12-31"
   },
   {
@@ -755,7 +777,7 @@
     "time": "bmo",
     "revenue": 5541400000,
     "revenueEstimated": 5330582278,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2008-09-30"
   },
   {
@@ -766,7 +788,7 @@
     "time": "bmo",
     "revenue": 5367200000,
     "revenueEstimated": 5480227848,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2008-06-30"
   },
   {
@@ -777,7 +799,7 @@
     "time": "bmo",
     "revenue": 5186000000,
     "revenueEstimated": 4818849557,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2008-03-31"
   },
   {
@@ -788,7 +810,7 @@
     "time": "bmo",
     "revenue": 4826686000,
     "revenueEstimated": 4827000000,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2007-12-31"
   },
   {
@@ -799,7 +821,7 @@
     "time": "bmo",
     "revenue": 4231400000,
     "revenueEstimated": 4074296296,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2007-09-30"
   },
   {
@@ -810,7 +832,7 @@
     "time": "bmo",
     "revenue": 3872000000,
     "revenueEstimated": 3915022222,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2007-06-30"
   },
   {
@@ -821,7 +843,7 @@
     "time": "bmo",
     "revenue": 3664000000,
     "revenueEstimated": 3242084848,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2007-03-31"
   },
   {
@@ -832,7 +854,7 @@
     "time": "bmo",
     "revenue": 3205498000,
     "revenueEstimated": 2919623287,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2006-12-31"
   },
   {
@@ -843,7 +865,7 @@
     "time": "bmo",
     "revenue": 2689700000,
     "revenueEstimated": 2467685950,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2006-09-30"
   },
   {
@@ -854,7 +876,7 @@
     "time": "bmo",
     "revenue": 2456000000,
     "revenueEstimated": 2146234234,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2006-06-30"
   },
   {
@@ -865,7 +887,7 @@
     "time": "bmo",
     "revenue": 2253800000,
     "revenueEstimated": 1889717171,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2006-03-31"
   },
   {
@@ -876,7 +898,7 @@
     "time": "bmo",
     "revenue": 1919092000,
     "revenueEstimated": 2158875000,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2005-12-31"
   },
   {
@@ -887,7 +909,7 @@
     "time": "bmo",
     "revenue": 1578456000,
     "revenueEstimated": 1392352941,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2005-09-30"
   },
   {
@@ -898,7 +920,7 @@
     "time": "bmo",
     "revenue": 1384495000,
     "revenueEstimated": 1225180327,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2005-06-30"
   },
   {
@@ -909,7 +931,7 @@
     "time": "bmo",
     "revenue": 1256516000,
     "revenueEstimated": 1217377173,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2005-03-31"
   },
   {
@@ -920,7 +942,7 @@
     "time": "bmo",
     "revenue": 1031501000,
     "revenueEstimated": 846769230,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2004-12-31"
   },
   {
@@ -931,7 +953,7 @@
     "time": "bmo",
     "revenue": 805887000,
     "revenueEstimated": 604500000,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2004-09-30"
   },
   {
@@ -942,7 +964,7 @@
     "time": "amc",
     "revenue": 700212000,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2004-06-30"
   },
   {
@@ -953,7 +975,7 @@
     "time": "amc",
     "revenue": 651623000,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2004-03-31"
   },
   {
@@ -964,7 +986,7 @@
     "time": "amc",
     "revenue": 512000000,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2003-12-31"
   },
   {
@@ -975,7 +997,7 @@
     "time": "amc",
     "revenue": 394000000,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2003-09-30"
   },
   {
@@ -986,7 +1008,7 @@
     "time": "amc",
     "revenue": 311199000,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2003-06-30"
   },
   {
@@ -997,7 +1019,7 @@
     "time": "amc",
     "revenue": 249000000,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2003-03-31"
   },
   {
@@ -1008,7 +1030,7 @@
     "time": "amc",
     "revenue": 188000000,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2002-12-31"
   },
   {
@@ -1019,7 +1041,7 @@
     "time": "amc",
     "revenue": 131000000,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2002-09-30"
   },
   {
@@ -1030,7 +1052,7 @@
     "time": "amc",
     "revenue": 79000000,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2002-06-30"
   },
   {
@@ -1041,7 +1063,7 @@
     "time": "amc",
     "revenue": 42000000,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-02-05",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2002-03-31"
   }
 ]

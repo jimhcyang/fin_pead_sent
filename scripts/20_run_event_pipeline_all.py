@@ -30,7 +30,11 @@ def main() -> None:
     ap.add_argument("--skip-market", action="store_true")
     ap.add_argument("--force-market-download", action="store_true", help="Re-download market even if file exists.")
     ap.add_argument("--market-rel", default="_tmp_market/spx/prices/yf_ohlcv_daily.csv")
-    ap.add_argument("--market-end", default="2026-01-31", help="End date for market download (can exceed event end).")
+    ap.add_argument("--market-end", default="2025-12-31", help="End date for market download before buffer is applied.")
+    ap.add_argument("--market-buffer-before-months", type=int, default=15,
+                    help="Download this many months before --start for market (default 15).")
+    ap.add_argument("--market-buffer-after-months", type=int, default=1,
+                    help="Download this many months after --end for market (default 1).")
     ap.add_argument("--pre-bdays", type=int, default=5)
     ap.add_argument("--post-bdays", type=int, default=10)
     ap.add_argument("--stable-period", choices=["quarter", "annual"], default="quarter")
@@ -65,6 +69,10 @@ def main() -> None:
                     args.market_end,
                     "--out-rel",
                     args.market_rel,
+                    "--buffer-before-months",
+                    str(int(args.market_buffer_before_months)),
+                    "--buffer-after-months",
+                    str(int(args.market_buffer_after_months)),
                 ],
                 cwd=root,
             )
