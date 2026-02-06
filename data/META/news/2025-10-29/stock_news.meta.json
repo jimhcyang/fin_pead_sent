@@ -20,8 +20,8 @@
   "pad_days": 1,
   "sleep": 0.25,
   "fetched_total": 621,
-  "kept_total": 595,
-  "dropped_dupes": 0,
+  "kept_total": 593,
+  "dropped_dupes": 2,
   "min_publishedDateET": "2025-10-22T08:19:57-04:00",
   "max_publishedDateET": "2025-11-12T18:00:00-05:00",
   "outputs": {
@@ -29,6 +29,6 @@
     "jsonl": "data/META/news/2025-10-29/stock_news.jsonl",
     "csv": "data/META/news/2025-10-29/stock_news.csv"
   },
-  "generated_at": "2026-02-02T20:31:19.926311-05:00",
+  "generated_at": "2026-02-06T01:53:06.447930-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

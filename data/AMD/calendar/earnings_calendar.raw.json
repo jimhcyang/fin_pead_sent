@@ -1,24 +1,24 @@
 [
   {
-    "date": "2026-05-04",
+    "date": "2026-05-05",
     "symbol": "AMD",
     "eps": null,
-    "epsEstimated": null,
+    "epsEstimated": 1.22,
     "time": "amc",
     "revenue": null,
-    "revenueEstimated": null,
-    "updatedFromDate": "2026-02-03",
-    "fiscalDateEnding": "2026-03-27"
+    "revenueEstimated": 9853268380,
+    "updatedFromDate": "2026-02-06",
+    "fiscalDateEnding": "2026-03-26"
   },
   {
     "date": "2026-02-03",
     "symbol": "AMD",
-    "eps": null,
+    "eps": 1.53,
     "epsEstimated": 1.32,
     "time": "amc",
-    "revenue": null,
-    "revenueEstimated": 9670272490,
-    "updatedFromDate": "2026-02-03",
+    "revenue": 10270000000,
+    "revenueEstimated": 9668356900,
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2025-12-27"
   },
   {
@@ -29,7 +29,7 @@
     "time": "amc",
     "revenue": 9246000000,
     "revenueEstimated": 8756463065,
-    "updatedFromDate": "2026-02-03",
+    "updatedFromDate": "2026-02-04",
     "fiscalDateEnding": "2025-09-27"
   },
   {

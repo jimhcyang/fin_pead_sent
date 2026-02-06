@@ -1,0 +1,9 @@
+{
+  "ticker": "XOM",
+  "notes": [
+    "Daily abnormal returns (decimal) at each offset."
+  ],
+  "rows": 320,
+  "cols": 14,
+  "created_at_local": "2026-02-06T02:00:27.924036"
+}

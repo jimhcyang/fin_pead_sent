@@ -3,11 +3,11 @@
     "date": "2026-05-01",
     "symbol": "XOM",
     "eps": null,
-    "epsEstimated": 1.62,
+    "epsEstimated": 1.6,
     "time": "bmo",
     "revenue": null,
-    "revenueEstimated": null,
-    "updatedFromDate": "2026-02-02",
+    "revenueEstimated": 79217960170,
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2026-03-31"
   },
   {
@@ -18,7 +18,7 @@
     "time": "bmo",
     "revenue": 80039000000,
     "revenueEstimated": 80631962479,
-    "updatedFromDate": "2026-02-02",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2025-12-31"
   },
   {

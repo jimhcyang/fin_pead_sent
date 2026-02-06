@@ -39,7 +39,7 @@ def main() -> None:
     ap.add_argument("--data-dir", default=None)
     ap.add_argument("--symbol", default="^GSPC")
     ap.add_argument("--start", required=True)
-    ap.add_argument("--end", required=True)
+    ap.add_argument("--end", default="2026-01-31")
     ap.add_argument("--out-rel", default="_tmp_market/spx/prices/yf_ohlcv_daily.csv")
     ap.add_argument("--force", action="store_true")
     args = ap.parse_args()

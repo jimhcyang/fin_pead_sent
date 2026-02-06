@@ -40,10 +40,9 @@ All data are saved under `data/{TICKER}/...` using a standardized folder layout 
 After preparing one ticker, the folder structure looks like:
 
 ### `data/{TICKER}/prices/`
-- `yf_ohlcv_daily_raw.csv`  
-  Daily OHLCV (+ adjusted close) with a buffer window (indicator warmup).
 - `yf_ohlcv_daily.csv`  
-  Trimmed to the requested `[start, end]` window (canonical file used downstream).
+  Daily OHLCV (+ adjusted close) from Yahoo Finance. Starts at `--price-start`
+  (default 2019-01-01) and keeps the full window—no separate raw/trimmed files.
 
 > Note: the event-level PEAD pipeline (scripts 21–26) uses **adjusted close only** and ignores intraday OHLC and volume.
 

@@ -6,12 +6,12 @@
     "limit": 100,
     "page": "looped_until_empty"
   },
-  "downloaded_at_et": "2026-02-02T20:28:19.725191-05:00",
+  "downloaded_at_et": "2026-02-06T01:50:19.835943-05:00",
   "cutoff_end_used": "2025-10-29",
   "cutoff_source": "arg",
-  "tail_n": 20,
+  "tail_n": 18,
   "align_window_days": 14,
-  "rows_saved": 20,
+  "rows_saved": 18,
   "anchor_source": "income-statement",
   "sort": "date_asc"
 }

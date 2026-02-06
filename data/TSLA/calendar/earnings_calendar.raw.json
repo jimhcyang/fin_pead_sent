@@ -3,11 +3,11 @@
     "date": "2026-04-28",
     "symbol": "TSLA",
     "eps": null,
-    "epsEstimated": 0.43,
+    "epsEstimated": 0.39,
     "time": "amc",
     "revenue": null,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-02-03",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2026-03-30"
   },
   {
@@ -18,7 +18,7 @@
     "time": "amc",
     "revenue": 24901000000,
     "revenueEstimated": 24739883475,
-    "updatedFromDate": "2026-02-03",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2025-12-31"
   },
   {

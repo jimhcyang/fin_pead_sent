@@ -1,25 +1,25 @@
 [
   {
-    "date": "2026-04-29",
+    "date": "2026-05-07",
     "symbol": "AMZN",
     "eps": null,
-    "epsEstimated": null,
+    "epsEstimated": 1.71,
     "time": "amc",
     "revenue": null,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-02-01",
-    "fiscalDateEnding": "2026-03-30"
+    "updatedFromDate": "2026-02-06",
+    "fiscalDateEnding": "2026-03-31"
   },
   {
     "date": "2026-02-05",
     "symbol": "AMZN",
-    "eps": null,
-    "epsEstimated": 1.98,
+    "eps": 1.95,
+    "epsEstimated": 1.97,
     "time": "amc",
-    "revenue": null,
-    "revenueEstimated": 211172169840,
-    "updatedFromDate": "2026-02-01",
-    "fiscalDateEnding": "2025-12-30"
+    "revenue": 213386000000,
+    "revenueEstimated": 211436958792,
+    "updatedFromDate": "2026-02-06",
+    "fiscalDateEnding": "2025-12-31"
   },
   {
     "date": "2025-10-30",

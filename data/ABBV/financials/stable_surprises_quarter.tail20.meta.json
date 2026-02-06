@@ -1,0 +1,9 @@
+{
+  "ticker": "ABBV",
+  "created_at_et": "2026-02-06T02:00:00.828559-05:00",
+  "cutoff_end_used": "2025-10-31",
+  "cutoff_source": "arg",
+  "tail_n": 20,
+  "anchor_source": "income-statement",
+  "notes": "Row-aligned to income-statement anchor dates; surprise = actual - est_avg; pct uses /abs(est)."
+}

@@ -1,0 +1,10 @@
+{
+  "ticker": "LLY",
+  "notes": [
+    "day0_date is the first close that reflects earnings: BMO=same day close, AMC=next trading day close.",
+    "Path window uses trading-day offsets: [-5, +10] relative to day0_date."
+  ],
+  "rows": 20,
+  "cols": 14,
+  "created_at_local": "2026-02-06T02:00:20.723631"
+}

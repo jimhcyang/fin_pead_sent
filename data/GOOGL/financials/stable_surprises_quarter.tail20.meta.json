@@ -1,9 +1,0 @@
-{
-  "ticker": "GOOGL",
-  "created_at_et": "2026-02-02T20:28:19.725191-05:00",
-  "cutoff_end_used": "2025-10-29",
-  "cutoff_source": "arg",
-  "tail_n": 20,
-  "anchor_source": "income-statement",
-  "notes": "Row-aligned to income-statement anchor dates; surprise = actual - est_avg; pct uses /abs(est)."
-}

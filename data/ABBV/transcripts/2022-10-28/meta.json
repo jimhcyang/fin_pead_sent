@@ -1,0 +1,9 @@
+{
+  "ticker": "ABBV",
+  "call_date": "2022-10-28",
+  "fmp_year": 2022,
+  "fmp_quarter": 3,
+  "downloaded_at_et": "2026-02-06T01:59:47.709821-05:00",
+  "source": "Financial Modeling Prep (FMP) earning_call_transcript endpoint",
+  "expected": 20
+}

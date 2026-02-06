@@ -4,15 +4,15 @@
 """
 01_yf_prices.py
 
-Download daily OHLCV (+ Adj Close) from Yahoo Finance via yfinance and save TWO files:
+Download daily OHLCV (+ Adj Close) from Yahoo Finance via yfinance and save a
+single file:
 
-  1) data/{TICKER}/prices/yf_ohlcv_daily_raw.csv
-     - includes a buffer before --start (default 3 months) for indicator warm-up
+  data/{TICKER}/prices/yf_ohlcv_daily.csv
+    - starts at: --start (default 2019-01-01)
+    - contains the full window; no separate "raw" file is written.
 
-  2) data/{TICKER}/prices/yf_ohlcv_daily.csv
-     - trimmed to the requested analysis window [--start, --end] inclusive
-
-Robust to yfinance returning MultiIndex (tuple) columns.
+Rationale: we now keep the full download in one place and let downstream
+scripts (technicals, event windows) apply their own cutoffs.
 """
 
 from __future__ import annotations
@@ -66,9 +66,21 @@ def _inclusive_end_for_daily(end_ymd: str) -> str:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--ticker", required=True)
-    ap.add_argument("--start", default="2021-01-01")
-    ap.add_argument("--end", default="2025-12-31")
-    ap.add_argument("--buffer-months", type=int, default=3)
+    ap.add_argument("--start", default="2021-01-01", help="Analysis window start (kept in file).")
+    ap.add_argument("--end", default="2025-12-31", help="Analysis window end (kept in file).")
+    ap.add_argument(
+        "--buffer-before-months",
+        type=int,
+        default=15,
+        help="Download this many months before --start (for warm-up + early events). Default: 15.",
+    )
+    ap.add_argument(
+        "--buffer-after-months",
+        type=int,
+        default=1,
+        help="Download this many months after --end (to cover post-event windows). Default: 1.",
+    )
+
     ap.add_argument("--outdir", default="data")
     args = ap.parse_args()
 
@@ -76,19 +88,13 @@ def main() -> None:
     start_dt = pd.to_datetime(args.start)
     end_dt = pd.to_datetime(args.end)
 
-    # Download window start = start - buffer months
-    if args.buffer_months and args.buffer_months > 0:
-        dl_start_dt = start_dt - pd.DateOffset(months=args.buffer_months)
-    else:
-        dl_start_dt = start_dt
-
-    dl_start = dl_start_dt.strftime("%Y-%m-%d")
-    dl_end = _inclusive_end_for_daily(end_dt.strftime("%Y-%m-%d"))
+    dl_start = (start_dt - pd.DateOffset(months=int(args.buffer_before_months))).strftime("%Y-%m-%d")
+    dl_end = _inclusive_end_for_daily((end_dt + pd.DateOffset(months=int(args.buffer_after_months))).strftime("%Y-%m-%d"))
 
     print(f"[INFO] Downloading {ticker} daily OHLCV from Yahoo Finance (yfinance)")
-    print(f"[INFO] requested window: {args.start} .. {args.end} (inclusive)")
-    print(f"[INFO] download window : {dl_start} .. {args.end} (yf_end_used={dl_end})")
-    print(f"[INFO] buffer-months={args.buffer_months} -> raw saved with buffer, trimmed saved to requested window")
+    print(f"[INFO] requested start/end : {args.start} .. {args.end} (inclusive)")
+    print(f"[INFO] buffer months       : before={args.buffer_before_months} after={args.buffer_after_months}")
+    print(f"[INFO] download window     : {dl_start} .. {(end_dt + pd.DateOffset(months=int(args.buffer_after_months))).strftime('%Y-%m-%d')} (yf_end_used={dl_end})")
 
     df = yf.download(
         tickers=ticker,
@@ -135,20 +141,20 @@ def main() -> None:
     out_dir = Path(args.outdir) / ticker / "prices"
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    # 1) RAW WITH BUFFER
-    raw = core.copy()
-    raw["date"] = raw["date"].dt.date.astype(str)
-    raw_path = out_dir / "yf_ohlcv_daily_raw.csv"
-    raw.to_csv(raw_path, index=False)
+    core["date"] = core["date"].dt.date.astype(str)
+    out_path = out_dir / "yf_ohlcv_daily.csv"
+    core.to_csv(out_path, index=False)
 
-    # 2) TRIMMED TO REQUESTED WINDOW
-    trimmed = core[(core["date"] >= start_dt) & (core["date"] <= end_dt)].copy()
-    trimmed["date"] = trimmed["date"].dt.date.astype(str)
-    trimmed_path = out_dir / "yf_ohlcv_daily.csv"
-    trimmed.to_csv(trimmed_path, index=False)
+    # clean up legacy raw file to avoid confusion
+    legacy_raw = out_dir / "yf_ohlcv_daily_raw.csv"
+    if legacy_raw.exists():
+        try:
+            legacy_raw.unlink()
+            print(f"[INFO] Removed legacy file {legacy_raw}")
+        except Exception as e:
+            print(f"[WARN] Could not remove legacy raw file {legacy_raw}: {e}")
 
-    print(f"[OK] Wrote RAW     {len(raw):,} rows -> {raw_path}")
-    print(f"[OK] Wrote TRIMMED {len(trimmed):,} rows -> {trimmed_path}")
+    print(f"[OK] Wrote {len(core):,} rows -> {out_path}")
 
 
 if __name__ == "__main__":

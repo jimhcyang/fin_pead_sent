@@ -139,6 +139,15 @@ def main() -> None:
     # window + expected count (earnings events)
     ap.add_argument("--start", default="2021-01-01")
     ap.add_argument("--end", default="2025-12-31")
+    ap.add_argument(
+        "--price-start",
+        default="2021-01-01",
+        help="Earliest analysis date for Yahoo Finance download (before buffers).",
+    )
+    ap.add_argument("--yf-buffer-before-months", type=int, default=15,
+                    help="Download this many months before --price-start (default 15).")
+    ap.add_argument("--yf-buffer-after-months", type=int, default=1,
+                    help="Download this many months after --end (default 1).")
     ap.add_argument("--expected", type=int, default=20)
 
     # storage
@@ -155,7 +164,7 @@ def main() -> None:
     ap.add_argument("--skip_financials", action="store_true")
     ap.add_argument("--with_news", action="store_true")
     ap.set_defaults(with_news=True)
-
+    
     # News window (earnings-date centered): [-pre_bdays, +post_bdays], weekdays-only
     ap.add_argument("--news-pre-bdays", type=int, default=5)
     ap.add_argument("--news-post-bdays", type=int, default=10)
@@ -217,7 +226,7 @@ def main() -> None:
         f"[CONFIG] DATA_DIR={args.data_dir} range={args.start}..{args.end} tickers={tickers} "
         f"skip_yf={args.skip_yf} skip_fmp={args.skip_fmp} skip_transcripts={args.skip_transcripts} "
         f"skip_financials={args.skip_financials} skip_stable={args.skip_stable} with_news={args.with_news} "
-        f"sleep={args.sleep}",
+        f"sleep={args.sleep} price_start={args.price_start} yf_buffer_before={args.yf_buffer_before_months} yf_buffer_after={args.yf_buffer_after_months}",
         flush=True,
     )
 
@@ -241,15 +250,18 @@ def main() -> None:
                         "--ticker",
                         tkr,
                         "--start",
-                        args.start,
+                        args.price_start,
                         "--end",
                         args.end,
+                        "--buffer-before-months",
+                        str(int(args.yf_buffer_before_months)),
+                        "--buffer-after-months",
+                        str(int(args.yf_buffer_after_months)),
                         "--outdir",
                         args.data_dir,
                     ],
                     cwd=root,
                 )
-
             # 02 technicals
             if not args.skip_yf and not args.skip_technicals:
                 run([py, "-u", str(scripts / "02_technicals.py"), "--ticker", tkr] + common_data_dir, cwd=root)

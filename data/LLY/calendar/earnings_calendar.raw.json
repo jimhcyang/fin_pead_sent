@@ -1,24 +1,24 @@
 [
   {
-    "date": "2026-04-29",
+    "date": "2026-05-07",
     "symbol": "LLY",
     "eps": null,
-    "epsEstimated": null,
+    "epsEstimated": 6.96,
     "time": "bmo",
     "revenue": null,
     "revenueEstimated": null,
-    "updatedFromDate": "2026-02-03",
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2026-03-30"
   },
   {
     "date": "2026-02-04",
     "symbol": "LLY",
-    "eps": null,
-    "epsEstimated": 6.99,
+    "eps": 7.54,
+    "epsEstimated": 6.91,
     "time": "bmo",
-    "revenue": null,
-    "revenueEstimated": 17917398090,
-    "updatedFromDate": "2026-02-03",
+    "revenue": 19292000000,
+    "revenueEstimated": 17944348817,
+    "updatedFromDate": "2026-02-06",
     "fiscalDateEnding": "2025-12-30"
   },
   {

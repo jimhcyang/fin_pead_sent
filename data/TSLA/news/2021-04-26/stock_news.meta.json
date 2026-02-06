@@ -29,6 +29,6 @@
     "jsonl": "data/TSLA/news/2021-04-26/stock_news.jsonl",
     "csv": "data/TSLA/news/2021-04-26/stock_news.csv"
   },
-  "generated_at": "2026-02-02T20:32:07.356034-05:00",
+  "generated_at": "2026-02-06T01:53:50.187855-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

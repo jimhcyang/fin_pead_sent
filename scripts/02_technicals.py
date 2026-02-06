@@ -15,36 +15,29 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--ticker", required=True)
     ap.add_argument("--data-dir", default=None)
+    ap.add_argument(
+        "--analysis-start",
+        default="2019-10-01",
+        help="Earliest date to keep in the technicals output (default: 2019-10-01).",
+    )
     args = ap.parse_args()
 
     ticker = args.ticker.upper()
     data_dir = Path(args.data_dir) if args.data_dir else default_data_dir()
 
     prices_dir = data_dir / ticker / "prices"
-    prices_trim_path = prices_dir / "yf_ohlcv_daily.csv"
-    prices_raw_path = prices_dir / "yf_ohlcv_daily_raw.csv"
+    prices_path = prices_dir / "yf_ohlcv_daily.csv"
 
-    if not prices_trim_path.exists():
-        raise RuntimeError(f"Missing prices file: {prices_trim_path}. Run 01_yf_prices.py first.")
+    if not prices_path.exists():
+        raise RuntimeError(f"Missing prices file: {prices_path}. Run 01_yf_prices.py first.")
 
-    # Trimmed window defines what we save (alignment for joins)
-    df_trim = read_csv(prices_trim_path)
-    df_trim["date"] = pd.to_datetime(df_trim["date"])
-    df_trim = df_trim.sort_values("date").reset_index(drop=True)
-
-    analysis_start = df_trim["date"].min()
-    analysis_end = df_trim["date"].max()
-
-    # Raw (buffered) is used to compute indicators (warm-up)
-    if prices_raw_path.exists():
-        df = read_csv(prices_raw_path)
-        source_prices = "Yahoo Finance (via yfinance) [raw with buffer]"
-    else:
-        df = df_trim.copy()
-        source_prices = "Yahoo Finance (via yfinance) [trimmed only]"
-
+    df = read_csv(prices_path)
     df["date"] = pd.to_datetime(df["date"])
     df = df.sort_values("date").reset_index(drop=True)
+
+    analysis_start = max(pd.to_datetime(args.analysis_start), df["date"].min())
+    analysis_end = df["date"].max()
+    source_prices = "Yahoo Finance (via yfinance)"
 
     # Use adjusted close for returns
     adj = df["adj_close"].astype(float)
@@ -116,7 +109,7 @@ def main() -> None:
         "rows": int(out.shape[0]),
         "analysis_window_start": analysis_start.date().isoformat(),
         "analysis_window_end": analysis_end.date().isoformat(),
-        "notes": "Indicators computed from buffered daily OHLCV when available; saved output is truncated to the analysis window defined by yf_ohlcv_daily.csv. Returns use adjusted close.",
+        "notes": "Indicators computed from full yf_ohlcv_daily.csv; output is truncated to the analysis window defined by --analysis-start..last price date. Returns use adjusted close.",
     }
     write_json(meta, out_dir / "technicals_daily.meta.json")
 

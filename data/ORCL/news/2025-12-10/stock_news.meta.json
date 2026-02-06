@@ -29,6 +29,6 @@
     "jsonl": "data/ORCL/news/2025-12-10/stock_news.jsonl",
     "csv": "data/ORCL/news/2025-12-10/stock_news.csv"
   },
-  "generated_at": "2026-02-02T20:36:14.152602-05:00",
+  "generated_at": "2026-02-06T01:57:43.044621-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }
