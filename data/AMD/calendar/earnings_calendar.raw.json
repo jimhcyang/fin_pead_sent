@@ -3,11 +3,11 @@
     "date": "2026-05-05",
     "symbol": "AMD",
     "eps": null,
-    "epsEstimated": 1.22,
+    "epsEstimated": 1.27,
     "time": "amc",
     "revenue": null,
     "revenueEstimated": 9853268380,
-    "updatedFromDate": "2026-02-06",
+    "updatedFromDate": "2026-02-07",
     "fiscalDateEnding": "2026-03-26"
   },
   {
@@ -18,7 +18,7 @@
     "time": "amc",
     "revenue": 10270000000,
     "revenueEstimated": 9668356900,
-    "updatedFromDate": "2026-02-06",
+    "updatedFromDate": "2026-02-07",
     "fiscalDateEnding": "2025-12-27"
   },
   {

@@ -122,8 +122,9 @@ def calendar_cutoff_and_count(cal_csv: Path, ticker: str) -> Tuple[Optional[str]
 
 
 # --------------------------
-# NEW helpers: call-date centering for news
+# Helpers: transcript-folder dates + diagnostics mapping
 # --------------------------
+
 def _list_transcript_dates(transcripts_dir: Path) -> List[str]:
     if not transcripts_dir.exists():
         return []
@@ -164,12 +165,7 @@ def _map_calendar_to_call_dates(
     transcript_dates: List[str],
     tolerance_days: int = 7,
 ) -> List[str]:
-    """
-    For each calendar earnings_date, choose a call_date:
-      - exact transcript folder match if possible
-      - else nearest transcript folder within tolerance
-      - else fallback to the calendar date itself
-    """
+    """Diagnostics only: map calendar earnings_date -> transcript folder date."""
     used: set[str] = set()
     out: List[str] = []
 
@@ -191,7 +187,10 @@ def _map_calendar_to_call_dates(
 
 def main() -> None:
     ap = argparse.ArgumentParser(
-        description="Prep per-ticker data: init dirs, Yahoo prices+technicals, FMP calendar+transcripts+financials, and FMP STABLE statements/estimates."
+        description=(
+            "Prep per-ticker data: init dirs, Yahoo prices+technicals, FMP calendar+transcripts+financials, "
+            "and FMP STABLE statements/estimates."
+        )
     )
 
     ap.add_argument("--ticker", default=None)
@@ -207,7 +206,7 @@ def main() -> None:
     ap.add_argument("--expected", type=int, default=20)
 
     ap.add_argument("--data-dir", default="data")
-    ap.add_argument("--sleep", type=float, default=0.25)
+    ap.add_argument("--sleep", type=float, default=0.05)
 
     ap.add_argument("--skip_yf", action="store_true")
     ap.add_argument("--skip_technicals", action="store_true")
@@ -223,6 +222,8 @@ def main() -> None:
     ap.add_argument("--news-max-pages", type=int, default=100)
     ap.add_argument("--news-chunk-days", type=int, default=0)
     ap.add_argument("--news-pad-days", type=int, default=1)
+
+    # kept for DIAGNOSTICS only (does not affect fetch dates)
     ap.add_argument("--news-call-match-tolerance-days", type=int, default=7)
 
     ap.add_argument("--skip_stable", action="store_true")
@@ -292,12 +293,18 @@ def main() -> None:
                         py,
                         "-u",
                         str(scripts / "01_yf_prices.py"),
-                        "--ticker", tkr,
-                        "--start", args.price_start,
-                        "--end", args.end,
-                        "--buffer-before-months", str(int(args.yf_buffer_before_months)),
-                        "--buffer-after-months", str(int(args.yf_buffer_after_months)),
-                        "--outdir", args.data_dir,
+                        "--ticker",
+                        tkr,
+                        "--start",
+                        args.price_start,
+                        "--end",
+                        args.end,
+                        "--buffer-before-months",
+                        str(int(args.yf_buffer_before_months)),
+                        "--buffer-after-months",
+                        str(int(args.yf_buffer_after_months)),
+                        "--outdir",
+                        args.data_dir,
                     ],
                     cwd=root,
                 )
@@ -312,13 +319,19 @@ def main() -> None:
             if not args.skip_fmp:
                 run(
                     [
-                        py, "-u",
+                        py,
+                        "-u",
                         str(scripts / "03_fmp_earnings_calendar.py"),
-                        "--ticker", tkr,
-                        "--start", args.start,
-                        "--end", args.end,
-                        "--expected", str(int(args.expected)),
-                    ] + common_data_dir,
+                        "--ticker",
+                        tkr,
+                        "--start",
+                        args.start,
+                        "--end",
+                        args.end,
+                        "--expected",
+                        str(int(args.expected)),
+                    ]
+                    + common_data_dir,
                     cwd=root,
                 )
 
@@ -328,37 +341,49 @@ def main() -> None:
                 if not args.skip_transcripts:
                     run(
                         [
-                            py, "-u",
+                            py,
+                            "-u",
                             str(scripts / "04_fmp_transcripts.py"),
-                            "--ticker", tkr,
-                            "--start", args.start,
-                            "--end", args.end,
-                            "--expected", str(int(args.expected)),
-                        ] + common_data_dir,
+                            "--ticker",
+                            tkr,
+                            "--start",
+                            args.start,
+                            "--end",
+                            args.end,
+                            "--expected",
+                            str(int(args.expected)),
+                        ]
+                        + common_data_dir,
                         cwd=root,
                     )
 
                 if not args.skip_financials:
                     run(
                         [
-                            py, "-u",
+                            py,
+                            "-u",
                             str(scripts / "06_fmp_financials.py"),
-                            "--ticker", tkr,
-                            "--start", args.start,
-                            "--end", args.end,
-                            "--expected", str(int(args.expected)),
-                            "--limit", "400",
-                        ] + common_data_dir,
+                            "--ticker",
+                            tkr,
+                            "--start",
+                            args.start,
+                            "--end",
+                            args.end,
+                            "--expected",
+                            str(int(args.expected)),
+                            "--limit",
+                            "400",
+                        ]
+                        + common_data_dir,
                         cwd=root,
                     )
 
                 if args.with_news:
-                    # --- NEW behavior: use CALL-DATE centered windows where possible ---
+                    # --- SIMPLE behavior: ALWAYS fetch news around the transcript folder dates (call dates). ---
+                    # Diagnostics mapping can be printed, but it does NOT affect the fetch dates.
                     cal_csv = Path(args.data_dir) / tkr / "calendar" / "earnings_calendar.csv"
                     if not cal_csv.exists():
-                        raise FileNotFoundError(
-                            f"Missing earnings_calendar.csv for {tkr}. Expected: {cal_csv}."
-                        )
+                        raise FileNotFoundError(f"Missing earnings_calendar.csv for {tkr}. Expected: {cal_csv}.")
 
                     calendar_dates: list[str] = []
                     with cal_csv.open("r", newline="", encoding="utf-8") as f:
@@ -372,47 +397,75 @@ def main() -> None:
                                 calendar_dates.append(d)
 
                     calendar_dates = sorted(set(calendar_dates))
-                    if not calendar_dates:
-                        print(f"[WARN] {tkr}: no earnings dates found in {cal_csv}; skipping news")
-                    else:
-                        tx_dir = Path(args.data_dir) / tkr / "transcripts"
-                        tx_dates = _list_transcript_dates(tx_dir)
 
-                        event_dates_for_news = _map_calendar_to_call_dates(
+                    tx_dir = Path(args.data_dir) / tkr / "transcripts"
+                    tx_dates = _list_transcript_dates(tx_dir)
+
+                    # --- Dates we actually fetch news for ---
+                    if tx_dates:
+                        dates_for_news = tx_dates
+                        src = "transcripts(call dates)"
+                    else:
+                        dates_for_news = calendar_dates
+                        src = "calendar(earnings dates)"
+
+                    # --- OPTIONAL diagnostics: calendar->call mapping (print only) ---
+                    if calendar_dates and tx_dates:
+                        mapped = _map_calendar_to_call_dates(
                             calendar_dates,
                             tx_dates,
                             tolerance_days=int(args.news_call_match_tolerance_days),
                         )
-
-                        # de-dupe while preserving order
-                        seen = set()
-                        ordered_unique: list[str] = []
-                        for d in event_dates_for_news:
-                            if d not in seen:
-                                ordered_unique.append(d)
-                                seen.add(d)
-
+                        mism = sum(1 for a, b in zip(sorted(calendar_dates), mapped) if a != b)
                         print(
-                            f"[INFO] {tkr}: news windows centered on call dates where possible "
-                            f"(calendar={len(calendar_dates)} transcripts={len(tx_dates)} news_windows={len(ordered_unique)})",
+                            f"[INFO] {tkr}: news fetch dates from {src}: n={len(dates_for_news)} | "
+                            f"diagnostics: calendar={len(calendar_dates)} transcripts={len(tx_dates)} mapped_mismatch={mism}",
                             flush=True,
                         )
+                    else:
+                        print(
+                            f"[INFO] {tkr}: news fetch dates from {src}: n={len(dates_for_news)} | "
+                            f"calendar={len(calendar_dates)} transcripts={len(tx_dates)}",
+                            flush=True,
+                        )
+
+                    if not dates_for_news:
+                        print(f"[WARN] {tkr}: no dates available for news fetch; skipping", flush=True)
+                    else:
+                        # de-dupe while preserving order
+                        seen: set[str] = set()
+                        ordered_unique: list[str] = []
+                        for d in dates_for_news:
+                            if d and d not in seen:
+                                ordered_unique.append(d)
+                                seen.add(d)
 
                         for ed in ordered_unique:
                             run(
                                 [
-                                    py, "-u",
+                                    py,
+                                    "-u",
                                     str(scripts / "05_fmp_news.py"),
-                                    "--ticker", tkr,
-                                    "--earnings-date", ed,
-                                    "--pre-bdays", str(int(args.news_pre_bdays)),
-                                    "--post-bdays", str(int(args.news_post_bdays)),
-                                    "--page-limit", str(int(args.news_page_limit)),
-                                    "--max-pages", str(int(args.news_max_pages)),
-                                    "--chunk-days", str(int(args.news_chunk_days)),
-                                    "--pad-days", str(int(args.news_pad_days)),
-                                    "--sleep", str(float(args.sleep)),
-                                ] + common_data_dir,
+                                    "--ticker",
+                                    tkr,
+                                    "--earnings-date",
+                                    ed,
+                                    "--pre-bdays",
+                                    str(int(args.news_pre_bdays)),
+                                    "--post-bdays",
+                                    str(int(args.news_post_bdays)),
+                                    "--page-limit",
+                                    str(int(args.news_page_limit)),
+                                    "--max-pages",
+                                    str(int(args.news_max_pages)),
+                                    "--chunk-days",
+                                    str(int(args.news_chunk_days)),
+                                    "--pad-days",
+                                    str(int(args.news_pad_days)),
+                                    "--sleep",
+                                    str(float(args.sleep)),
+                                ]
+                                + common_data_dir,
                                 cwd=root,
                             )
 
@@ -427,18 +480,29 @@ def main() -> None:
 
                 run(
                     [
-                        py, "-u",
+                        py,
+                        "-u",
                         str(scripts / "08_fmp_stable_income_and_estimates.py"),
-                        "--tickers", tkr,
-                        "--data-dir", args.data_dir,
-                        "--sleep", str(float(args.sleep)),
-                        "--stmt-period", args.stable_stmt_period,
-                        "--stmt-limit", str(int(args.stable_stmt_limit)),
-                        "--est-period", args.stable_est_period,
-                        "--est-limit", str(int(args.stable_est_limit)),
-                        "--tail-n", str(int(stable_tail_n)),
-                        "--cutoff-end", stable_cutoff_end,
-                        "--align-window-days", str(int(args.stable_align_window_days)),
+                        "--tickers",
+                        tkr,
+                        "--data-dir",
+                        args.data_dir,
+                        "--sleep",
+                        str(float(args.sleep)),
+                        "--stmt-period",
+                        args.stable_stmt_period,
+                        "--stmt-limit",
+                        str(int(args.stable_stmt_limit)),
+                        "--est-period",
+                        args.stable_est_period,
+                        "--est-limit",
+                        str(int(args.stable_est_limit)),
+                        "--tail-n",
+                        str(int(stable_tail_n)),
+                        "--cutoff-end",
+                        stable_cutoff_end,
+                        "--align-window-days",
+                        str(int(args.stable_align_window_days)),
                     ],
                     cwd=root,
                 )
@@ -454,12 +518,17 @@ def main() -> None:
     if not args.skip_gap_check:
         run(
             [
-                py, "-u",
+                py,
+                "-u",
                 str(scripts / "07_check_data_gaps.py"),
-                "--data-root", args.data_dir,
-                "--expected", str(int(args.expected)),
-                "--out", args.gap_report,
-                "--tickers", *tickers,
+                "--data-root",
+                args.data_dir,
+                "--expected",
+                str(int(args.expected)),
+                "--out",
+                args.gap_report,
+                "--tickers",
+                *tickers,
             ],
             cwd=root,
         )

@@ -29,6 +29,6 @@
     "jsonl": "data/MSFT/news/2025-07-30/stock_news.jsonl",
     "csv": "data/MSFT/news/2025-07-30/stock_news.csv"
   },
-  "generated_at": "2026-02-06T17:35:53.817649-05:00",
+  "generated_at": "2026-02-07T14:37:44.185636-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

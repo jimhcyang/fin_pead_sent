@@ -5,30 +5,39 @@
 scripts/31_extract_text_units.py
 
 Extract "text units" for:
-  1) News: from data/{TICKER}/news/**/stock_news.csv (stable endpoint outputs)
+  1) News: from data/{TICKER}/news/YYYY-MM-DD/stock_news.csv
   2) Earnings-call transcripts: from data/{TICKER}/transcripts/YYYY-MM-DD/transcript.txt
 
 Outputs:
   data/{TICKER}/events/text_units_news.csv
   data/{TICKER}/events/text_units_transcripts.csv
 
-Key changes (2026-02-06):
-  - Q&A split is more robust using your 2-line Operator/first-question rules.
-  - Windows for news + transcript alignment are centered on the earnings CALL date
-    (transcript folder date), not necessarily the earnings release/document date.
-  - We map each event in events/event_windows.csv to the nearest transcript call date
-    within a tolerance (default 7 days), so tickers where call != release date no longer
-    "miss transcripts" due to folder mismatch.
+Key behavior:
+  - We align each earnings event to an earnings *call* date (transcript folder date).
+    Alignment is 1-to-1 BY ORDER (sorted events vs sorted transcript folders) using the
+    tail(min(N)) to avoid quarter drift when counts mismatch.
+  - We label transcript units as section ∈ {prepared, qa} using a robust Q&A start detector:
+      * lines 1–3 (non-empty) are ALWAYS ineligible to start Q&A
+      * Q&A start must occur at/after line 4 and is usually within lines 4–10
+      * we look for headings ("QUESTION-AND-ANSWER", "Q&A", etc.)
+      * or a candidate speaker line ("Operator:" OR the same <NAME>: as transcript line 1)
+        plus cues like "first question", "Q&A session", "[Operator Instructions]", etc.
+  - For news, we attach each article to the event whose window is centered on the CALL date,
+    and label phase ∈ {pre, post} relative to call datetime (from transcript.json if available;
+    else noon ET on call_date).
+
+Notes:
+  - This script purposefully does NOT attempt a nearest-date matching between calendar and transcript.
+    It is designed to be stable over time and avoid Q1/Q2 swaps when dates drift.
 """
 
 from __future__ import annotations
 
 import argparse
-import csv
 import json
 import re
 from dataclasses import dataclass
-from datetime import date, datetime, time, timedelta
+from datetime import date, datetime
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -38,8 +47,9 @@ from zoneinfo import ZoneInfo
 from _common import parse_dt_any, to_et
 
 ET = ZoneInfo("America/New_York")
-
 DATE_DIR_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+
+SPEAKER_RE = re.compile(r"^([A-Za-z][A-Za-z .\-\'&]{0,80}):\s*(.*)$")
 
 
 # -------------------------
@@ -48,44 +58,32 @@ DATE_DIR_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 @dataclass
 class EventWindow:
     ticker: str
-    earnings_date: str   # event key from event_windows.csv (often earnings release date)
-    day0_date: str       # event key (often trading-day anchor)
-    day0_dt: Optional[str]
-    dt_m5: Optional[str]
-    dt_p10: Optional[str]
+    earnings_date: str
+    day0_date: str
+    day0_dt: Optional[str] = None
 
-    # New / derived
-    call_date: Optional[str] = None          # transcript folder date
-    call_dt: Optional[str] = None            # transcript timestamp if available
-    window_center_date: Optional[str] = None # call_date if exists else earnings_date
+    # attached call info
+    call_date: Optional[str] = None
+    call_dt: Optional[str] = None  # ISO ET if available
+    call_gap_days: Optional[int] = None
 
 
 # -------------------------
-# Helpers
+# Small utils
 # -------------------------
+
 def _ensure_dir(p: Path) -> None:
     p.mkdir(parents=True, exist_ok=True)
 
 
-def _parse_yyyy_mm_dd(s: str) -> date:
-    return datetime.strptime(s, "%Y-%m-%d").date()
-
-
-def _dt_iso_at(d: date, hh: int, mm: int, ss: int = 0) -> str:
-    return datetime(d.year, d.month, d.day, hh, mm, ss, tzinfo=ET).isoformat()
-
-
-def shift_weekdays(d: date, n: int) -> date:
-    """Shift by n weekdays (Mon–Fri). Holidays are NOT excluded."""
-    if n == 0:
-        return d
-    step = 1 if n > 0 else -1
-    cur = d
-    for _ in range(abs(int(n))):
-        cur = cur + timedelta(days=step)
-        while cur.weekday() >= 5:
-            cur = cur + timedelta(days=step)
-    return cur
+def _parse_yyyy_mm_dd(s: str) -> Optional[date]:
+    s = (s or "").strip()
+    if not s:
+        return None
+    try:
+        return datetime.strptime(s, "%Y-%m-%d").date()
+    except Exception:
+        return None
 
 
 def _list_transcript_dates(transcripts_dir: Path) -> List[str]:
@@ -99,10 +97,7 @@ def _list_transcript_dates(transcripts_dir: Path) -> List[str]:
 
 
 def _load_transcript_datetime(transcript_dir: Path) -> Optional[str]:
-    """
-    If transcript.json exists and has a 'date' field, parse it to ET and return iso.
-    Otherwise None.
-    """
+    """If transcript.json exists and has a 'date' field, parse to ET ISO."""
     jpath = transcript_dir / "transcript.json"
     if not jpath.exists():
         return None
@@ -118,39 +113,51 @@ def _load_transcript_datetime(transcript_dir: Path) -> Optional[str]:
         return None
 
 
-def _nearest_date_match(
-    target: str,
-    candidates: List[str],
-    used: set[str],
-    tolerance_days: int,
-) -> Optional[str]:
-    """
-    Find nearest unused candidate date to target within tolerance.
-    """
+def _safe_read_csv(path: Path) -> pd.DataFrame:
+    if not path.exists():
+        return pd.DataFrame()
     try:
-        t = _parse_yyyy_mm_dd(target)
+        return pd.read_csv(path, dtype=str, keep_default_na=False)
     except Exception:
+        return pd.DataFrame()
+
+
+def _detect_text_col(df: pd.DataFrame) -> Optional[str]:
+    if df.empty:
         return None
+    candidates = [
+        "text",
+        "content",
+        "summary",
+        "article",
+        "body",
+        "description",
+        "snippet",
+        "fullText",
+        "full_text",
+    ]
+    cols = {c.lower(): c for c in df.columns}
+    for k in candidates:
+        if k.lower() in cols:
+            return cols[k.lower()]
+    return None
 
-    best: Optional[Tuple[int, str]] = None  # (abs_days, date_str)
-    for c in candidates:
-        if c in used:
-            continue
-        try:
-            cd = _parse_yyyy_mm_dd(c)
-        except Exception:
-            continue
-        diff = abs((cd - t).days)
-        if diff <= tolerance_days:
-            if best is None or diff < best[0]:
-                best = (diff, c)
 
-    return best[1] if best else None
+def _detect_date_col(df: pd.DataFrame) -> Optional[str]:
+    if df.empty:
+        return None
+    candidates = ["publishedDate", "published_date", "date", "datetime", "time"]
+    cols = {c.lower(): c for c in df.columns}
+    for k in candidates:
+        if k.lower() in cols:
+            return cols[k.lower()]
+    return None
 
 
 # -------------------------
-# Load Events
+# Load events
 # -------------------------
+
 def load_event_windows(events_csv: Path, ticker: str) -> List[EventWindow]:
     if not events_csv.exists():
         raise FileNotFoundError(f"Missing events file: {events_csv}")
@@ -159,16 +166,13 @@ def load_event_windows(events_csv: Path, ticker: str) -> List[EventWindow]:
     if df.empty:
         return []
 
-    # Required fields
     required = {"ticker", "earnings_date", "day0_date"}
     missing = required - set(df.columns)
     if missing:
         raise RuntimeError(f"{events_csv} missing required columns: {sorted(missing)}")
 
-    # Optional dt columns
-    for c in ["day0_dt", "dt_m5", "dt_p10"]:
-        if c not in df.columns:
-            df[c] = ""
+    if "day0_dt" not in df.columns:
+        df["day0_dt"] = ""
 
     out: List[EventWindow] = []
     for _, r in df.iterrows():
@@ -180,226 +184,246 @@ def load_event_windows(events_csv: Path, ticker: str) -> List[EventWindow]:
                 earnings_date=str(r.get("earnings_date", "")).strip(),
                 day0_date=str(r.get("day0_date", "")).strip(),
                 day0_dt=(str(r.get("day0_dt", "")).strip() or None),
-                dt_m5=(str(r.get("dt_m5", "")).strip() or None),
-                dt_p10=(str(r.get("dt_p10", "")).strip() or None),
             )
         )
 
-    # Sort ascending by earnings_date as a stable baseline
     out.sort(key=lambda e: e.earnings_date)
     return out
 
 
-def attach_call_dates(
+# -------------------------
+# Attach call dates (ORDERED 1-1)
+# -------------------------
+
+def attach_call_dates_ordered(
     events: List[EventWindow],
     transcripts_dir: Path,
-    tolerance_days: int,
-    pre_bdays: int,
-    post_bdays: int,
+    warn_gap_days: int = 45,
+    strict_count: bool = False,
 ) -> None:
     """
-    Mutates EventWindow objects:
-      - call_date: matched transcript folder date
-      - call_dt: parsed datetime from transcript.json if available
-      - window_center_date: call_date if exists else earnings_date
-      - dt_m5/dt_p10: recomputed around window_center_date (call-centered)
-      - day0_dt: if call_dt exists, use that for pre/post phase split; else keep prior
+    1-to-1 alignment BY ORDER (sorted):
+      events sorted by earnings_date
+      transcript folders sorted by YYYY-MM-DD
+
+    If counts differ, align the tail min(N) of both (most recent quarters).
     """
     tx_dates = _list_transcript_dates(transcripts_dir)
-    used: set[str] = set()
 
     for ev in events:
-        # 1) Exact folder match first
-        if (transcripts_dir / ev.earnings_date).exists():
-            ev.call_date = ev.earnings_date
-            used.add(ev.call_date)
-        else:
-            # 2) Nearest transcript folder date within tolerance
-            m = _nearest_date_match(ev.earnings_date, tx_dates, used, tolerance_days=tolerance_days)
-            if m:
-                ev.call_date = m
-                used.add(m)
-            else:
-                ev.call_date = None
+        ev.call_date = None
+        ev.call_dt = None
+        ev.call_gap_days = None
 
-        # Decide center date
-        center = ev.call_date or ev.earnings_date
-        ev.window_center_date = center
+    if not events or not tx_dates:
+        return
 
-        # Load call datetime if possible
-        if ev.call_date:
-            ev.call_dt = _load_transcript_datetime(transcripts_dir / ev.call_date)
-        else:
-            ev.call_dt = None
+    n_ev = len(events)
+    n_tx = len(tx_dates)
 
-        # Compute window start/end around center date using business-day shifting
+    if n_ev != n_tx:
+        msg = f"events={n_ev} transcripts={n_tx} (expected same). Aligning by tail(min) to avoid Q drift."
+        if strict_count:
+            raise RuntimeError(msg)
+        print(f"[WARN] {msg}", flush=True)
+
+    n = min(n_ev, n_tx)
+    ev_slice = events[-n:]
+    tx_slice = tx_dates[-n:]
+
+    for ev, call_date in zip(ev_slice, tx_slice):
+        ev.call_date = call_date
+        ev.call_dt = _load_transcript_datetime(transcripts_dir / call_date)
+
+        # compute gap
         try:
-            d0 = _parse_yyyy_mm_dd(center)
-            d_start = shift_weekdays(d0, -int(pre_bdays))
-            d_end = shift_weekdays(d0, int(post_bdays))
-            ev.dt_m5 = _dt_iso_at(d_start, 0, 0, 0)
-            ev.dt_p10 = _dt_iso_at(d_end, 23, 59, 59)
+            ed = _parse_yyyy_mm_dd(ev.earnings_date)
+            cd = _parse_yyyy_mm_dd(call_date)
+            if ed and cd:
+                gap = abs((cd - ed).days)
+                ev.call_gap_days = int(gap)
+                if warn_gap_days and gap > int(warn_gap_days):
+                    print(
+                        f"[WARN] large call gap: {ev.ticker} earnings_date={ev.earnings_date} call_date={call_date} gap_days={gap}",
+                        flush=True,
+                    )
         except Exception:
-            # keep old values if parsing fails
-            pass
-
-        # day0_dt for phase split: prefer call_dt
-        if ev.call_dt:
-            ev.day0_dt = ev.call_dt
-        else:
-            # If none provided, set noon ET at center date
-            if not ev.day0_dt:
-                try:
-                    dd = _parse_yyyy_mm_dd(center)
-                    ev.day0_dt = _dt_iso_at(dd, 12, 0, 0)
-                except Exception:
-                    ev.day0_dt = None
+            ev.call_gap_days = None
 
 
 # -------------------------
-# Load News (all folders)
+# Robust Q&A split
 # -------------------------
-def load_all_news(news_root: Path, ticker: str) -> pd.DataFrame:
-    if not news_root.exists():
-        return pd.DataFrame()
 
-    files = list(news_root.glob("**/stock_news.csv"))
-    if not files:
-        # also support older naming if you used explicit range mode
-        files = list(news_root.glob("**/stock_news*.csv"))
-
-    rows: List[pd.DataFrame] = []
-    for fp in files:
-        try:
-            df = pd.read_csv(fp, dtype=str, keep_default_na=False)
-            if not df.empty:
-                rows.append(df)
-        except Exception:
-            continue
-
-    if not rows:
-        return pd.DataFrame()
-
-    out = pd.concat(rows, ignore_index=True)
-    out["ticker"] = ticker.upper()
-    return out
-
-
-# -------------------------
-# Transcript splitting (robust Q&A)
-# -------------------------
-_QNA_HEADINGS = (
-    "questions and answers",
-    "question and answer",
+_QA_HEADINGS = (
     "question-and-answer",
+    "question and answer",
+    "questions and answers",
+    "questions & answers",
     "q&a",
     "q & a",
     "q and a",
-    "questions & answers",
-    "questions and answer session",
+)
+
+_QA_CUES = (
     "question-and-answer session",
+    "question and answer session",
+    "questions and answers session",
+    "q&a session",
+    "q & a session",
+    "operator instructions",
+    "[operator instructions]",
+    "our first question",
+    "your first question",
+    "first question",
+    "we'll go first to",
+    "we will go first to",
+    "we\u2019ll go first to",
+    "we\u2019ll go first",
+    "we\u2019ll now open",
+    "we will now open",
+    "we will now begin",
+    "we will begin the question",
 )
 
 
-def split_transcript_into_units(
-    transcript_text: str,
-) -> Tuple[List[Tuple[str, str, str]], Dict[str, int]]:
+def _speaker_of(line: str) -> Optional[str]:
+    m = SPEAKER_RE.match(line)
+    if not m:
+        return None
+    return (m.group(1) or "").strip()
+
+
+def _strip_speaker(line: str) -> str:
+    m = SPEAKER_RE.match(line)
+    if not m:
+        return line.strip()
+    return (m.group(2) or "").strip()
+
+
+def find_qa_start(lines_non_empty: List[str]) -> Tuple[Optional[int], str, Optional[str]]:
     """
-    Returns:
-      units: list of (section, qa_marker, line_text)
-      section_counts: prepared/qa counts
+    Decide the first non-empty line index (0-based) that begins the Q&A section.
+
+    Returns (idx, marker, anchor_name).
+
+    Rules:
+      - lines 0..2 are ALWAYS ineligible
+      - allow pure heading lines containing Q&A headings
+      - allow candidate speaker lines:
+          * starts with 'Operator:'
+          * OR starts with '<NAME>:' where NAME matches the speaker of line 0
+        and a cue appears on that line or the immediately preceding line.
     """
+    if not lines_non_empty:
+        return None, "", None
 
-    lines_raw = transcript_text.splitlines()
-    lines = [ln.strip() for ln in lines_raw]
-    # keep non-empty only for first-line logic, but still iterate full list
-    first_non_empty_idx = None
-    for i, ln in enumerate(lines):
-        if ln.strip():
-            first_non_empty_idx = i
-            break
+    # anchor_name: the speaker of the first line (if not Operator)
+    first_speaker = _speaker_of(lines_non_empty[0] or "")
+    anchor_name: Optional[str] = None
+    if first_speaker and first_speaker.lower() != "operator":
+        anchor_name = first_speaker
 
-    first_line_is_operator = False
-    if first_non_empty_idx is not None:
-        first_line_is_operator = lines[first_non_empty_idx].lower().startswith("operator:")
+    start_i = 3  # line 4 (1-indexed)
+    if len(lines_non_empty) <= start_i:
+        return None, "", anchor_name
 
-    section = "prepared"
-    qa_marker = ""
-    operator_count = 0
-    prev_lower = ""
-
-    units: List[Tuple[str, str, str]] = []
-    counts = {"prepared": 0, "qa": 0}
-
-    for ln in lines:
-        s = ln.strip()
-        if not s:
-            prev_lower = ""
+    for i in range(start_i, len(lines_non_empty)):
+        cur = (lines_non_empty[i] or "").strip()
+        if not cur:
             continue
 
-        low = s.lower()
+        low = cur.lower()
+        prev = (lines_non_empty[i - 1] or "").strip() if i > 0 else ""
+        prev_low = prev.lower()
 
-        # Already in QA → keep QA
-        if section != "qa":
-            # heading-based QA
-            if any(h in low for h in _QNA_HEADINGS):
-                section = "qa"
-                qa_marker = "qna_heading"
+        # heading-only triggers
+        if any(h in low for h in _QA_HEADINGS):
+            return i, "qna_heading", anchor_name
 
-            # explicit "Q and A" short line
-            elif low in {"q&a", "q & a", "q and a"}:
-                section = "qa"
-                qa_marker = "q_and_a"
+        # explicit question-line triggers
+        if low.startswith("question:") or re.match(r"^q[\.:]\s*", low):
+            return i, "question_line", anchor_name
 
-            # question labels
-            elif low.startswith("question:") or re.match(r"^q[\.:]\s*", low):
-                section = "qa"
-                qa_marker = "question"
+        # candidate speaker triggers
+        is_operator = low.startswith("operator:")
+        is_anchor = bool(anchor_name) and low.startswith(anchor_name.lower() + ":")
 
-            # OPERATOR rules (your robust logic)
-            elif low.startswith("operator:"):
-                operator_count += 1
+        if is_operator or is_anchor:
+            if any(cue in low for cue in _QA_CUES):
+                return i, "speaker_line_contains_cue", anchor_name
+            if any(cue in prev_low for cue in _QA_CUES):
+                return i, "prev_line_contains_cue", anchor_name
 
-                # Rule 2: first question context (same or previous line)
-                if "first question" in low:
-                    section = "qa"
-                    qa_marker = "operator_contains_first_question"
-                elif "first question" in prev_lower:
-                    section = "qa"
-                    qa_marker = "operator_prevline_contains_first_question"
+    return None, "", anchor_name
 
-                # Rule 1: second operator when first non-empty line is operator
-                elif first_line_is_operator and operator_count >= 2:
-                    section = "qa"
-                    qa_marker = "operator_second_after_first_line_operator"
 
-                # Extra robustness: second operator even if first line isn't operator
-                elif operator_count >= 2:
-                    section = "qa"
-                    qa_marker = "operator_second"
+def transcript_speaker_turns(transcript_text: str) -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
+    """
+    Parse transcript into speaker turns, then label each turn as prepared vs qa.
 
-        units.append((section, qa_marker, s))
-        counts[section] += 1
-        prev_lower = low
+    Returns:
+      turns: [{pos, section, qa_marker, speaker, text}]
+      info:  {qa_start_pos, qa_marker, anchor_name, n_lines}
 
-    return units, counts
+    Notes:
+      - Uses non-empty lines only for the Q&A start detector.
+      - A turn's section is decided by the position of its first contributing line.
+    """
+    raw_lines = transcript_text.splitlines()
+    non_empty: List[str] = [ln.strip() for ln in raw_lines if (ln or "").strip()]
+
+    qa_start, qa_marker, anchor_name = find_qa_start(non_empty)
+
+    turns: List[Dict[str, Any]] = []
+    cur: Optional[Dict[str, Any]] = None
+
+    for pos, line in enumerate(non_empty):
+        m = SPEAKER_RE.match(line)
+        if m:
+            speaker = (m.group(1) or "").strip()
+            content = (m.group(2) or "").strip()
+            cur = {
+                "pos": pos,
+                "speaker": speaker,
+                "text": content,
+            }
+            turns.append(cur)
+        else:
+            # continuation
+            if cur is None:
+                cur = {"pos": pos, "speaker": "", "text": line.strip()}
+                turns.append(cur)
+            else:
+                cur["text"] = (cur.get("text", "") + " " + line.strip()).strip()
+
+    # assign section
+    for t in turns:
+        pos = int(t.get("pos", 0))
+        sec = "prepared"
+        if qa_start is not None and pos >= int(qa_start):
+            sec = "qa"
+        t["section"] = sec
+        t["qa_marker"] = qa_marker if (sec == "qa" and qa_start is not None and pos == int(qa_start)) else ""
+
+    info = {
+        "qa_start_pos": qa_start,
+        "qa_marker": qa_marker,
+        "anchor_name": anchor_name,
+        "n_lines": len(non_empty),
+    }
+    return turns, info
 
 
 # -------------------------
 # Build transcript units per event
 # -------------------------
+
 def build_transcript_units(
     events: List[EventWindow],
     data_dir: Path,
     min_text_len: int,
 ) -> Tuple[pd.DataFrame, int, Dict[str, int], Dict[str, int]]:
-    """
-    Returns:
-      df_units
-      missing_transcript_events
-      section_counts_total
-      qa_marker_counts
-    """
     rows: List[Dict[str, Any]] = []
     missing = 0
     section_totals = {"prepared": 0, "qa": 0}
@@ -408,7 +432,6 @@ def build_transcript_units(
     for ev in events:
         tx_root = data_dir / ev.ticker / "transcripts"
 
-        # Prefer call_date folder if present; else fallback to earnings_date
         folder_date = None
         if ev.call_date and (tx_root / ev.call_date / "transcript.txt").exists():
             folder_date = ev.call_date
@@ -426,15 +449,18 @@ def build_transcript_units(
             missing += 1
             continue
 
-        units, counts = split_transcript_into_units(text)
-        section_totals["prepared"] += counts.get("prepared", 0)
-        section_totals["qa"] += counts.get("qa", 0)
+        turns, info = transcript_speaker_turns(text)
 
-        for (sec, marker, ln) in units:
-            if len(ln) < min_text_len:
+        for tr in turns:
+            sec = str(tr.get("section", "prepared"))
+            ttxt = str(tr.get("text", "") or "").strip()
+            if len(ttxt) < int(min_text_len):
                 continue
-            if sec == "qa":
-                qa_marker_counts[marker or ""] = qa_marker_counts.get(marker or "", 0) + 1
+
+            section_totals[sec] = section_totals.get(sec, 0) + 1
+            marker = str(tr.get("qa_marker", "") or "")
+            if marker:
+                qa_marker_counts[marker] = qa_marker_counts.get(marker, 0) + 1
 
             rows.append(
                 {
@@ -443,11 +469,13 @@ def build_transcript_units(
                     "day0_date": ev.day0_date,
                     "day0_dt": ev.day0_dt or "",
                     "call_date": ev.call_date or "",
+                    "call_dt": ev.call_dt or "",
+                    "call_gap_days": "" if ev.call_gap_days is None else int(ev.call_gap_days),
                     "transcript_folder_date": folder_date,
-                    "window_center_date": ev.window_center_date or "",
                     "section": sec,
                     "qa_marker": marker,
-                    "text": ln,
+                    "speaker": str(tr.get("speaker", "") or ""),
+                    "text": ttxt,
                 }
             )
 
@@ -458,90 +486,102 @@ def build_transcript_units(
 # -------------------------
 # Build news units per event (call-centered)
 # -------------------------
-def _event_center_datetime(ev: EventWindow) -> Optional[datetime]:
+
+def _call_anchor_dt(ev: EventWindow) -> Optional[datetime]:
+    """Best-effort ET datetime for splitting pre/post."""
+    if ev.call_dt:
+        try:
+            return to_et(parse_dt_any(ev.call_dt, assume_tz=ET))
+        except Exception:
+            pass
+
+    if ev.call_date:
+        dd = _parse_yyyy_mm_dd(ev.call_date)
+        if dd:
+            return datetime(dd.year, dd.month, dd.day, 12, 0, tzinfo=ET)
+
     if ev.day0_dt:
         try:
-            dt = parse_dt_any(ev.day0_dt, assume_tz=ET)
-            return to_et(dt)
+            return to_et(parse_dt_any(ev.day0_dt, assume_tz=ET))
         except Exception:
             return None
+
+    dd = _parse_yyyy_mm_dd(ev.earnings_date)
+    if dd:
+        return datetime(dd.year, dd.month, dd.day, 12, 0, tzinfo=ET)
     return None
+
+
+def _load_news_for_date(news_root: Path, folder_date: str) -> pd.DataFrame:
+    ddir = news_root / folder_date
+    if not ddir.exists():
+        return pd.DataFrame()
+
+    # prefer exact filename
+    fp = ddir / "stock_news.csv"
+    if fp.exists():
+        return _safe_read_csv(fp)
+
+    # fallback to any stock_news*.csv
+    matches = sorted(ddir.glob("stock_news*.csv"))
+    if matches:
+        return _safe_read_csv(matches[0])
+
+    return pd.DataFrame()
 
 
 def build_news_units(
     events: List[EventWindow],
-    news_df: pd.DataFrame,
+    data_dir: Path,
     min_text_len: int,
-) -> Tuple[pd.DataFrame, int]:
-    """
-    Filters news_df into event windows per event:
-      [dt_m5, dt_p10] computed around call_date if available.
-    Also labels pre/post relative to call datetime (day0_dt updated to call_dt if available).
-    """
-    if news_df.empty:
-        return pd.DataFrame(), len(events)
-
-    # normalize to datetime
-    if "publishedDateET" not in news_df.columns:
-        # attempt fallback
-        news_df["publishedDateET"] = news_df.get("publishedDate", "")
-
-    def _parse_news_dt(x: str) -> Optional[datetime]:
-        x = str(x or "").strip()
-        if not x:
-            return None
-        try:
-            dt = parse_dt_any(x, assume_tz=ET)
-            return to_et(dt)
-        except Exception:
-            return None
-
-    news_df = news_df.copy()
-    news_df["_dt"] = news_df["publishedDateET"].apply(_parse_news_dt)
-    news_df = news_df.dropna(subset=["_dt"]).reset_index(drop=True)
-
+) -> Tuple[pd.DataFrame, int, Dict[str, int]]:
     rows: List[Dict[str, Any]] = []
     missing = 0
+    phase_counts = {"pre": 0, "post": 0}
 
     for ev in events:
-        # must have window boundaries
-        if not ev.dt_m5 or not ev.dt_p10:
+        news_root = data_dir / ev.ticker / "news"
+
+        folder_date = None
+        if ev.call_date and (news_root / ev.call_date).exists():
+            folder_date = ev.call_date
+        elif (news_root / ev.earnings_date).exists():
+            folder_date = ev.earnings_date
+
+        if not folder_date:
             missing += 1
             continue
 
-        try:
-            w0 = parse_dt_any(ev.dt_m5, assume_tz=ET)
-            w1 = parse_dt_any(ev.dt_p10, assume_tz=ET)
-            w0 = to_et(w0)
-            w1 = to_et(w1)
-        except Exception:
-            missing += 1
+        df = _load_news_for_date(news_root, folder_date)
+        if df.empty:
             continue
 
-        call_dt = _event_center_datetime(ev)
-        if call_dt is None:
-            # fallback: center at noon of window center date
-            try:
-                dd = _parse_yyyy_mm_dd(ev.window_center_date or ev.earnings_date)
-                call_dt = datetime(dd.year, dd.month, dd.day, 12, 0, tzinfo=ET)
-            except Exception:
-                call_dt = None
-
-        sub = news_df[(news_df["_dt"] >= w0) & (news_df["_dt"] <= w1)]
-        if sub.empty:
-            # not “missing event”; just no news in window
+        text_col = _detect_text_col(df)
+        date_col = _detect_date_col(df)
+        if not text_col or not date_col:
             continue
 
-        for _, r in sub.iterrows():
-            txt = str(r.get("text", "") or "").strip()
+        df = df.copy()
+        df["_dt"] = df[date_col].apply(lambda x: to_et(parse_dt_any(str(x), assume_tz=ET)) if str(x).strip() else None)
+        df = df.dropna(subset=["_dt"]).reset_index(drop=True)
+        if df.empty:
+            continue
+
+        call_dt = _call_anchor_dt(ev)
+
+        for _, r in df.iterrows():
             title = str(r.get("title", "") or "").strip()
-            merged = (title + "\n" + txt).strip()
-            if len(merged) < min_text_len:
+            body = str(r.get(text_col, "") or "").strip()
+            merged = (title + "\n" + body).strip() if title else body
+            if len(merged) < int(min_text_len):
                 continue
 
             phase = "post"
-            if call_dt and r["_dt"] < call_dt:
-                phase = "pre"
+            if call_dt is not None and isinstance(r.get("_dt"), datetime):
+                if r["_dt"] < call_dt:
+                    phase = "pre"
+
+            phase_counts[phase] = phase_counts.get(phase, 0) + 1
 
             rows.append(
                 {
@@ -550,33 +590,38 @@ def build_news_units(
                     "day0_date": ev.day0_date,
                     "day0_dt": ev.day0_dt or "",
                     "call_date": ev.call_date or "",
-                    "window_center_date": ev.window_center_date or "",
+                    "call_dt": ev.call_dt or "",
+                    "call_gap_days": "" if ev.call_gap_days is None else int(ev.call_gap_days),
+                    "news_folder_date": folder_date,
                     "phase": phase,
-                    "publishedDateET": r.get("publishedDateET", ""),
-                    "site": r.get("site", ""),
-                    "url": r.get("url", ""),
+                    "publishedDate": str(r.get(date_col, "") or "").strip(),
+                    "site": str(r.get("site", "") or "").strip(),
+                    "url": str(r.get("url", "") or "").strip(),
                     "title": title,
                     "text": merged,
                 }
             )
 
-    df = pd.DataFrame(rows)
-    return df, missing
+    out = pd.DataFrame(rows)
+    return out, missing, phase_counts
 
 
 # -------------------------
 # Main
 # -------------------------
+
 def main() -> None:
-    ap = argparse.ArgumentParser()
+    ap = argparse.ArgumentParser(description="Extract news + transcript text units per event (call-centered).")
     ap.add_argument("--data-dir", default="data")
     ap.add_argument("--tickers", nargs="+", required=True)
     ap.add_argument("--min-text-len", type=int, default=20)
 
-    # call-centered window options
-    ap.add_argument("--pre-bdays", type=int, default=5)
-    ap.add_argument("--post-bdays", type=int, default=10)
-    ap.add_argument("--call-match-tolerance-days", type=int, default=7)
+    ap.add_argument("--call-gap-warn-days", type=int, default=45)
+    ap.add_argument(
+        "--strict-count",
+        action="store_true",
+        help="Raise if events count != transcript folder count (instead of warning + tail-align).",
+    )
 
     args = ap.parse_args()
 
@@ -590,27 +635,21 @@ def main() -> None:
         events_csv = data_dir / ticker / "events" / "event_windows.csv"
         events = load_event_windows(events_csv, ticker)
 
-        # Attach call dates and recompute windows call-centered
         transcripts_dir = data_dir / ticker / "transcripts"
-        attach_call_dates(
+        attach_call_dates_ordered(
             events,
             transcripts_dir=transcripts_dir,
-            tolerance_days=int(args.call_match_tolerance_days),
-            pre_bdays=int(args.pre_bdays),
-            post_bdays=int(args.post_bdays),
+            warn_gap_days=int(args.call_gap_warn_days),
+            strict_count=bool(args.strict_count),
         )
 
-        # Load news
-        news_root = data_dir / ticker / "news"
-        news_df = load_all_news(news_root, ticker)
-
-        # Build units
-        df_news, missing_news_events = build_news_units(events, news_df, min_text_len=min_text_len)
+        df_news, missing_news_events, phase_counts = build_news_units(
+            events, data_dir=data_dir, min_text_len=min_text_len
+        )
         df_tx, missing_tx_events, sec_counts, qa_marker_counts = build_transcript_units(
             events, data_dir=data_dir, min_text_len=min_text_len
         )
 
-        # Write outputs
         out_dir = data_dir / ticker / "events"
         _ensure_dir(out_dir)
 
@@ -631,12 +670,16 @@ def main() -> None:
             f"[NOTE] transcript sections: prepared={sec_counts.get('prepared',0)} qa={sec_counts.get('qa',0)}",
             flush=True,
         )
+        print(
+            f"[NOTE] news phases: pre={phase_counts.get('pre',0)} post={phase_counts.get('post',0)}",
+            flush=True,
+        )
 
         if qa_marker_counts:
             top = sorted(qa_marker_counts.items(), key=lambda kv: kv[1], reverse=True)[0]
             print(f"[NOTE] top qa_marker: {top[0]}  count={top[1]}", flush=True)
         else:
-            print("[NOTE] no qa_marker counts (no QA lines or no transcripts)", flush=True)
+            print("[NOTE] no qa_marker counts (no QA start detected or no transcripts)", flush=True)
 
 
 if __name__ == "__main__":

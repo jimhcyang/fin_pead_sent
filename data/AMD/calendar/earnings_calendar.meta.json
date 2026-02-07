@@ -3,7 +3,7 @@
   "source": "FMP legacy endpoint: /api/v3/historical/earning_calendar/{symbol}",
   "start": "2021-01-01",
   "end": "2025-12-31",
-  "downloaded_at_et": "2026-02-06T17:43:30.273826-05:00",
+  "downloaded_at_et": "2026-02-07T14:45:23.608733-05:00",
   "rows_raw_in_window": 20,
   "rows_saved": 20,
   "expected": 20,

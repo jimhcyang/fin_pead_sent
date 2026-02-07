@@ -409,11 +409,28 @@ def window_return_offsets(a: int, b: int) -> List[int]:
 
 
 def compute_window_car(abn_by_offset: Dict[int, float], a: int, b: int) -> float:
+    """Sum abnormal returns over window [a,b] using offset-labeled daily abnormal returns.
+
+    By convention, if returns are labeled by the *day they occur on* (offset t),
+    then CAR[a,b] is the sum over offsets in [a,b].
+
+    This function is intentionally tolerant of missing offsets near the edges,
+    but MUST work for short windows like [0,1] and [-1,1].
+    """
     offs = window_return_offsets(a, b)
-    vals = [abn_by_offset.get(k, np.nan) for k in offs]
-    vals = np.array(vals, dtype=float)
-    if np.isfinite(vals).sum() < max(3, len(vals) // 2):
+    vals = np.array([abn_by_offset.get(k, np.nan) for k in offs], dtype=float)
+    L = int(len(vals))
+    if L == 0:
         return np.nan
+
+    finite_n = int(np.isfinite(vals).sum())
+
+    # For short windows (L<=2), require full coverage; otherwise allow some missingness.
+    # (The previous >=3 rule made CAR for 1–2 day windows always NaN.)
+    min_required = L if L <= 2 else max(3, int(np.ceil(0.5 * L)))
+    if finite_n < min_required:
+        return np.nan
+
     return float(np.nansum(vals))
 
 
