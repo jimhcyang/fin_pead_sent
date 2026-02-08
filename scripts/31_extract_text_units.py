@@ -94,6 +94,18 @@ def _log_warn(path: Path, msg: str) -> None:
     print(f"[WARN] {msg}", flush=True)
 
 
+def choose_col(df: pd.DataFrame, candidates: List[str]) -> Optional[str]:
+    cols = set(df.columns)
+    for c in candidates:
+        if c in cols:
+            return c
+    for c in candidates:
+        for col in df.columns:
+            if col.lower() == c.lower():
+                return col
+    return None
+
+
 def _parse_yyyy_mm_dd(s: str) -> Optional[date]:
     s = (s or "").strip()
     if not s:
@@ -597,6 +609,16 @@ def _load_news_for_date(news_root: Path, folder_date: str) -> pd.DataFrame:
     if not ddir.exists():
         return pd.DataFrame()
 
+    # Prefer raw JSON because it always includes richer fields like publisher.
+    raw_fp = ddir / "stock_news.raw.json"
+    if raw_fp.exists():
+        try:
+            obj = json.loads(raw_fp.read_text(encoding="utf-8"))
+            if isinstance(obj, list):
+                return pd.DataFrame(obj)
+        except Exception:
+            pass
+
     # prefer exact filename
     fp = ddir / "stock_news.csv"
     if fp.exists():
@@ -638,6 +660,7 @@ def build_news_units(
 
         text_col = _detect_text_col(df)
         date_col = _detect_date_col(df)
+        pub_col = choose_col(df, ["publisher"])
         if not text_col or not date_col:
             continue
 
@@ -676,6 +699,7 @@ def build_news_units(
                     "phase": phase,
                     "publishedDate": str(r.get(date_col, "") or "").strip(),
                     "site": str(r.get("site", "") or "").strip(),
+                    "publisher": str(r.get(pub_col, "") or "").strip(),
                     "url": str(r.get("url", "") or "").strip(),
                     "title": title,
                     "text": merged,

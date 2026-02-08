@@ -185,6 +185,7 @@ def write_csv(records: List[Dict[str, Any]], path: Path) -> int:
         "publishedDate",
         "publishedDateET",
         "date_et",
+        "publisher",
         "title",
         "text",
         "site",

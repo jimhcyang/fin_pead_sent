@@ -121,7 +121,7 @@ car_mm_1y_pct,m1_p1,est_epsAvg,-0.0194,0.0194,400
 car_mm_1y_pct,m1_p1,est_numAnalystsRevenue,0.0194,0.0194,400
 car_mm_1y_pct,m1_p1,est_numAnalystsEps,0.0172,0.0172,400
 car_mm_1y_pct,m1_p1,est_netIncomeLow,-0.0157,0.0157,400
-car_mm_1y_pct,m1_p1,gro_growthCostOfRevenue,-0.0145,0.0145,400
+car_mm_1y_pct,m1_p1,gro_growthCostOfRevenue,-0.0146,0.0146,400
 car_mm_1y_pct,m1_p1,gro_growthIncomeBeforeTax,0.0142,0.0142,400
 car_mm_1y_pct,m1_p1,est_epsHigh,-0.0126,0.0126,400
 car_mm_1y_pct,m1_p1,est_ebitdaHigh,0.0125,0.0125,400
@@ -239,7 +239,7 @@ car_mm_1y_pct,p0_p1,sur_surprise_ebit,-0.0809,0.0809,400
 car_mm_1y_pct,p0_p1,gro_growthNetIncomeFromContinuingOperations,0.0802,0.0802,400
 car_mm_1y_pct,p0_p1,gro_growthNetIncome,0.0768,0.0768,400
 car_mm_1y_pct,p0_p1,gro_growthEBIT,-0.0768,0.0768,400
-car_mm_1y_pct,p0_p1,gro_growthOperatingExpenses,-0.073,0.073,400
+car_mm_1y_pct,p0_p1,gro_growthOperatingExpenses,-0.0731,0.0731,400
 car_mm_1y_pct,p0_p1,gro_growthEPSDiluted,0.0711,0.0711,400
 car_mm_1y_pct,p0_p1,gro_growthEPS,0.0709,0.0709,400
 car_mm_1y_pct,p0_p1,est_sgaExpenseLow,-0.066,0.066,400

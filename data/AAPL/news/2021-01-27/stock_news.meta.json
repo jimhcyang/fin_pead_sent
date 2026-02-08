@@ -31,6 +31,6 @@
     "jsonl": "data/AAPL/news/2021-01-27/stock_news.jsonl",
     "csv": "data/AAPL/news/2021-01-27/stock_news.csv"
   },
-  "generated_at": "2026-02-07T19:22:56.175909-05:00",
+  "generated_at": "2026-02-07T22:45:45.427600-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

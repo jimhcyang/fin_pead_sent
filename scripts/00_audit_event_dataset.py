@@ -214,7 +214,7 @@ def audit_ticker(
         ed_col = choose_col(df_tun, ["event_date", "earnings_date", "date"])
         phase_col = choose_col(df_tun, ["phase", "news_phase"])
         text_col = choose_col(df_tun, ["text", "content", "unit_text", "body"])
-        pub_col = choose_col(df_tun, ["publisher", "site", "source", "publication", "domain"])
+        pub_col = choose_col(df_tun, ["publisher"])
 
         if ed_col:
             df_tun[ed_col] = df_tun[ed_col].apply(as_date_str)
@@ -229,6 +229,11 @@ def audit_ticker(
                 df_tun["_lines"] = 0
                 df_tun["_chars"] = 0
 
+            if pub_col and pub_col in df_tun.columns:
+                df_tun["_publisher"] = df_tun[pub_col].astype(str).str.strip()
+            else:
+                df_tun["_publisher"] = ""
+
             g = df_tun.groupby([ed_col, phase_col], dropna=False)
             sum_df = g.agg(
                 news_units=(phase_col, "size"),
@@ -237,13 +242,13 @@ def audit_ticker(
                 news_chars=("_chars", "sum"),
             ).reset_index().rename(columns={ed_col: "event_date", phase_col: "phase"})
 
-            if pub_col and pub_col in df_tun.columns:
-                u = df_tun.groupby([ed_col, phase_col])[pub_col].nunique().reset_index()
-                u = u.rename(columns={ed_col: "event_date", phase_col: "phase", pub_col: "news_unique_publishers_units"})
+            if "_publisher" in df_tun.columns:
+                u = df_tun.groupby([ed_col, phase_col])["_publisher"].nunique().reset_index()
+                u = u.rename(columns={ed_col: "event_date", phase_col: "phase", "_publisher": "news_unique_publishers_units"})
                 sum_df = sum_df.merge(u, on=["event_date", "phase"], how="left")
 
-                pc = df_tun.groupby([ed_col, phase_col, pub_col]).size().reset_index(name="n_units")
-                pc = pc.rename(columns={ed_col: "event_date", phase_col: "phase", pub_col: "publisher"})
+                pc = df_tun.groupby([ed_col, phase_col, "_publisher"]).size().reset_index(name="n_units")
+                pc = pc.rename(columns={ed_col: "event_date", phase_col: "phase", "_publisher": "publisher"})
                 pc.insert(0, "ticker", ticker)
                 pub_by_event_phase.append(pc)
 
