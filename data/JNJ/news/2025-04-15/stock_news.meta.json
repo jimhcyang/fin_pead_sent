@@ -4,11 +4,39 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2025-04-15",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2025-04-08",
+  "start": "2025-04-01",
   "end": "2025-04-29",
   "chunks": [
+    {
+      "start": "2025-04-01",
+      "end": "2025-04-01"
+    },
+    {
+      "start": "2025-04-02",
+      "end": "2025-04-02"
+    },
+    {
+      "start": "2025-04-03",
+      "end": "2025-04-03"
+    },
+    {
+      "start": "2025-04-04",
+      "end": "2025-04-04"
+    },
+    {
+      "start": "2025-04-05",
+      "end": "2025-04-05"
+    },
+    {
+      "start": "2025-04-06",
+      "end": "2025-04-06"
+    },
+    {
+      "start": "2025-04-07",
+      "end": "2025-04-07"
+    },
     {
       "start": "2025-04-08",
       "end": "2025-04-08"
@@ -105,16 +133,16 @@
   "chunk_days": 0,
   "pad_days": 0,
   "sleep": 0.05,
-  "fetched_total": 87,
-  "kept_total": 87,
+  "fetched_total": 115,
+  "kept_total": 115,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2025-04-08T10:19:24-04:00",
+  "min_publishedDateET": "2025-04-01T17:31:00-04:00",
   "max_publishedDateET": "2025-04-28T07:28:23-04:00",
   "outputs": {
     "raw_json": "data/JNJ/news/2025-04-15/stock_news.raw.json",
     "jsonl": "data/JNJ/news/2025-04-15/stock_news.jsonl",
     "csv": "data/JNJ/news/2025-04-15/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:29:31.606990-05:00",
+  "generated_at": "2026-02-07T19:33:36.376303-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

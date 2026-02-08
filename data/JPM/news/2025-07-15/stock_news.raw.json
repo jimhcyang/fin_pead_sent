@@ -1,6 +1,310 @@
 [
   {
     "symbol": "JPM",
+    "publishedDate": "2025-07-01 07:16:29",
+    "publisher": "Finbold",
+    "title": "AI builds ideal dividend stock portfolio for H2 2025",
+    "image": "https://images.financialmodelingprep.com/news/ai-builds-ideal-dividend-stock-portfolio-for-h2-2025-20250701.jpg",
+    "site": "finbold.com",
+    "text": "In the first six months of 2025, the stock market has been on a roller-coaster ride, hitting both lows and highs driven by trade tariff uncertainties and geopolitical tensions.",
+    "url": "https://finbold.com/ai-builds-ideal-dividend-stock-portfolio-for-h2-2025/",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-01T07:16:29-04:00",
+    "date_et": "2025-07-01"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-01 12:35:39",
+    "publisher": "CNBC Television",
+    "title": "The 'Mag 7' has a lot of room to run, so we're overweight risk, says JPM's Phil Camporeale",
+    "image": "https://images.financialmodelingprep.com/news/the-mag-7-has-a-lot-of-room-to-20250701.jpg",
+    "site": "youtube.com",
+    "text": "Phil Camporeale, JPMorgan portfolio manager, joins 'Money Movers' to discuss the markets, impact of tariffs and his 2025 back-half outlook.",
+    "url": "https://www.youtube.com/watch?v=BH18ZeSV88c",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-01T12:35:39-04:00",
+    "date_et": "2025-07-01"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-01 13:10:31",
+    "publisher": "Zacks Investment Research",
+    "title": "Why JPMorgan Chase & Co. (JPM) Could Beat Earnings Estimates Again",
+    "image": "https://images.financialmodelingprep.com/news/why-jpmorgan-chase-co-jpm-could-beat-earnings-estimates-20250701.jpg",
+    "site": "zacks.com",
+    "text": "JPMorgan Chase & Co. (JPM) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+    "url": "https://www.zacks.com/stock/news/2559888/why-jpmorgan-chase-co-jpm-could-beat-earnings-estimates-again?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_7-2559888",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-01T13:10:31-04:00",
+    "date_et": "2025-07-01"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-01 14:06:38",
+    "publisher": "Seeking Alpha",
+    "title": "Top 10 High-Yield Dividend Stocks For July 2025",
+    "image": "https://images.financialmodelingprep.com/news/top-10-highyield-dividend-stocks-for-july-2025-20250701.jpg",
+    "site": "seekingalpha.com",
+    "text": "My July 2025 watchlist focuses on high-yield, attractively valued stocks, aiming for a 12% long-term CAGR and outperforming benchmarks. Since its inception, my watchlist has a CAGR of 15.11%, performing in-line with SPY and VYM, while providing a superior dividend yield. The June 2025 watchlist includes 10 stocks with an average forward dividend yield of 3.54% and an expected return of 13.62%.",
+    "url": "https://seekingalpha.com/article/4798672-top-10-high-yield-dividend-stocks-for-july-2025",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-01T14:06:38-04:00",
+    "date_et": "2025-07-01"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-01 16:40:00",
+    "publisher": "Business Wire",
+    "title": "JPMorganChase Regulatory Capital Update",
+    "image": "https://images.financialmodelingprep.com/news/jpmorganchase-regulatory-capital-update-20250701.jpg",
+    "site": "businesswire.com",
+    "text": "NEW YORK--(BUSINESS WIRE)--JPMorgan Chase & Co. (NYSE: JPM) (“JPMorganChase” or the “Firm”) has announced updated information relating to its third quarter dividend, common share repurchase program and regulatory capital requirements. Information can be found on the Firm's Investor Relations website at jpmorganchase.com/ir/news. JPMorgan Chase & Co. (NYSE: JPM) is a leading financial services firm based in the United States of America (“U.S.”), with operations worldwide. JPMorganChase h.",
+    "url": "https://www.businesswire.com/news/home/20250701307345/en/JPMorganChase-Regulatory-Capital-Update/",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-01T16:40:00-04:00",
+    "date_et": "2025-07-01"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-01 16:40:00",
+    "publisher": "Business Wire",
+    "title": "JPMorganChase Announces 2025 Dodd-Frank Act Stress Test Results",
+    "image": "https://images.financialmodelingprep.com/news/jpmorganchase-announces-2025-doddfrank-act-stress-test-results-20250701.jpg",
+    "site": "businesswire.com",
+    "text": "NEW YORK--(BUSINESS WIRE)--JPMorgan Chase & Co. (NYSE: JPM) (“JPMorganChase” or the “Firm”) announced today that it has released the results of its company-run 2025 Dodd-Frank Act Stress Test for JPMorganChase and JPMorgan Chase Bank, National Association. Information can be found on the Firm's website at www.jpmorganchase.com under Investor Relations, Events & Presentations. JPMorgan Chase & Co. (NYSE: JPM) is a leading financial services firm based in the United States of America.",
+    "url": "https://www.businesswire.com/news/home/20250701933456/en/JPMorganChase-Announces-2025-Dodd-Frank-Act-Stress-Test-Results/",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-01T16:40:00-04:00",
+    "date_et": "2025-07-01"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-02 06:58:43",
+    "publisher": "CNBC Television",
+    "title": "Banks will a break to a new valuation paradigm, says TD Cowen's Steven Alexopoulos",
+    "image": "https://images.financialmodelingprep.com/news/banks-will-a-break-to-a-new-valuation-paradigm-20250702.jpg",
+    "site": "youtube.com",
+    "text": "Steven Alexopoulos, TD Cowen U.S. large cap bank analyst, joins 'Squawk Box' to discuss the state of the banking sector, Big Banks boosting dividends and stock buybacks, impact of AI, stablecoins, and more.",
+    "url": "https://www.youtube.com/watch?v=LzJ9PBtbntg",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-02T06:58:43-04:00",
+    "date_et": "2025-07-02"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-02 10:46:08",
+    "publisher": "Zacks Investment Research",
+    "title": "JPM Announces Dividend Hike & Share Buyback Plan: Sustainable or Not?",
+    "image": "https://images.financialmodelingprep.com/news/jpm-announces-dividend-hike-share-buyback-plan-sustainable-or-20250702.jpg",
+    "site": "zacks.com",
+    "text": "JPMorgan plans to boost dividend 7% and unveils a $50B buyback plan after strong stress test results and a 21.2% YTD stock surge.",
+    "url": "https://www.zacks.com/stock/news/2560341/jpm-announces-dividend-hike-share-buyback-plan-sustainable-or-not?cid=CS-STOCKNEWSAPI-FT-analyst_blog|quick_take-2560341",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-02T10:46:08-04:00",
+    "date_et": "2025-07-02"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-02 11:16:04",
+    "publisher": "Zacks Investment Research",
+    "title": "JPMorgan, Goldman & Others Boost Payouts Following 2025 Stress Test",
+    "image": "https://images.financialmodelingprep.com/news/jpmorgan-goldman-others-boost-payouts-following-2025-stress-test-20250702.jpg",
+    "site": "zacks.com",
+    "text": "Large U.S. banks, including JPM, MS, BAC and GS, boost dividends and buybacks after clearing the 2025 Fed stress test.",
+    "url": "https://www.zacks.com/stock/news/2560625/jpmorgan-goldman-others-boost-payouts-following-2025-stress-test?cid=CS-STOCKNEWSAPI-FT-analyst_blog|industry_focus-2560625",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-02T11:16:04-04:00",
+    "date_et": "2025-07-02"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-02 11:55:55",
+    "publisher": "CNBC Television",
+    "title": "UBS' Erika Najarian: Banks are in wait-and-see mode",
+    "image": "https://images.financialmodelingprep.com/news/ubs-erika-najarian-banks-are-in-waitandsee-mode-20250702.jpg",
+    "site": "youtube.com",
+    "text": "Erika Najarian, UBS large cap bank analyst, joins CNBC's 'Squawk on the Street' to discuss what's on deck for banks in the second half of the year.",
+    "url": "https://www.youtube.com/watch?v=3lS5hLhJLx8",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-02T11:55:55-04:00",
+    "date_et": "2025-07-02"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-02 21:11:05",
+    "publisher": "Zacks Investment Research",
+    "title": "Looking Ahead to Bank Earnings",
+    "image": "https://images.financialmodelingprep.com/news/looking-ahead-to-bank-earnings-20250702.jpg",
+    "site": "zacks.com",
+    "text": "Note: The following is an excerpt from this week's Earnings Trends report. You can access the full report that contains detailed historical actual and estimates for the current and following periods, please click here>>>",
+    "url": "https://www.zacks.com/commentary/2561144/looking-ahead-to-bank-earnings?cid=CS-STOCKNEWSAPI-FT-earnings_trends-2561144",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-02T21:11:05-04:00",
+    "date_et": "2025-07-02"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-02 21:11:06",
+    "publisher": "Zacks Investment Research",
+    "title": "Looking Ahead to Bank Earnings",
+    "image": "https://images.financialmodelingprep.com/news/looking-ahead-to-bank-earnings-20250702.jpg",
+    "site": "zacks.com",
+    "text": "Note: The following is an excerpt from this week's Earnings Trends report. You can access the full report that contains detailed historical actual and estimates for the current and following periods, please click here>>>",
+    "url": "https://www.zacks.com/commentary/2561151/looking-ahead-to-bank-earnings?cid=CS-STOCKNEWSAPI-FT-earnings_outlook-2561151",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-02T21:11:06-04:00",
+    "date_et": "2025-07-02"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-03 07:50:03",
+    "publisher": "Reuters",
+    "title": "JPMorgan names insider David Frame global CEO of private bank",
+    "image": "https://images.financialmodelingprep.com/news/jpmorgan-names-insider-david-frame-global-ceo-of-private-20250703.jpg",
+    "site": "reuters.com",
+    "text": "U.S. banking giant JPMorgan Chase on Thursday named insider David Frame as the global CEO of its private bank, effective immediately.",
+    "url": "https://www.reuters.com/business/finance/jpmorgan-names-insider-david-frame-global-ceo-private-bank-2025-07-03/",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-03T07:50:03-04:00",
+    "date_et": "2025-07-03"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-03 09:46:34",
+    "publisher": "24/7 Wall Street",
+    "title": "Jim Cramer Says “We Have a Runaway Bull Market”, and These Stocks Are Leading The Charge",
+    "image": "https://images.financialmodelingprep.com/news/jim-cramer-says-we-have-a-runaway-bull-market-20250703.jpg",
+    "site": "247wallst.com",
+    "text": "When it comes to CNBC and stock advice, no name is bigger than Jim Cramer.",
+    "url": "https://247wallst.com/investing/2025/07/03/jim-cramer-says-we-have-a-runaway-bull-market-and-these-stocks-are-leading-the-charge/",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-03T09:46:34-04:00",
+    "date_et": "2025-07-03"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-03 11:44:15",
+    "publisher": "PYMNTS",
+    "title": "JPMorgan Chase Reorganizes Private Bank to Facilitate Global Investments",
+    "image": "https://images.financialmodelingprep.com/news/jpmorgan-chase-reorganizes-private-bank-to-facilitate-global-investments-20250703.jpg",
+    "site": "pymnts.com",
+    "text": "JPMorgan Chase reportedly reorganized its private bank and named a global head of the bank, which is a new role. [contact-form-7] David Frame, who previously served as the U.S. head of the private bank, has been appointed to the new role, the Wall Street Journal (WSJ) reported Thursday (July 3).",
+    "url": "https://www.pymnts.com/consumer-finance/2025/jpmorgan-chase-reorganizes-private-bank-to-facilitate-global-investments/",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-03T11:44:15-04:00",
+    "date_et": "2025-07-03"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-03 18:46:25",
+    "publisher": "Zacks Investment Research",
+    "title": "JPMorgan Chase & Co. (JPM) Outperforms Broader Market: What You Need to Know",
+    "image": "https://images.financialmodelingprep.com/news/jpmorgan-chase-co-jpm-outperforms-broader-market-what-you-20250703.jpg",
+    "site": "zacks.com",
+    "text": "In the most recent trading session, JPMorgan Chase & Co. (JPM) closed at $296, indicating a +1.37% shift from the previous trading day.",
+    "url": "https://www.zacks.com/stock/news/2562370/jpmorgan-chase-co-jpm-outperforms-broader-market-what-you-need-to-know?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6-2562370",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-03T18:46:25-04:00",
+    "date_et": "2025-07-03"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-06 07:30:00",
+    "publisher": "Seeking Alpha",
+    "title": "The Smartest Dividend Stocks To Own For What's Coming",
+    "image": "https://images.financialmodelingprep.com/news/the-smartest-dividend-stocks-to-own-for-whats-coming-20250706.jpg",
+    "site": "seekingalpha.com",
+    "text": "Asking 'why' repeatedly is crucial for investors to understand the root causes of macroeconomic shifts and avoid being blind sided by market disruptions. The current U.S. policy shift favors growth over inflation control, increasing risks of higher inflation and short-term debt refinancing challenges. Given these risks, I recommend increasing exposure to real assets, REITs, and cyclical value stocks for inflation protection and potential outperformance.",
+    "url": "https://seekingalpha.com/article/4799442-smartest-dividend-stocks-to-own",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-06T07:30:00-04:00",
+    "date_et": "2025-07-06"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-07 08:00:00",
+    "publisher": "Seeking Alpha",
+    "title": "JPMorgan Chase: Deposits And Net Interest Income May Dent Q2 Earnings",
+    "image": "https://images.financialmodelingprep.com/news/jpmorgan-chase-deposits-and-net-interest-income-may-dent-20250707.jpg",
+    "site": "seekingalpha.com",
+    "text": "JPMorgan Chase faces headwinds from declining net interest income due to lower rates and increased external borrowing, making common shares less attractive now. Loan and deposit growth remain modest, with a notable jump in external financing tied to investment banking, posing a near-term earnings risk. Despite industry-wide credit concerns, JPMorgan's strong allowance for credit losses and low nonperforming asset ratio provides stability and downside protection.",
+    "url": "https://seekingalpha.com/article/4799609-jpmorgan-chase-deposits-and-net-interest-income-may-dent-q2-earnings",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-07T08:00:00-04:00",
+    "date_et": "2025-07-07"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2025-07-07 10:41:54",
+    "publisher": "Zacks Investment Research",
+    "title": "JPMorgan Restructures Private Bank: A Shift Toward Affluent Clients?",
+    "image": "https://images.financialmodelingprep.com/news/jpmorgan-restructures-private-bank-a-shift-toward-affluent-clients-20250707.jpg",
+    "site": "zacks.com",
+    "text": "Is JPM's private bank overhaul a strategic pivot to better serve ultra-wealthy, globally focused clients? Let's take a look.",
+    "url": "https://www.zacks.com/stock/news/2565698/jpmorgan-restructures-private-bank-a-shift-toward-affluent-clients?cid=CS-STOCKNEWSAPI-FT-analyst_blog|quick_take-2565698",
+    "ticker": "JPM",
+    "event_date": "2025-07-15",
+    "window_start": "2025-07-01",
+    "window_end": "2025-07-29",
+    "publishedDateET": "2025-07-07T10:41:54-04:00",
+    "date_et": "2025-07-07"
+  },
+  {
+    "symbol": "JPM",
     "publishedDate": "2025-07-08 06:00:00",
     "publisher": "Market Watch",
     "title": "Citi and JPMorgan signal elevated risks of profit taking",
@@ -10,7 +314,7 @@
     "url": "https://www.marketwatch.com/story/citi-and-jpmorgan-signal-elevated-risks-of-profit-taking-fe566a07",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-08T06:00:00-04:00",
     "date_et": "2025-07-08"
@@ -26,7 +330,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2025/07/08/buy-or-sell-jpmorgan-stock-ahead-of-earnings/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-08T06:20:04-04:00",
     "date_et": "2025-07-08"
@@ -42,7 +346,7 @@
     "url": "https://247wallst.com/investing/2025/07/08/jim-cramer-says-these-stocks-are-leading-the-charge-in-todays-runaway-bull-market/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-08T08:02:14-04:00",
     "date_et": "2025-07-08"
@@ -58,7 +362,7 @@
     "url": "https://www.zacks.com/stock/news/2567131/investors-heavily-search-jpmorgan-chase-co-jpm-here-is-what-you-need-to-know?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|most_searched_stocks-2567131",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-08T10:01:38-04:00",
     "date_et": "2025-07-08"
@@ -74,7 +378,7 @@
     "url": "https://www.zacks.com/stock/news/2567411/jpmorgan-chase-co-jpm-earnings-expected-to-grow-what-to-know-ahead-of-next-week-s-release?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_9-2567411",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-08T11:01:10-04:00",
     "date_et": "2025-07-08"
@@ -90,7 +394,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2025/07/08/3-bank-stocks-downgraded-before-earnings",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-08T11:01:50-04:00",
     "date_et": "2025-07-08"
@@ -106,7 +410,7 @@
     "url": "https://www.reuters.com/business/jpmorgan-expands-tech-team-with-guggenheim-veteran-memo-says-2025-07-08/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-08T13:16:11-04:00",
     "date_et": "2025-07-08"
@@ -122,7 +426,7 @@
     "url": "https://www.marketbeat.com/stock-ideas/dont-miss-out-3-blue-chips-set-to-pop-this-earnings-season/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-08T16:46:05-04:00",
     "date_et": "2025-07-08"
@@ -138,7 +442,7 @@
     "url": "https://www.youtube.com/watch?v=2c4QzR-ZYs0",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-08T18:10:40-04:00",
     "date_et": "2025-07-08"
@@ -154,7 +458,7 @@
     "url": "https://www.youtube.com/watch?v=M_Km0dVwj6Q",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-08T18:15:04-04:00",
     "date_et": "2025-07-08"
@@ -170,7 +474,7 @@
     "url": "https://247wallst.com/investing/2025/07/07/here-are-3-etfs-warren-buffett-would-approve-of-for-the-average-investor-2/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-09T10:00:11-04:00",
     "date_et": "2025-07-09"
@@ -186,7 +490,7 @@
     "url": "https://www.zacks.com/stock/news/2568833/jpmorgan-q2-earnings-on-the-deck-a-smart-buy-or-risky-bet?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2568833",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-09T10:05:35-04:00",
     "date_et": "2025-07-09"
@@ -202,7 +506,7 @@
     "url": "https://invezz.com/news/2025/07/09/nvidia-hits-4-trillion-but-jpm-is-all-praise-for-a-different-ai-chip-stock/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-09T12:26:21-04:00",
     "date_et": "2025-07-09"
@@ -218,7 +522,7 @@
     "url": "https://www.zacks.com/commentary/2570060/finance-earnings-outlook-improves-a-closer-look?cid=CS-STOCKNEWSAPI-FT-earnings_outlook-2570060",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-09T20:31:04-04:00",
     "date_et": "2025-07-09"
@@ -234,7 +538,7 @@
     "url": "https://www.zacks.com/commentary/2570045/finance-earnings-outlook-improves-a-closer-look?cid=CS-STOCKNEWSAPI-FT-earnings_trends-2570045",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-09T20:35:35-04:00",
     "date_et": "2025-07-09"
@@ -250,7 +554,7 @@
     "url": "https://www.benzinga.com/trading-ideas/dividends/25/07/46341009/how-to-earn-500-a-month-from-jpmorgan-stock-ahead-of-q2-earnings",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-10T08:25:42-04:00",
     "date_et": "2025-07-10"
@@ -266,7 +570,7 @@
     "url": "https://www.zacks.com/stock/news/2571021/what-analyst-projections-for-key-metrics-reveal-about-jpmorgan-chase-co-jpm-q2-earnings?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|nfm_preview-2571021",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-10T10:16:06-04:00",
     "date_et": "2025-07-10"
@@ -282,7 +586,7 @@
     "url": "https://247wallst.com/investing/2025/07/10/us-private-credit-surges-to-record-1-8-trillion-as-bdcs-fill-350-billion-financing-gap/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-10T11:30:12-04:00",
     "date_et": "2025-07-10"
@@ -298,7 +602,7 @@
     "url": "https://www.reuters.com/business/finance/jpmorgan-ceo-dimon-says-markets-under-pricing-risk-higher-us-interest-rates-2025-07-10/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-10T11:38:57-04:00",
     "date_et": "2025-07-10"
@@ -314,7 +618,7 @@
     "url": "https://www.investopedia.com/mp-materials-stock-surges-50-percent-on-rare-earths-contract-with-defense-department-11769526",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-10T11:39:31-04:00",
     "date_et": "2025-07-10"
@@ -330,7 +634,7 @@
     "url": "https://247wallst.com/investing/2025/07/10/3-dividend-stocks-that-pass-my-safety-checklist/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-10T13:00:35-04:00",
     "date_et": "2025-07-10"
@@ -346,7 +650,7 @@
     "url": "https://www.pymnts.com/economy/2025/jamie-dimon-warns-markets-against-underestimating-interest-rates-hikes/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-10T16:22:14-04:00",
     "date_et": "2025-07-10"
@@ -362,7 +666,7 @@
     "url": "https://www.zacks.com/stock/news/2572023/jpmorgan-chase-co-jpm-surpasses-market-returns-some-facts-worth-knowing?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6-2572023",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-10T18:46:25-04:00",
     "date_et": "2025-07-10"
@@ -378,7 +682,7 @@
     "url": "https://www.zacks.com/stock/news/2572076/small-cap-russell-2000-leads-another-up-day-in-the-market?cid=CS-STOCKNEWSAPI-FT-ahead_of_wall_street-2572076",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-10T19:10:15-04:00",
     "date_et": "2025-07-10"
@@ -394,7 +698,7 @@
     "url": "https://www.youtube.com/watch?v=rKCE0TO50w8",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-11T07:23:15-04:00",
     "date_et": "2025-07-11"
@@ -410,7 +714,7 @@
     "url": "https://www.youtube.com/watch?v=qaPmfwYkuUQ",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-11T09:31:00-04:00",
     "date_et": "2025-07-11"
@@ -426,7 +730,7 @@
     "url": "https://www.zacks.com/stock/news/2573744/jpm-vs-wfc-which-big-bank-stock-deserves-a-spot-in-your-portfolio?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2573744",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-11T11:11:11-04:00",
     "date_et": "2025-07-11"
@@ -442,7 +746,7 @@
     "url": "https://www.investors.com/research/earnings-preview/jpmorgan-jpm-stock-netflix-taiwan-semiconductor-tsmc-earnings/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-11T11:13:44-04:00",
     "date_et": "2025-07-11"
@@ -458,7 +762,7 @@
     "url": "https://www.zacks.com/stock/news/2573895/pre-markets-red-on-trump-s-tariff-threats-to-canada?cid=CS-STOCKNEWSAPI-FT-economic_highlights-2573895",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-11T12:10:10-04:00",
     "date_et": "2025-07-11"
@@ -474,7 +778,7 @@
     "url": "https://www.youtube.com/watch?v=B__dT1ighG0",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-11T16:19:12-04:00",
     "date_et": "2025-07-11"
@@ -490,7 +794,7 @@
     "url": "https://www.youtube.com/watch?v=ufUplIKyhVE",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-11T17:48:28-04:00",
     "date_et": "2025-07-11"
@@ -506,7 +810,7 @@
     "url": "https://www.investopedia.com/3-things-analysts-are-watching-as-earnings-season-gets-rolling-11770251",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-13T05:07:02-04:00",
     "date_et": "2025-07-13"
@@ -522,7 +826,7 @@
     "url": "https://seekingalpha.com/article/4800957-wall-street-brunch-big-banks-kick-off-earnings-season",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-13T15:25:00-04:00",
     "date_et": "2025-07-13"
@@ -538,7 +842,7 @@
     "url": "https://www.youtube.com/watch?v=xoOZ3oGKtes",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-13T18:00:56-04:00",
     "date_et": "2025-07-13"
@@ -554,7 +858,7 @@
     "url": "https://www.wsj.com/finance/banking/jamie-dimon-private-credit-dangerous-jpmorgan-d339f333",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-13T21:00:00-04:00",
     "date_et": "2025-07-13"
@@ -570,7 +874,7 @@
     "url": "https://www.pymnts.com/news/banking/2025/jpmorgan-preparing-to-charge-fintechs-for-consumer-bank-data/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-13T21:41:48-04:00",
     "date_et": "2025-07-13"
@@ -586,7 +890,7 @@
     "url": "https://seekingalpha.com/article/4800976-jpmorgan-chase-stock-best-in-class-bank-has-more-room-to-grow",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-13T22:02:24-04:00",
     "date_et": "2025-07-13"
@@ -602,7 +906,7 @@
     "url": "https://seekingalpha.com/article/4801001-financials-citi-jpmorgan-kick-off-big-banks-earnings",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-14T02:30:00-04:00",
     "date_et": "2025-07-14"
@@ -618,7 +922,7 @@
     "url": "https://www.fool.com/money/credit-cards/articles/these-credit-cards-unlock-vip-perks-and-30k-limits/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-14T10:06:45-04:00",
     "date_et": "2025-07-14"
@@ -634,7 +938,7 @@
     "url": "https://www.fool.com/money/credit-cards/articles/the-3-best-credit-cards-if-you-spend-5k-monthly-with-limits-to-match/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-14T10:06:51-04:00",
     "date_et": "2025-07-14"
@@ -650,7 +954,7 @@
     "url": "https://www.zacks.com/stock/news/2579966/jpm-mulls-over-monetizing-client-data-will-it-alter-fintech-business?cid=CS-STOCKNEWSAPI-FT-analyst_blog|quick_take-2579966",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-14T11:25:46-04:00",
     "date_et": "2025-07-14"
@@ -666,7 +970,7 @@
     "url": "https://www.zacks.com/stock/news/2580041/pre-markets-in-the-red-to-start-a-fresh-week?cid=CS-STOCKNEWSAPI-FT-economic_highlights-2580041",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-14T12:05:17-04:00",
     "date_et": "2025-07-14"
@@ -682,7 +986,7 @@
     "url": "https://www.pymnts.com/news/banking/2025/jpmorgan-opens-door-open-banking-data-tariffs-upends-aggregators/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-14T12:38:53-04:00",
     "date_et": "2025-07-14"
@@ -698,7 +1002,7 @@
     "url": "https://www.cnbc.com/2025/07/15/jpmorgan-chase-jpm-earnings-q2-2025.html",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T00:01:01-04:00",
     "date_et": "2025-07-15"
@@ -714,7 +1018,7 @@
     "url": "https://www.reuters.com/business/finance/jpmorgans-profit-slips-prior-year-accounting-gain-skews-comparison-2025-07-15/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T06:36:18-04:00",
     "date_et": "2025-07-15"
@@ -730,7 +1034,7 @@
     "url": "https://www.businesswire.com/news/home/20250714113494/en/JPMorganChase-Reports-Second-Quarter-2025-Financial-Results/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T06:37:00-04:00",
     "date_et": "2025-07-15"
@@ -746,7 +1050,7 @@
     "url": "https://www.marketwatch.com/story/jpmorgan-chase-tops-earnings-estimate-on-c462dddd",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T06:45:00-04:00",
     "date_et": "2025-07-15"
@@ -762,7 +1066,7 @@
     "url": "https://www.wsj.com/finance/banking/jpmorgan-jpm-q2-earnings-report-stock-2025-7fb92908",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T07:06:00-04:00",
     "date_et": "2025-07-15"
@@ -778,7 +1082,7 @@
     "url": "https://www.youtube.com/watch?v=Tuc3XE7H1yM",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T07:38:48-04:00",
     "date_et": "2025-07-15"
@@ -794,7 +1098,7 @@
     "url": "https://nypost.com/2025/07/15/business/jpmorgans-jamie-dimon-warns-of-significant-risks-to-us-economy-over-trump-trade-policies/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T07:40:31-04:00",
     "date_et": "2025-07-15"
@@ -810,7 +1114,7 @@
     "url": "https://www.fxempire.com/news/article/jpmorgan-reports-strong-q2-results-despite-17-profit-drop-trading-surges-1533598",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T07:46:22-04:00",
     "date_et": "2025-07-15"
@@ -826,7 +1130,7 @@
     "url": "https://www.businessinsider.com/jpmorgan-second-quarter-earnings-surprise-gain-investment-banking-fees-dealmaking-2025-7",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T07:58:13-04:00",
     "date_et": "2025-07-15"
@@ -842,7 +1146,7 @@
     "url": "https://www.investopedia.com/jpmorgan-chase-q2-2025-earnings-jpm-11769780",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T08:10:38-04:00",
     "date_et": "2025-07-15"
@@ -858,7 +1162,7 @@
     "url": "https://www.reuters.com/business/finance/jpmorgan-ceo-dimon-says-fed-independence-absolutely-critical-2025-07-15/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T08:23:10-04:00",
     "date_et": "2025-07-15"
@@ -874,7 +1178,7 @@
     "url": "https://www.benzinga.com/markets/commodities/25/07/46413662/gold-could-hit-4000-jpmorgan-sees-this-miner-rallying-60-70",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T08:39:45-04:00",
     "date_et": "2025-07-15"
@@ -890,7 +1194,7 @@
     "url": "https://www.zacks.com/stock/news/2582067/jpmorgan-chase-co-jpm-beats-q2-earnings-and-revenue-estimates?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_4-2582067",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T08:41:07-04:00",
     "date_et": "2025-07-15"
@@ -906,7 +1210,7 @@
     "url": "https://seekingalpha.com/article/4801328-jpmorgan-chase-q2-2025-outperforming-once-again",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T09:00:36-04:00",
     "date_et": "2025-07-15"
@@ -922,7 +1226,7 @@
     "url": "https://invezz.com/news/2025/07/15/jpmorgan-stock-in-focus-as-q2-results-beat-estimates-posting-15-billion-in-income/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T09:19:40-04:00",
     "date_et": "2025-07-15"
@@ -938,7 +1242,7 @@
     "url": "https://www.benzinga.com/markets/market-summary/25/07/46417015/dow-falls-over-100-points-jpmorgan-posts-upbeat-earnings",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T09:51:14-04:00",
     "date_et": "2025-07-15"
@@ -954,7 +1258,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1074776",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T10:09:02-04:00",
     "date_et": "2025-07-15"
@@ -970,7 +1274,7 @@
     "url": "https://www.zacks.com/stock/news/2582400/wall-street-analysts-see-jpmorgan-chase-co-jpm-as-a-buy-should-you-invest?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|average_broker_rating-2582400",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T10:31:20-04:00",
     "date_et": "2025-07-15"
@@ -986,7 +1290,7 @@
     "url": "https://invezz.com/news/2025/07/15/from-jpmorgan-to-citi-us-banks-report-strong-q2-as-dealmaking-revives/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T10:45:32-04:00",
     "date_et": "2025-07-15"
@@ -1002,7 +1306,7 @@
     "url": "https://www.zacks.com/stock/news/2582686/jpm-s-q2-earnings-beat-on-solid-capital-markets-loans-nii-view-up?cid=CS-STOCKNEWSAPI-FT-analyst_blog|earnings_article-2582686",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T11:11:10-04:00",
     "date_et": "2025-07-15"
@@ -1018,7 +1322,7 @@
     "url": "https://www.zacks.com/stock/news/2582775/economy-shows-signs-of-warming-cpi-q2-bank-earnings?cid=CS-STOCKNEWSAPI-FT-ahead_of_wall_street-2582775",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T11:30:38-04:00",
     "date_et": "2025-07-15"
@@ -1034,7 +1338,7 @@
     "url": "https://www.cnbc.com/2025/07/15/jamie-dimon-jpmorgan-chase-stablecoins.html",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T11:48:34-04:00",
     "date_et": "2025-07-15"
@@ -1050,7 +1354,7 @@
     "url": "https://www.zacks.com/stock/news/2582897/cpi-increased-in-line-with-expectations?cid=CS-STOCKNEWSAPI-FT-economic_highlights-2582897",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T12:15:20-04:00",
     "date_et": "2025-07-15"
@@ -1066,7 +1370,7 @@
     "url": "https://www.fool.com/data-news/2025/07/15/jpmorgan-chase-q2-profit-hits-15-billion/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T12:29:21-04:00",
     "date_et": "2025-07-15"
@@ -1082,7 +1386,7 @@
     "url": "https://www.zacks.com/commentary/2582984/markets-hit-record-highs-banks-report-q2-results-stocks-to-watch?cid=CS-STOCKNEWSAPI-FT-investment_ideas-2582984",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T12:51:13-04:00",
     "date_et": "2025-07-15"
@@ -1098,7 +1402,7 @@
     "url": "https://www.pymnts.com/earnings/2025/jpmorgan-earnings-consumers-are-fine-ceo-jamie-dimon-backs-jpm-coin/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T12:53:38-04:00",
     "date_et": "2025-07-15"
@@ -1114,7 +1418,7 @@
     "url": "https://www.youtube.com/watch?v=Q-77Qo06SX8",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T13:00:37-04:00",
     "date_et": "2025-07-15"
@@ -1130,7 +1434,7 @@
     "url": "https://www.reuters.com/business/finance/jpmorgan-ceo-dimons-comments-highlight-steady-caution-us-economy-2025-07-15/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T13:54:35-04:00",
     "date_et": "2025-07-15"
@@ -1146,7 +1450,7 @@
     "url": "https://247wallst.com/investing/2025/07/15/jpmorgan-chase-nyse-jpm-live-earnings-coverage-stock-flat-after-upbeat-earnings/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T14:00:09-04:00",
     "date_et": "2025-07-15"
@@ -1162,7 +1466,7 @@
     "url": "https://seekingalpha.com/article/4801445-jpmorgan-chase-and-co-jpm-q2-2025-earnings-call-transcript",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T14:25:46-04:00",
     "date_et": "2025-07-15"
@@ -1178,7 +1482,7 @@
     "url": "https://247wallst.com/investing/2025/07/15/financial-earnings-live-updates-on-wells-fargo-nyse-wfc-and-blackrock-nyse-blk/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T14:37:58-04:00",
     "date_et": "2025-07-15"
@@ -1194,7 +1498,7 @@
     "url": "https://www.youtube.com/watch?v=GUh0MEQkRrA",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T15:35:41-04:00",
     "date_et": "2025-07-15"
@@ -1210,7 +1514,7 @@
     "url": "https://www.youtube.com/watch?v=McdJ5d2LS28",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T16:30:29-04:00",
     "date_et": "2025-07-15"
@@ -1226,7 +1530,7 @@
     "url": "https://www.businesswire.com/news/home/20250715597886/en/JPMorganChase-Declares-Preferred-Stock-Dividends/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T16:34:00-04:00",
     "date_et": "2025-07-15"
@@ -1242,7 +1546,7 @@
     "url": "https://www.marketbeat.com/originals/jpmorgan-q2-results-affirm-dividend-buybacks-and-growth/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T16:39:03-04:00",
     "date_et": "2025-07-15"
@@ -1258,7 +1562,7 @@
     "url": "https://www.marketwatch.com/story/jpmorgans-jamie-dimon-on-stablecoins-i-think-theyre-real-but-why-use-them-b0195bad",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T16:44:00-04:00",
     "date_et": "2025-07-15"
@@ -1274,7 +1578,7 @@
     "url": "https://www.foxbusiness.com/economy/jpmorgan-ceo-reveals-whats-keeping-american-economy-strong-despite-global-challenges",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-15T19:20:47-04:00",
     "date_et": "2025-07-15"
@@ -1290,7 +1594,7 @@
     "url": "https://seekingalpha.com/article/4801510-jpmorgan-chase-political-considerations-dominate",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-16T01:51:04-04:00",
     "date_et": "2025-07-16"
@@ -1306,7 +1610,7 @@
     "url": "https://www.prnewswire.com/news-releases/jpmorganchase-unveils-new-retirement-solution-for-solo-entrepreneurs-302506562.html",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-16T09:30:00-04:00",
     "date_et": "2025-07-16"
@@ -1322,7 +1626,7 @@
     "url": "https://247wallst.com/investing/2025/07/16/live-goldman-sachs-nyse-gs-pnc-financial-services-nyse-pnc-earnings-coverage/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-16T11:06:45-04:00",
     "date_et": "2025-07-16"
@@ -1338,7 +1642,7 @@
     "url": "https://247wallst.com/investing/2025/07/16/live-earnings-updates-morgan-stanley-nyse-ms-earnings-release-before-the-bell/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-16T11:06:45-04:00",
     "date_et": "2025-07-16"
@@ -1354,7 +1658,7 @@
     "url": "https://247wallst.com/investing/2025/07/16/live-will-bank-of-america-nyse-bac-soar-after-earnings/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-16T11:06:45-04:00",
     "date_et": "2025-07-16"
@@ -1370,7 +1674,7 @@
     "url": "https://www.zacks.com/commentary/2586972/q2-earnings-season-kicks-off-positively-a-closer-look?cid=CS-STOCKNEWSAPI-FT-earnings_outlook-2586972",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-16T21:16:38-04:00",
     "date_et": "2025-07-16"
@@ -1386,7 +1690,7 @@
     "url": "https://www.zacks.com/commentary/2586943/q2-earnings-season-kicks-off-positively-a-closer-look?cid=CS-STOCKNEWSAPI-FT-earnings_trends-2586943",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-16T21:21:04-04:00",
     "date_et": "2025-07-16"
@@ -1402,7 +1706,7 @@
     "url": "https://www.reuters.com/business/finance/jpmorgan-appoints-new-leaders-its-north-america-corporate-banking-unit-memo-says-2025-07-17/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-17T10:42:08-04:00",
     "date_et": "2025-07-17"
@@ -1418,7 +1722,7 @@
     "url": "https://247wallst.com/investing/2025/07/17/inherited-400000-heres-the-smartest-way-to-turn-it-into-monthly-passive-income/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-17T11:30:26-04:00",
     "date_et": "2025-07-17"
@@ -1434,7 +1738,7 @@
     "url": "https://www.cnbc.com/2025/07/17/banks-thriving-so-far-trump-economy-markets-consumer.html",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-17T13:31:07-04:00",
     "date_et": "2025-07-17"
@@ -1450,7 +1754,7 @@
     "url": "https://247wallst.com/investing/2025/07/18/have-1000-to-invest-these-are-the-two-best-etfs-to-buy-right-now/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-18T08:08:27-04:00",
     "date_et": "2025-07-18"
@@ -1466,7 +1770,7 @@
     "url": "https://www.zacks.com/stock/news/2591309/why-you-shouldn-t-bet-against-jpmorgan-stock?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|industry_rank_and_rising_estimates-2591309",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-18T09:36:12-04:00",
     "date_et": "2025-07-18"
@@ -1482,7 +1786,7 @@
     "url": "https://www.reuters.com/legal/transactional/jp-morgan-must-stop-greek-lawsuit-against-viva-directors-uk-court-rules-2025-07-18/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-18T11:20:30-04:00",
     "date_et": "2025-07-18"
@@ -1498,7 +1802,7 @@
     "url": "https://www.reuters.com/business/finance/jpmorgan-eyes-new-research-frontier-with-coverage-private-firms-source-says-2025-07-18/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-18T12:58:07-04:00",
     "date_et": "2025-07-18"
@@ -1514,7 +1818,7 @@
     "url": "https://www.zacks.com/stock/news/2592275/jpmorgan-chase-co-jpm-upgraded-to-strong-buy-here-s-why?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_12_zacks_rank_upgrade-2592275",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-18T13:01:18-04:00",
     "date_et": "2025-07-18"
@@ -1530,7 +1834,7 @@
     "url": "https://www.businessinsider.com/jpmorgan-private-company-coverage-openai-research-note-memo-hussein-malik-2025-7",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-18T14:26:40-04:00",
     "date_et": "2025-07-18"
@@ -1546,7 +1850,7 @@
     "url": "https://www.fool.com/investing/2025/07/21/5-brilliant-dividend-stocks-to-buy-now-and-hold-fo/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-21T06:45:00-04:00",
     "date_et": "2025-07-21"
@@ -1562,7 +1866,7 @@
     "url": "https://www.zacks.com/stock/news/2599343/jpmorgan-chase-co-jpm-is-a-trending-stock-facts-to-know-before-betting-on-it?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|most_searched_stocks-2599343",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-21T10:01:42-04:00",
     "date_et": "2025-07-21"
@@ -1578,7 +1882,7 @@
     "url": "https://seekingalpha.com/article/4802731-sticky-inflation-is-back-in-focus-time-to-consider-high-yields",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-21T13:00:00-04:00",
     "date_et": "2025-07-21"
@@ -1594,7 +1898,7 @@
     "url": "https://www.proactiveinvestors.co.uk/companies/news/1075173",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-22T04:01:21-04:00",
     "date_et": "2025-07-22"
@@ -1610,7 +1914,7 @@
     "url": "https://www.youtube.com/watch?v=N4MHXiuSgPA",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-22T08:24:01-04:00",
     "date_et": "2025-07-22"
@@ -1626,7 +1930,7 @@
     "url": "https://www.marketbeat.com/stock-ideas/4-major-stocks-raise-2025-guidance-analyst-targets-rise/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-23T07:13:55-04:00",
     "date_et": "2025-07-23"
@@ -1642,7 +1946,7 @@
     "url": "https://247wallst.com/investing/2025/07/23/how-to-build-a-super-low-cost-passive-income-fund-for-only-25000/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-23T16:10:37-04:00",
     "date_et": "2025-07-23"
@@ -1658,7 +1962,7 @@
     "url": "https://www.wsj.com/finance/banking/lawmakers-subpoena-jpmorgan-and-bofa-over-ipo-of-chinese-battery-startup-83f20c0d",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-23T17:14:00-04:00",
     "date_et": "2025-07-23"
@@ -1674,7 +1978,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/07/24/3120773/0/en/Defiance-Launches-JPX-The-First-2X-Leveraged-ETF-on-JPM-JP-Morgan.html",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-24T02:55:00-04:00",
     "date_et": "2025-07-24"
@@ -1690,7 +1994,7 @@
     "url": "https://www.zacks.com/stock/news/2611882/5-must-buy-stocks-amid-solid-earnings-estimate-revisions-after-q2-beat?cid=CS-STOCKNEWSAPI-FT-analyst_blog|investment_ideas-2611882",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-24T08:16:11-04:00",
     "date_et": "2025-07-24"
@@ -1706,7 +2010,7 @@
     "url": "https://www.youtube.com/watch?v=GmeJd9VE-ho",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-24T12:45:38-04:00",
     "date_et": "2025-07-24"
@@ -1722,7 +2026,7 @@
     "url": "https://seekingalpha.com/article/4804431-jpmorgan-chase-the-first-trillion-dollar-bank",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-25T08:31:43-04:00",
     "date_et": "2025-07-25"
@@ -1738,7 +2042,7 @@
     "url": "https://www.fxempire.com/forecasts/article/jpmorgan-chase-financial-and-technical-strength-signal-more-upside-1536477",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-25T14:05:09-04:00",
     "date_et": "2025-07-25"
@@ -1754,7 +2058,7 @@
     "url": "https://seekingalpha.com/article/4803152-3-bucket-system-for-5000-monthly-income-for-early-retirees",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-26T08:00:00-04:00",
     "date_et": "2025-07-26"
@@ -1770,7 +2074,7 @@
     "url": "https://www.zacks.com/stock/news/2628552/should-jpm-be-in-your-portfolio-after-q2-beat-nii-guidance-raise?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2628552",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-28T10:16:06-04:00",
     "date_et": "2025-07-28"
@@ -1786,7 +2090,7 @@
     "url": "https://247wallst.com/forecasts/2025/07/27/bank-of-america-bac-price-prediction-and-forecast/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-28T14:02:24-04:00",
     "date_et": "2025-07-28"
@@ -1802,7 +2106,7 @@
     "url": "https://www.cnbc.com/2025/07/28/jpmorgan-fintech-middlemen-plaid-data-requests-taxing-systems.html",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-28T14:15:32-04:00",
     "date_et": "2025-07-28"
@@ -1818,7 +2122,7 @@
     "url": "https://www.cnbc.com/2025/07/29/rare-earths-china-bargaining-chip-trade-war-us.html",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-29T08:00:01-04:00",
     "date_et": "2025-07-29"
@@ -1834,7 +2138,7 @@
     "url": "https://www.cnbc.com/2025/07/29/jpmorgan-chase-apple-card-goldman-sachs-issuer.html",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-29T10:44:08-04:00",
     "date_et": "2025-07-29"
@@ -1850,7 +2154,7 @@
     "url": "https://www.pymnts.com/apple/2025/jpmorgan-chase-and-apple-near-deal-on-credit-card-partnership/",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-29T12:35:52-04:00",
     "date_et": "2025-07-29"
@@ -1866,7 +2170,7 @@
     "url": "https://www.barrons.com/articles/jpmorgan-chase-apple-stock-credit-card-c2d7ac65",
     "ticker": "JPM",
     "event_date": "2025-07-15",
-    "window_start": "2025-07-08",
+    "window_start": "2025-07-01",
     "window_end": "2025-07-29",
     "publishedDateET": "2025-07-29T12:38:00-04:00",
     "date_et": "2025-07-29"

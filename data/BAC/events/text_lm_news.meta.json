@@ -5,7 +5,7 @@
   "event_long_out": "data/BAC/events/text_lm_news_event_long.csv",
   "event_wide_out": "data/BAC/events/text_lm_news_event_wide.csv",
   "min_tokens": 20,
-  "rows_in": 1809,
-  "rows_scored": 1144,
+  "rows_in": 2156,
+  "rows_scored": 1346,
   "events_scored": 20
 }

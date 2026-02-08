@@ -1,6 +1,214 @@
 [
   {
     "symbol": "JPM",
+    "publishedDate": "2023-09-29 05:21:00",
+    "publisher": "The Motley Fool",
+    "title": "These 7 Dividend Stocks Pay $98 Billion Annually, Combined, to Their Shareholders",
+    "image": "https://images.financialmodelingprep.com/news/these-7-dividend-stocks-pay-98-billion-annually-combined-20230929.jpg",
+    "site": "fool.com",
+    "text": "Over the long run, dividend stocks have run circles around public companies that don't offer a payout. These seven income juggernauts are parsing out some of the largest nominal-dollar dividends in the world.",
+    "url": "https://www.fool.com/investing/2023/09/29/7-dividend-stocks-pay-98-billion-year-shareholders/",
+    "ticker": "JPM",
+    "event_date": "2023-10-13",
+    "window_start": "2023-09-29",
+    "window_end": "2023-10-27",
+    "publishedDateET": "2023-09-29T05:21:00-04:00",
+    "date_et": "2023-09-29"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2023-09-29 09:01:10",
+    "publisher": "Zacks Investment Research",
+    "title": "JPMorgan (JPM) Offers Account Validation Services to Treasury",
+    "image": "https://images.financialmodelingprep.com/news/jpmorgan-jpm-offers-account-validation-services-to-treasury-20230929.jpg",
+    "site": "zacks.com",
+    "text": "JPMorgan (JPM) has been chosen by the U.S Treasury Department to provide account validation services for federal agencies.",
+    "url": "https://www.zacks.com/stock/news/2157659/jpmorgan-jpm-offers-account-validation-services-to-treasury",
+    "ticker": "JPM",
+    "event_date": "2023-10-13",
+    "window_start": "2023-09-29",
+    "window_end": "2023-10-27",
+    "publishedDateET": "2023-09-29T09:01:10-04:00",
+    "date_et": "2023-09-29"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2023-09-29 09:30:00",
+    "publisher": "PRNewsWire",
+    "title": "J.P. Morgan Asset Management Launches Hedged Equity Laddered Overlay ETF: HELO",
+    "image": "https://images.financialmodelingprep.com/news/jp-morgan-asset-management-launches-hedged-equity-laddered-overlay-20230929.jpg",
+    "site": "prnewswire.com",
+    "text": "Funds seek to deliver JPM active management expertise and risk controls through ETF structure NEW YORK , Sept. 29, 2023 /PRNewswire/ -- J.P.",
+    "url": "https://www.prnewswire.com/news-releases/jp-morgan-asset-management-launches-hedged-equity-laddered-overlay-etf-helo-301942585.html",
+    "ticker": "JPM",
+    "event_date": "2023-10-13",
+    "window_start": "2023-09-29",
+    "window_end": "2023-10-27",
+    "publishedDateET": "2023-09-29T09:30:00-04:00",
+    "date_et": "2023-09-29"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2023-09-29 22:04:32",
+    "publisher": "Reuters",
+    "title": "US CFTC orders 3 major US banks to pay over $50 mln for swap reporting failures",
+    "image": "https://images.financialmodelingprep.com/news/us-cftc-orders-3-major-us-banks-to-pay-20230929.jpg",
+    "site": "reuters.com",
+    "text": "The U.S. Commodity Futures Trading Commission on Friday ordered Goldman Sachs , Bank of America and JPMorgan to pay a total of over $50 million for swap reporting failures and other violations, the agency said in a statement.",
+    "url": "https://www.reuters.com/business/finance/us-cftc-orders-3-major-us-banks-pay-over-50-mln-swap-reporting-failures-2023-09-30/",
+    "ticker": "JPM",
+    "event_date": "2023-10-13",
+    "window_start": "2023-09-29",
+    "window_end": "2023-10-27",
+    "publishedDateET": "2023-09-29T22:04:32-04:00",
+    "date_et": "2023-09-29"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2023-10-02 12:53:51",
+    "publisher": "Forbes",
+    "title": "3.5 Day Work Week? JPMorgan CEO Jamie Dimon Predicts AI Could Make It HappeN",
+    "image": "https://images.financialmodelingprep.com/news/35-day-work-week-jpmorgan-ceo-jamie-dimon-predicts-20231002.jpg",
+    "site": "forbes.com",
+    "text": "Jamie Dimon also said AI would “of course” kill jobs but noted that technology always does.",
+    "url": "https://www.forbes.com/sites/willskipworth/2023/10/02/35-day-work-week-jpmorgan-ceo-jamie-dimon-predicts-ai-could-make-it-happen/",
+    "ticker": "JPM",
+    "event_date": "2023-10-13",
+    "window_start": "2023-09-29",
+    "window_end": "2023-10-27",
+    "publishedDateET": "2023-10-02T12:53:51-04:00",
+    "date_et": "2023-10-02"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2023-10-02 14:11:07",
+    "publisher": "PYMNTS",
+    "title": "Dimon: JPMorgan Wants More VC and Startup Banking Clients",
+    "image": "https://images.financialmodelingprep.com/news/dimon-jpmorgan-wants-more-vc-and-startup-banking-clients-20231002.jpg",
+    "site": "pymnts.com",
+    "text": "J.P. Morgan Chase reportedly wants to expand its startup and venture capital (VC) customer base. Speaking during a conference Monday (Oct. 2), CEO Jamie Dimon said the country's largest bank is courting these customers, a move that comes in the wake of a series of high-profile bank failures earlier this year.",
+    "url": "https://www.pymnts.com/news/banking/2023/dimon-jpmorgan-wants-more-vc-and-startup-banking-clients/?utm_source=snapi",
+    "ticker": "JPM",
+    "event_date": "2023-10-13",
+    "window_start": "2023-09-29",
+    "window_end": "2023-10-27",
+    "publishedDateET": "2023-10-02T14:11:07-04:00",
+    "date_et": "2023-10-02"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2023-10-03 03:01:53",
+    "publisher": "Proactive Investors",
+    "title": "You'll live longer and be happy because of AI, reckons JPMorgan boss",
+    "image": "https://images.financialmodelingprep.com/news/youll-live-longer-and-be-happy-because-of-ai-20231003.png",
+    "site": "proactiveinvestors.com",
+    "text": "Way back in 2016, the World Economic Forum made eight predictions for the world in 2030. Chief among them, and quickly latched onto by conspiratorialists and anti-globalists, was the prediction that “you'll own nothing, and you'll be happy”.",
+    "url": "https://www.proactiveinvestors.co.uk/companies/news/1028464?SNAPI",
+    "ticker": "JPM",
+    "event_date": "2023-10-13",
+    "window_start": "2023-09-29",
+    "window_end": "2023-10-27",
+    "publishedDateET": "2023-10-03T03:01:53-04:00",
+    "date_et": "2023-10-03"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2023-10-03 08:44:42",
+    "publisher": "Business Insider",
+    "title": "Sunny days for the US economy could end abruptly if these 2 'storm clouds' hit, JPMorgan's Jamie Dimon warns",
+    "image": "https://images.financialmodelingprep.com/news/sunny-days-for-the-us-economy-could-end-abruptly-20231003.jpg",
+    "site": "businessinsider.com",
+    "text": "The US economy is in good shape but there are \"storm clouds\" on the horizon, Jamie Dimon says. The JPMorgan chief worries about the fallout from pandemic stimulus as well as geopolitical risks.",
+    "url": "https://www.businessinsider.com/us-economic-outlook-jpmorgan-dimon-government-spending-geopolitics-russia-ukraine-2023-10",
+    "ticker": "JPM",
+    "event_date": "2023-10-13",
+    "window_start": "2023-09-29",
+    "window_end": "2023-10-27",
+    "publishedDateET": "2023-10-03T08:44:42-04:00",
+    "date_et": "2023-10-03"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2023-10-03 09:40:44",
+    "publisher": "Business Insider",
+    "title": "JPMorgan CEO Jamie Dimon says our children will probably only work 3.5 days a week thanks to AI",
+    "image": "https://images.financialmodelingprep.com/news/jpmorgan-ceo-jamie-dimon-says-our-children-will-probably-20231003.jpg",
+    "site": "businessinsider.com",
+    "text": "JPMorgan CEO Jamie Dimon spoke with Bloomberg about how he thinks AI will impact the future of work. Dimon said that he thinks AI will eventually cut down the work week to three and a half days.",
+    "url": "https://www.businessinsider.com/jpmorgan-ceo-jamie-dimon-ai-day-shorter-work-week-2023-10",
+    "ticker": "JPM",
+    "event_date": "2023-10-13",
+    "window_start": "2023-09-29",
+    "window_end": "2023-10-27",
+    "publishedDateET": "2023-10-03T09:40:44-04:00",
+    "date_et": "2023-10-03"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2023-10-03 16:16:14",
+    "publisher": "Seeking Alpha",
+    "title": "October Dogs Of The Dow: 3 Buyable, 7 Watchable",
+    "image": "https://images.financialmodelingprep.com/news/october-dogs-of-the-dow-3-buyable-7-watchable-20231003.jpg",
+    "site": "seekingalpha.com",
+    "text": "\"The Dow® [adds a stock] if the company has an excellent reputation, demonstrates sustained growth, and is of interest to a large number of investors. Sector representation is also a consideration.”–Dow Jones & Co. The highest-yield 10 stocks are October's Dogs of the Dow: JNJ, AMGN, KO, GS, CVX, IBM, DOW, MMM, VZ, and WBA averaged a 4.99% annual yield. Thirty Dow stocks represent nine of eleven sectors. Dow Jones tracks utilities as a separate index and omits real estate. Broker top-ten target-estimated October net-gains ranged 17.91%-45.47%, topped by WBA 10/2/23.",
+    "url": "https://seekingalpha.com/article/4638785-october-dogs-of-dow-3-buyable-7-watchable",
+    "ticker": "JPM",
+    "event_date": "2023-10-13",
+    "window_start": "2023-09-29",
+    "window_end": "2023-10-27",
+    "publishedDateET": "2023-10-03T16:16:14-04:00",
+    "date_et": "2023-10-03"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2023-10-04 10:08:33",
+    "publisher": "InvestorPlace",
+    "title": "7 Stocks Warren Buffett Is Loading Up on Before They Soar",
+    "image": "https://images.financialmodelingprep.com/news/7-stocks-warren-buffett-is-loading-up-on-before-20231004.jpg",
+    "site": "investorplace.com",
+    "text": "Warren Buffett, the legendary investor and CEO of Berkshire Hathaway (NYSE: BRK-A , NYSE: BRK-B ), has a keen eye for value stocks that are poised for growth. In recent months, he has been selectively adding to positions in companies he believes are undervalued and have significant upside potential.",
+    "url": "https://investorplace.com/2023/10/7-stocks-warren-buffett-is-loading-up-on-before-they-soar/",
+    "ticker": "JPM",
+    "event_date": "2023-10-13",
+    "window_start": "2023-09-29",
+    "window_end": "2023-10-27",
+    "publishedDateET": "2023-10-04T10:08:33-04:00",
+    "date_et": "2023-10-04"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2023-10-04 12:11:00",
+    "publisher": "InvestorPlace",
+    "title": "3 Top Dividend Stocks to Buy in Q4 2023",
+    "image": "https://images.financialmodelingprep.com/news/3-top-dividend-stocks-to-buy-in-q4-2023-20231004.jpg",
+    "site": "investorplace.com",
+    "text": "Dividend payments are important to investors—especially with stock prices softening in the face of high interest rates. Many shareholders depend on the cash they get from dividend stocks for both income and just general portfolio buoyancy amid ongoing uncertainty.",
+    "url": "https://investorplace.com/2023/10/top-dividend-stocks-buy-2023-q4/",
+    "ticker": "JPM",
+    "event_date": "2023-10-13",
+    "window_start": "2023-09-29",
+    "window_end": "2023-10-27",
+    "publishedDateET": "2023-10-04T12:11:00-04:00",
+    "date_et": "2023-10-04"
+  },
+  {
+    "symbol": "JPM",
+    "publishedDate": "2023-10-04 12:32:31",
+    "publisher": "Forbes",
+    "title": "JPMorgan Chase Reports Before The Open On 10/13",
+    "image": "https://images.financialmodelingprep.com/news/jpmorgan-chase-reports-before-the-open-on-1013-20231004.jpg",
+    "site": "forbes.com",
+    "text": "the JPMorgan Chase JPM next earnings date is projected to be 10/13 before market open, with earnings estimates of $3.59/share on $36.99 Billion of revenue",
+    "url": "https://www.forbes.com/sites/dividendchannel/2023/10/04/jpmorgan-chase-reports-before-the-open-on-1013/",
+    "ticker": "JPM",
+    "event_date": "2023-10-13",
+    "window_start": "2023-09-29",
+    "window_end": "2023-10-27",
+    "publishedDateET": "2023-10-04T12:32:31-04:00",
+    "date_et": "2023-10-04"
+  },
+  {
+    "symbol": "JPM",
     "publishedDate": "2023-10-06 07:49:00",
     "publisher": "Market Watch",
     "title": "Here's what to expect when banks report earnings, and how cheap their stocks are now",
@@ -10,7 +218,7 @@
     "url": "https://www.marketwatch.com/story/heres-what-to-expect-when-banks-report-earnings-and-how-cheap-their-stocks-are-now-ac49c8cd",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-06T07:49:00-04:00",
     "date_et": "2023-10-06"
@@ -26,7 +234,7 @@
     "url": "https://www.zacks.com/stock/news/2161584/jpmorgan-chase-co-jpm-earnings-expected-to-grow-should-you-buy",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-06T11:16:19-04:00",
     "date_et": "2023-10-06"
@@ -42,7 +250,7 @@
     "url": "https://www.zacks.com/stock/news/2161626/jpmorgan-others-required-to-reveal-crypto-holdings-per-new-plan",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-06T11:16:23-04:00",
     "date_et": "2023-10-06"
@@ -58,7 +266,7 @@
     "url": "https://www.marketwatch.com/story/bank-earnings-await-after-a-weak-quarter-for-stock-prices-but-the-biggest-names-remain-more-favored-196c9ccb",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-06T15:25:00-04:00",
     "date_et": "2023-10-06"
@@ -74,7 +282,7 @@
     "url": "https://www.forbes.com/sites/investor-hub/article/top-banks-stocks-student-loan-payments-resume/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-06T17:00:35-04:00",
     "date_et": "2023-10-06"
@@ -90,7 +298,7 @@
     "url": "https://www.zacks.com/commentary/2161835/analyzing-q3-earnings-higher-interest-rates",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-06T18:47:27-04:00",
     "date_et": "2023-10-06"
@@ -106,7 +314,7 @@
     "url": "https://seekingalpha.com/article/4639377-jpmorgan-chase-6-percent-yield-on-preferred-shares-potential-capital-gains",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-07T11:40:00-04:00",
     "date_et": "2023-10-07"
@@ -122,7 +330,7 @@
     "url": "https://www.foxbusiness.com/markets/jpmorgan-earnings-inflation-data-uaw-strike-week-ahead",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-08T11:05:47-04:00",
     "date_et": "2023-10-08"
@@ -138,7 +346,7 @@
     "url": "https://investorplace.com/2023/10/7-dividend-stocks-ready-to-roar-into-2024/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-09T10:06:06-04:00",
     "date_et": "2023-10-09"
@@ -154,7 +362,7 @@
     "url": "https://www.zacks.com/stock/news/2162515/jpmorgan-chase-co-jpm-is-a-trending-stock-facts-to-know-before-betting-on-it",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-09T10:31:27-04:00",
     "date_et": "2023-10-09"
@@ -170,7 +378,7 @@
     "url": "https://www.marketwatch.com/story/jpmorgans-jamie-dimon-says-bank-employees-safe-over-the-weekend-bank-stocks-fall-on-heels-of-israel-hamas-war-8c6f6dd7",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-09T11:07:00-04:00",
     "date_et": "2023-10-09"
@@ -186,7 +394,7 @@
     "url": "https://www.zacks.com/stock/news/2162646/here-s-why-jpmorgan-chase-co-jpm-is-a-strong-momentum-stock",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-09T11:17:05-04:00",
     "date_et": "2023-10-09"
@@ -202,7 +410,7 @@
     "url": "https://www.zacks.com/stock/news/2162693/global-deal-making-rebound-in-q3-will-it-be-sustainable",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-09T12:02:20-04:00",
     "date_et": "2023-10-09"
@@ -218,7 +426,7 @@
     "url": "https://seekingalpha.com/article/4639738-jpmorgan-chase-stretching-out-lead-in-tough-bank-stock-environment",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-09T12:13:20-04:00",
     "date_et": "2023-10-09"
@@ -234,7 +442,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1029153?SNAPI",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-09T13:21:17-04:00",
     "date_et": "2023-10-09"
@@ -250,7 +458,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1029160?SNAPI",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-09T18:12:53-04:00",
     "date_et": "2023-10-09"
@@ -266,7 +474,7 @@
     "url": "https://www.zacks.com/stock/news/2162953/jpmorgan-chase-co-jpm-stock-slides-as-market-rises-facts-to-know-before-you-trade",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-09T18:47:25-04:00",
     "date_et": "2023-10-09"
@@ -282,7 +490,7 @@
     "url": "https://www.pymnts.com/news/banking/2023/slowing-loan-growth-expected-to-squeeze-big-us-banks-profits/?utm_source=snapi",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-09T19:40:05-04:00",
     "date_et": "2023-10-09"
@@ -298,7 +506,7 @@
     "url": "https://www.zacks.com/stock/news/2163346/high-rates-to-aid-jpmorgan-jpm-q3-earnings-ib-to-hurt",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-10T09:46:18-04:00",
     "date_et": "2023-10-10"
@@ -314,7 +522,7 @@
     "url": "https://www.prnewswire.com/news-releases/jp-morgan-launches-private-markets-fund-expanding-investor-access-to-private-equity-investment-opportunities-301952466.html",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-10T10:57:00-04:00",
     "date_et": "2023-10-10"
@@ -330,7 +538,7 @@
     "url": "https://investorplace.com/2023/10/the-one-bank-stock-you-should-have-in-your-portfolio/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-10T12:23:53-04:00",
     "date_et": "2023-10-10"
@@ -346,7 +554,7 @@
     "url": "https://www.zacks.com/stock/news/2163679/will-jpmorgan-chase-co-jpm-beat-estimates-again-in-its-next-earnings-report",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-10T13:32:37-04:00",
     "date_et": "2023-10-10"
@@ -362,7 +570,7 @@
     "url": "https://www.zacks.com/stock/news/2163665/jpmorgan-chase-co-jpm-upgraded-to-buy-what-does-it-mean-for-the-stock",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-10T13:33:24-04:00",
     "date_et": "2023-10-10"
@@ -378,7 +586,7 @@
     "url": "https://investorplace.com/2023/10/have-interest-rates-peaked-why-bill-ackman-thinks-fed-rate-hikes-are-done/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-11T06:48:59-04:00",
     "date_et": "2023-10-11"
@@ -394,7 +602,7 @@
     "url": "https://seekingalpha.com/article/4640139-jp-morgan-chase-banks-kick-off-q3-earnings-friday-3-questions-investors",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-11T07:02:15-04:00",
     "date_et": "2023-10-11"
@@ -410,7 +618,7 @@
     "url": "https://www.marketwatch.com/story/bank-stock-indexes-mark-sixth-straight-day-of-gains-in-morning-trades-304c5bd4",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-11T10:07:00-04:00",
     "date_et": "2023-10-11"
@@ -426,7 +634,7 @@
     "url": "https://www.investopedia.com/rising-interest-rates-bank-earnings-preview-q3-2023-8349535",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-11T11:40:37-04:00",
     "date_et": "2023-10-11"
@@ -442,7 +650,7 @@
     "url": "https://www.businesswire.com/news/home/20231011641680/en/JPMorgan-Chase-Announces-2024-Investor-Day/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-11T16:30:00-04:00",
     "date_et": "2023-10-11"
@@ -458,7 +666,7 @@
     "url": "https://www.pymnts.com/startups/2023/jpmorgan-pursues-silicon-valley-startups-and-vc-backers/?utm_source=snapi",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-11T17:19:25-04:00",
     "date_et": "2023-10-11"
@@ -474,7 +682,7 @@
     "url": "https://www.zacks.com/commentary/2164539/bank-earnings-loom-a-challenging-setup",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-11T20:18:32-04:00",
     "date_et": "2023-10-11"
@@ -490,7 +698,7 @@
     "url": "https://www.zacks.com/commentary/2164580/bank-earnings-loom-a-challenging-setup",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-11T20:18:34-04:00",
     "date_et": "2023-10-11"
@@ -506,7 +714,7 @@
     "url": "https://www.pymnts.com/news/banking/2023/us-banks-brace-for-surge-in-bad-debt-write-offs/?utm_source=snapi",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-11T21:48:14-04:00",
     "date_et": "2023-10-11"
@@ -522,7 +730,7 @@
     "url": "https://www.prnewswire.com/news-releases/jp-morgan-asset-management-launches-new-fixed-income-etf-jbnd-301954190.html",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-12T09:30:00-04:00",
     "date_et": "2023-10-12"
@@ -538,7 +746,7 @@
     "url": "https://www.zacks.com/stock/news/2164733/why-jpmorgan-jpm-might-surprise-this-earnings-season",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-12T09:46:20-04:00",
     "date_et": "2023-10-12"
@@ -554,7 +762,7 @@
     "url": "https://www.zacks.com/stock/news/2165006/dow-etf-in-focus-ahead-of-q3-earnings",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-12T12:47:40-04:00",
     "date_et": "2023-10-12"
@@ -570,7 +778,7 @@
     "url": "https://www.reuters.com/business/finance/options-traders-see-larger-than-usual-stock-swings-banks-report-results-2023-10-12/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-12T13:04:09-04:00",
     "date_et": "2023-10-12"
@@ -586,7 +794,7 @@
     "url": "https://www.zacks.com/stock/news/2165146/how-will-bank-etfs-perform-in-q3-earnings-season",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-12T15:02:04-04:00",
     "date_et": "2023-10-12"
@@ -602,7 +810,7 @@
     "url": "https://www.cnbc.com/2023/10/12/bank-earnings-kick-off-after-another-period-of-rising-rates-bad-loans.html",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-12T16:16:57-04:00",
     "date_et": "2023-10-12"
@@ -618,7 +826,7 @@
     "url": "https://www.cnbc.com/2023/10/13/jpmorgan-chase-jpm-earnings-3q-2023.html",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T00:01:01-04:00",
     "date_et": "2023-10-13"
@@ -634,7 +842,7 @@
     "url": "https://www.marketwatch.com/story/stock-futures-inch-higher-as-investors-wait-for-earnings-kickoff-from-jpmorgan-other-wall-street-banks-aacda1c1",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T05:17:00-04:00",
     "date_et": "2023-10-13"
@@ -650,7 +858,7 @@
     "url": "https://www.reuters.com/business/finance/jpmorgan-profit-rises-interest-income-boost-2023-10-13/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T06:54:26-04:00",
     "date_et": "2023-10-13"
@@ -666,7 +874,7 @@
     "url": "https://www.businesswire.com/news/home/20231012347795/en/JPMorgan-Chase-Reports-Third-Quarter-2023-Financial-Results/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T07:00:00-04:00",
     "date_et": "2023-10-13"
@@ -682,7 +890,7 @@
     "url": "https://www.foxbusiness.com/markets/jpmorgan-chase-third-quarter-earnings-2023",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T07:11:41-04:00",
     "date_et": "2023-10-13"
@@ -698,7 +906,7 @@
     "url": "https://www.marketwatch.com/story/jpmorgan-chases-q3-profit-rises-by-35-in-solid-megabank-performance-2acce893",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T07:21:00-04:00",
     "date_et": "2023-10-13"
@@ -714,7 +922,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1029674?SNAPI",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T07:35:49-04:00",
     "date_et": "2023-10-13"
@@ -730,7 +938,7 @@
     "url": "https://www.wsj.com/articles/jpmorganchase-jpm-q3-earnings-report-2023-db587ef",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T07:44:00-04:00",
     "date_et": "2023-10-13"
@@ -746,7 +954,7 @@
     "url": "https://www.investopedia.com/jpmorgan-profits-ride-the-high-interest-rate-wave-in-the-third-quarter-8356277",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T07:45:38-04:00",
     "date_et": "2023-10-13"
@@ -762,7 +970,7 @@
     "url": "https://www.marketwatch.com/story/jpmorgan-chief-executive-jamie-dimon-warns-it-may-be-the-most-dangerous-time-the-world-has-seen-in-decades-1590cfb7",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T08:02:00-04:00",
     "date_et": "2023-10-13"
@@ -778,7 +986,7 @@
     "url": "https://finbold.com/jpmorgan-ceo-warns-were-living-in-the-most-dangerous-times/?utm_source=snapi",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T08:50:48-04:00",
     "date_et": "2023-10-13"
@@ -794,7 +1002,7 @@
     "url": "https://www.cnbc.com/2023/10/13/jpmorgan-chase-ceo-jamie-dimon-warns-this-is-the-most-dangerous-time-for-the-world-in-decades.html",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T08:52:22-04:00",
     "date_et": "2023-10-13"
@@ -810,7 +1018,7 @@
     "url": "https://www.fool.com/investing/2023/10/13/how-bank-stocks-fared-on-earnings-seasons-opening/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T09:03:32-04:00",
     "date_et": "2023-10-13"
@@ -826,7 +1034,7 @@
     "url": "https://www.marketbeat.com/originals/5-critical-details-from-big-bank-results-jpm-c-and-wfc/?utm_source=snapi",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T09:33:02-04:00",
     "date_et": "2023-10-13"
@@ -842,7 +1050,7 @@
     "url": "https://www.marketbeat.com/originals/challenges-loom-for-regional-banks-as-interest-rates-surge/?utm_source=snapi",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T09:42:04-04:00",
     "date_et": "2023-10-13"
@@ -858,7 +1066,7 @@
     "url": "https://www.zacks.com/stock/news/2165433/jpmorgan-chase-co-jpm-beats-q3-earnings-and-revenue-estimates",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T09:46:15-04:00",
     "date_et": "2023-10-13"
@@ -874,7 +1082,7 @@
     "url": "https://www.reuters.com/business/finance/major-us-banks-show-profit-boost-cautious-outlook-consumer-health-2023-10-13/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T09:57:15-04:00",
     "date_et": "2023-10-13"
@@ -890,7 +1098,7 @@
     "url": "https://www.forbes.com/sites/anafaguy/2023/10/13/jpmorgans-dimon-warns-of-most-dangerous-time-in-decades-amid-huge-bank-earnings/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T10:03:41-04:00",
     "date_et": "2023-10-13"
@@ -906,7 +1114,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2023/10/13/options-traders-rush-big-bank-stock-after-earnings",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T10:19:41-04:00",
     "date_et": "2023-10-13"
@@ -922,7 +1130,7 @@
     "url": "https://www.foxbusiness.com/economy/jpmorgan-ceo-jamie-dimon-warns-may-be-most-dangerous-time-world-has-seen-decades",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T10:20:51-04:00",
     "date_et": "2023-10-13"
@@ -938,7 +1146,7 @@
     "url": "https://www.zacks.com/stock/news/2165517/jpmorgan-chase-co-jpm-q3-earnings-taking-a-look-at-key-metrics-versus-estimates",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T10:31:13-04:00",
     "date_et": "2023-10-13"
@@ -954,7 +1162,7 @@
     "url": "https://www.zacks.com/stock/news/2165616/jpmorgan-jpm-q3-earnings-top-on-high-rates-nii-view-raised",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T10:31:26-04:00",
     "date_et": "2023-10-13"
@@ -970,7 +1178,7 @@
     "url": "https://www.marketwatch.com/story/welcome-to-pantophobia-markets-have-a-fear-of-everything-says-bny-mellon-f8d4eb69",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T11:00:00-04:00",
     "date_et": "2023-10-13"
@@ -986,7 +1194,7 @@
     "url": "https://www.barrons.com/articles/jamie-dimon-jpmorgan-stock-earnings-economy-26c97ef2",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T11:32:00-04:00",
     "date_et": "2023-10-13"
@@ -1002,7 +1210,7 @@
     "url": "https://www.pymnts.com/earnings/2023/jpmorgan-chase-card-spending-grows-8-percent-consumers-draw-down-deposits/?utm_source=snapi",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T11:32:22-04:00",
     "date_et": "2023-10-13"
@@ -1018,7 +1226,7 @@
     "url": "https://www.zacks.com/stock/news/2165660/major-banks-start-reporting-q3-earnings",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T12:01:08-04:00",
     "date_et": "2023-10-13"
@@ -1034,7 +1242,7 @@
     "url": "https://www.zacks.com/stock/news/2165652/big-banks-beat-in-q3-import-prices-lower",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T12:01:18-04:00",
     "date_et": "2023-10-13"
@@ -1050,7 +1258,7 @@
     "url": "https://seekingalpha.com/article/4640690-jpmorgan-chase-and-co-jpm-q3-2023-earnings-call-transcript",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T12:25:26-04:00",
     "date_et": "2023-10-13"
@@ -1066,7 +1274,7 @@
     "url": "https://www.reuters.com/business/finance/big-us-banks-warn-capital-hikes-could-weigh-green-energy-equity-products-2023-10-13/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T12:51:53-04:00",
     "date_et": "2023-10-13"
@@ -1082,7 +1290,7 @@
     "url": "https://www.barrons.com/articles/jpmorgan-bond-losses-bank-of-america-b6766363",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T13:50:00-04:00",
     "date_et": "2023-10-13"
@@ -1098,7 +1306,7 @@
     "url": "https://www.zacks.com/commentary/2165791/room-to-run-why-this-bull-market-may-be-just-getting-started",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T14:16:20-04:00",
     "date_et": "2023-10-13"
@@ -1114,7 +1322,7 @@
     "url": "https://investorplace.com/2023/10/why-are-bank-stocks-jpm-wfc-c-up-today/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T14:37:16-04:00",
     "date_et": "2023-10-13"
@@ -1130,7 +1338,7 @@
     "url": "https://www.businesswire.com/news/home/20231013037223/en/JPMorgan-Chase-Declares-Preferred-Stock-Dividends/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T16:33:00-04:00",
     "date_et": "2023-10-13"
@@ -1146,7 +1354,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1029736?SNAPI",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T16:41:11-04:00",
     "date_et": "2023-10-13"
@@ -1162,7 +1370,7 @@
     "url": "https://www.wsj.com/articles/lockheed-martin-paramount-global-jpmorgan-stocks-that-defined-the-week-549b9eb6",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T17:58:00-04:00",
     "date_et": "2023-10-13"
@@ -1178,7 +1386,7 @@
     "url": "https://www.zacks.com/commentary/2165860/analyzing-positive-bank-earnings-an-uncertain-outlook",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T18:47:29-04:00",
     "date_et": "2023-10-13"
@@ -1194,7 +1402,7 @@
     "url": "https://www.wsj.com/articles/big-bank-profits-may-be-higher-but-for-how-much-longer-77f1db6e",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-13T21:00:00-04:00",
     "date_et": "2023-10-13"
@@ -1210,7 +1418,7 @@
     "url": "https://finbold.com/2-banking-stocks-to-watch-amid-earnings-season/?utm_source=snapi",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-14T05:54:38-04:00",
     "date_et": "2023-10-14"
@@ -1226,7 +1434,7 @@
     "url": "https://www.fool.com/investing/2023/10/15/better-buy-sofi-vs-jpmorgan-chase/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-15T07:55:00-04:00",
     "date_et": "2023-10-15"
@@ -1242,7 +1450,7 @@
     "url": "https://www.fool.com/investing/2023/10/15/jamie-dimons-dividend-growth-machine-is-alive-and/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-15T08:35:00-04:00",
     "date_et": "2023-10-15"
@@ -1258,7 +1466,7 @@
     "url": "https://www.marketwatch.com/story/wall-streets-q3-expectations-have-been-all-over-the-place-now-a-swing-to-profit-growth-is-likely-with-a-bigger-rebound-next-year-d12282de",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-15T10:31:00-04:00",
     "date_et": "2023-10-15"
@@ -1274,7 +1482,7 @@
     "url": "https://www.marketwatch.com/story/banks-beat-expectations-but-some-economic-cracks-form-as-caution-abounds-565d263c",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-16T07:46:00-04:00",
     "date_et": "2023-10-16"
@@ -1290,7 +1498,7 @@
     "url": "https://www.prnewswire.com/news-releases/raymond-james-selects-jp-morgan-asset-managements-55ip-to-enhance-its-managed-accounts-platform-with-integrated-tax-management-technology-301957406.html",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-16T08:00:00-04:00",
     "date_et": "2023-10-16"
@@ -1306,7 +1514,7 @@
     "url": "https://www.marketwatch.com/story/jpmorgans-stock-has-room-to-rise-60-over-the-next-18-months-analyst-says-while-hiking-price-target-10d83e73",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-16T08:52:00-04:00",
     "date_et": "2023-10-16"
@@ -1322,7 +1530,7 @@
     "url": "https://www.fool.com/investing/2023/10/16/why-colombian-stock-almacenes-exito-just-rocketed/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-16T12:08:27-04:00",
     "date_et": "2023-10-16"
@@ -1338,7 +1546,7 @@
     "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-leader-jpmorgan-chip-giant-nvidia-eye-buy-points/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-16T13:21:20-04:00",
     "date_et": "2023-10-16"
@@ -1354,7 +1562,7 @@
     "url": "https://www.zacks.com/stock/news/2166663/3-reasons-growth-investors-will-love-jpmorgan-chase-co-jpm",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-16T14:17:46-04:00",
     "date_et": "2023-10-16"
@@ -1370,7 +1578,7 @@
     "url": "https://www.investopedia.com/raymond-james-teams-with-jpmorgan-chase-for-tax-management-technology-8361987",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-16T16:55:42-04:00",
     "date_et": "2023-10-16"
@@ -1386,7 +1594,7 @@
     "url": "https://www.businesswire.com/news/home/20231016200717/en/JPMorgan-Chase-to-Present-at-the-BancAnalysts-Association-of-Boston-Conference/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-16T16:57:00-04:00",
     "date_et": "2023-10-16"
@@ -1402,7 +1610,7 @@
     "url": "https://www.fool.com/investing/2023/10/17/jpmorgan-chase-shows-its-resilience-is-the-stock-a/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-17T08:10:00-04:00",
     "date_et": "2023-10-17"
@@ -1418,7 +1626,7 @@
     "url": "https://www.fool.com/investing/2023/10/17/jpmorgan-citi-wells-fargo-buy-bank-stocks/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-17T09:59:19-04:00",
     "date_et": "2023-10-17"
@@ -1434,7 +1642,7 @@
     "url": "https://www.zacks.com/stock/news/2167094/is-it-worth-investing-in-jpmorgan-chase-co-jpm-based-on-wall-street-s-bullish-views",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-17T10:31:18-04:00",
     "date_et": "2023-10-17"
@@ -1450,7 +1658,7 @@
     "url": "https://investorplace.com/2023/10/7-stocks-to-buy-now-that-the-oct-1-government-shutdown-was-avoided/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-17T16:11:35-04:00",
     "date_et": "2023-10-17"
@@ -1466,7 +1674,7 @@
     "url": "https://www.cnbc.com/2023/10/18/stock-markets-bonds-are-driving-stocks-even-amid-big-bank-earnings.html",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-17T19:59:06-04:00",
     "date_et": "2023-10-17"
@@ -1482,7 +1690,7 @@
     "url": "https://seekingalpha.com/article/4641670-jpmorgan-chase-i-see-a-post-earnings-rally-incoming",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-18T21:00:10-04:00",
     "date_et": "2023-10-18"
@@ -1498,7 +1706,7 @@
     "url": "https://www.marketwatch.com/story/citizens-grows-coast-to-coast-reach-with-private-banking-unit-12e2c874",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-19T15:14:00-04:00",
     "date_et": "2023-10-19"
@@ -1514,7 +1722,7 @@
     "url": "https://www.fool.com/investing/2023/10/20/jamie-dimon-inflation-warning-what-jpmorgan-invest/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-20T05:20:00-04:00",
     "date_et": "2023-10-20"
@@ -1530,7 +1738,7 @@
     "url": "https://www.pymnts.com/news/payment-methods/2023/jpmorgan-and-mastercard-pay-by-bank-tool-goes-live/?utm_source=snapi",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-20T08:20:41-04:00",
     "date_et": "2023-10-20"
@@ -1546,7 +1754,7 @@
     "url": "https://www.zacks.com/stock/news/2169507/jpmorgan-chase-co-jpm-is-attracting-investor-attention-here-is-what-you-should-know",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-20T10:32:50-04:00",
     "date_et": "2023-10-20"
@@ -1562,7 +1770,7 @@
     "url": "https://seekingalpha.com/article/4642160-dgro-can-dividends-generate-alpha",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-20T11:40:10-04:00",
     "date_et": "2023-10-20"
@@ -1578,7 +1786,7 @@
     "url": "https://www.zacks.com/stock/news/2169852/bank-etfs-in-focus-on-upbeat-earnings",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-20T15:02:05-04:00",
     "date_et": "2023-10-20"
@@ -1594,7 +1802,7 @@
     "url": "https://seekingalpha.com/article/4641928-our-top-10-picks-for-dividend-growth-stocks-october-2023",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-21T09:00:00-04:00",
     "date_et": "2023-10-21"
@@ -1610,7 +1818,7 @@
     "url": "https://www.foxbusiness.com/retail/walgreens-stock-gets-boost-jp-morgan-expresses-confidence-new-ceo",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-23T11:55:46-04:00",
     "date_et": "2023-10-23"
@@ -1626,7 +1834,7 @@
     "url": "https://www.marketwatch.com/story/higher-for-longer-interest-rates-challenge-banks-as-mixed-q3-earnings-stack-up-da52a124",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-23T13:39:00-04:00",
     "date_et": "2023-10-23"
@@ -1642,7 +1850,7 @@
     "url": "https://investorplace.com/2023/10/3-early-stock-winners-from-q3-earnings-season/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-23T16:53:52-04:00",
     "date_et": "2023-10-23"
@@ -1658,7 +1866,7 @@
     "url": "https://www.reuters.com/world/us/jpmorgan-settlement-with-epstein-accusers-draws-objection-us-states-2023-10-23/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-23T18:25:10-04:00",
     "date_et": "2023-10-23"
@@ -1674,7 +1882,7 @@
     "url": "https://www.marketwatch.com/story/jpmorgans-dimon-and-blackrocks-fink-both-see-parallels-to-the-1970s-22bc2cae",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-24T09:54:00-04:00",
     "date_et": "2023-10-24"
@@ -1690,7 +1898,7 @@
     "url": "https://www.cnbc.com/2023/10/24/jamie-dimon-rips-central-banks-for-being-100percent-dead-wrong-on-economic-forecasts.html",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-24T10:13:51-04:00",
     "date_et": "2023-10-24"
@@ -1706,7 +1914,7 @@
     "url": "https://www.fool.com/investing/2023/10/24/reason-2024-better-goldman-bank-america-stock/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-24T11:31:21-04:00",
     "date_et": "2023-10-24"
@@ -1722,7 +1930,7 @@
     "url": "https://www.foxbusiness.com/markets/jpmorgan-ceo-jamie-dimon-central-banks-dead-wrong",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-24T14:55:51-04:00",
     "date_et": "2023-10-24"
@@ -1738,7 +1946,7 @@
     "url": "https://investorplace.com/2023/10/this-bank-may-be-the-first-trillion-dollar-financial-stock/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-24T16:19:15-04:00",
     "date_et": "2023-10-24"
@@ -1754,7 +1962,7 @@
     "url": "https://www.zacks.com/stock/news/2171446/5-stocks-to-watch-on-solid-revenues-in-last-reported-quarter",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-25T09:48:33-04:00",
     "date_et": "2023-10-25"
@@ -1770,7 +1978,7 @@
     "url": "https://www.marketwatch.com/story/truist-raising-1-75b-in-bond-offering-making-it-the-latest-bank-to-raise-capital-201558b4",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-25T15:55:00-04:00",
     "date_et": "2023-10-25"
@@ -1786,7 +1994,7 @@
     "url": "https://www.benzinga.com/trading-ideas/23/10/35444571/banking-woes-are-over-analysts-predict-these-prominent-stocks-will-skyrocket?utm_source=snapi",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-26T11:50:07-04:00",
     "date_et": "2023-10-26"
@@ -1802,7 +2010,7 @@
     "url": "https://www.marketwatch.com/story/jamie-dimon-and-family-selling-one-million-shares-of-jpmorgan-stock-for-financial-diversification-purposes-7788a24f",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-27T06:45:00-04:00",
     "date_et": "2023-10-27"
@@ -1818,7 +2026,7 @@
     "url": "https://www.barrons.com/articles/jamie-dimon-net-worth-jpmorgan-stock-be687229",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-27T08:16:00-04:00",
     "date_et": "2023-10-27"
@@ -1834,7 +2042,7 @@
     "url": "https://www.forbes.com/sites/dereksaul/2023/10/27/jpmorgan-billionaire-jamie-dimon-will-sell-141-million-of-banks-stock/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-27T09:13:55-04:00",
     "date_et": "2023-10-27"
@@ -1850,7 +2058,7 @@
     "url": "https://markets.businessinsider.com/news/stocks/jamie-dimon-first-jpmorgan-stock-sale-jpm-banking-2023-10",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-27T10:06:21-04:00",
     "date_et": "2023-10-27"
@@ -1866,7 +2074,7 @@
     "url": "https://www.cnbc.com/2023/10/27/jamie-dimon-to-sell-jpmorgan-shares.html",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-27T10:34:11-04:00",
     "date_et": "2023-10-27"
@@ -1882,7 +2090,7 @@
     "url": "https://www.pymnts.com/news/banking/2023/jpmorgan-ceo-jamie-dimon-to-sell-1-million-shares/?utm_source=snapi",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-27T10:45:14-04:00",
     "date_et": "2023-10-27"
@@ -1898,7 +2106,7 @@
     "url": "https://investorplace.com/2023/10/jpmorgan-ceo-jamie-dimon-plans-to-sell-1-million-shares-of-jpm-stock/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-27T11:33:45-04:00",
     "date_et": "2023-10-27"
@@ -1914,7 +2122,7 @@
     "url": "https://nypost.com/2023/10/27/business/jamie-dimon-plans-to-sell-141m-worth-of-jpmorgan-stock-in-first-share-selloff/",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-27T12:49:52-04:00",
     "date_et": "2023-10-27"
@@ -1930,7 +2138,7 @@
     "url": "https://invezz.com/news/2023/10/27/jamie-dimon-to-sell-million-shares-jpmorgan/?utm_source=snapi",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-27T13:26:54-04:00",
     "date_et": "2023-10-27"
@@ -1946,7 +2154,7 @@
     "url": "https://www.marketwatch.com/story/bank-of-america-jpmorgan-stocks-drop-as-bank-sector-suffers-broad-beating-80a7f23a",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-27T15:02:00-04:00",
     "date_et": "2023-10-27"
@@ -1962,7 +2170,7 @@
     "url": "https://www.foxbusiness.com/markets/jpmorgan-chase-ceo-jamie-dimon-sell-company-stock",
     "ticker": "JPM",
     "event_date": "2023-10-13",
-    "window_start": "2023-10-06",
+    "window_start": "2023-09-29",
     "window_end": "2023-10-27",
     "publishedDateET": "2023-10-27T17:55:47-04:00",
     "date_et": "2023-10-27"

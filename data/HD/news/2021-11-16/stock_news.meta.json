@@ -4,33 +4,145 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2021-11-16",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2021-11-09",
+  "start": "2021-11-02",
   "end": "2021-11-30",
   "chunks": [
     {
+      "start": "2021-11-02",
+      "end": "2021-11-02"
+    },
+    {
+      "start": "2021-11-03",
+      "end": "2021-11-03"
+    },
+    {
+      "start": "2021-11-04",
+      "end": "2021-11-04"
+    },
+    {
+      "start": "2021-11-05",
+      "end": "2021-11-05"
+    },
+    {
+      "start": "2021-11-06",
+      "end": "2021-11-06"
+    },
+    {
+      "start": "2021-11-07",
+      "end": "2021-11-07"
+    },
+    {
+      "start": "2021-11-08",
+      "end": "2021-11-08"
+    },
+    {
       "start": "2021-11-09",
+      "end": "2021-11-09"
+    },
+    {
+      "start": "2021-11-10",
+      "end": "2021-11-10"
+    },
+    {
+      "start": "2021-11-11",
+      "end": "2021-11-11"
+    },
+    {
+      "start": "2021-11-12",
+      "end": "2021-11-12"
+    },
+    {
+      "start": "2021-11-13",
+      "end": "2021-11-13"
+    },
+    {
+      "start": "2021-11-14",
+      "end": "2021-11-14"
+    },
+    {
+      "start": "2021-11-15",
+      "end": "2021-11-15"
+    },
+    {
+      "start": "2021-11-16",
+      "end": "2021-11-16"
+    },
+    {
+      "start": "2021-11-17",
+      "end": "2021-11-17"
+    },
+    {
+      "start": "2021-11-18",
+      "end": "2021-11-18"
+    },
+    {
+      "start": "2021-11-19",
+      "end": "2021-11-19"
+    },
+    {
+      "start": "2021-11-20",
+      "end": "2021-11-20"
+    },
+    {
+      "start": "2021-11-21",
+      "end": "2021-11-21"
+    },
+    {
+      "start": "2021-11-22",
+      "end": "2021-11-22"
+    },
+    {
+      "start": "2021-11-23",
+      "end": "2021-11-23"
+    },
+    {
+      "start": "2021-11-24",
+      "end": "2021-11-24"
+    },
+    {
+      "start": "2021-11-25",
+      "end": "2021-11-25"
+    },
+    {
+      "start": "2021-11-26",
+      "end": "2021-11-26"
+    },
+    {
+      "start": "2021-11-27",
+      "end": "2021-11-27"
+    },
+    {
+      "start": "2021-11-28",
+      "end": "2021-11-28"
+    },
+    {
+      "start": "2021-11-29",
+      "end": "2021-11-29"
+    },
+    {
+      "start": "2021-11-30",
       "end": "2021-11-30"
     }
   ],
-  "per_day": false,
-  "fallback_per_day_used": false,
+  "per_day": true,
+  "fallback_per_day_used": true,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
-  "pad_days": 1,
+  "pad_days": 0,
   "sleep": 0.05,
-  "fetched_total": 55,
-  "kept_total": 53,
+  "fetched_total": 59,
+  "kept_total": 59,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2021-11-09T13:45:07-05:00",
+  "min_publishedDateET": "2021-11-03T13:00:36-04:00",
   "max_publishedDateET": "2021-11-30T12:30:00-05:00",
   "outputs": {
     "raw_json": "data/HD/news/2021-11-16/stock_news.raw.json",
     "jsonl": "data/HD/news/2021-11-16/stock_news.jsonl",
     "csv": "data/HD/news/2021-11-16/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:27:58.327890-05:00",
+  "generated_at": "2026-02-07T19:32:02.184873-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

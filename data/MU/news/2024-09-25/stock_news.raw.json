@@ -1,6 +1,390 @@
 [
   {
     "symbol": "MU",
+    "publishedDate": "2024-09-11 12:38:30",
+    "publisher": "The Motley Fool",
+    "title": "Should Investors Buy Micron Stock Before Sept. 25?",
+    "image": "https://images.financialmodelingprep.com/news/should-investors-buy-micron-stock-before-sept-25-20240911.jpg",
+    "site": "fool.com",
+    "text": "Micron Technology is scheduled to announce quarterly results on Sept. 25.",
+    "url": "https://www.fool.com/investing/2024/09/11/should-investors-buy-micron-stock-before-september/",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-11T12:38:30-04:00",
+    "date_et": "2024-09-11"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-12 16:30:00",
+    "publisher": "Market Watch",
+    "title": "A death cross looms for Micron's stock, but this analyst says slower growth is a ‘temporary blip'",
+    "image": "https://images.financialmodelingprep.com/news/a-death-cross-looms-for-microns-stock-but-this-analyst-20240912.jpg",
+    "site": "marketwatch.com",
+    "text": "Micron Technology's stock dropped Thursday, as investors grappled with a looming bearish technical signal and an analyst's lowered earnings view.",
+    "url": "https://www.marketwatch.com/story/a-death-cross-looms-for-microns-stock-but-this-analyst-says-slower-growth-is-a-temporary-blip-136217f9",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-12T16:30:00-04:00",
+    "date_et": "2024-09-12"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-12 15:24:00",
+    "publisher": "The Motley Fool",
+    "title": "Why Micron Stock Is Sinking Today",
+    "image": "https://images.financialmodelingprep.com/news/why-micron-stock-is-sinking-today-20240912.jpg",
+    "site": "fool.com",
+    "text": "Raymond James and Exane BNP Paribas both lowered their price targets for Micron stock today. Raymond James still thinks the stock is a buy, but it's lowering its forecast due to weaker-than-expected growth trends.",
+    "url": "https://www.fool.com/investing/2024/09/12/why-micron-stock-is-sinking-today/",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-12T15:24:00-04:00",
+    "date_et": "2024-09-12"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-12 15:00:36",
+    "publisher": "Zacks Investment Research",
+    "title": "4 Mega-Cap Tech Stocks to Buy Ahead of Fed's September Rate Cut",
+    "image": "https://images.financialmodelingprep.com/news/4-megacap-tech-stocks-to-buy-ahead-of-feds-20240912.jpg",
+    "site": "zacks.com",
+    "text": "A rate cut by the Fed will help mega-cap tech stocks like Micron Technology (MU), Arista Networks (ANET), Adobe (ADBE) and AudioEye (AEYE).",
+    "url": "https://www.zacks.com/stock/news/2335469/4-mega-cap-tech-stocks-to-buy-ahead-of-fed-s-september-rate-cut?cid=CS-STOCKNEWSAPI-FT-analyst_blog|investment_ideas-2335469",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-12T15:00:36-04:00",
+    "date_et": "2024-09-12"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-12 11:52:00",
+    "publisher": "Barrons",
+    "title": "Sell Micron, Analyst Says. It Will Underperform AI Peers.",
+    "image": "https://images.financialmodelingprep.com/news/sell-micron-analyst-says-it-will-underperform-ai-peers-20240912.jpg",
+    "site": "barrons.com",
+    "text": "BNP Paribas analyst Karl Ackerman downgraded shares on Micron to Underperform from Outperform.",
+    "url": "https://www.barrons.com/articles/micron-stock-ai-chips-downgrade-7546bae7",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-12T11:52:00-04:00",
+    "date_et": "2024-09-12"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-12 09:08:53",
+    "publisher": "Schaeffers Research",
+    "title": "Semiconductor Stock Hit With Rare Double Downgrade",
+    "image": "https://images.financialmodelingprep.com/news/semiconductor-stock-hit-with-rare-double-downgrade-20240912.jpg",
+    "site": "schaeffersresearch.com",
+    "text": "Micron Technology Inc  (NASDAQ:MU ) stock is 3.5% lower before the open, after a double downgrade at Exane BNP Paribas.",
+    "url": "https://www.schaeffersresearch.com/content/news/2024/09/12/semiconductor-stock-hit-with-rare-double-downgrade",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-12T09:08:53-04:00",
+    "date_et": "2024-09-12"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-12 09:01:14",
+    "publisher": "Zacks Investment Research",
+    "title": "Buy 5 Beaten Down Tech Stocks of Past Month With Huge Near-Term Upside",
+    "image": "https://images.financialmodelingprep.com/news/buy-5-beaten-down-tech-stocks-of-past-month-with-20240912.jpg",
+    "site": "zacks.com",
+    "text": "Five beaten-down technology giant of past month with excellent price upside for short term are: MU, ANET, APH, DDOG, SPOT.",
+    "url": "https://www.zacks.com/stock/news/2335087/buy-5-beaten-down-tech-stocks-of-past-month-with-huge-near-term-upside?cid=CS-STOCKNEWSAPI-FT-analyst_blog|investment_ideas-2335087",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-12T09:01:14-04:00",
+    "date_et": "2024-09-12"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-14 09:23:00",
+    "publisher": "The Motley Fool",
+    "title": "2 Cheap Tech Stocks to Buy Right Now",
+    "image": "https://images.financialmodelingprep.com/news/2-cheap-tech-stocks-to-buy-right-now-20240914.jpg",
+    "site": "fool.com",
+    "text": "Micron is benefiting from a cyclical upswing in the tech sector that's driving soaring demand for memory chips. Fiverr's business continued to grow even after its pandemic-generated boost ended.",
+    "url": "https://www.fool.com/investing/2024/09/14/2-cheap-tech-stocks-to-buy-right-now/",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-14T09:23:00-04:00",
+    "date_et": "2024-09-14"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-14 03:23:33",
+    "publisher": "Seeking Alpha",
+    "title": "Micron: I Am Buying The Drop Hand Over Fist Before Q4",
+    "image": "https://images.financialmodelingprep.com/news/micron-i-am-buying-the-drop-hand-over-fist-20240914.jpg",
+    "site": "seekingalpha.com",
+    "text": "Micron is set to benefit from accelerating spending on AI products, including high-bandwidth memory solutions. An escalating shipment ramp of HBM3E memory solutions could yield a strong margin picture for Micron at the end of the month. The EPS revision trend for Micron is highly favorable ahead of the Q4'24 earnings report date on September 25, 2024.",
+    "url": "https://seekingalpha.com/article/4721084-span-stylebackground-color-rgb204-255-153micron-i-am-buying-the-drop-hand-over-fist-before-q4-span",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-14T03:23:33-04:00",
+    "date_et": "2024-09-14"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-15 04:59:00",
+    "publisher": "The Motley Fool",
+    "title": "2 Artificial Intelligence (AI) Stocks to Buy With $1,000 and Hold for Decades",
+    "image": "https://images.financialmodelingprep.com/news/2-artificial-intelligence-ai-stocks-to-buy-with-1000-20240915.jpg",
+    "site": "fool.com",
+    "text": "Micron Technology supplies memory chips for AI workloads, and Nvidia is one of its data center customers. DigitalOcean is building an AI cloud services platform specifically for small and mid-sized businesses.",
+    "url": "https://www.fool.com/investing/2024/09/15/2-ai-stocks-to-buy-with-1000-and-hold-for-decades/",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-15T04:59:00-04:00",
+    "date_et": "2024-09-15"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-16 15:11:03",
+    "publisher": "Investopedia",
+    "title": "Micron Stock Sinks as Morgan Stanley Warns About Memory Chip Sector",
+    "image": "https://images.financialmodelingprep.com/news/micron-stock-sinks-as-morgan-stanley-warns-about-memory-20240916.jpg",
+    "site": "investopedia.com",
+    "text": "Micron Technology (MU) stock was one of the biggest decliners in the S&P 500 Monday after Morgan Stanley slashed its price target to $100 from $140 and gave a downbeat assessment of the memory chip sector.",
+    "url": "https://www.investopedia.com/micron-stock-sinks-as-morgan-stanley-warns-about-memory-chip-sector-8713332",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-16T15:11:03-04:00",
+    "date_et": "2024-09-16"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-16 13:55:00",
+    "publisher": "Market Watch",
+    "title": "Micron's stock drops as first ‘death cross' in 2 years appears",
+    "image": "https://images.financialmodelingprep.com/news/microns-stock-drops-as-first-death-cross-in-2-20240916.jpg",
+    "site": "marketwatch.com",
+    "text": "Micron's stock slumped Monday, just as a longer-term bearish chart pattern appeared for the first time in more than two years, and as Morgan Stanley offered a downbeat outlook for the memory-chip market.",
+    "url": "https://www.marketwatch.com/story/microns-stock-drops-as-first-death-cross-in-2-years-appears-27d27e29",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-16T13:55:00-04:00",
+    "date_et": "2024-09-16"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-16 11:48:19",
+    "publisher": "The Motley Fool",
+    "title": "Why Micron Stock Dropped 4% Today",
+    "image": "https://images.financialmodelingprep.com/news/why-micron-stock-dropped-4-today-20240916.jpg",
+    "site": "fool.com",
+    "text": "Morgan Stanley cut $40 off of its Micron price target this morning. With its $100 price target, Morgan Stanley thinks Micron stock is worth more than the $87 it currently costs, but there are risks.",
+    "url": "https://www.fool.com/investing/2024/09/16/why-micron-stock-dropped-4-today/",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-16T11:48:19-04:00",
+    "date_et": "2024-09-16"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-16 10:13:22",
+    "publisher": "Seeking Alpha",
+    "title": "Micron's Secret To AI-Driven Growth",
+    "image": "https://images.financialmodelingprep.com/news/microns-secret-to-aidriven-growth-20240916.jpg",
+    "site": "seekingalpha.com",
+    "text": "Micron's Q3 2024 revenue surged to $6.8 billion, an 82% YoY increase, driven by AI and data center demand. DRAM contributed 69% of total revenue with 13% sequential growth, while NAND grew 32%, reflecting strong market positioning. AI-related products like high-bandwidth memory led to a 50% revenue increase in the data center segment, and continued growth is expected.",
+    "url": "https://seekingalpha.com/article/4721341-micron-mu-stock-secret-to-ai-driven-growth",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-16T10:13:22-04:00",
+    "date_et": "2024-09-16"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-16 10:07:45",
+    "publisher": "Benzinga",
+    "title": "Semiconductor Smackdown: Broadcom Vs. Micron Vs. Marvell",
+    "image": "https://images.financialmodelingprep.com/news/semiconductor-smackdown-broadcom-vs-micron-vs-marvell-20240916.jpg",
+    "site": "benzinga.com",
+    "text": "In the race for semiconductor supremacy, three giants stand tall: Broadcom Inc AVGO, Micron Technology Inc MU, and Marvell Technology Inc MRVL.",
+    "url": "https://www.benzinga.com/trading-ideas/technicals/24/09/40879461/semiconductor-smackdown-broadcom-vs-micron-vs-marvell",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-16T10:07:45-04:00",
+    "date_et": "2024-09-16"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-16 10:00:00",
+    "publisher": "Seeking Alpha",
+    "title": "Micron: Don't Miss Another Opportunity",
+    "image": "https://images.financialmodelingprep.com/news/micron-dont-miss-another-opportunity-20240916.jpg",
+    "site": "seekingalpha.com",
+    "text": "Micron's stock has dropped nearly 50% from its June highs, despite no negative news and improving fundamentals driven by AI demand. The current valuation of Micron does not reflect its strong fundamentals, presenting a potential buying opportunity with a solid margin of safety. This is supported by the DCF analysis. The recent sell-off appears overdone, especially when compared to peers.",
+    "url": "https://seekingalpha.com/article/4721315-micron-dont-miss-another-opportunity",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-16T10:00:00-04:00",
+    "date_et": "2024-09-16"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-16 09:10:00",
+    "publisher": "The Motley Fool",
+    "title": "10 Artificial Intelligence Stocks That Could Make You a Millionaire",
+    "image": "https://images.financialmodelingprep.com/news/10-artificial-intelligence-stocks-that-could-make-you-a-20240916.jpg",
+    "site": "fool.com",
+    "text": "Artificial-intelligence-focused chip makers are expected to grow briskly. But artificial intelligence requires servers, memory, and more -- so consider other stocks, too.",
+    "url": "https://www.fool.com/investing/2024/09/16/10-artificial-intelligence-stocks-millionaire/",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-16T09:10:00-04:00",
+    "date_et": "2024-09-16"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-16 08:50:19",
+    "publisher": "MarketBeat",
+    "title": "Micron Technology: 4 Reasons to Buy the 44% Price Dip",
+    "image": "https://images.financialmodelingprep.com/news/micron-technology-4-reasons-to-buy-the-44-price-20240916.jpg",
+    "site": "marketbeat.com",
+    "text": "Memory chip maker Micron Technology Inc. NASDAQ: MU was the toast of the town when its stock was trading at $157.41 on June 18, 2024. The computer and technology sector leader was expected to be a huge benefactor of the artificial intelligence (AI) boom as it only made sense that its dynamic random access memory (DRAM) and NAND flash chips were a core component of AI infrastructure relying on massive amounts of data storage.",
+    "url": "https://www.marketbeat.com/originals/micron-technology-4-reasons-to-buy-the-44-price-dip/",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-16T08:50:19-04:00",
+    "date_et": "2024-09-16"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-17 18:51:13",
+    "publisher": "Zacks Investment Research",
+    "title": "Micron (MU) Rises Higher Than Market: Key Facts",
+    "image": "https://images.financialmodelingprep.com/news/micron-mu-rises-higher-than-market-key-facts-20240917.jpg",
+    "site": "zacks.com",
+    "text": "Micron (MU) concluded the recent trading session at $88.73, signifying a +1.78% move from its prior day's close.",
+    "url": "https://www.zacks.com/stock/news/2337453/micron-mu-rises-higher-than-market-key-facts?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6-2337453",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-17T18:51:13-04:00",
+    "date_et": "2024-09-17"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-17 15:50:47",
+    "publisher": "Zacks Investment Research",
+    "title": "Death Cross for MU Stock: Time to Buy Micron Based on Fundamentals?",
+    "image": "https://images.financialmodelingprep.com/news/death-cross-for-mu-stock-time-to-buy-micron-20240917.jpg",
+    "site": "zacks.com",
+    "text": "One of the leading providers of semiconductor memory solutions, Micron Technology, Inc. MU, recently flashed a bearish chart pattern after an eminent investment bank cut off its price target. So, what's next for Micron investors?",
+    "url": "https://www.zacks.com/stock/news/2337411/death-cross-for-mu-stock-time-to-buy-micron-based-on-fundamentals?cid=CS-STOCKNEWSAPI-FT-analyst_blog|investment_ideas-2337411",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-17T15:50:47-04:00",
+    "date_et": "2024-09-17"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-17 13:23:13",
+    "publisher": "CNBC Television",
+    "title": "Final Trades: Micron, the IEO and the IYR",
+    "image": "https://images.financialmodelingprep.com/news/final-trades-micron-the-ieo-and-the-iyr-20240917.jpg",
+    "site": "youtube.com",
+    "text": "The Investment Committee give you their top stocks to watch for the second half.",
+    "url": "https://www.youtube.com/watch?v=n-kKnMOzR10",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-17T13:23:13-04:00",
+    "date_et": "2024-09-17"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-17 09:00:00",
+    "publisher": "GlobeNewsWire",
+    "title": "Micron Expands SSD Portfolio With New Crucial P310 2280 Gen4 SSD, Bringing High-Octane Performance To Gamers and Creators",
+    "image": "https://images.financialmodelingprep.com/news/micron-expands-ssd-portfolio-with-new-crucial-p310-2280-20240917.jpg",
+    "site": "globenewswire.com",
+    "text": "Delivering massive 7,100 MB/s sequential read speeds for 40% faster performance than existing mainstream Gen4 SSDs at a price that is easy on the budget Delivering massive 7,100 MB/s sequential read speeds for 40% faster performance than existing mainstream Gen4 SSDs at a price that is easy on the budget",
+    "url": "https://www.globenewswire.com/news-release/2024/09/17/2947472/14450/en/Micron-Expands-SSD-Portfolio-With-New-Crucial-P310-2280-Gen4-SSD-Bringing-High-Octane-Performance-To-Gamers-and-Creators.html",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-17T09:00:00-04:00",
+    "date_et": "2024-09-17"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-17 05:40:00",
+    "publisher": "The Motley Fool",
+    "title": "Prediction: 1 Top Growth Stock Down 40% That Could Start Skyrocketing After Sept. 25",
+    "image": "https://images.financialmodelingprep.com/news/prediction-1-top-growth-stock-down-40-that-could-20240917.jpg",
+    "site": "fool.com",
+    "text": "Micron Technology's growth has picked up significantly thanks to the recovery in the memory market. Micron's upcoming quarterly results could trump expectations, and it could deliver solid guidance as well.",
+    "url": "https://www.fool.com/investing/2024/09/17/predict-top-growth-stock-down-skyrocket-sept-25/",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-17T05:40:00-04:00",
+    "date_et": "2024-09-17"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2024-09-17 01:54:38",
+    "publisher": "Seeking Alpha",
+    "title": "Micron: This Chronically Undervalued Stock Is A Strong Buy",
+    "image": "https://images.financialmodelingprep.com/news/micron-this-chronically-undervalued-stock-is-a-strong-buy-20240917.jpg",
+    "site": "seekingalpha.com",
+    "text": "Micron is a bargain after a significant sell-off despite improved operating results. Historical analysis of previous cycles indicates the stock has room to run. On the back of the memory cycle upswing, driven by increasing HBM sales, Micron is a Strong Buy.",
+    "url": "https://seekingalpha.com/article/4721477-micron-this-chronically-undervalued-stock-is-a-strong-buy",
+    "ticker": "MU",
+    "event_date": "2024-09-25",
+    "window_start": "2024-09-11",
+    "window_end": "2024-10-09",
+    "publishedDateET": "2024-09-17T01:54:38-04:00",
+    "date_et": "2024-09-17"
+  },
+  {
+    "symbol": "MU",
     "publishedDate": "2024-09-18 13:17:50",
     "publisher": "Schaeffers Research",
     "title": "A Look at Micron Stock Before Earnings",
@@ -10,7 +394,7 @@
     "url": "https://www.schaeffersresearch.com/content/analysis/2024/09/18/a-look-at-micron-stock-before-earnings",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-18T13:17:50-04:00",
     "date_et": "2024-09-18"
@@ -26,7 +410,7 @@
     "url": "https://www.fool.com/investing/2024/09/18/if-you-bought-1-share-of-micron-technology-at-ipo/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-18T11:33:00-04:00",
     "date_et": "2024-09-18"
@@ -42,7 +426,7 @@
     "url": "https://www.marketbeat.com/stock-ideas/capitalize-on-microns-24-dropwall-street-eyes-major-upside/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-18T09:47:02-04:00",
     "date_et": "2024-09-18"
@@ -58,7 +442,7 @@
     "url": "https://www.fool.com/investing/2024/09/18/best-semiconductor-stocks-to-buy-intel-stock-vs-mi/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-18T08:38:35-04:00",
     "date_et": "2024-09-18"
@@ -74,7 +458,7 @@
     "url": "https://www.zacks.com/stock/news/2337608/the-zacks-analyst-blog-micron-technology-morgan-stanley-and-nvidia?cid=CS-STOCKNEWSAPI-FT-press_releases-2337608",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-18T08:11:13-04:00",
     "date_et": "2024-09-18"
@@ -90,7 +474,7 @@
     "url": "https://seekingalpha.com/article/4722210-micron-double-digit-growth-in-fy2025",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-19T23:45:00-04:00",
     "date_et": "2024-09-19"
@@ -106,7 +490,7 @@
     "url": "https://invezz.com/news/2024/09/20/stocks-to-watch-next-week-micron-accenture-costco-autozone/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-19T22:01:00-04:00",
     "date_et": "2024-09-19"
@@ -122,7 +506,7 @@
     "url": "https://www.zacks.com/stock/news/2338761/nvidia-2-other-ai-stocks-to-gain-from-lower-interest-rates?cid=CS-STOCKNEWSAPI-FT-analyst_blog|investment_ideas-2338761",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-19T15:46:05-04:00",
     "date_et": "2024-09-19"
@@ -138,7 +522,7 @@
     "url": "https://www.zacks.com/stock/news/2338471/why-micron-mu-is-a-top-value-stock-for-the-long-term?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|zacks_education_value_score-2338471",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-19T10:46:14-04:00",
     "date_et": "2024-09-19"
@@ -154,7 +538,7 @@
     "url": "https://www.youtube.com/watch?v=O_S85EENnbk",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-19T10:25:32-04:00",
     "date_et": "2024-09-19"
@@ -170,7 +554,7 @@
     "url": "https://www.zacks.com/stock/news/2338412/5-ai-giants-to-watch-at-attractive-prices-amid-fed-s-big-rate-cut?cid=CS-STOCKNEWSAPI-FT-analyst_blog|investment_ideas-2338412",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-19T10:15:29-04:00",
     "date_et": "2024-09-19"
@@ -186,7 +570,7 @@
     "url": "https://www.fool.com/investing/2024/09/19/is-micron-stock-the-next-artificial-intelligence-a/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-19T09:25:40-04:00",
     "date_et": "2024-09-19"
@@ -202,7 +586,7 @@
     "url": "https://www.marketwatch.com/story/microns-stock-sentiment-is-weak-heres-what-could-flip-the-script-18c3ea88",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-20T15:09:00-04:00",
     "date_et": "2024-09-20"
@@ -218,7 +602,7 @@
     "url": "https://www.zacks.com/stock/news/2339050/curious-about-micron-mu-q4-performance-explore-wall-street-estimates-for-key-metrics?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|nfm_preview-2339050",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-20T10:16:07-04:00",
     "date_et": "2024-09-20"
@@ -234,7 +618,7 @@
     "url": "https://www.zacks.com/stock/news/2339019/micron-technology-inc-mu-is-attracting-investor-attention-here-is-what-you-should-know?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|most_searched_stocks-2339019",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-20T10:01:16-04:00",
     "date_et": "2024-09-20"
@@ -250,7 +634,7 @@
     "url": "https://www.zacks.com/stock/news/2338951/the-zacks-analyst-blog-nvidia-microsoft-and-micron-technology?cid=CS-STOCKNEWSAPI-FT-press_releases-2338951",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-20T09:16:10-04:00",
     "date_et": "2024-09-20"
@@ -266,7 +650,7 @@
     "url": "https://www.barrons.com/articles/micron-earnings-stock-price-buy-129647d6",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-20T08:32:00-04:00",
     "date_et": "2024-09-20"
@@ -282,7 +666,7 @@
     "url": "https://www.investopedia.com/micron-technology-q4-fy2024-earnings-preview-8716098",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-21T07:21:04-04:00",
     "date_et": "2024-09-21"
@@ -298,7 +682,7 @@
     "url": "https://www.barrons.com/articles/costco-micron-cintas-accenture-stocks-markets-d3dfb1a6",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-22T14:00:00-04:00",
     "date_et": "2024-09-22"
@@ -314,7 +698,7 @@
     "url": "https://www.investopedia.com/what-to-expect-in-the-markets-this-week-8715614",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-22T07:30:44-04:00",
     "date_et": "2024-09-22"
@@ -330,7 +714,7 @@
     "url": "https://seekingalpha.com/article/4722511-micron-stock-might-face-steep-decline-following-q4-results",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-22T06:15:00-04:00",
     "date_et": "2024-09-22"
@@ -346,7 +730,7 @@
     "url": "https://seekingalpha.com/article/4722820-micron-q4-preview-big-quarter-with-blackwell-delays-rating-downgrade",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-23T17:34:42-04:00",
     "date_et": "2024-09-23"
@@ -362,7 +746,7 @@
     "url": "https://www.youtube.com/watch?v=YiebLZC4CsQ",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-23T16:22:03-04:00",
     "date_et": "2024-09-23"
@@ -378,7 +762,7 @@
     "url": "https://invezz.com/news/2024/09/23/micron-q4-earnings-preview-why-mu-stock-could-rally-this-week/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-23T15:37:02-04:00",
     "date_et": "2024-09-23"
@@ -394,7 +778,7 @@
     "url": "https://www.zacks.com/stock/news/2339682/should-you-buy-sell-or-hold-micron-stock-ahead-of-q4-earnings?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2339682",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-23T09:25:29-04:00",
     "date_et": "2024-09-23"
@@ -410,7 +794,7 @@
     "url": "https://www.benzinga.com/news/24/09/40979327/this-analyst-with-85-accuracy-rate-sees-around-92-upside-in-micron-here-are-5-stock-picks-for-last-w",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-23T08:17:57-04:00",
     "date_et": "2024-09-23"
@@ -426,7 +810,7 @@
     "url": "https://www.wsj.com/articles/micron-needs-a-new-memory-boost-946f6a99",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-23T06:00:00-04:00",
     "date_et": "2024-09-23"
@@ -442,7 +826,7 @@
     "url": "https://seekingalpha.com/article/4722612-micron-buy-before-earnings-tremendous-opportunity-ahead-ratings-upgrade",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-23T00:55:50-04:00",
     "date_et": "2024-09-23"
@@ -458,7 +842,7 @@
     "url": "https://www.youtube.com/watch?v=rxGHEX9O4n0",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-24T10:26:11-04:00",
     "date_et": "2024-09-24"
@@ -474,7 +858,7 @@
     "url": "https://www.investopedia.com/watch-these-micron-stock-price-levels-ahead-of-chipmaker-earnings-report-8717257",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-24T10:25:39-04:00",
     "date_et": "2024-09-24"
@@ -490,7 +874,7 @@
     "url": "https://www.zacks.com/stock/news/2340444/increasing-investments-in-ai-to-boost-micron-s-q4-earnings?cid=CS-STOCKNEWSAPI-FT-analyst_blog|earnings_preview-2340444",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-24T10:21:16-04:00",
     "date_et": "2024-09-24"
@@ -506,7 +890,7 @@
     "url": "https://www.benzinga.com/news/earnings/24/09/41005735/micron-earnings-are-imminent-these-most-accurate-analysts-revise-forecasts-ahead-of-earnings-call",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-24T10:15:24-04:00",
     "date_et": "2024-09-24"
@@ -522,7 +906,7 @@
     "url": "https://www.fool.com/investing/2024/09/24/2-spectacular-semiconductor-stocks-to-buy-now/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-24T10:09:49-04:00",
     "date_et": "2024-09-24"
@@ -538,7 +922,7 @@
     "url": "https://247wallst.com/investing/2024/09/24/2-jim-cramer-approved-semiconductor-stocks-to-buy-now/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-24T09:49:20-04:00",
     "date_et": "2024-09-24"
@@ -554,7 +938,7 @@
     "url": "https://seekingalpha.com/article/4722839-microns-stock-upcoming-q4-earnings-time-to-load-up-upgrade-buy",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-24T07:30:00-04:00",
     "date_et": "2024-09-24"
@@ -570,7 +954,7 @@
     "url": "https://seekingalpha.com/article/4723334-micron-technology-inc-mu-post-earnings-q4-2024-earnings-call-transcript",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T20:35:20-04:00",
     "date_et": "2024-09-25"
@@ -586,7 +970,7 @@
     "url": "https://www.zacks.com/stock/news/2341648/dow-s-p-take-a-break-ahead-of-eventful-stock-market-thursday?cid=CS-STOCKNEWSAPI-FT-ahead_of_wall_street-2341648",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T19:26:19-04:00",
     "date_et": "2024-09-25"
@@ -602,7 +986,7 @@
     "url": "https://www.youtube.com/watch?v=FxKzvj_fBHo",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T19:24:40-04:00",
     "date_et": "2024-09-25"
@@ -618,7 +1002,7 @@
     "url": "https://seekingalpha.com/article/4723330-micron-technology-inc-mu-q4-2024-earnings-call-transcript",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T19:13:06-04:00",
     "date_et": "2024-09-25"
@@ -634,7 +1018,7 @@
     "url": "https://www.zacks.com/stock/news/2341626/micron-mu-q4-earnings-taking-a-look-at-key-metrics-versus-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|nfm-2341626",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T19:00:19-04:00",
     "date_et": "2024-09-25"
@@ -650,7 +1034,7 @@
     "url": "https://seekingalpha.com/article/4723323-micron-q4-hbm-growth-continues-in-2025-upgrade-to-strong-buy",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T18:32:06-04:00",
     "date_et": "2024-09-25"
@@ -666,7 +1050,7 @@
     "url": "https://www.zacks.com/stock/news/2341559/micron-mu-surpasses-q4-earnings-and-revenue-estimates?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_4-2341559",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T18:15:16-04:00",
     "date_et": "2024-09-25"
@@ -682,7 +1066,7 @@
     "url": "https://seekingalpha.com/article/4723321-micron-the-street-was-wrong-full-steam-ahead",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T17:55:55-04:00",
     "date_et": "2024-09-25"
@@ -698,7 +1082,7 @@
     "url": "https://www.investopedia.com/micron-stock-pops-on-strong-outlook-driven-by-robust-ai-demand-8718491",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T17:55:48-04:00",
     "date_et": "2024-09-25"
@@ -714,7 +1098,7 @@
     "url": "https://www.youtube.com/watch?v=zmIG0ubrzQI",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T17:31:40-04:00",
     "date_et": "2024-09-25"
@@ -730,7 +1114,7 @@
     "url": "https://www.youtube.com/watch?v=3mWHtsx1wFw",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T17:02:47-04:00",
     "date_et": "2024-09-25"
@@ -746,7 +1130,7 @@
     "url": "https://www.youtube.com/watch?v=060CDkU4M-I",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T16:48:22-04:00",
     "date_et": "2024-09-25"
@@ -762,7 +1146,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1056955",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T16:38:54-04:00",
     "date_et": "2024-09-25"
@@ -778,7 +1162,7 @@
     "url": "https://www.youtube.com/watch?v=H-qZmy8O0jY",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T16:36:04-04:00",
     "date_et": "2024-09-25"
@@ -794,7 +1178,7 @@
     "url": "https://www.investors.com/news/technology/mu-stock-micron-technology-fiscal-q4-2024-earnings/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T16:26:40-04:00",
     "date_et": "2024-09-25"
@@ -810,7 +1194,7 @@
     "url": "https://www.marketwatch.com/story/micron-surprises-investors-with-strong-guidance-sending-stock-soaring-6d29ba84",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T16:25:00-04:00",
     "date_et": "2024-09-25"
@@ -826,7 +1210,7 @@
     "url": "https://www.reuters.com/technology/micron-forecasts-first-quarter-revenue-above-estimates-2024-09-25/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T16:07:02-04:00",
     "date_et": "2024-09-25"
@@ -842,7 +1226,7 @@
     "url": "https://www.globenewswire.com/news-release/2024/09/25/2953357/14450/en/Micron-Technology-Inc-Reports-Results-for-the-Fourth-Quarter-and-Full-Year-of-Fiscal-2024.html",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T16:07:00-04:00",
     "date_et": "2024-09-25"
@@ -858,7 +1242,7 @@
     "url": "https://www.youtube.com/watch?v=VAngA1YieJY",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T15:11:40-04:00",
     "date_et": "2024-09-25"
@@ -874,7 +1258,7 @@
     "url": "https://www.youtube.com/watch?v=96LAFSxSLBU",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T13:20:49-04:00",
     "date_et": "2024-09-25"
@@ -890,7 +1274,7 @@
     "url": "https://www.benzinga.com/markets/24/09/41029580/micron-earnings-ahead-key-to-ai-trade-biggest-one-year-rate-cut-in-china",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T12:23:29-04:00",
     "date_et": "2024-09-25"
@@ -906,7 +1290,7 @@
     "url": "https://www.barrons.com/articles/micron-technology-earnings-stock-price-f92cb819",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T11:33:00-04:00",
     "date_et": "2024-09-25"
@@ -922,7 +1306,7 @@
     "url": "https://www.forbes.com/sites/adamsarhan/2024/09/25/earnings-preview-what-to-expect-from-micron/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T10:45:14-04:00",
     "date_et": "2024-09-25"
@@ -938,7 +1322,7 @@
     "url": "https://www.zacks.com/stock/news/2341185/wall-street-bulls-look-optimistic-about-micron-mu-should-you-buy?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|average_broker_rating-2341185",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T10:31:11-04:00",
     "date_et": "2024-09-25"
@@ -954,7 +1338,7 @@
     "url": "https://www.youtube.com/watch?v=MMMT1u3k1uU",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T10:24:06-04:00",
     "date_et": "2024-09-25"
@@ -970,7 +1354,7 @@
     "url": "https://www.benzinga.com/trading-ideas/technicals/24/09/41024795/micron-earnings-showdown-charts-show-bulls-and-bears-in-standoff",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T09:14:56-04:00",
     "date_et": "2024-09-25"
@@ -986,7 +1370,7 @@
     "url": "https://www.investopedia.com/micron-technology-q4-fy2024-earnings-preview-what-you-need-to-know-8716098",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T08:20:53-04:00",
     "date_et": "2024-09-25"
@@ -1002,7 +1386,7 @@
     "url": "https://www.benzinga.com/news/earnings/24/09/41020937/us-stocks-may-stall-after-s-p-500-hits-another-record-micron-earnings-meta-connect-on-traders-radar",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T06:52:08-04:00",
     "date_et": "2024-09-25"
@@ -1018,7 +1402,7 @@
     "url": "https://www.fool.com/investing/2024/09/25/1-ai-stock-down-43-to-soar-100-percent/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-25T06:30:00-04:00",
     "date_et": "2024-09-25"
@@ -1034,7 +1418,7 @@
     "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-micron-stock-pops-as-sales-and-guidance-impress-8718876",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T17:50:43-04:00",
     "date_et": "2024-09-26"
@@ -1050,7 +1434,7 @@
     "url": "https://www.benzinga.com/trading-ideas/technicals/24/09/41057139/stock-of-the-day-micron-technology-price-level-converts-from-support-to-resistance-and-v",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T17:03:33-04:00",
     "date_et": "2024-09-26"
@@ -1066,7 +1450,7 @@
     "url": "https://seekingalpha.com/article/4723569-micron-just-getting-started-upgrading-to-a-buy",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T16:52:15-04:00",
     "date_et": "2024-09-26"
@@ -1082,7 +1466,7 @@
     "url": "https://www.kiplinger.com/investing/stocks/stock-market-today-sandp-500-hits-new-high-as-micron-soars",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T16:18:20-04:00",
     "date_et": "2024-09-26"
@@ -1098,7 +1482,7 @@
     "url": "https://seekingalpha.com/article/4723558-micron-heres-why-were-flipping-to-a-buy-after-q4-fy2024-earnings",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T16:08:16-04:00",
     "date_et": "2024-09-26"
@@ -1114,7 +1498,7 @@
     "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/09/41055252/microns-ai-driven-hbm-demand-and-data-center-growth-to-fuel-stock-upside-analysts-s",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T15:37:25-04:00",
     "date_et": "2024-09-26"
@@ -1130,7 +1514,7 @@
     "url": "https://www.youtube.com/watch?v=3GX_iWauP6Q",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T15:29:21-04:00",
     "date_et": "2024-09-26"
@@ -1146,7 +1530,7 @@
     "url": "https://www.youtube.com/watch?v=jVhUt-3seVw",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T13:38:39-04:00",
     "date_et": "2024-09-26"
@@ -1162,7 +1546,7 @@
     "url": "https://www.investopedia.com/micron-s-post-earnings-pop-leads-other-chip-stocks-higher-8718665",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T12:46:14-04:00",
     "date_et": "2024-09-26"
@@ -1178,7 +1562,7 @@
     "url": "https://www.youtube.com/watch?v=aJsvd6jtN9E",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T12:09:45-04:00",
     "date_et": "2024-09-26"
@@ -1194,7 +1578,7 @@
     "url": "https://www.forbes.com/sites/dividendchannel/2024/09/26/daily-dividend-report-micron-lennar-mcdonalds-accenture-cnp/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T11:57:25-04:00",
     "date_et": "2024-09-26"
@@ -1210,7 +1594,7 @@
     "url": "https://www.fool.com/investing/2024/09/26/why-micron-stock-is-soaring-today/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T11:52:24-04:00",
     "date_et": "2024-09-26"
@@ -1226,7 +1610,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2024/09/26/micron-earnings-powers-up-chip-sector",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T11:27:13-04:00",
     "date_et": "2024-09-26"
@@ -1242,7 +1626,7 @@
     "url": "https://www.youtube.com/watch?v=jxU8TJTFPic",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T11:21:36-04:00",
     "date_et": "2024-09-26"
@@ -1258,7 +1642,7 @@
     "url": "https://www.youtube.com/watch?v=pKyRfj8iPA8",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T11:14:55-04:00",
     "date_et": "2024-09-26"
@@ -1274,7 +1658,7 @@
     "url": "https://www.marketbeat.com/originals/micron-stock-soars-as-ai-demand-fuels-big-q4-earnings-beat/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T11:04:06-04:00",
     "date_et": "2024-09-26"
@@ -1290,7 +1674,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1057050",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T10:44:50-04:00",
     "date_et": "2024-09-26"
@@ -1306,7 +1690,7 @@
     "url": "https://www.youtube.com/watch?v=cYJV_fcmWJs",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T10:22:14-04:00",
     "date_et": "2024-09-26"
@@ -1322,7 +1706,7 @@
     "url": "https://seekingalpha.com/article/4723434-micron-excellent-earnings-remains-a-strong-buy",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T09:34:02-04:00",
     "date_et": "2024-09-26"
@@ -1338,7 +1722,7 @@
     "url": "https://seekingalpha.com/article/4723426-micron-why-the-valuation-makes-sense-now",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T09:19:34-04:00",
     "date_et": "2024-09-26"
@@ -1354,7 +1738,7 @@
     "url": "https://www.zacks.com/stock/news/2341729/micron-tops-q4-earnings-estimates-can-strong-guidance-lift-the-stock?cid=CS-STOCKNEWSAPI-FT-analyst_blog|earnings_article-2341729",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T08:37:09-04:00",
     "date_et": "2024-09-26"
@@ -1370,7 +1754,7 @@
     "url": "https://www.investopedia.com/micron-post-earnings-pop-leads-nvidia-and-other-chip-stocks-higher-8718665",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T08:25:42-04:00",
     "date_et": "2024-09-26"
@@ -1386,7 +1770,7 @@
     "url": "https://www.reuters.com/technology/micron-fuels-chip-stock-rally-ai-demand-powers-revenue-forecast-2024-09-26/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T08:16:55-04:00",
     "date_et": "2024-09-26"
@@ -1402,7 +1786,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1057025",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T07:46:10-04:00",
     "date_et": "2024-09-26"
@@ -1418,7 +1802,7 @@
     "url": "https://www.youtube.com/watch?v=BJFX0WqeJf4",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T07:30:12-04:00",
     "date_et": "2024-09-26"
@@ -1434,7 +1818,7 @@
     "url": "https://www.benzinga.com/trading-ideas/long-ideas/24/09/41043391/top-3-tech-stocks-that-are-ticking-portfolio-bombs",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T07:21:20-04:00",
     "date_et": "2024-09-26"
@@ -1450,7 +1834,7 @@
     "url": "https://www.barrons.com/articles/broadcom-qualcomm-chip-stocks-ai-outlook-boost-076d9bbd",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T07:05:00-04:00",
     "date_et": "2024-09-26"
@@ -1466,7 +1850,7 @@
     "url": "https://www.youtube.com/watch?v=V3E17_1YUwc",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T07:01:25-04:00",
     "date_et": "2024-09-26"
@@ -1482,7 +1866,7 @@
     "url": "https://www.reuters.com/markets/us/global-markets-view-usa-2024-09-26/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T06:16:35-04:00",
     "date_et": "2024-09-26"
@@ -1498,7 +1882,7 @@
     "url": "https://www.fool.com/investing/2024/09/26/micron-earnings-mean-great-news-for-nvidia-intel-a/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T06:15:00-04:00",
     "date_et": "2024-09-26"
@@ -1514,7 +1898,7 @@
     "url": "https://finbold.com/heres-why-micron-stock-just-surged-15-in-one-hour/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T06:09:35-04:00",
     "date_et": "2024-09-26"
@@ -1530,7 +1914,7 @@
     "url": "https://finbold.com/wall-street-predicts-micron-stock-price-for-next-12-months/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T05:42:37-04:00",
     "date_et": "2024-09-26"
@@ -1546,7 +1930,7 @@
     "url": "https://www.fxempire.com/forecasts/article/microns-hbm-chips-in-high-demand-amid-ai-boom-1464101",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T04:03:49-04:00",
     "date_et": "2024-09-26"
@@ -1562,7 +1946,7 @@
     "url": "https://www.cnbc.com/2024/09/26/major-global-chip-stocks-rally-on-strong-micron-forecast.html",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T03:40:35-04:00",
     "date_et": "2024-09-26"
@@ -1578,7 +1962,7 @@
     "url": "https://www.youtube.com/watch?v=wpEAoWPcHqg",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T02:53:40-04:00",
     "date_et": "2024-09-26"
@@ -1594,7 +1978,7 @@
     "url": "https://www.youtube.com/watch?v=CM0FThKpFxo",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-26T02:00:50-04:00",
     "date_et": "2024-09-26"
@@ -1610,7 +1994,7 @@
     "url": "https://www.wsj.com/articles/the-score-costco-micron-echostar-and-more-stocks-that-defined-the-week-3bf0c91c",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-27T17:34:00-04:00",
     "date_et": "2024-09-27"
@@ -1626,7 +2010,7 @@
     "url": "https://www.youtube.com/watch?v=WzA-C4lvo8I",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-27T17:28:35-04:00",
     "date_et": "2024-09-27"
@@ -1642,7 +2026,7 @@
     "url": "https://www.zacks.com/commentary/2342907/stocks-head-for-third-consecutive-winning-week-amid-string-of-record-closes?cid=CS-STOCKNEWSAPI-FT-investment_ideas-2342907",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-27T14:31:15-04:00",
     "date_et": "2024-09-27"
@@ -1658,7 +2042,7 @@
     "url": "https://www.barrons.com/articles/micron-stock-teradyne-cohu-90d9fefb",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-27T13:12:00-04:00",
     "date_et": "2024-09-27"
@@ -1674,7 +2058,7 @@
     "url": "https://seekingalpha.com/article/4723784-microns-earnings-dont-change-our-bearish-view",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-27T12:24:33-04:00",
     "date_et": "2024-09-27"
@@ -1690,7 +2074,7 @@
     "url": "https://seekingalpha.com/article/4723730-micron-a-9x-fwd-pe-is-unacceptable",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-27T10:30:00-04:00",
     "date_et": "2024-09-27"
@@ -1706,7 +2090,7 @@
     "url": "https://seekingalpha.com/article/4723718-micron-q4-signals-to-buy-now-for-an-exceptional-fy25-price-return",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-27T09:44:54-04:00",
     "date_et": "2024-09-27"
@@ -1722,7 +2106,7 @@
     "url": "https://seekingalpha.com/article/4723574-micron-as-fy25-begins-get-ready-for-a-fresh-rally",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-27T09:30:00-04:00",
     "date_et": "2024-09-27"
@@ -1738,7 +2122,7 @@
     "url": "https://www.fool.com/investing/2024/09/27/why-micron-rallied-21-this-week/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-27T09:30:00-04:00",
     "date_et": "2024-09-27"
@@ -1754,7 +2138,7 @@
     "url": "https://www.fool.com/investing/2024/09/27/micron-technology-just-delivered-spectacular-news/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-27T09:28:48-04:00",
     "date_et": "2024-09-27"
@@ -1770,7 +2154,7 @@
     "url": "https://www.benzinga.com/news/24/09/41065070/micron-to-150-here-are-10-top-analyst-forecasts-for-friday",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-27T08:04:27-04:00",
     "date_et": "2024-09-27"
@@ -1786,7 +2170,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2024/09/27/micron-stock-leaps-16---more-to-come/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-27T06:00:37-04:00",
     "date_et": "2024-09-27"
@@ -1802,7 +2186,7 @@
     "url": "https://www.fool.com/investing/2024/09/27/2-chip-stocks-that-are-screaming-buys-in-september/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-27T05:02:00-04:00",
     "date_et": "2024-09-27"
@@ -1818,7 +2202,7 @@
     "url": "https://seekingalpha.com/article/4723980-micron-q4-i-was-wrong-surging-ai-demand-bridges-blackwell-delays-mu-stock",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-28T23:40:00-04:00",
     "date_et": "2024-09-28"
@@ -1834,7 +2218,7 @@
     "url": "https://seekingalpha.com/article/4723904-micron-technology-expect-continued-rallies-rating-upgrade",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-28T09:00:00-04:00",
     "date_et": "2024-09-28"
@@ -1850,7 +2234,7 @@
     "url": "https://seekingalpha.com/article/4723935-micron-q4-results-didnt-get-me-excited",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-28T05:34:53-04:00",
     "date_et": "2024-09-28"
@@ -1866,7 +2250,7 @@
     "url": "https://www.fool.com/investing/2024/09/28/spectacular-semiconductor-stock-down-buy-dip/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-28T04:29:00-04:00",
     "date_et": "2024-09-28"
@@ -1882,7 +2266,7 @@
     "url": "https://seekingalpha.com/article/4724068-micron-still-dirt-cheap-despite-the-recent-recovery-upgrade-to-buy",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-29T12:13:27-04:00",
     "date_et": "2024-09-29"
@@ -1898,7 +2282,7 @@
     "url": "https://seekingalpha.com/article/4724024-micron-a-huge-buying-opportunity-that-you-shouldnt-miss",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-29T11:30:00-04:00",
     "date_et": "2024-09-29"
@@ -1914,7 +2298,7 @@
     "url": "https://seekingalpha.com/article/4724291-micron-has-significant-upside-in-the-midcycle",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-30T15:01:57-04:00",
     "date_et": "2024-09-30"
@@ -1930,7 +2314,7 @@
     "url": "https://www.fool.com/investing/2024/09/30/whats-going-on-with-micron-stock/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-30T09:45:59-04:00",
     "date_et": "2024-09-30"
@@ -1946,7 +2330,7 @@
     "url": "https://www.fool.com/investing/2024/09/30/should-you-buy-micron-stock-after-the-excellent-ea/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-30T09:42:47-04:00",
     "date_et": "2024-09-30"
@@ -1962,7 +2346,7 @@
     "url": "https://www.fool.com/investing/2024/09/30/micron-shares-surges-on-outlook-defying-analyst/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-30T07:00:00-04:00",
     "date_et": "2024-09-30"
@@ -1978,7 +2362,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2024/09/30/microns-stellar-q4-boosts-outlook-for-amd-and-key-tech-stocks/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-30T06:00:08-04:00",
     "date_et": "2024-09-30"
@@ -1994,7 +2378,7 @@
     "url": "https://www.globenewswire.com/news-release/2024/09/30/2954967/28124/en/Global-Semiconductor-Industry-Chain-Performance-Report-2024-2025-Featuring-3-Dynamic-DRAM-Suppliers-Samsung-SK-Hynix-and-Micron-ICs-Dominating-the-Market-with-Over-80-Share.html",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-30T05:39:00-04:00",
     "date_et": "2024-09-30"
@@ -2010,7 +2394,7 @@
     "url": "https://seekingalpha.com/article/4724138-micron-nearly-600-percent-potential-yoy-earnings-growth-in-fy2025-makes-peg-attractive",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-09-30T04:51:42-04:00",
     "date_et": "2024-09-30"
@@ -2026,7 +2410,7 @@
     "url": "https://www.fool.com/investing/2024/10/01/why-nvidia-micron-broadcom-and-other-artificial-in/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-01T15:03:47-04:00",
     "date_et": "2024-10-01"
@@ -2042,7 +2426,7 @@
     "url": "https://www.benzinga.com/news/earnings/24/10/41121622/micron-stock-soars-as-ai-demand-fuels-big-q4-earnings-beat",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-01T12:40:48-04:00",
     "date_et": "2024-10-01"
@@ -2058,7 +2442,7 @@
     "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/10/41124123/micron-set-for-profit-surge-with-high-margin-products-and-ai-driven-market-expansio",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-01T12:38:27-04:00",
     "date_et": "2024-10-01"
@@ -2074,7 +2458,7 @@
     "url": "https://www.zacks.com/stock/news/2344120/micron-stock-up-8-since-q4-earnings-what-should-investors-do-now?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2344120",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-01T11:25:21-04:00",
     "date_et": "2024-10-01"
@@ -2090,7 +2474,7 @@
     "url": "https://www.zacks.com/stock/news/2343905/here-is-what-to-know-beyond-why-micron-technology-inc-mu-is-a-trending-stock?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|most_searched_stocks-2343905",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-01T10:05:24-04:00",
     "date_et": "2024-10-01"
@@ -2106,7 +2490,7 @@
     "url": "https://www.cnbc.com/2024/10/01/india-to-fabricate-its-first-chip-in-two-years-as-companies-pledge-to-expand-in-the-country.html",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-01T09:59:33-04:00",
     "date_et": "2024-10-01"
@@ -2122,7 +2506,7 @@
     "url": "https://www.fool.com/investing/2024/10/01/where-will-micron-be-in-2025/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-01T09:30:46-04:00",
     "date_et": "2024-10-01"
@@ -2138,7 +2522,7 @@
     "url": "https://www.fool.com/investing/2024/10/01/great-news-for-micron-stock-investors/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-01T09:30:00-04:00",
     "date_et": "2024-10-01"
@@ -2154,7 +2538,7 @@
     "url": "https://www.fool.com/investing/2024/10/01/3-reasons-to-buy-semiconductor-stocks-right-now/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-01T08:00:00-04:00",
     "date_et": "2024-10-01"
@@ -2170,7 +2554,7 @@
     "url": "https://seekingalpha.com/article/4724398-micron-bottom-fishing-buy-signals",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-01T06:08:06-04:00",
     "date_et": "2024-10-01"
@@ -2186,7 +2570,7 @@
     "url": "https://www.fool.com/investing/2024/10/01/semiconductor-stocks-down-soar-2025/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-01T05:35:00-04:00",
     "date_et": "2024-10-01"
@@ -2202,7 +2586,7 @@
     "url": "https://seekingalpha.com/article/4724688-micron-stock-strong-q4-results-set-to-continue-long-term",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-02T22:16:58-04:00",
     "date_et": "2024-10-02"
@@ -2218,7 +2602,7 @@
     "url": "https://www.fool.com/investing/2024/10/02/the-ultimate-ai-stock-to-buy-now-isnt-nvidia/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-02T09:29:00-04:00",
     "date_et": "2024-10-02"
@@ -2234,7 +2618,7 @@
     "url": "https://www.fool.com/investing/2024/10/02/is-micron-a-buy-after-massive-earnings-topper/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-02T05:25:00-04:00",
     "date_et": "2024-10-02"
@@ -2250,7 +2634,7 @@
     "url": "https://seekingalpha.com/article/4724917-micron-an-outrageous-ai-growth-bargain",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-03T21:37:07-04:00",
     "date_et": "2024-10-03"
@@ -2266,7 +2650,7 @@
     "url": "https://www.businesswire.com/news/home/20241003758604/en/OMNIVISION-Expands-Machine-Vision-BSI-Global-Shutter-Sensor-Portfolio-with-Three-New-3.45-Micron-Pixel-Products/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-03T09:07:00-04:00",
     "date_et": "2024-10-03"
@@ -2282,7 +2666,7 @@
     "url": "https://seekingalpha.com/article/4724784-12-stocks-to-profit-from-boom-data-centers-artificial-intelligence",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-03T08:20:00-04:00",
     "date_et": "2024-10-03"
@@ -2298,7 +2682,7 @@
     "url": "https://www.fool.com/investing/2024/10/03/where-will-micron-stock-be-in-1-year/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-03T04:07:00-04:00",
     "date_et": "2024-10-03"
@@ -2314,7 +2698,7 @@
     "url": "https://seekingalpha.com/article/4725078-investing-in-micron-riding-the-upturn-in-the-memory-chip-market",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-04T14:49:19-04:00",
     "date_et": "2024-10-04"
@@ -2330,7 +2714,7 @@
     "url": "https://seekingalpha.com/article/4725067-micron-technology-the-market-may-be-wrong",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-04T13:20:54-04:00",
     "date_et": "2024-10-04"
@@ -2346,7 +2730,7 @@
     "url": "https://www.fool.com/investing/2024/10/04/5-semiconductor-stocks-buy-hand-fist-heading-2025/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-04T04:02:00-04:00",
     "date_et": "2024-10-04"
@@ -2362,7 +2746,7 @@
     "url": "https://seekingalpha.com/article/4725150-micron-technology-one-of-the-top-picks-in-the-ai-hardware-landscape",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-05T03:48:28-04:00",
     "date_et": "2024-10-05"
@@ -2378,7 +2762,7 @@
     "url": "https://www.gurufocus.com/news/2543015/decoding-micron-technology-inc-mu-a-strategic-swot-insight",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-05T00:01:35-04:00",
     "date_et": "2024-10-05"
@@ -2394,7 +2778,7 @@
     "url": "https://seekingalpha.com/article/4725508-microns-rebound-riding-ai-tailwinds-amid-memory-market-headwinds",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-07T23:44:18-04:00",
     "date_et": "2024-10-07"
@@ -2410,7 +2794,7 @@
     "url": "https://www.marketwatch.com/story/these-12-stocks-are-behind-goldmans-s-p-500-optimism-and-micron-stands-out-2b2ce459",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-07T10:55:00-04:00",
     "date_et": "2024-10-07"
@@ -2426,7 +2810,7 @@
     "url": "https://www.fool.com/investing/2024/10/07/5000-these-stocks-could-be-bargain-buys-2024/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-07T05:12:00-04:00",
     "date_et": "2024-10-07"
@@ -2442,7 +2826,7 @@
     "url": "https://www.gurufocus.com/news/2544729/citi-increases-optimism-on-semiconductor-sector-after-strong-august-sales",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-08T09:30:52-04:00",
     "date_et": "2024-10-08"
@@ -2458,7 +2842,7 @@
     "url": "https://www.marketbeat.com/stock-ideas/think-you-missed-the-ai-boom-these-3-stocks-are-just-starting/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-08T08:46:00-04:00",
     "date_et": "2024-10-08"
@@ -2474,7 +2858,7 @@
     "url": "https://www.marketbeat.com/stock-ideas/top-3-growth-stocks-poised-for-a-strong-q4-2024-rally/",
     "ticker": "MU",
     "event_date": "2024-09-25",
-    "window_start": "2024-09-18",
+    "window_start": "2024-09-11",
     "window_end": "2024-10-09",
     "publishedDateET": "2024-10-08T07:00:23-04:00",
     "date_et": "2024-10-08"

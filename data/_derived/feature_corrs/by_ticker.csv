@@ -5812,7 +5812,7 @@ car_mm_1q_pct,p0_p1,JPM,sur_quarter_rank,0.007,0.007
 car_mm_1q_pct,p0_p1,JPM,sur_actual_revenue,0.008,0.008
 car_mm_1q_pct,p0_p1,JPM,sur_actual_ebitda,-0.104,0.104
 car_mm_1q_pct,p0_p1,JPM,sur_actual_ebit,-0.093,0.093
-car_mm_1q_pct,p0_p1,JPM,sur_actual_netIncome,-0.109,0.109
+car_mm_1q_pct,p0_p1,JPM,sur_actual_netIncome,-0.108,0.108
 car_mm_1q_pct,p0_p1,JPM,sur_actual_eps,-0.111,0.111
 car_mm_1q_pct,p0_p1,JPM,sur_est_revenue,0.012,0.012
 car_mm_1q_pct,p0_p1,JPM,sur_est_ebitda,0.342,0.342
@@ -10577,7 +10577,7 @@ car_mm_1y_pct,m10_p10,BAC,est_netIncomeHigh,0.24,0.24
 car_mm_1y_pct,m10_p10,BAC,est_netIncomeAvg,0.252,0.252
 car_mm_1y_pct,m10_p10,BAC,est_sgaExpenseLow,0.226,0.226
 car_mm_1y_pct,m10_p10,BAC,est_sgaExpenseHigh,0.212,0.212
-car_mm_1y_pct,m10_p10,BAC,est_sgaExpenseAvg,0.247,0.247
+car_mm_1y_pct,m10_p10,BAC,est_sgaExpenseAvg,0.246,0.246
 car_mm_1y_pct,m10_p10,BAC,est_epsAvg,0.171,0.171
 car_mm_1y_pct,m10_p10,BAC,est_epsHigh,0.12,0.12
 car_mm_1y_pct,m10_p10,BAC,est_epsLow,0.176,0.176
@@ -10713,7 +10713,7 @@ car_mm_1y_pct,m10_p10,HD,gro_growthOtherExpenses,-0.086,0.086
 car_mm_1y_pct,m10_p10,HD,gro_growthOperatingExpenses,-0.27,0.27
 car_mm_1y_pct,m10_p10,HD,gro_growthCostAndExpenses,-0.209,0.209
 car_mm_1y_pct,m10_p10,HD,gro_growthInterestIncome,-0.081,0.081
-car_mm_1y_pct,m10_p10,HD,gro_growthInterestExpense,0.144,0.144
+car_mm_1y_pct,m10_p10,HD,gro_growthInterestExpense,0.145,0.145
 car_mm_1y_pct,m10_p10,HD,gro_growthDepreciationAndAmortization,-0.323,0.323
 car_mm_1y_pct,m10_p10,HD,gro_growthEBITDA,-0.129,0.129
 car_mm_1y_pct,m10_p10,HD,gro_growthOperatingIncome,-0.095,0.095
@@ -12747,7 +12747,7 @@ car_mm_1y_pct,m1_p1,MA,gro_growthTotalOtherIncomeExpensesNet,-0.088,0.088
 car_mm_1y_pct,m1_p1,MA,gro_growthNetIncomeFromContinuingOperations,-0.262,0.262
 car_mm_1y_pct,m1_p1,MA,gro_growthOtherAdjustmentsToNetIncome,,
 car_mm_1y_pct,m1_p1,MA,gro_growthNetIncomeDeductions,,
-car_mm_1y_pct,m1_p1,MA,est_revenueLow,0.004,0.004
+car_mm_1y_pct,m1_p1,MA,est_revenueLow,0.003,0.003
 car_mm_1y_pct,m1_p1,MA,est_revenueHigh,0.012,0.012
 car_mm_1y_pct,m1_p1,MA,est_revenueAvg,0.006,0.006
 car_mm_1y_pct,m1_p1,MA,est_ebitdaLow,0.088,0.088
@@ -15119,7 +15119,7 @@ car_mm_1y_pct,m5_p5,WMT,est_epsHigh,-0.019,0.019
 car_mm_1y_pct,m5_p5,WMT,est_epsLow,0.045,0.045
 car_mm_1y_pct,m5_p5,WMT,est_numAnalystsRevenue,-0.191,0.191
 car_mm_1y_pct,m5_p5,WMT,est_numAnalystsEps,0.133,0.133
-car_mm_1y_pct,p0_p1,AAPL,px_-10,-0.164,0.164
+car_mm_1y_pct,p0_p1,AAPL,px_-10,-0.163,0.163
 car_mm_1y_pct,p0_p1,AAPL,px_-5,-0.213,0.213
 car_mm_1y_pct,p0_p1,AAPL,px_-1,-0.245,0.245
 car_mm_1y_pct,p0_p1,AAPL,px_+0,-0.206,0.206
@@ -15176,7 +15176,7 @@ car_mm_1y_pct,p0_p1,AAPL,gro_growthEPS,-0.124,0.124
 car_mm_1y_pct,p0_p1,AAPL,gro_growthEPSDiluted,-0.122,0.122
 car_mm_1y_pct,p0_p1,AAPL,gro_growthWeightedAverageShsOut,-0.016,0.016
 car_mm_1y_pct,p0_p1,AAPL,gro_growthWeightedAverageShsOutDil,-0.063,0.063
-car_mm_1y_pct,p0_p1,AAPL,gro_growthEBIT,0.127,0.127
+car_mm_1y_pct,p0_p1,AAPL,gro_growthEBIT,0.128,0.128
 car_mm_1y_pct,p0_p1,AAPL,gro_growthNonOperatingIncomeExcludingInterest,-0.017,0.017
 car_mm_1y_pct,p0_p1,AAPL,gro_growthNetInterestIncome,-0.017,0.017
 car_mm_1y_pct,p0_p1,AAPL,gro_growthTotalOtherIncomeExpensesNet,0.198,0.198
@@ -19228,7 +19228,7 @@ car_mm_1y_pct,p0_p5,JNJ,est_netIncomeLow,0.239,0.239
 car_mm_1y_pct,p0_p5,JNJ,est_netIncomeHigh,0.196,0.196
 car_mm_1y_pct,p0_p5,JNJ,est_netIncomeAvg,0.222,0.222
 car_mm_1y_pct,p0_p5,JNJ,est_sgaExpenseLow,-0.217,0.217
-car_mm_1y_pct,p0_p5,JNJ,est_sgaExpenseHigh,-0.365,0.365
+car_mm_1y_pct,p0_p5,JNJ,est_sgaExpenseHigh,-0.366,0.366
 car_mm_1y_pct,p0_p5,JNJ,est_sgaExpenseAvg,-0.351,0.351
 car_mm_1y_pct,p0_p5,JNJ,est_epsAvg,0.456,0.456
 car_mm_1y_pct,p0_p5,JNJ,est_epsHigh,0.501,0.501
@@ -19630,7 +19630,7 @@ car_mm_1y_pct,p0_p5,MSFT,gro_growthWeightedAverageShsOut,0.061,0.061
 car_mm_1y_pct,p0_p5,MSFT,gro_growthWeightedAverageShsOutDil,-0.168,0.168
 car_mm_1y_pct,p0_p5,MSFT,gro_growthEBIT,0.118,0.118
 car_mm_1y_pct,p0_p5,MSFT,gro_growthNonOperatingIncomeExcludingInterest,-0.303,0.303
-car_mm_1y_pct,p0_p5,MSFT,gro_growthNetInterestIncome,-0.271,0.271
+car_mm_1y_pct,p0_p5,MSFT,gro_growthNetInterestIncome,-0.27,0.27
 car_mm_1y_pct,p0_p5,MSFT,gro_growthTotalOtherIncomeExpensesNet,0.175,0.175
 car_mm_1y_pct,p0_p5,MSFT,gro_growthNetIncomeFromContinuingOperations,0.138,0.138
 car_mm_1y_pct,p0_p5,MSFT,gro_growthOtherAdjustmentsToNetIncome,,
@@ -22270,7 +22270,7 @@ car_simple_pct,m1_p1,BAC,logpct_m10_p10,0.267,0.267
 car_simple_pct,m1_p1,BAC,logpct_m5_p5,0.645,0.645
 car_simple_pct,m1_p1,BAC,logpct_m1_p1,0.908,0.908
 car_simple_pct,m1_p1,BAC,logpct_p0_p1,0.422,0.422
-car_simple_pct,m1_p1,BAC,logpct_p0_p5,0.221,0.221
+car_simple_pct,m1_p1,BAC,logpct_p0_p5,0.222,0.222
 car_simple_pct,m1_p1,BAC,logpct_p0_p10,0.123,0.123
 car_simple_pct,m1_p1,BAC,sur_quarter_rank,0.233,0.233
 car_simple_pct,m1_p1,BAC,sur_actual_revenue,0.191,0.191
@@ -25243,12 +25243,12 @@ car_simple_pct,p0_p1,AAPL,gro_growthGeneralAndAdministrativeExpenses,,
 car_simple_pct,p0_p1,AAPL,gro_growthSellingAndMarketingExpenses,,
 car_simple_pct,p0_p1,AAPL,gro_growthOtherExpenses,,
 car_simple_pct,p0_p1,AAPL,gro_growthOperatingExpenses,0.158,0.158
-car_simple_pct,p0_p1,AAPL,gro_growthCostAndExpenses,0.152,0.152
+car_simple_pct,p0_p1,AAPL,gro_growthCostAndExpenses,0.153,0.153
 car_simple_pct,p0_p1,AAPL,gro_growthInterestIncome,-0.421,0.421
 car_simple_pct,p0_p1,AAPL,gro_growthInterestExpense,-0.434,0.434
 car_simple_pct,p0_p1,AAPL,gro_growthDepreciationAndAmortization,-0.13,0.13
 car_simple_pct,p0_p1,AAPL,gro_growthEBITDA,0.158,0.158
-car_simple_pct,p0_p1,AAPL,gro_growthOperatingIncome,0.137,0.137
+car_simple_pct,p0_p1,AAPL,gro_growthOperatingIncome,0.138,0.138
 car_simple_pct,p0_p1,AAPL,gro_growthIncomeBeforeTax,0.151,0.151
 car_simple_pct,p0_p1,AAPL,gro_growthIncomeTaxExpense,0.382,0.382
 car_simple_pct,p0_p1,AAPL,gro_growthNetIncome,-0.092,0.092
@@ -25814,7 +25814,7 @@ car_simple_pct,p0_p1,HD,sur_est_eps,0.398,0.398
 car_simple_pct,p0_p1,HD,sur_surprise_revenue,-0.417,0.417
 car_simple_pct,p0_p1,HD,sur_surprise_revenue_pct,-0.461,0.461
 car_simple_pct,p0_p1,HD,sur_surprise_ebitda,0.193,0.193
-car_simple_pct,p0_p1,HD,sur_surprise_ebitda_pct,0.162,0.162
+car_simple_pct,p0_p1,HD,sur_surprise_ebitda_pct,0.163,0.163
 car_simple_pct,p0_p1,HD,sur_surprise_ebit,0.174,0.174
 car_simple_pct,p0_p1,HD,sur_surprise_ebit_pct,0.145,0.145
 car_simple_pct,p0_p1,HD,sur_surprise_netIncome,0.024,0.024
@@ -25891,7 +25891,7 @@ car_simple_pct,p0_p1,JNJ,sur_actual_ebit,0.113,0.113
 car_simple_pct,p0_p1,JNJ,sur_actual_netIncome,-0.157,0.157
 car_simple_pct,p0_p1,JNJ,sur_actual_eps,-0.147,0.147
 car_simple_pct,p0_p1,JNJ,sur_est_revenue,0.064,0.064
-car_simple_pct,p0_p1,JNJ,sur_est_ebitda,0.164,0.164
+car_simple_pct,p0_p1,JNJ,sur_est_ebitda,0.163,0.163
 car_simple_pct,p0_p1,JNJ,sur_est_ebit,-0.018,0.018
 car_simple_pct,p0_p1,JNJ,sur_est_netIncome,0.174,0.174
 car_simple_pct,p0_p1,JNJ,sur_est_eps,-0.137,0.137
@@ -25940,12 +25940,12 @@ car_simple_pct,p0_p1,JNJ,est_revenueHigh,0.078,0.078
 car_simple_pct,p0_p1,JNJ,est_revenueAvg,0.064,0.064
 car_simple_pct,p0_p1,JNJ,est_ebitdaLow,0.148,0.148
 car_simple_pct,p0_p1,JNJ,est_ebitdaHigh,0.15,0.15
-car_simple_pct,p0_p1,JNJ,est_ebitdaAvg,0.164,0.164
+car_simple_pct,p0_p1,JNJ,est_ebitdaAvg,0.163,0.163
 car_simple_pct,p0_p1,JNJ,est_ebitLow,-0.036,0.036
 car_simple_pct,p0_p1,JNJ,est_ebitHigh,-0.004,0.004
 car_simple_pct,p0_p1,JNJ,est_ebitAvg,-0.018,0.018
 car_simple_pct,p0_p1,JNJ,est_netIncomeLow,0.125,0.125
-car_simple_pct,p0_p1,JNJ,est_netIncomeHigh,0.195,0.195
+car_simple_pct,p0_p1,JNJ,est_netIncomeHigh,0.194,0.194
 car_simple_pct,p0_p1,JNJ,est_netIncomeAvg,0.174,0.174
 car_simple_pct,p0_p1,JNJ,est_sgaExpenseLow,0.062,0.062
 car_simple_pct,p0_p1,JNJ,est_sgaExpenseHigh,0.081,0.081
@@ -26225,7 +26225,7 @@ car_simple_pct,p0_p1,META,sur_actual_revenue,-0.131,0.131
 car_simple_pct,p0_p1,META,sur_actual_ebitda,-0.075,0.075
 car_simple_pct,p0_p1,META,sur_actual_ebit,-0.077,0.077
 car_simple_pct,p0_p1,META,sur_actual_netIncome,0.206,0.206
-car_simple_pct,p0_p1,META,sur_actual_eps,0.212,0.212
+car_simple_pct,p0_p1,META,sur_actual_eps,0.211,0.211
 car_simple_pct,p0_p1,META,sur_est_revenue,-0.122,0.122
 car_simple_pct,p0_p1,META,sur_est_ebitda,-0.153,0.153
 car_simple_pct,p0_p1,META,sur_est_ebit,-0.169,0.169
@@ -26813,7 +26813,7 @@ car_simple_pct,p0_p1,WMT,sur_actual_revenue,-0.066,0.066
 car_simple_pct,p0_p1,WMT,sur_actual_ebitda,-0.115,0.115
 car_simple_pct,p0_p1,WMT,sur_actual_ebit,-0.102,0.102
 car_simple_pct,p0_p1,WMT,sur_actual_netIncome,-0.104,0.104
-car_simple_pct,p0_p1,WMT,sur_actual_eps,-0.111,0.111
+car_simple_pct,p0_p1,WMT,sur_actual_eps,-0.11,0.11
 car_simple_pct,p0_p1,WMT,sur_est_revenue,-0.059,0.059
 car_simple_pct,p0_p1,WMT,sur_est_ebitda,-0.23,0.23
 car_simple_pct,p0_p1,WMT,sur_est_ebit,-0.101,0.101
@@ -29170,7 +29170,7 @@ car_simple_pct,p0_p5,HD,sur_est_revenue,-0.028,0.028
 car_simple_pct,p0_p5,HD,sur_est_ebitda,0.181,0.181
 car_simple_pct,p0_p5,HD,sur_est_ebit,0.216,0.216
 car_simple_pct,p0_p5,HD,sur_est_netIncome,0.189,0.189
-car_simple_pct,p0_p5,HD,sur_est_eps,-0.018,0.018
+car_simple_pct,p0_p5,HD,sur_est_eps,-0.019,0.019
 car_simple_pct,p0_p5,HD,sur_surprise_revenue,-0.136,0.136
 car_simple_pct,p0_p5,HD,sur_surprise_revenue_pct,-0.146,0.146
 car_simple_pct,p0_p5,HD,sur_surprise_ebitda,-0.118,0.118
@@ -29226,7 +29226,7 @@ car_simple_pct,p0_p5,HD,est_netIncomeAvg,0.189,0.189
 car_simple_pct,p0_p5,HD,est_sgaExpenseLow,0.036,0.036
 car_simple_pct,p0_p5,HD,est_sgaExpenseHigh,-0.246,0.246
 car_simple_pct,p0_p5,HD,est_sgaExpenseAvg,-0.105,0.105
-car_simple_pct,p0_p5,HD,est_epsAvg,-0.018,0.018
+car_simple_pct,p0_p5,HD,est_epsAvg,-0.019,0.019
 car_simple_pct,p0_p5,HD,est_epsHigh,-0.048,0.048
 car_simple_pct,p0_p5,HD,est_epsLow,-0.016,0.016
 car_simple_pct,p0_p5,HD,est_numAnalystsRevenue,-0.097,0.097
@@ -32846,7 +32846,7 @@ ret_pct,m1_p1,LLY,est_numAnalystsEps,-0.275,0.275
 ret_pct,m1_p1,MA,px_-10,-0.169,0.169
 ret_pct,m1_p1,MA,px_-5,-0.135,0.135
 ret_pct,m1_p1,MA,px_-1,-0.152,0.152
-ret_pct,m1_p1,MA,px_+0,-0.08,0.08
+ret_pct,m1_p1,MA,px_+0,-0.081,0.081
 ret_pct,m1_p1,MA,px_+1,-0.002,0.002
 ret_pct,m1_p1,MA,px_+5,-0.029,0.029
 ret_pct,m1_p1,MA,px_+10,-0.033,0.033
@@ -36844,7 +36844,7 @@ ret_pct,p0_p1,V,gro_growthOperatingIncome,0.03,0.03
 ret_pct,p0_p1,V,gro_growthIncomeBeforeTax,0.014,0.014
 ret_pct,p0_p1,V,gro_growthIncomeTaxExpense,0.11,0.11
 ret_pct,p0_p1,V,gro_growthNetIncome,-0.188,0.188
-ret_pct,p0_p1,V,gro_growthEPS,-0.196,0.196
+ret_pct,p0_p1,V,gro_growthEPS,-0.195,0.195
 ret_pct,p0_p1,V,gro_growthEPSDiluted,-0.194,0.194
 ret_pct,p0_p1,V,gro_growthWeightedAverageShsOut,0.071,0.071
 ret_pct,p0_p1,V,gro_growthWeightedAverageShsOutDil,0.144,0.144
@@ -37332,7 +37332,7 @@ ret_pct,p0_p10,AVGO,sur_surprise_eps_pct,-0.548,0.548
 ret_pct,p0_p10,AVGO,gro_fiscalYear,0.086,0.086
 ret_pct,p0_p10,AVGO,gro_growthRevenue,0.028,0.028
 ret_pct,p0_p10,AVGO,gro_growthCostOfRevenue,0.053,0.053
-ret_pct,p0_p10,AVGO,gro_growthGrossProfit,-0.017,0.017
+ret_pct,p0_p10,AVGO,gro_growthGrossProfit,-0.016,0.016
 ret_pct,p0_p10,AVGO,gro_growthGrossProfitRatio,-0.065,0.065
 ret_pct,p0_p10,AVGO,gro_growthResearchAndDevelopmentExpenses,-0.015,0.015
 ret_pct,p0_p10,AVGO,gro_growthGeneralAndAdministrativeExpenses,0.013,0.013
@@ -37480,7 +37480,7 @@ ret_pct,p0_p10,GOOGL,sur_quarter_rank,0.036,0.036
 ret_pct,p0_p10,GOOGL,sur_actual_revenue,-0.026,0.026
 ret_pct,p0_p10,GOOGL,sur_actual_ebitda,-0.11,0.11
 ret_pct,p0_p10,GOOGL,sur_actual_ebit,-0.086,0.086
-ret_pct,p0_p10,GOOGL,sur_actual_netIncome,-0.074,0.074
+ret_pct,p0_p10,GOOGL,sur_actual_netIncome,-0.073,0.073
 ret_pct,p0_p10,GOOGL,sur_actual_eps,-0.062,0.062
 ret_pct,p0_p10,GOOGL,sur_est_revenue,-0.045,0.045
 ret_pct,p0_p10,GOOGL,sur_est_ebitda,-0.058,0.058

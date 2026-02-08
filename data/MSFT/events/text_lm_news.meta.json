@@ -5,7 +5,7 @@
   "event_long_out": "data/MSFT/events/text_lm_news_event_long.csv",
   "event_wide_out": "data/MSFT/events/text_lm_news_event_wide.csv",
   "min_tokens": 20,
-  "rows_in": 5322,
-  "rows_scored": 3224,
+  "rows_in": 6542,
+  "rows_scored": 3928,
   "events_scored": 20
 }

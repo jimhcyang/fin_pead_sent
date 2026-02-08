@@ -1,6 +1,86 @@
 [
   {
     "symbol": "HD",
+    "publishedDate": "2022-05-03 12:54:42",
+    "publisher": "Pulse2",
+    "title": "Home Depot (HD) Launches $150 Million Fund To Invest In Early-Stage Companies",
+    "image": "https://images.financialmodelingprep.com/news/home-depot-hd-launches-150-million-fund-to-invest-20220503.jpg",
+    "site": "pulse2.com",
+    "text": "Home Depot Inc (NYSE: HD) has announced Home Depot Ventures, a venture capital fund created to identify, fund, and partner with early-stage companies. These are the details.",
+    "url": "https://pulse2.com/home-depot-ventures/",
+    "ticker": "HD",
+    "event_date": "2022-05-17",
+    "window_start": "2022-05-03",
+    "window_end": "2022-05-31",
+    "publishedDateET": "2022-05-03T12:54:42-04:00",
+    "date_et": "2022-05-03"
+  },
+  {
+    "symbol": "HD",
+    "publishedDate": "2022-05-03 07:30:00",
+    "publisher": "PRNewsWire",
+    "title": "The Home Depot to Host First Quarter Earnings Conference Call on May 17",
+    "image": "https://images.financialmodelingprep.com/news/the-home-depot-to-host-first-quarter-earnings-conference-20220503.jpg",
+    "site": "prnewswire.com",
+    "text": "ATLANTA , May 3, 2022 /PRNewswire/ -- The Home Depot®, the world's largest home improvement retailer, announced today that it will hold its First Quarter Earnings Conference Call on Tuesday, May 17, at 9 a.m. ET. A webcast will be available by logging onto http://ir.homedepot.com/events-and-presentations and selecting the First Quarter Earnings Conference Call icon.",
+    "url": "https://www.prnewswire.com/news-releases/the-home-depot-to-host-first-quarter-earnings-conference-call-on-may-17-301537535.html",
+    "ticker": "HD",
+    "event_date": "2022-05-17",
+    "window_start": "2022-05-03",
+    "window_end": "2022-05-31",
+    "publishedDateET": "2022-05-03T07:30:00-04:00",
+    "date_et": "2022-05-03"
+  },
+  {
+    "symbol": "HD",
+    "publishedDate": "2022-05-05 14:21:20",
+    "publisher": "Pulse2",
+    "title": "Home Depot (HD) Kids Workshops Returning To In-Store Programming",
+    "image": "https://images.financialmodelingprep.com/news/home-depot-hd-kids-workshops-returning-to-instore-programming-20220505.jpg",
+    "site": "pulse2.com",
+    "text": "Home Depot Inc (NYSE: HD) is returning the in-store programming in U.S. stores for Kids Workshops. These are the details.",
+    "url": "https://pulse2.com/home-depot-hd-kids-workshops-returning-to-in-store-programming/",
+    "ticker": "HD",
+    "event_date": "2022-05-17",
+    "window_start": "2022-05-03",
+    "window_end": "2022-05-31",
+    "publishedDateET": "2022-05-05T14:21:20-04:00",
+    "date_et": "2022-05-05"
+  },
+  {
+    "symbol": "HD",
+    "publishedDate": "2022-05-05 12:36:06",
+    "publisher": "Market Watch",
+    "title": "All 30 Dow stocks fall, with Home Depot and UnitedHealth stocks the biggest point drags",
+    "image": "https://images.financialmodelingprep.com/news/all-30-dow-stocks-fall-with-home-depot-and-20220505.jpg",
+    "site": "marketwatch.com",
+    "text": "The 1,000-point plunge in the Dow Jones Industrial Average DJIA, -3.23% is unanimous, with all 30 components losing ground. The biggest drags on the Dow were shares of Home Depot Inc. HD, -5.18% , which tumbled $14.97 (4.8%), and UnitedHealth Group Inc. INC, +0.05% , which dropped $14.18 (2.8%), to shave about a combined 192 points off the Dow's price.",
+    "url": "https://www.marketwatch.com/story/all-30-dow-stocks-fall-with-home-depot-and-unitedhealth-stocks-the-biggest-point-drags-2022-05-05",
+    "ticker": "HD",
+    "event_date": "2022-05-17",
+    "window_start": "2022-05-03",
+    "window_end": "2022-05-31",
+    "publishedDateET": "2022-05-05T12:36:06-04:00",
+    "date_et": "2022-05-05"
+  },
+  {
+    "symbol": "HD",
+    "publishedDate": "2022-05-05 11:45:00",
+    "publisher": "The Motley Fool",
+    "title": "How Will Higher Interest Rates Affect Home Depot?",
+    "image": "https://images.financialmodelingprep.com/news/how-will-higher-interest-rates-affect-home-depot-20220505.jpg",
+    "site": "fool.com",
+    "text": "Regardless of what the economy is doing, it's always hard to count this company out.",
+    "url": "https://www.fool.com/investing/2022/05/05/how-will-higher-interest-rates-affect-home-depot/",
+    "ticker": "HD",
+    "event_date": "2022-05-17",
+    "window_start": "2022-05-03",
+    "window_end": "2022-05-31",
+    "publishedDateET": "2022-05-05T11:45:00-04:00",
+    "date_et": "2022-05-05"
+  },
+  {
+    "symbol": "HD",
     "publishedDate": "2022-05-10 16:33:04",
     "publisher": "Zacks Investment Research",
     "title": "Analysts Estimate Home Depot (HD) to Report a Decline in Earnings: What to Look Out for",
@@ -10,7 +90,7 @@
     "url": "https://www.zacks.com/stock/news/1922189/analysts-estimate-home-depot-hd-to-report-a-decline-in-earnings-what-to-look-out-for",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-10T16:33:04-04:00",
     "date_et": "2022-05-10"
@@ -26,7 +106,7 @@
     "url": "https://www.fool.com/investing/2022/05/10/will-home-depot-come-in-for-a-soft-landing-in-2022/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-10T11:45:00-04:00",
     "date_et": "2022-05-10"
@@ -42,7 +122,7 @@
     "url": "https://www.zacks.com/stock/news/1922835/can-inflation-supply-woes-mar-home-depot-s-hd-q1-earnings",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-11T12:48:23-04:00",
     "date_et": "2022-05-11"
@@ -58,7 +138,7 @@
     "url": "https://www.fool.com/investing/2022/05/11/mark-zuckerbergs-metaverse-vision-is-costing-share/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-11T06:45:00-04:00",
     "date_et": "2022-05-11"
@@ -74,7 +154,7 @@
     "url": "https://www.forbes.com/sites/moneyshow/2022/05/12/home-depot--lowes-do-it-yourself-profits/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-12T10:00:11-04:00",
     "date_et": "2022-05-12"
@@ -90,7 +170,7 @@
     "url": "https://www.zacks.com/stock/news/1924160/why-home-depot-hd-could-beat-earnings-estimates-again",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-13T13:32:22-04:00",
     "date_et": "2022-05-13"
@@ -106,7 +186,7 @@
     "url": "https://247wallst.com/investing/2022/05/13/earnings-previews-home-depot-jd-com-walmart/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-13T10:56:20-04:00",
     "date_et": "2022-05-13"
@@ -122,7 +202,7 @@
     "url": "https://investorplace.com/2022/05/3-dividend-stocks-to-buy-for-passive-income-hd-frt-o/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-13T07:30:31-04:00",
     "date_et": "2022-05-13"
@@ -138,7 +218,7 @@
     "url": "https://investorplace.com/2022/05/5-retirement-stocks-to-buy-and-hold-for-the-rest-of-your-life/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-13T06:30:40-04:00",
     "date_et": "2022-05-13"
@@ -154,7 +234,7 @@
     "url": "https://invezz.com/news/2022/05/14/sell-home-depot-for-a-chance-to-buy-lower-or-after-a-break-above-300/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-14T10:43:44-04:00",
     "date_et": "2022-05-14"
@@ -170,7 +250,7 @@
     "url": "https://investorplace.com/2022/05/7-stocks-reporting-earnings-the-week-of-may-16/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-14T06:29:48-04:00",
     "date_et": "2022-05-14"
@@ -186,7 +266,7 @@
     "url": "https://www.fool.com/investing/2022/05/15/3-things-to-watch-in-the-stock-market-this-week/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-15T07:00:00-04:00",
     "date_et": "2022-05-15"
@@ -202,7 +282,7 @@
     "url": "https://www.zacks.com/stock/news/1925056/markets-tepidly-mixed-ahead-of-big-box-retailer-earnings-wmt-m-hd",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-16T20:18:07-04:00",
     "date_et": "2022-05-16"
@@ -218,7 +298,7 @@
     "url": "https://stockmarket.com/featured/recession-proof-stocks-to-buy-now-4-retail-stocks-to-know-2022-05-16",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-16T16:00:24-04:00",
     "date_et": "2022-05-16"
@@ -234,7 +314,7 @@
     "url": "https://www.zacks.com/stock/news/1924819/retail-etfs-in-focus-ahead-of-big-box-q1-earnings",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-16T12:47:16-04:00",
     "date_et": "2022-05-16"
@@ -250,7 +330,7 @@
     "url": "https://www.zacks.com/stock/news/1924752/should-you-buy-home-depot-hd-ahead-of-earnings",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-16T10:32:12-04:00",
     "date_et": "2022-05-16"
@@ -266,7 +346,7 @@
     "url": "https://www.pymnts.com/news/retail/2022/its-tmi-week-for-retail-as-walmart-target-home-depot-lowes-lead-earnings-parade/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-16T09:54:02-04:00",
     "date_et": "2022-05-16"
@@ -282,7 +362,7 @@
     "url": "https://seekingalpha.com/article/4511420-home-depot-vs-costco-stock-which-is-better-buy",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-16T08:30:00-04:00",
     "date_et": "2022-05-16"
@@ -298,7 +378,7 @@
     "url": "https://www.zacks.com/stock/news/1924541/5-stocks-likely-to-gain-from-earnings-results-this-week",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-16T07:31:07-04:00",
     "date_et": "2022-05-16"
@@ -314,7 +394,7 @@
     "url": "https://www.zacks.com/stock/news/1925628/economic-data-retail-earnings-firming-up-2022",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T19:34:05-04:00",
     "date_et": "2022-05-17"
@@ -330,7 +410,7 @@
     "url": "https://investorplace.com/the-perpetual-money-machine-strategy/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T17:04:02-04:00",
     "date_et": "2022-05-17"
@@ -346,7 +426,7 @@
     "url": "https://www.barrons.com/articles/walmart-and-home-depot-had-different-earnings-quarters-what-that-says-about-consumer-spending-51652811805",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T14:23:00-04:00",
     "date_et": "2022-05-17"
@@ -362,7 +442,7 @@
     "url": "https://seekingalpha.com/article/4512579-home-depot-inc-hd-ceo-ted-decker-on-q1-2022-results-earnings-call-transcript",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T13:03:05-04:00",
     "date_et": "2022-05-17"
@@ -378,7 +458,7 @@
     "url": "https://nypost.com/2022/05/17/home-depot-raises-forecast-despite-slow-spring-inflation/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T12:07:31-04:00",
     "date_et": "2022-05-17"
@@ -394,7 +474,7 @@
     "url": "https://www.zacks.com/stock/news/1925377/retail-sales-improve-overall-wmt-hd-move-different-directions",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T12:02:24-04:00",
     "date_et": "2022-05-17"
@@ -410,7 +490,7 @@
     "url": "https://www.zacks.com/stock/news/1925404/retail-sales-increased-in-april",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T12:02:12-04:00",
     "date_et": "2022-05-17"
@@ -426,7 +506,7 @@
     "url": "https://stockmarket.com/featured/4-e-commerce-stocks-to-watch-in-may-2022-2022-05-17",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T12:01:09-04:00",
     "date_et": "2022-05-17"
@@ -442,7 +522,7 @@
     "url": "https://www.zacks.com/stock/news/1925335/home-depot-hd-rises-on-q1-earnings-sales-beat-upbeat-view",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T10:32:45-04:00",
     "date_et": "2022-05-17"
@@ -458,7 +538,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2022/05/17/strong-quarter-forecast-pushes-home-depot-stock-higher",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T10:14:59-04:00",
     "date_et": "2022-05-17"
@@ -474,7 +554,7 @@
     "url": "https://www.marketbeat.com/originals/beware-the-rebound-in-home-depot/?SNAPI",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T09:23:08-04:00",
     "date_et": "2022-05-17"
@@ -490,7 +570,7 @@
     "url": "https://www.fool.com/investing/2022/05/17/why-home-depot-and-walmart-told-very-different-sto/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T08:59:33-04:00",
     "date_et": "2022-05-17"
@@ -506,7 +586,7 @@
     "url": "https://www.cnn.com/2022/05/17/investing/housing-market-home-depot-earnings/index.html",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T08:51:03-04:00",
     "date_et": "2022-05-17"
@@ -522,7 +602,7 @@
     "url": "https://www.zacks.com/stock/news/1925163/home-depot-hd-q1-earnings-and-revenues-surpass-estimates",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T08:17:03-04:00",
     "date_et": "2022-05-17"
@@ -538,7 +618,7 @@
     "url": "https://www.marketwatch.com/story/dow-earnings-reporters-at-slight-drag-on-prices-as-walmarts-stock-selloff-offsets-home-depots-gain-2022-05-17",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T08:00:39-04:00",
     "date_et": "2022-05-17"
@@ -554,7 +634,7 @@
     "url": "https://www.benzinga.com/news/earnings/22/05/27244926/home-depot-q1-earnings-smashes-estimates",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T07:03:01-04:00",
     "date_et": "2022-05-17"
@@ -570,7 +650,7 @@
     "url": "https://www.foxbusiness.com/markets/home-depot-first-quarter-2022-earnings",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T06:19:43-04:00",
     "date_et": "2022-05-17"
@@ -586,7 +666,7 @@
     "url": "https://www.reuters.com/business/retail-consumer/home-depot-raises-annual-sales-forecast-steady-demand-2022-05-17/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T06:19:00-04:00",
     "date_et": "2022-05-17"
@@ -602,7 +682,7 @@
     "url": "https://www.marketwatch.com/story/home-depot-stock-jumps-after-big-earnings-beat-surprise-same-store-sales-growth-2022-05-17",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T06:09:23-04:00",
     "date_et": "2022-05-17"
@@ -618,7 +698,7 @@
     "url": "https://www.cnbc.com/2022/05/17/home-depot-hd-q1-2022-earnings.html",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-17T05:29:35-04:00",
     "date_et": "2022-05-17"
@@ -634,7 +714,7 @@
     "url": "https://www.zacks.com/commentary/1926247/making-sense-of-target-walmart-and-disappointing-retail-results",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-18T18:48:03-04:00",
     "date_et": "2022-05-18"
@@ -650,7 +730,7 @@
     "url": "https://www.cnbc.com/2022/05/18/what-walmart-target-home-depot-and-lowes-tell-us-about-the-economy.html",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-18T13:39:46-04:00",
     "date_et": "2022-05-18"
@@ -666,7 +746,7 @@
     "url": "https://www.zacks.com/stock/news/1926009/housing-data-cooling-target-lowe-s-mixed-in-q1",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-18T12:02:35-04:00",
     "date_et": "2022-05-18"
@@ -682,7 +762,7 @@
     "url": "https://www.fool.com/investing/2022/05/18/1-surprise-statistic-from-home-depots-earnings-rep/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-18T11:31:38-04:00",
     "date_et": "2022-05-18"
@@ -698,7 +778,7 @@
     "url": "https://investorplace.com/2022/05/7-consumer-stocks-to-buy-and-hold-for-years/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-19T08:52:28-04:00",
     "date_et": "2022-05-19"
@@ -714,7 +794,7 @@
     "url": "https://www.fool.com/investing/2022/05/19/did-home-depot-just-nail-its-last-good-quarter/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-19T07:45:00-04:00",
     "date_et": "2022-05-19"
@@ -730,7 +810,7 @@
     "url": "https://invezz.com/news/2022/05/20/home-depot-has-a-better-outlook-than-lowe-and-target-but-should-you-buy/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-20T17:28:53-04:00",
     "date_et": "2022-05-20"
@@ -746,7 +826,7 @@
     "url": "https://www.marketwatch.com/story/millennial-homeowners-prefer-to-do-renovations-which-could-be-favorable-for-home-depot-and-lowes-data-shows-11653076275",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-20T15:51:00-04:00",
     "date_et": "2022-05-20"
@@ -762,7 +842,7 @@
     "url": "https://www.businessinsider.com/home-depot-photo-tour-explains-success-2022-5",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-20T13:01:44-04:00",
     "date_et": "2022-05-20"
@@ -778,7 +858,7 @@
     "url": "https://www.fool.com/investing/2022/05/20/never-mind-the-pessimism-home-depot-raises-expecta/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-20T11:53:00-04:00",
     "date_et": "2022-05-20"
@@ -794,7 +874,7 @@
     "url": "https://www.fool.com/investing/2022/05/21/is-now-a-good-time-to-buy-stocks/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-21T07:45:00-04:00",
     "date_et": "2022-05-21"
@@ -810,7 +890,7 @@
     "url": "https://www.fool.com/investing/2022/05/21/5-reasons-why-market-turmoil-shouldnt-shake-you/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-21T07:30:00-04:00",
     "date_et": "2022-05-21"
@@ -826,7 +906,7 @@
     "url": "https://www.fool.com/investing/2022/05/23/inflation-a-tale-of-2-retailers-walmart-and-home-d/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-23T14:41:00-04:00",
     "date_et": "2022-05-23"
@@ -842,7 +922,7 @@
     "url": "https://investorplace.com/2022/05/the-7-best-retail-stocks-to-buy-now/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-24T18:47:53-04:00",
     "date_et": "2022-05-24"
@@ -858,7 +938,7 @@
     "url": "https://stockmarket.com/featured/best-stocks-to-watch-this-week-4-retail-stocks-to-know-2022-05-24",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-24T12:30:00-04:00",
     "date_et": "2022-05-24"
@@ -874,7 +954,7 @@
     "url": "https://www.fool.com/investing/2022/05/24/this-dividend-superstar-is-poised-for-a-bull-run-i/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-24T11:23:00-04:00",
     "date_et": "2022-05-24"
@@ -890,7 +970,7 @@
     "url": "https://www.marketwatch.com/story/home-builder-stocks-suffer-unanimous-selloff-after-disappointing-new-home-sales-data-2022-05-24",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-24T10:25:14-04:00",
     "date_et": "2022-05-24"
@@ -906,7 +986,7 @@
     "url": "https://www.fool.com/investing/2022/05/25/100-billion-wiped-off-home-depots-market-cap-shoul/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-25T11:45:00-04:00",
     "date_et": "2022-05-25"
@@ -922,7 +1002,7 @@
     "url": "https://www.fool.com/investing/2022/05/25/heres-how-inflation-is-providing-home-depot-assist/",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-25T11:15:00-04:00",
     "date_et": "2022-05-25"
@@ -938,7 +1018,7 @@
     "url": "https://www.zacks.com/stock/news/1928967/why-home-depot-hd-is-a-top-stock-for-the-long-term",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-25T10:48:26-04:00",
     "date_et": "2022-05-25"
@@ -954,7 +1034,7 @@
     "url": "https://www.zacks.com/stock/news/1930461/wave-of-dismal-q1-earnings-drags-retail-etfs-down",
     "ticker": "HD",
     "event_date": "2022-05-17",
-    "window_start": "2022-05-10",
+    "window_start": "2022-05-03",
     "window_end": "2022-05-31",
     "publishedDateET": "2022-05-27T12:48:42-04:00",
     "date_et": "2022-05-27"

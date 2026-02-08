@@ -1,6 +1,262 @@
 [
   {
     "symbol": "JNJ",
+    "publishedDate": "2021-10-05 06:15:00",
+    "publisher": "The Motley Fool",
+    "title": "Here's What to Do When a Stock You Own Sparks Controversy",
+    "image": "https://images.financialmodelingprep.com/news/heres-what-to-do-when-a-stock-you-own-20211005.jpg",
+    "site": "fool.com",
+    "text": "If you plan ahead, you won't make a costly mistake when there's a kerfuffle.",
+    "url": "https://www.fool.com/investing/2021/10/05/heres-what-to-do-when-a-stock-you-own-sparks-contr/",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-05T06:15:00-04:00",
+    "date_et": "2021-10-05"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-10-05 06:30:00",
+    "publisher": "PRNewsWire",
+    "title": "Johnson & Johnson Announces Submission of Emergency Use Authorization Amendment to the U.S. FDA to Support Booster of its Single-Shot COVID-19 Vaccine",
+    "image": "https://images.financialmodelingprep.com/news/johnson-johnson-announces-submission-of-emergency-use-authorization-amendment-20211005.jpg",
+    "site": "prnewswire.com",
+    "text": "NEW BRUNSWICK, N.J., Oct. 5, 2021 /PRNewswire/ -- Johnson & Johnson (NYSE: JNJ) (the Company) announced it has submitted data to the U.S. Food and Drug Administration (FDA) to support use of a booster shot of the Johnson & Johnson COVID-19 vaccine in individuals 18 years of age and older.",
+    "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-submission-of-emergency-use-authorization-amendment-to-the-us-fda-to-support-booster-of-its-single-shot-covid-19-vaccine-301392683.html",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-05T06:30:00-04:00",
+    "date_et": "2021-10-05"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-10-05 06:42:09",
+    "publisher": "Market Watch",
+    "title": "J&J amends FDA EUA submission for COVID-19 booster with data showing 94% protection against moderate to severe illness",
+    "image": "https://images.financialmodelingprep.com/news/jj-amends-fda-eua-submission-for-covid19-booster-with-20211005.jpg",
+    "site": "marketwatch.com",
+    "text": "Johnson & Johnson JNJ, -0.78% said Tuesday it has submitted an amendment to the emergency use authorization it's seeking from the U.S. Food and Drug Administration for a booster shot of its COVID-19 vaccine with additional data showing it increased protection to 94% against moderate to severe or critical COVID-19 in the U.S.",
+    "url": "https://www.marketwatch.com/story/jj-amends-fda-eua-submission-for-covid-19-booster-with-data-showing-94-protection-against-moderate-to-severe-illness-2021-10-05",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-05T06:42:09-04:00",
+    "date_et": "2021-10-05"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-10-05 07:45:01",
+    "publisher": "Benzinga",
+    "title": "Johnson & Johnson Seeks FDA Emergency Use Nod For COVID-19 Booster Dose",
+    "image": "https://images.financialmodelingprep.com/news/johnson-johnson-seeks-fda-emergency-use-nod-for-covid19-booster-20211005.jpg",
+    "site": "benzinga.com",
+    "text": "Johnson & Johnson (NYSE: JNJ) has submitted data to the FDA seeking emergency use approval of its single-dose COVID-19 vaccine in individuals 18 years of age and older. The submission includes results from the Phase 3 ENSEMBLE 2 study that booster shot at two months provided 94% protection against symptomatic COVID-19 in the U.S.",
+    "url": "https://www.benzinga.com/general/biotech/21/10/23235413/johnson-johnson-seeks-fda-emergency-use-nod-for-covid-19-booster-dose",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-05T07:45:01-04:00",
+    "date_et": "2021-10-05"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-10-05 08:31:00",
+    "publisher": "The Motley Fool",
+    "title": "Believe It or Not, These Stocks Pay You to Own Them",
+    "image": "https://images.financialmodelingprep.com/news/believe-it-or-not-these-stocks-pay-you-to-20211005.jpg",
+    "site": "fool.com",
+    "text": "Ready to get paid to invest?",
+    "url": "https://www.fool.com/investing/2021/10/05/dividend-stocks-pay-you-to-own-them/",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-05T08:31:00-04:00",
+    "date_et": "2021-10-05"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-10-05 08:36:43",
+    "publisher": "Forbes",
+    "title": "Johnson & Johnson Submits Booster Shot Data To FDA For Approval",
+    "image": "https://images.financialmodelingprep.com/news/johnson-johnson-submits-booster-shot-data-to-fda-for-20211005.jpg",
+    "site": "forbes.com",
+    "text": "The company has released data suggesting the second shot offers strong protection against Covid-19.",
+    "url": "https://www.forbes.com/sites/alisondurkee/2021/10/05/johnson--johnson-submits-booster-shot-data-to-fda-for-approval/",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-05T08:36:43-04:00",
+    "date_et": "2021-10-05"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-10-05 09:08:07",
+    "publisher": "New York Post",
+    "title": "Johnson & Johnson seeks emergency approval for COVID booster shot",
+    "image": "https://images.financialmodelingprep.com/news/johnson-johnson-seeks-emergency-approval-for-covid-booster-shot-20211005.jpg",
+    "site": "nypost.com",
+    "text": "Johnson & Johnson has submitted new data to the Food and Drug Administration in the hopes of securing emergency approval of its COVID-19 vaccine booster shot for people 18 and older.",
+    "url": "https://nypost.com/2021/10/05/johnson-johnson-seeks-emergency-approval-for-covid-booster/",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-05T09:08:07-04:00",
+    "date_et": "2021-10-05"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-10-05 12:45:10",
+    "publisher": "Benzinga",
+    "title": "Is Johnson & Johnson's Stock Overvalued Or Undervalued?",
+    "image": "https://images.financialmodelingprep.com/news/is-johnson-johnsons-stock-overvalued-or-undervalued-20211005.jpg",
+    "site": "benzinga.com",
+    "text": "Johnson & Johnson (NYSE: JNJ) shares have lagged the S&P 500 in 2021, generating a year-to-date total return of just 3.6%. Johnson & Johnson has gotten plenty of headlines for its COVID-19 vaccine, but investors may be wondering just how much value is left in the pharma giant's stock?",
+    "url": "https://www.benzinga.com/general/education/21/10/23243315/is-johnson-johnsons-stock-overvalued-or-undervalued",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-05T12:45:10-04:00",
+    "date_et": "2021-10-05"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-10-05 22:12:37",
+    "publisher": "Seeking Alpha",
+    "title": "3 Reasons To Own Johnson & Johnson But Buy These 2 Faster-Growing High-Yield Blue-Chips Today",
+    "image": "https://images.financialmodelingprep.com/news/3-reasons-to-own-johnson-johnson-but-buy-these-20211005.jpg",
+    "site": "seekingalpha.com",
+    "text": "3 Reasons To Own Johnson & Johnson But Buy These 2 Faster-Growing High-Yield Blue-Chips Today",
+    "url": "https://seekingalpha.com/article/4458607-3-reasons-own-johnson-and-johnson-but-buy-2-growing-high-yield-blue-chips-today",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-05T22:12:37-04:00",
+    "date_et": "2021-10-05"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-10-06 11:00:00",
+    "publisher": "PRNewsWire",
+    "title": "Janssen Announces Novel Mechanism of Action that Shows Promise Against Dengue in Data Published in Nature",
+    "image": "https://images.financialmodelingprep.com/news/janssen-announces-novel-mechanism-of-action-that-shows-promise-20211006.jpg",
+    "site": "prnewswire.com",
+    "text": "BEERSE, Belgium, Oct. 6, 2021 /PRNewswire/ -- The Janssen Pharmaceutical Companies of Johnson & Johnson (Janssen) announced today, in collaboration with the KU Leuven Rega Institute and the KU Leuven Centre for Drug Design and Discovery (CD3), the publication of new preclinical data in the journal Nature showing that an early-stage compound with a novel mechanism of action could potentially treat all serotypes of dengue fever and provide a period of protection against acquiring the dengue virus. Janssen is now moving its dengue program into clinical development.",
+    "url": "https://www.prnewswire.com/news-releases/janssen-announces-novel-mechanism-of-action-that-shows-promise-against-dengue-in-data-published-in-nature-301394296.html",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-06T11:00:00-04:00",
+    "date_et": "2021-10-06"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-10-06 19:20:35",
+    "publisher": "Zacks Investment Research",
+    "title": "J&J (JNJ) Seeks FDA Authorization for COVID-19 Booster Jab",
+    "image": "https://images.financialmodelingprep.com/news/jj-jnj-seeks-fda-authorization-for-covid19-booster-jab-20211006.jpg",
+    "site": "zacks.com",
+    "text": "J&J (JNJ) submits data to the FDA to support an authorization for the booster dose of its single-shot COVID-19 vaccine.",
+    "url": "https://www.zacks.com/stock/news/1806387/j-j-jnj-seeks-fda-authorization-for-covid-19-booster-jab",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-06T19:20:35-04:00",
+    "date_et": "2021-10-06"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-10-07 06:35:00",
+    "publisher": "The Motley Fool",
+    "title": "What Do Mix-and-Match Doses Mean for Vaccine Stocks?",
+    "image": "https://images.financialmodelingprep.com/news/what-do-mixandmatch-doses-mean-for-vaccine-stocks-20211007.jpg",
+    "site": "fool.com",
+    "text": "It'll likely push the revenue of vaccine victors even further.",
+    "url": "https://www.fool.com/investing/2021/10/07/what-do-mix-and-match-doses-mean-for-vaccine-stock/",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-07T06:35:00-04:00",
+    "date_et": "2021-10-07"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-10-08 11:43:24",
+    "publisher": "InvestorPlace",
+    "title": "7 Defensive Stocks to Buy and Forget About In Times of Volatility",
+    "image": "https://images.financialmodelingprep.com/news/7-defensive-stocks-to-buy-and-forget-about-in-20211008.jpg",
+    "site": "investorplace.com",
+    "text": "Here's why long-term investors seeking defensive stocks to buy right now may want to consider these top seven options right now. The post 7 Defensive Stocks to Buy and Forget About In Times of Volatility appeared first on InvestorPlace.",
+    "url": "https://investorplace.com/2021/10/7-defensive-stocks-to-buy-and-forget-about-in-times-of-volatility/",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-08T11:43:24-04:00",
+    "date_et": "2021-10-08"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-10-11 11:56:14",
+    "publisher": "CNBC",
+    "title": "U.S. moves closer to clearing Moderna and J&J Covid booster shots this week",
+    "image": "https://images.financialmodelingprep.com/news/us-moves-closer-to-clearing-moderna-and-jj-covid-booster-20211011.jpeg",
+    "site": "cnbc.com",
+    "text": "The FDA's vaccine advisory committee meeting come less than a month after U.S. regulators authorized third Covid shots of Pfizer's vaccine.",
+    "url": "https://www.cnbc.com/2021/10/11/us-moves-closer-to-clearing-moderna-and-jj-covid-booster-shots-this-week.html",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-11T11:56:14-04:00",
+    "date_et": "2021-10-11"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-10-11 12:17:30",
+    "publisher": "Zacks Investment Research",
+    "title": "What Lies Ahead for Dow ETFs in Q3 Earnings?",
+    "image": "https://images.financialmodelingprep.com/news/what-lies-ahead-for-dow-etfs-in-q3-earnings-20211011.jpg",
+    "site": "zacks.com",
+    "text": "With some of the blue-chip companies expected to report an earnings surprise, investors should closely monitor the movement of the Dow ETF.",
+    "url": "https://www.zacks.com/stock/news/1809024/what-lies-ahead-for-dow-etfs-in-q3-earnings",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-11T12:17:30-04:00",
+    "date_et": "2021-10-11"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-10-11 16:45:00",
+    "publisher": "PRNewsWire",
+    "title": "Johnson & Johnson to Participate in the Credit Suisse 30th Annual Healthcare Conference",
+    "image": "https://images.financialmodelingprep.com/news/johnson-johnson-to-participate-in-the-credit-suisse-30th-20211011.jpg",
+    "site": "prnewswire.com",
+    "text": "NEW BRUNSWICK, N.J., Oct. 11, 2021 /PRNewswire/ -- Johnson & Johnson (NYSE: JNJ) will participate virtually in the Credit Suisse 30th Annual Healthcare Conference on Wednesday, November 10 th.",
+    "url": "https://www.prnewswire.com/news-releases/johnson--johnson-to-participate-in-the-credit-suisse-30th-annual-healthcare-conference-301397171.html",
+    "ticker": "JNJ",
+    "event_date": "2021-10-19",
+    "window_start": "2021-10-05",
+    "window_end": "2021-11-02",
+    "publishedDateET": "2021-10-11T16:45:00-04:00",
+    "date_et": "2021-10-11"
+  },
+  {
+    "symbol": "JNJ",
     "publishedDate": "2021-10-12 04:00:00",
     "publisher": "Barron's",
     "title": "FDA Advisory Panel Will Debate J&J and Moderna Boosters This Week",
@@ -10,7 +266,7 @@
     "url": "https://www.barrons.com/articles/fda-advisory-panel-will-debate-j-j-and-moderna-boosters-this-week-51634024674",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-12T04:00:00-04:00",
     "date_et": "2021-10-12"
@@ -26,7 +282,7 @@
     "url": "https://www.prnewswire.com/news-releases/dr-paul-stoffels-vice-chairman-of-the-executive-committee-and-chief-scientific-officer-of-johnson--johnson-to-retire--effective-december-31-2021-301397531.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-12T06:45:00-04:00",
     "date_et": "2021-10-12"
@@ -42,7 +298,7 @@
     "url": "https://www.barrons.com/articles/moderna-jnj-booster-fda-51634024674",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-12T08:13:00-04:00",
     "date_et": "2021-10-12"
@@ -58,7 +314,7 @@
     "url": "https://www.marketwatch.com/story/jjs-stoffels-who-managed-development-of-the-companys-covid-19-shot-is-retiring-2021-10-12",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-12T10:16:03-04:00",
     "date_et": "2021-10-12"
@@ -74,7 +330,7 @@
     "url": "https://www.zacks.com/stock/news/1809640/3-small-biotech-stocks-in-focus-on-world-arthritis-day",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-12T10:58:11-04:00",
     "date_et": "2021-10-12"
@@ -90,7 +346,7 @@
     "url": "https://www.foxbusiness.com/markets/fda-meet-over-moderna-johnson-johnson-vaccine-booster-shots",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-12T11:10:34-04:00",
     "date_et": "2021-10-12"
@@ -106,7 +362,7 @@
     "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-jessica-moore-as-vice-president-of-investor-relations-301398394.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-12T16:15:00-04:00",
     "date_et": "2021-10-12"
@@ -122,7 +378,7 @@
     "url": "https://www.zacks.com/stock/news/1809823/johnson-johnson-jnj-reports-next-week-wall-street-expects-earnings-growth",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-12T16:29:21-04:00",
     "date_et": "2021-10-12"
@@ -138,7 +394,7 @@
     "url": "https://www.zacks.com/stock/news/1809870/johnson-johnson-jnj-dips-more-than-broader-markets-what-you-should-know",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-12T18:48:11-04:00",
     "date_et": "2021-10-12"
@@ -154,7 +410,7 @@
     "url": "https://www.prnewswire.com/news-releases/johnson--johnson-to-host-business-review-highlighting-pharmaceuticals-301398928.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-13T06:45:00-04:00",
     "date_et": "2021-10-13"
@@ -170,7 +426,7 @@
     "url": "https://www.cnbc.com/2021/10/13/jj-covid-booster-shot-fda-scientists-strike-favorable-tone-ahead-of-vote-this-week.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-13T10:19:05-04:00",
     "date_et": "2021-10-13"
@@ -186,7 +442,7 @@
     "url": "https://seekingalpha.com/article/4459712-high-yield-dividend-aristocrats-perfect-for-sinking-markets",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-13T13:43:16-04:00",
     "date_et": "2021-10-13"
@@ -202,7 +458,7 @@
     "url": "https://www.schaeffersresearch.com/content/analysis/2021/10/13/johnson-johnson-gears-up-for-earnings-fda-decision-looms",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-13T14:19:20-04:00",
     "date_et": "2021-10-13"
@@ -218,7 +474,7 @@
     "url": "https://www.forbes.com/sites/carlieporterfield/2021/10/13/fda-says-jj-covid-booster-likely-boosts-immunity-but-evidence-isnt-full-proof/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-13T14:24:06-04:00",
     "date_et": "2021-10-13"
@@ -234,7 +490,7 @@
     "url": "https://www.cnbc.com/2021/10/13/jj-covid-vaccine-recipients-are-better-off-getting-pfizer-or-moderna-booster-nih-study-suggests.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-13T14:29:23-04:00",
     "date_et": "2021-10-13"
@@ -250,7 +506,7 @@
     "url": "https://seekingalpha.com/article/4459771-warren-buffett-loves-these-4-high-yield-dividend-aristocrats-and-so-will-you",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-13T21:48:29-04:00",
     "date_et": "2021-10-13"
@@ -266,7 +522,7 @@
     "url": "https://www.forbes.com/sites/siladityaray/2021/10/14/jj-covid-19-vaccine-recipients-may-benefit-more-from-pfizer-or-moderna-boosters-study-finds/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-14T02:25:32-04:00",
     "date_et": "2021-10-14"
@@ -282,7 +538,7 @@
     "url": "https://www.prnewswire.com/news-releases/johnson--johnson-takes-steps-to-equitably-resolve-all-current-and-future-talc-claims-301400916.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-14T17:55:00-04:00",
     "date_et": "2021-10-14"
@@ -298,7 +554,7 @@
     "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/jj-unit-manage-talc-claims-files-bankruptcy-protection-2021-10-14/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-14T18:15:00-04:00",
     "date_et": "2021-10-14"
@@ -314,7 +570,7 @@
     "url": "https://www.prnewswire.com/news-releases/johnson--johnson-ovarian-cancer-victims-vow-fight-to-stop-jjs-bankruptcy-scheme-301400995.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-14T22:38:00-04:00",
     "date_et": "2021-10-14"
@@ -330,7 +586,7 @@
     "url": "https://www.fool.com/investing/2021/10/15/could-johnson-johnsons-booster-opportunity-be-bett/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-15T06:05:00-04:00",
     "date_et": "2021-10-15"
@@ -346,7 +602,7 @@
     "url": "https://www.proactiveinvestors.co.uk//companies/news/963333/jj-puts-talc-claims-subsidiary-into-bankruptcy-963333.html?SNAPI",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-15T06:15:05-04:00",
     "date_et": "2021-10-15"
@@ -362,7 +618,7 @@
     "url": "https://www.businessinsider.com/insiders-top-healthcare-stories-for-the-week-ending-october-15-2021-10",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-15T08:46:46-04:00",
     "date_et": "2021-10-15"
@@ -378,7 +634,7 @@
     "url": "https://invezz.com/news/2021/10/15/explained-here-why-johnson-johnson-is-setting-a-2-billion-trust/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-15T10:46:09-04:00",
     "date_et": "2021-10-15"
@@ -394,7 +650,7 @@
     "url": "https://247wallst.com/investing/2021/10/15/earnings-previews-halliburton-johnson-johnson-philip-morris-procter-gamble-steel-dynamics/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-15T11:38:58-04:00",
     "date_et": "2021-10-15"
@@ -410,7 +666,7 @@
     "url": "https://www.cnbc.com/2021/10/15/fda-panel-unanimously-recommends-jj-covid-booster-shots-to-millions-of-americans.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-15T13:36:04-04:00",
     "date_et": "2021-10-15"
@@ -426,7 +682,7 @@
     "url": "https://www.marketwatch.com/story/fda-committee-says-its-safe-for-all-adults-who-got-j-js-covid-19-vaccine-to-get-a-booster-11634319561",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-15T13:39:00-04:00",
     "date_et": "2021-10-15"
@@ -442,7 +698,7 @@
     "url": "https://www.forbes.com/sites/jemimamcevoy/2021/10/15/fda-advisory-committee-recommends-booster-shots-of-jj-vaccine-for-people-18-and-older/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-15T13:46:55-04:00",
     "date_et": "2021-10-15"
@@ -458,7 +714,7 @@
     "url": "https://www.businessinsider.com/cdc-jj-vaccine-doesnt-protect-as-well-as-moderna-pfizer-2021-10",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-15T14:17:49-04:00",
     "date_et": "2021-10-15"
@@ -474,7 +730,7 @@
     "url": "https://www.cnet.com/news/fda-panel-recommends-johnson-johnson-covid-booster-for-people-18-and-up/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-15T14:57:00-04:00",
     "date_et": "2021-10-15"
@@ -490,7 +746,7 @@
     "url": "https://www.prnewswire.com/news-releases/johnson--johnson-covid-19-vaccine-booster-shot-unanimously-recommended-for-emergency-use-authorization-by-us-fda-advisory-committee-301401523.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-15T16:11:00-04:00",
     "date_et": "2021-10-15"
@@ -506,7 +762,7 @@
     "url": "https://www.cnbc.com/2021/10/15/scientists-question-fda-on-scant-jj-booster-data-and-speedy-review.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-15T17:04:44-04:00",
     "date_et": "2021-10-15"
@@ -522,7 +778,7 @@
     "url": "https://www.businessinsider.com/jj-boosters-likely-to-be-authorized-for-all-2021-10",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-15T17:05:12-04:00",
     "date_et": "2021-10-15"
@@ -538,7 +794,7 @@
     "url": "https://www.zacks.com/commentary/1811129/into-the-heart-of-q3-earnings-season",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-15T18:45:03-04:00",
     "date_et": "2021-10-15"
@@ -554,7 +810,7 @@
     "url": "https://www.fool.com/investing/2021/10/16/safest-stocks-to-buy-if-theres-stock-market-crash/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-16T05:51:00-04:00",
     "date_et": "2021-10-16"
@@ -570,7 +826,7 @@
     "url": "https://www.fool.com/investing/2021/10/16/will-johnson-johnson-win-authorization-for-its-cov/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-16T06:01:00-04:00",
     "date_et": "2021-10-16"
@@ -586,7 +842,7 @@
     "url": "https://www.fool.com/investing/2021/10/17/3-dividend-stocks-to-buy-if-the-stock-market-crash/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-17T05:57:00-04:00",
     "date_et": "2021-10-17"
@@ -602,7 +858,7 @@
     "url": "https://invezz.com/news/2021/10/17/should-i-buy-johnson-johnson-shares-ahead-of-third-quarter-earnings-results/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-17T06:56:02-04:00",
     "date_et": "2021-10-17"
@@ -618,7 +874,7 @@
     "url": "https://www.fool.com/investing/2021/10/18/2-top-biotech-stocks-to-buy-in-october/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-18T06:05:00-04:00",
     "date_et": "2021-10-18"
@@ -634,7 +890,7 @@
     "url": "https://www.fool.com/investing/2021/10/18/3-top-dividend-stocks-for-a-solid-portfolio-founda/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-18T06:20:00-04:00",
     "date_et": "2021-10-18"
@@ -650,7 +906,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2021/10/18/will-johnson--johnson-stock-rise-after-q3-results/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-18T06:45:00-04:00",
     "date_et": "2021-10-18"
@@ -666,7 +922,7 @@
     "url": "https://www.businessinsider.com/insiders-top-healthcare-stories-for-october-18-2021-10",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-18T07:53:45-04:00",
     "date_et": "2021-10-18"
@@ -682,7 +938,7 @@
     "url": "https://www.benzinga.com/general/biotech/21/10/23415039/johnson-johnsons-covid-19-booster-dose-wins-fda-adcomm-backing",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-18T08:30:44-04:00",
     "date_et": "2021-10-18"
@@ -698,7 +954,7 @@
     "url": "https://www.fool.com/investing/2021/10/19/why-johnson-johnson-winner-boosters-pfizer-moderna/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T05:52:00-04:00",
     "date_et": "2021-10-19"
@@ -714,7 +970,7 @@
     "url": "https://www.prnewswire.com/news-releases/johnson--johnson-reports-q3-2021-results-301402807.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T06:25:00-04:00",
     "date_et": "2021-10-19"
@@ -730,7 +986,7 @@
     "url": "https://www.reuters.com/business/retail-consumer/johnson-johnson-maintains-2021-sales-forecast-covid-19-vaccine-2021-10-19/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T06:33:00-04:00",
     "date_et": "2021-10-19"
@@ -746,7 +1002,7 @@
     "url": "https://www.cnbc.com/2021/10/19/covid-and-johnson-johnson-jnj-earnings-q3-2021.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T06:44:18-04:00",
     "date_et": "2021-10-19"
@@ -762,7 +1018,7 @@
     "url": "https://www.marketwatch.com/story/jj-beats-profit-estimates-for-latest-quarter-as-sales-fall-short-raises-guidance-2021-10-19",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T06:47:05-04:00",
     "date_et": "2021-10-19"
@@ -778,7 +1034,7 @@
     "url": "https://www.benzinga.com/general/biotech/21/10/23435518/johnson-johnson-shares-gain-after-q3-earnings-beat-wall-street-raises-fy21-guidance",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T07:04:19-04:00",
     "date_et": "2021-10-19"
@@ -794,7 +1050,7 @@
     "url": "https://www.marketwatch.com/story/jjs-covid-19-shot-generated-502-million-in-sales-in-the-third-quarter-2021-10-19",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T07:33:50-04:00",
     "date_et": "2021-10-19"
@@ -810,7 +1066,7 @@
     "url": "https://nypost.com/2021/10/19/johnson-johnson-made-502m-from-covid-vaccine/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T08:50:07-04:00",
     "date_et": "2021-10-19"
@@ -826,7 +1082,7 @@
     "url": "https://invezz.com/news/2021/10/19/johnson-johnson-cfo-defends-sales-miss-in-fiscal-q3/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T09:54:29-04:00",
     "date_et": "2021-10-19"
@@ -842,7 +1098,7 @@
     "url": "https://www.benzinga.com/news/earnings/21/10/23443731/why-johnson-johnson-shares-are-trading-higher-today",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T11:13:22-04:00",
     "date_et": "2021-10-19"
@@ -858,7 +1114,7 @@
     "url": "https://www.zacks.com/stock/news/1812262/johnson-johnson-jnj-q3-earnings-beat-estimates",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T12:03:23-04:00",
     "date_et": "2021-10-19"
@@ -874,7 +1130,7 @@
     "url": "https://seekingalpha.com/article/4460607-johnson-and-johnson-jnj-q3-2021-results-earnings-call-transcript",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T12:41:04-04:00",
     "date_et": "2021-10-19"
@@ -890,7 +1146,7 @@
     "url": "https://www.benzinga.com/markets/21/10/23447987/which-vaccine-stock-will-benefit-most-from-fdas-mix-and-match-approval",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T14:26:45-04:00",
     "date_et": "2021-10-19"
@@ -906,7 +1162,7 @@
     "url": "https://www.benzinga.com/analyst-ratings/analyst-color/21/10/23443010/3-biopharma-stocks-to-watch-following-johnson-johnsons-earnings-beat",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T15:10:23-04:00",
     "date_et": "2021-10-19"
@@ -922,7 +1178,7 @@
     "url": "https://www.fool.com/investing/2021/10/19/why-johnson-johnson-trounced-the-market-today/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T16:54:52-04:00",
     "date_et": "2021-10-19"
@@ -938,7 +1194,7 @@
     "url": "https://invezz.com/news/2021/10/19/should-you-buy-or-sell-jnj-shares-after-delivering-mixed-q3-results/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T18:43:50-04:00",
     "date_et": "2021-10-19"
@@ -954,7 +1210,7 @@
     "url": "https://www.zacks.com/stock/news/1812924/2-blue-chip-tech-stocks-to-buy-before-earnings-and-hold",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-19T18:58:35-04:00",
     "date_et": "2021-10-19"
@@ -970,7 +1226,7 @@
     "url": "https://investorplace.com/2021/10/7-dividend-stocks-to-buy-for-2022-and-hold-forever/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-20T06:00:05-04:00",
     "date_et": "2021-10-20"
@@ -986,7 +1242,7 @@
     "url": "https://www.marketwatch.com/story/people-who-got-j-js-covid-19-shot-will-soon-be-able-to-get-a-booster-which-one-should-they-get-11634755604",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-20T14:46:00-04:00",
     "date_et": "2021-10-20"
@@ -1002,7 +1258,7 @@
     "url": "https://www.cnbc.com/2021/10/20/fda-clears-johnson-johnson-and-moderna-booster-shots-for-millions-of-people.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-20T16:56:44-04:00",
     "date_et": "2021-10-20"
@@ -1018,7 +1274,7 @@
     "url": "https://www.marketwatch.com/story/fda-authorizes-mixing-covid-vaccines-backs-moderna-j-j-boosters-01634763730",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-20T16:59:01-04:00",
     "date_et": "2021-10-20"
@@ -1034,7 +1290,7 @@
     "url": "https://www.businessinsider.com/fda-oks-moderna-covid-19-vaccine-boosters-2021-10",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-20T17:19:21-04:00",
     "date_et": "2021-10-20"
@@ -1050,7 +1306,7 @@
     "url": "https://www.forbes.com/sites/joewalsh/2021/10/20/fda-approves-moderna-and-jj-covid-booster-shots-signs-off-on-mix-and-match-approach---heres-who-is-eligible/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-20T17:37:22-04:00",
     "date_et": "2021-10-20"
@@ -1066,7 +1322,7 @@
     "url": "https://www.cnet.com/health/fda-authorizes-moderna-johnson-johnson-booster-shots-for-many-americans/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-20T18:14:00-04:00",
     "date_et": "2021-10-20"
@@ -1082,7 +1338,7 @@
     "url": "https://www.prnewswire.com/news-releases/johnson--johnson-covid-19-vaccine-booster-shot-authorized-for-emergency-use-by-us-fda-301405196.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-20T18:38:00-04:00",
     "date_et": "2021-10-20"
@@ -1098,7 +1354,7 @@
     "url": "https://www.benzinga.com/general/biotech/21/10/23478842/fda-approves-moderna-johnson-johnson-booster-and-mix-and-match-covid-19-shots",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-21T03:51:51-04:00",
     "date_et": "2021-10-21"
@@ -1114,7 +1370,7 @@
     "url": "https://seekingalpha.com/article/4461011-very-bad-news-dividend-investors-how-to-fix-it",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-21T06:34:05-04:00",
     "date_et": "2021-10-21"
@@ -1130,7 +1386,7 @@
     "url": "https://www.fool.com/investing/2021/10/21/if-i-could-only-own-1-healthcare-stock-this-is-it/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-21T09:25:00-04:00",
     "date_et": "2021-10-21"
@@ -1146,7 +1402,7 @@
     "url": "https://www.zacks.com/stock/news/1814157/fda-approves-jnj-mrna-s-covid-19-boosters-mixing-of-doses",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-21T10:58:04-04:00",
     "date_et": "2021-10-21"
@@ -1162,7 +1418,7 @@
     "url": "https://www.cnbc.com/2021/10/21/cdc-says-these-are-the-most-common-side-effects-people-report-after-getting-moderna-jj-boosters.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-21T11:56:46-04:00",
     "date_et": "2021-10-21"
@@ -1178,7 +1434,7 @@
     "url": "https://investorplace.com/2021/10/7-safe-stocks-to-own-to-hedge-against-inflation/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-21T12:48:37-04:00",
     "date_et": "2021-10-21"
@@ -1194,7 +1450,7 @@
     "url": "https://invezz.com/news/2021/10/21/here-is-why-you-need-to-mix-and-match-moderna-and-jj-covid-19-booster-shots/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-21T13:26:20-04:00",
     "date_et": "2021-10-21"
@@ -1210,7 +1466,7 @@
     "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-quarterly-dividend-for-fourth-quarter-2021-301406101.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-21T14:38:00-04:00",
     "date_et": "2021-10-21"
@@ -1226,7 +1482,7 @@
     "url": "https://www.cnbc.com/2021/10/21/cdc-panel-unanimously-endorses-moderna-covid-booster-shots-for-same-groups-as-pfizers.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-21T17:18:47-04:00",
     "date_et": "2021-10-21"
@@ -1242,7 +1498,7 @@
     "url": "https://www.zacks.com/stock/news/1814654/can-biotech-etfs-gain-from-positive-booster-update",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-21T17:24:02-04:00",
     "date_et": "2021-10-21"
@@ -1258,7 +1514,7 @@
     "url": "https://www.cnet.com/health/medical/cdc-panel-votes-on-booster-recommendations-for-moderna-johnson-johnson-recipients/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-21T17:55:00-04:00",
     "date_et": "2021-10-21"
@@ -1274,7 +1530,7 @@
     "url": "https://www.forbes.com/sites/joewalsh/2021/10/21/cdc-advisors-back-booster-shots-for-moderna-and-jjs-covid-vaccines/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-21T18:13:39-04:00",
     "date_et": "2021-10-21"
@@ -1290,7 +1546,7 @@
     "url": "https://investorplace.com/2021/10/7-of-the-best-dividend-stocks-for-passive-income/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-22T11:01:56-04:00",
     "date_et": "2021-10-22"
@@ -1306,7 +1562,7 @@
     "url": "https://www.reuters.com/article/us-health-coronavirus-boosters/walgreens-u-s-stores-start-administering-moderna-jj-covid-19-booster-idUSKBN2HC1HZ",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-22T11:15:00-04:00",
     "date_et": "2021-10-22"
@@ -1322,7 +1578,7 @@
     "url": "https://www.benzinga.com/news/earnings/21/10/23515633/q3-earnings-report-recap-tsla-nflx-jnj-pg",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-22T15:30:22-04:00",
     "date_et": "2021-10-22"
@@ -1338,7 +1594,7 @@
     "url": "https://www.cnbc.com/2021/10/23/covid-vaccine-boosters-are-now-available-heres-whos-eligible-for-pfizer-moderna-and-jjs-shots-.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-23T08:00:01-04:00",
     "date_et": "2021-10-23"
@@ -1354,7 +1610,7 @@
     "url": "https://www.fool.com/investing/2021/10/25/does-this-news-make-johnson-johnson-a-buy/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-25T06:50:00-04:00",
     "date_et": "2021-10-25"
@@ -1370,7 +1626,7 @@
     "url": "https://www.zacks.com/stock/news/1816288/buy-this-great-high-yield-dividend-stock",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-25T20:00:13-04:00",
     "date_et": "2021-10-25"
@@ -1386,7 +1642,7 @@
     "url": "https://seekingalpha.com/article/4461950-johnson-and-johnson-trading-fair-overvalued-territory",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-26T05:35:05-04:00",
     "date_et": "2021-10-26"
@@ -1402,7 +1658,7 @@
     "url": "https://247wallst.com/investing/2021/10/26/5-dividend-aristocrats-stocks-have-raised-their-dividends-for-almost-60-years/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-26T07:20:34-04:00",
     "date_et": "2021-10-26"
@@ -1418,7 +1674,7 @@
     "url": "https://www.benzinga.com/government/21/10/23566952/johnson-johnson-settles-opioid-claims-in-texas-for-291-8m",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-26T13:55:15-04:00",
     "date_et": "2021-10-26"
@@ -1434,7 +1690,7 @@
     "url": "https://www.zacks.com/stock/news/1817615/healthcare-etfs-in-focus-as-q3-earnings-unfold",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-27T12:58:36-04:00",
     "date_et": "2021-10-27"
@@ -1450,7 +1706,7 @@
     "url": "https://www.cnbc.com/2021/10/27/white-house-1point5-million-in-us-got-moderna-or-jj-covid-booster-in-first-5-days.html",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-27T17:04:19-04:00",
     "date_et": "2021-10-27"
@@ -1466,7 +1722,7 @@
     "url": "https://www.fool.com/investing/2021/10/28/3-pharma-stocks-you-can-buy-and-hold-forever/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-28T06:04:00-04:00",
     "date_et": "2021-10-28"
@@ -1482,7 +1738,7 @@
     "url": "https://www.fool.com/investing/2021/10/28/2-top-stocks-help-investors-crush-inflation/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-28T06:15:00-04:00",
     "date_et": "2021-10-28"
@@ -1498,7 +1754,7 @@
     "url": "https://www.fool.com/investing/2021/10/28/is-this-steady-healthcare-stock-a-buy/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-28T07:01:00-04:00",
     "date_et": "2021-10-28"
@@ -1514,7 +1770,7 @@
     "url": "https://www.reuters.com/article/us-health-coronavirus-vaccines-emergent/exclusive-tens-of-millions-of-jj-covid-19-shots-sit-at-baltimore-factory-sources-idUSKBN2HI1AW",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-28T07:33:00-04:00",
     "date_et": "2021-10-28"
@@ -1530,7 +1786,7 @@
     "url": "https://www.fool.com/investing/2021/10/28/what-investors-liked-about-johnson-johnsons-q3-res/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-28T08:01:00-04:00",
     "date_et": "2021-10-28"
@@ -1546,7 +1802,7 @@
     "url": "https://www.forbes.com/sites/siladityaray/2021/10/28/up-to-50-million-jj-vaccine-doses-reportedly-sitting-unused-in-baltimore-manufacturing-plant/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-28T08:53:38-04:00",
     "date_et": "2021-10-28"
@@ -1562,7 +1818,7 @@
     "url": "https://seekingalpha.com/article/4462320-bargain-alert-2-high-yield-funds-to-buy-now",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-28T09:10:00-04:00",
     "date_et": "2021-10-28"
@@ -1578,7 +1834,7 @@
     "url": "https://seekingalpha.com/article/4462875-fortunes-change-world-report-included-ideal-dividend-dogs",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-28T11:01:24-04:00",
     "date_et": "2021-10-28"
@@ -1594,7 +1850,7 @@
     "url": "https://seekingalpha.com/article/4463450-johnson-johnson-stock-buy-sell",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-29T11:39:01-04:00",
     "date_et": "2021-10-29"
@@ -1610,7 +1866,7 @@
     "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/jj-settles-most-risperdal-lawsuits-with-800-million-expenses-2021-10-30/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-30T09:21:00-04:00",
     "date_et": "2021-10-30"
@@ -1626,7 +1882,7 @@
     "url": "https://www.benzinga.com/news/21/10/23770001/j-j-settles-anti-psychotic-drug-risperdal-lawsuits-with-800-million-in-expenses",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-10-30T14:24:02-04:00",
     "date_et": "2021-10-30"
@@ -1642,7 +1898,7 @@
     "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/jj-costco-settle-lawsuits-over-recalled-sunscreen-2021-11-01/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-11-01T12:21:00-04:00",
     "date_et": "2021-11-01"
@@ -1658,7 +1914,7 @@
     "url": "https://investorplace.com/2021/11/7-stocks-to-set-your-sights-on-as-the-hyperinflation-debate-stirs-up/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-11-02T14:03:40-04:00",
     "date_et": "2021-11-02"
@@ -1674,7 +1930,7 @@
     "url": "https://www.fool.com/investing/2021/11/02/is-johnson-johnson-a-good-covid-stock-to-buy/",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-11-02T15:30:00-04:00",
     "date_et": "2021-11-02"
@@ -1690,7 +1946,7 @@
     "url": "https://seekingalpha.com/article/4464661-endo-win-in-california-but-equity-value-still-question",
     "ticker": "JNJ",
     "event_date": "2021-10-19",
-    "window_start": "2021-10-12",
+    "window_start": "2021-10-05",
     "window_end": "2021-11-02",
     "publishedDateET": "2021-11-02T18:44:37-04:00",
     "date_et": "2021-11-02"

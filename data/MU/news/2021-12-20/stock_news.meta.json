@@ -4,11 +4,39 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2021-12-20",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2021-12-13",
+  "start": "2021-12-06",
   "end": "2022-01-03",
   "chunks": [
+    {
+      "start": "2021-12-06",
+      "end": "2021-12-06"
+    },
+    {
+      "start": "2021-12-07",
+      "end": "2021-12-07"
+    },
+    {
+      "start": "2021-12-08",
+      "end": "2021-12-08"
+    },
+    {
+      "start": "2021-12-09",
+      "end": "2021-12-09"
+    },
+    {
+      "start": "2021-12-10",
+      "end": "2021-12-10"
+    },
+    {
+      "start": "2021-12-11",
+      "end": "2021-12-11"
+    },
+    {
+      "start": "2021-12-12",
+      "end": "2021-12-12"
+    },
     {
       "start": "2021-12-13",
       "end": "2021-12-13"
@@ -105,16 +133,16 @@
   "chunk_days": 0,
   "pad_days": 0,
   "sleep": 0.05,
-  "fetched_total": 62,
-  "kept_total": 62,
+  "fetched_total": 73,
+  "kept_total": 73,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2021-12-13T16:10:05-05:00",
+  "min_publishedDateET": "2021-12-06T12:55:00-05:00",
   "max_publishedDateET": "2022-01-02T09:02:00-05:00",
   "outputs": {
     "raw_json": "data/MU/news/2021-12-20/stock_news.raw.json",
     "jsonl": "data/MU/news/2021-12-20/stock_news.jsonl",
     "csv": "data/MU/news/2021-12-20/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:31:47.047700-05:00",
+  "generated_at": "2026-02-07T19:36:54.729867-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

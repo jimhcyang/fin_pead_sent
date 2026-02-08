@@ -4,13 +4,13 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2024-07-23",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2024-07-16",
+  "start": "2024-07-09",
   "end": "2024-08-06",
   "chunks": [
     {
-      "start": "2024-07-16",
+      "start": "2024-07-09",
       "end": "2024-08-06"
     }
   ],
@@ -21,16 +21,16 @@
   "chunk_days": 0,
   "pad_days": 1,
   "sleep": 0.05,
-  "fetched_total": 358,
-  "kept_total": 334,
+  "fetched_total": 417,
+  "kept_total": 401,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2024-07-16T06:03:04-04:00",
+  "min_publishedDateET": "2024-07-09T05:06:00-04:00",
   "max_publishedDateET": "2024-08-06T20:41:52-04:00",
   "outputs": {
     "raw_json": "data/GOOGL/news/2024-07-23/stock_news.raw.json",
     "jsonl": "data/GOOGL/news/2024-07-23/stock_news.jsonl",
     "csv": "data/GOOGL/news/2024-07-23/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:20:49.118045-05:00",
+  "generated_at": "2026-02-07T19:22:36.402059-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

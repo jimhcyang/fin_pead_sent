@@ -1,6 +1,198 @@
 [
   {
     "symbol": "WMT",
+    "publishedDate": "2023-02-07 06:00:00",
+    "publisher": "Forbes",
+    "title": "The Walmart And Salesforce Partnership Has Benefits Far Beyond The Obvious",
+    "image": "https://images.financialmodelingprep.com/news/the-walmart-and-salesforce-partnership-has-benefits-far-beyond-20230207.jpg",
+    "site": "forbes.com",
+    "text": "For technology borne out of a retailer to work at scale, it needs to scale both inside that retailer itself but also across other retailers, too, and therein lies the hidden beauty within the deal.",
+    "url": "https://www.forbes.com/sites/christopherwalton/2023/02/07/the-walmart-and-salesforce-partnership-has-benefits-far-beyond-the-obvious/",
+    "ticker": "WMT",
+    "event_date": "2023-02-21",
+    "window_start": "2023-02-07",
+    "window_end": "2023-03-07",
+    "publishedDateET": "2023-02-07T06:00:00-05:00",
+    "date_et": "2023-02-07"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2023-02-08 10:44:46",
+    "publisher": "InvestorPlace",
+    "title": "The 3 Best Recession Stocks to Buy BEFORE Hard Times Hit",
+    "image": "https://images.financialmodelingprep.com/news/the-3-best-recession-stocks-to-buy-before-hard-20230208.png",
+    "site": "investorplace.com",
+    "text": "U.S. interest rates are rising, and general economic conditions are becoming very difficult, making it possible that a recession will occur this year. So, investors are increasingly looking toward stocks that perform well during a recession.",
+    "url": "https://investorplace.com/2023/02/the-3-best-recession-stocks-to-buy-before-hard-times-hit-wmt-hd-dis/",
+    "ticker": "WMT",
+    "event_date": "2023-02-21",
+    "window_start": "2023-02-07",
+    "window_end": "2023-03-07",
+    "publishedDateET": "2023-02-08T10:44:46-05:00",
+    "date_et": "2023-02-08"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2023-02-08 14:18:12",
+    "publisher": "Zacks Investment Research",
+    "title": "ROKU Partners With DoorDash to Expand Offerings for Users",
+    "image": "https://images.financialmodelingprep.com/news/roku-partners-with-doordash-to-expand-offerings-for-users-20230208.jpg",
+    "site": "zacks.com",
+    "text": "Roku (ROKU) collaborates with DoorDash, an online food delivery platform, to expand its offerings to viewers, which will get their food delivered at an inexpensive price.",
+    "url": "https://www.zacks.com/stock/news/2051850/roku-partners-with-doordash-to-expand-offerings-for-users",
+    "ticker": "WMT",
+    "event_date": "2023-02-21",
+    "window_start": "2023-02-07",
+    "window_end": "2023-03-07",
+    "publishedDateET": "2023-02-08T14:18:12-05:00",
+    "date_et": "2023-02-08"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2023-02-09 10:34:39",
+    "publisher": "Zacks Investment Research",
+    "title": "Walmart Inc. (WMT) Is a Trending Stock: Facts to Know Before Betting on It",
+    "image": "https://images.financialmodelingprep.com/news/walmart-inc-wmt-is-a-trending-stock-facts-to-20230209.jpg",
+    "site": "zacks.com",
+    "text": "Walmart (WMT) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+    "url": "https://www.zacks.com/stock/news/2052248/walmart-inc-wmt-is-a-trending-stock-facts-to-know-before-betting-on-it",
+    "ticker": "WMT",
+    "event_date": "2023-02-21",
+    "window_start": "2023-02-07",
+    "window_end": "2023-03-07",
+    "publishedDateET": "2023-02-09T10:34:39-05:00",
+    "date_et": "2023-02-09"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2023-02-09 13:46:56",
+    "publisher": "TechXplore",
+    "title": "How a drone from a Tampa Walmart makes deliveries",
+    "image": "https://images.financialmodelingprep.com/news/how-a-drone-from-a-tampa-walmart-makes-deliveries-20230209.jpg",
+    "site": "techxplore.com",
+    "text": "On the edge of Tampa, bordering Pasco County, Matthew Credle prepared a drone to make deliveries from a Walmart parking lot by air.",
+    "url": "https://techxplore.com/news/2023-02-drone-tampa-walmart-deliveries.html",
+    "ticker": "WMT",
+    "event_date": "2023-02-21",
+    "window_start": "2023-02-07",
+    "window_end": "2023-03-07",
+    "publishedDateET": "2023-02-09T13:46:56-05:00",
+    "date_et": "2023-02-09"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2023-02-12 08:15:00",
+    "publisher": "The Motley Fool",
+    "title": "Amazon Just Ceded This Massive Market to Walmart",
+    "image": "https://images.financialmodelingprep.com/news/amazon-just-ceded-this-massive-market-to-walmart-20230212.jpg",
+    "site": "fool.com",
+    "text": "Amazon is raising its free grocery delivery order minimum and closing stores.",
+    "url": "https://www.fool.com/investing/2023/02/12/amazon-just-ceded-this-massive-market-to-walmart/",
+    "ticker": "WMT",
+    "event_date": "2023-02-21",
+    "window_start": "2023-02-07",
+    "window_end": "2023-03-07",
+    "publishedDateET": "2023-02-12T08:15:00-05:00",
+    "date_et": "2023-02-12"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2023-02-12 10:46:00",
+    "publisher": "24/7 Wall Street",
+    "title": "Walmart's Flexes Muscles",
+    "image": "https://images.financialmodelingprep.com/news/walmarts-flexes-muscles-20230212.jpg",
+    "site": "247wallst.com",
+    "text": "Walmart suppliers want more money for their inventory. The costs have risen because of global inflation.",
+    "url": "https://247wallst.com/retail/2023/02/12/walmarts-flexes-muscles/",
+    "ticker": "WMT",
+    "event_date": "2023-02-21",
+    "window_start": "2023-02-07",
+    "window_end": "2023-03-07",
+    "publishedDateET": "2023-02-12T10:46:00-05:00",
+    "date_et": "2023-02-12"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2023-02-13 11:29:18",
+    "publisher": "Forbes",
+    "title": "Walmart Closes Pickup-Only Grocery, But Others Are Just Getting Started",
+    "image": "https://images.financialmodelingprep.com/news/walmart-closes-pickuponly-grocery-but-others-are-just-getting-20230213.jpg",
+    "site": "forbes.com",
+    "text": "Walmart is closing its two pickup- and delivery-only concept stores at a time when upstart concepts like Addie's are drawing investor interest.",
+    "url": "https://www.forbes.com/sites/retailwire/2023/02/13/walmart-closes-pickup-only-grocery-but-others-are-just-getting-started/",
+    "ticker": "WMT",
+    "event_date": "2023-02-21",
+    "window_start": "2023-02-07",
+    "window_end": "2023-03-07",
+    "publishedDateET": "2023-02-13T11:29:18-05:00",
+    "date_et": "2023-02-13"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2023-02-13 18:38:49",
+    "publisher": "Reuters",
+    "title": "Walmart to close three tech hubs - WSJ",
+    "image": "https://images.financialmodelingprep.com/news/walmart-to-close-three-tech-hubs-wsj-20230213.jpg",
+    "site": "reuters.com",
+    "text": "Walmart Inc plans to close three of its U.S. technology hubs and has asked hundreds of workers to relocate to keep their jobs, the Wall Street Journal reported on Monday citing an internal memo.",
+    "url": "https://www.reuters.com/business/retail-consumer/walmart-close-three-tech-hubs-wsj-2023-02-13/",
+    "ticker": "WMT",
+    "event_date": "2023-02-21",
+    "window_start": "2023-02-07",
+    "window_end": "2023-03-07",
+    "publishedDateET": "2023-02-13T18:38:49-05:00",
+    "date_et": "2023-02-13"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2023-02-13 18:52:00",
+    "publisher": "Market Watch",
+    "title": "Walmart closing 3 tech hubs in Austin, Portland, Carlsbad",
+    "image": "https://images.financialmodelingprep.com/news/walmart-closing-3-tech-hubs-in-austin-portland-carlsbad-20230213.jpg",
+    "site": "marketwatch.com",
+    "text": "Walmart Inc. plans to close three of its U.S. technology hubs and require hundreds of workers to relocate to keep their jobs, according to a memo reviewed by The Wall Street Journal. The retailer will also begin to require all its technology workers to come into the office at least two days a week.",
+    "url": "https://www.marketwatch.com/story/walmart-closing-3-tech-hubs-in-austin-portland-carlsbad-6cb50df3",
+    "ticker": "WMT",
+    "event_date": "2023-02-21",
+    "window_start": "2023-02-07",
+    "window_end": "2023-03-07",
+    "publishedDateET": "2023-02-13T18:52:00-05:00",
+    "date_et": "2023-02-13"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2023-02-13 22:38:46",
+    "publisher": "PYMNTS",
+    "title": "Walmart Shuts Curbside-Only Pickup Locations Just as Grocers Ramp Them Up",
+    "image": "https://images.financialmodelingprep.com/news/walmart-shuts-curbsideonly-pickup-locations-just-as-grocers-ramp-20230213.jpg",
+    "site": "pymnts.com",
+    "text": "Walmart is ending a nine-year test of pickup-and-delivery-only locations as the retail giant applies lessons from those sites across its broader retail footprint. In-store and curbside pickup, along with delivery, emerged as the most popular trends to come out of pandemic innovations in contactless ways to retrieve online grocery orders.",
+    "url": "https://www.pymnts.com/walmart/2023/walmart-shuts-curbside-only-pickup-locations-just-as-grocers-ramp-them-up/?SNAPI",
+    "ticker": "WMT",
+    "event_date": "2023-02-21",
+    "window_start": "2023-02-07",
+    "window_end": "2023-03-07",
+    "publishedDateET": "2023-02-13T22:38:46-05:00",
+    "date_et": "2023-02-13"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2023-02-13 23:11:32",
+    "publisher": "GeekWire",
+    "title": "Walmart says Seattle ‘remains core' as retail giant closes 3 tech offices",
+    "image": "https://images.financialmodelingprep.com/news/walmart-says-seattle-remains-core-as-retail-giant-closes-20230213.jpg",
+    "site": "geekwire.com",
+    "text": "Walmart is consolidating its tech office real estate footprint, The Wall Street Journal reported Monday, closing hubs in Austin, Carlsbad, Calif.",
+    "url": "https://www.geekwire.com/2023/walmart-says-seattle-remains-core-as-retail-giant-closes-3-tech-offices/",
+    "ticker": "WMT",
+    "event_date": "2023-02-21",
+    "window_start": "2023-02-07",
+    "window_end": "2023-03-07",
+    "publishedDateET": "2023-02-13T23:11:32-05:00",
+    "date_et": "2023-02-13"
+  },
+  {
+    "symbol": "WMT",
     "publishedDate": "2023-02-14 04:08:00",
     "publisher": "Barron's",
     "title": "Walmart to Close Three Tech Hubs and Relocate Workers",
@@ -10,7 +202,7 @@
     "url": "https://www.barrons.com/articles/walmart-close-tech-hubs-relocate-workers-stock-721f6977",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-14T04:08:00-05:00",
     "date_et": "2023-02-14"
@@ -26,7 +218,7 @@
     "url": "https://www.businesswire.com/news/home/20230214005232/en/Walmart-To-Host-Fourth-Quarter-Earnings-Conference-Call-Feb.-21-2023",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-14T08:30:00-05:00",
     "date_et": "2023-02-14"
@@ -42,7 +234,7 @@
     "url": "https://www.businessinsider.com/walmart-close-tech-hubs-force-workers-move-or-take-severance-2023-2",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-14T10:11:42-05:00",
     "date_et": "2023-02-14"
@@ -58,7 +250,7 @@
     "url": "https://www.investors.com/news/walmart-stock-rises-amid-tech-unit-shakeup-ahead-of-earnings/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-14T10:45:46-05:00",
     "date_et": "2023-02-14"
@@ -74,7 +266,7 @@
     "url": "https://www.foxbusiness.com/lifestyle/walmart-closing-three-tech-hubs-employees-relocate",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-14T13:25:54-05:00",
     "date_et": "2023-02-14"
@@ -90,7 +282,7 @@
     "url": "https://www.zacks.com/stock/news/2054438/walmart-wmt-readies-for-q4-earnings-everything-to-note",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-15T07:31:14-05:00",
     "date_et": "2023-02-15"
@@ -106,7 +298,7 @@
     "url": "https://247wallst.com/investing/2023/02/15/the-10-biggest-companies-reporting-earnings-in-the-fourth-week-of-february-2023/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-15T22:51:03-05:00",
     "date_et": "2023-02-15"
@@ -122,7 +314,7 @@
     "url": "https://www.forbes.com/sites/walterloeb/2023/02/16/instacart-takes-aim-at-amazon-and-walmart/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-16T06:45:00-05:00",
     "date_et": "2023-02-16"
@@ -138,7 +330,7 @@
     "url": "https://stockmarket.com/featured/3-consumer-staples-stocks-to-watch-today-2023-02-16",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-16T10:11:53-05:00",
     "date_et": "2023-02-16"
@@ -154,7 +346,7 @@
     "url": "https://www.zacks.com/stock/news/2055533/why-walmart-wmt-could-beat-earnings-estimates-again",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-16T13:33:13-05:00",
     "date_et": "2023-02-16"
@@ -170,7 +362,7 @@
     "url": "https://www.fool.com/investing/2023/02/17/this-dow-jones-stock-is-a-no-brainer-for-dividend/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-17T08:15:00-05:00",
     "date_et": "2023-02-17"
@@ -186,7 +378,7 @@
     "url": "https://www.investors.com/research/earnings-preview/dow-jones-retail-giants-walmart-home-depot-set-to-report-what-to-expect/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-17T09:57:57-05:00",
     "date_et": "2023-02-17"
@@ -202,7 +394,7 @@
     "url": "https://www.marketwatch.com/story/walmart-target-costco-earnings-on-deck-retail-giants-face-tough-holiday-season-comparison-78cdc5c6",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-17T12:38:00-05:00",
     "date_et": "2023-02-17"
@@ -218,7 +410,7 @@
     "url": "https://www.zacks.com/commentary/2056088/previewing-walmart-target-and-retail-sector-earnings",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-17T15:48:04-05:00",
     "date_et": "2023-02-17"
@@ -234,7 +426,7 @@
     "url": "https://www.zacks.com/stock/news/2056097/should-investors-buy-home-depot-or-walmart-stock-before-earnings",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-17T18:49:12-05:00",
     "date_et": "2023-02-17"
@@ -250,7 +442,7 @@
     "url": "https://www.fool.com/investing/2023/02/18/investor-insight-making-sense-of-the-numbers-compa/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-18T07:45:00-05:00",
     "date_et": "2023-02-18"
@@ -266,7 +458,7 @@
     "url": "https://www.fool.com/investing/2023/02/18/walmart-stock-screaming-buy/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-18T08:45:00-05:00",
     "date_et": "2023-02-18"
@@ -282,7 +474,7 @@
     "url": "https://seekingalpha.com/article/4579821-where-fundamentals-meet-technicals",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-19T08:00:00-05:00",
     "date_et": "2023-02-19"
@@ -298,7 +490,7 @@
     "url": "https://www.cnbc.com/2023/02/19/walmart-home-depot-earnings-preview.html",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-19T08:00:02-05:00",
     "date_et": "2023-02-19"
@@ -314,7 +506,7 @@
     "url": "https://invezz.com/news/2023/02/19/walmart-stock-is-better-than-target-evercore/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-19T13:46:23-05:00",
     "date_et": "2023-02-19"
@@ -330,7 +522,7 @@
     "url": "https://www.foxbusiness.com/markets/walmart-ebay-earnings-fed-minutes-russia-ukraine-invasion-first-anniversary-top-week-ahead",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-19T18:00:17-05:00",
     "date_et": "2023-02-19"
@@ -346,7 +538,7 @@
     "url": "https://seekingalpha.com/article/4579881-walmart-home-depot-companies-announce-dividend-increases-second-half-february",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-19T20:50:11-05:00",
     "date_et": "2023-02-19"
@@ -362,7 +554,7 @@
     "url": "https://seekingalpha.com/article/4579965-mda-breakout-stocks-week-8-february-2023",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-20T07:20:03-05:00",
     "date_et": "2023-02-20"
@@ -378,7 +570,7 @@
     "url": "https://www.fool.com/investing/2023/02/20/3-of-the-safest-dividend-stocks-on-earth/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-20T09:37:00-05:00",
     "date_et": "2023-02-20"
@@ -394,7 +586,7 @@
     "url": "https://www.zacks.com/stock/news/2056273/why-investors-need-to-take-advantage-of-these-2-retail-and-wholesale-stocks-now",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-20T10:32:35-05:00",
     "date_et": "2023-02-20"
@@ -410,7 +602,7 @@
     "url": "https://invezz.com/news/2023/02/20/walmart-earnings-preview-retailer-vulnerable-to-inflation-but-remains-king-of-retail/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-20T14:39:27-05:00",
     "date_et": "2023-02-20"
@@ -426,7 +618,7 @@
     "url": "https://investorplace.com/2023/02/the-7-best-dividend-paying-consumer-staples-stocks/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-20T15:00:08-05:00",
     "date_et": "2023-02-20"
@@ -442,7 +634,7 @@
     "url": "https://www.cnbc.com/2023/02/21/walmart-wmt-earnings-q4-2023.html",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T00:01:01-05:00",
     "date_et": "2023-02-21"
@@ -458,25 +650,9 @@
     "url": "https://www.foxbusiness.com/markets/wall-street-awaits-walmarts-inflation-update",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T06:15:54-05:00",
-    "date_et": "2023-02-21"
-  },
-  {
-    "symbol": "WMT",
-    "publishedDate": "2023-02-21 07:02:00",
-    "publisher": "Business Wire",
-    "title": "Walmart revenue up 7.3% globally with broad-based strength across segments; Walmart U.S. grew comp sales 8.3%, with eCommerce growth of 17%; Q4 FY23 GAAP EPS of $2.32; Adjusted EPS of $1.71; Company provides outlook for Q1 and FY24",
-    "image": "https://images.financialmodelingprep.com/news/walmart-revenue-up-73-globally-with-broadbased-strength-across-20230221.jpg",
-    "site": "businesswire.com",
-    "text": "BENTONVILLE, Ark.--(BUSINESS WIRE)--Walmart Inc. (NYSE: WMT): Fourth-quarter highlights: Walmart delivered strong revenue growth globally with strength in stores and eCommerce. Total revenue was $164.0 billion, up 7.3%, or 7.9% in constant currency. Walmart U.S. comp sales grew 8.3% and 13.9% on a two-year stack. eCommerce growth was 17% and 18% on a two-year stack. Continued to gain market share in grocery. Sam's Club comp sales increased 12.2%, and 22.6% on a two-year stack.",
-    "url": "https://www.businesswire.com/news/home/20230220005308/en/Walmart-revenue-up-7.3-globally-with-broad-based-strength-across-segments-Walmart-U.S.-grew-comp-sales-8.3-with-eCommerce-growth-of-17-Q4-FY23-GAAP-EPS-of-2.32-Adjusted-EPS-of-1.71-Company-provides-outlook-for-Q1-and-FY24/",
-    "ticker": "WMT",
-    "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
-    "window_end": "2023-03-07",
-    "publishedDateET": "2023-02-21T07:02:00-05:00",
     "date_et": "2023-02-21"
   },
   {
@@ -490,7 +666,23 @@
     "url": "https://www.businesswire.com/news/home/20230220005308/en/Walmart-revenue-up-7.3-globally-with-broad-based-strength-across-segments-Walmart-U.S.-grew-comp-sales-8.3-with-eCommerce-growth-of-17-Q4-FY23-GAAP-EPS-of-2.32-Adjusted-EPS-of-1.71-Company-provides-outlook-for-Q1-and-FY24",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
+    "window_end": "2023-03-07",
+    "publishedDateET": "2023-02-21T07:02:00-05:00",
+    "date_et": "2023-02-21"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2023-02-21 07:02:00",
+    "publisher": "Business Wire",
+    "title": "Walmart revenue up 7.3% globally with broad-based strength across segments; Walmart U.S. grew comp sales 8.3%, with eCommerce growth of 17%; Q4 FY23 GAAP EPS of $2.32; Adjusted EPS of $1.71; Company provides outlook for Q1 and FY24",
+    "image": "https://images.financialmodelingprep.com/news/walmart-revenue-up-73-globally-with-broadbased-strength-across-20230221.jpg",
+    "site": "businesswire.com",
+    "text": "BENTONVILLE, Ark.--(BUSINESS WIRE)--Walmart Inc. (NYSE: WMT): Fourth-quarter highlights: Walmart delivered strong revenue growth globally with strength in stores and eCommerce. Total revenue was $164.0 billion, up 7.3%, or 7.9% in constant currency. Walmart U.S. comp sales grew 8.3% and 13.9% on a two-year stack. eCommerce growth was 17% and 18% on a two-year stack. Continued to gain market share in grocery. Sam's Club comp sales increased 12.2%, and 22.6% on a two-year stack.",
+    "url": "https://www.businesswire.com/news/home/20230220005308/en/Walmart-revenue-up-7.3-globally-with-broad-based-strength-across-segments-Walmart-U.S.-grew-comp-sales-8.3-with-eCommerce-growth-of-17-Q4-FY23-GAAP-EPS-of-2.32-Adjusted-EPS-of-1.71-Company-provides-outlook-for-Q1-and-FY24/",
+    "ticker": "WMT",
+    "event_date": "2023-02-21",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T07:02:00-05:00",
     "date_et": "2023-02-21"
@@ -506,7 +698,7 @@
     "url": "https://www.businesswire.com/news/home/20230220005310/en/Walmart-raises-annual-dividend-to-2.28-per-share-marking-50th-consecutive-year-of-dividend-increases/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T07:03:00-05:00",
     "date_et": "2023-02-21"
@@ -522,7 +714,7 @@
     "url": "https://www.businesswire.com/news/home/20230220005310/en/Walmart-raises-annual-dividend-to-2.28-per-share-marking-50th-consecutive-year-of-dividend-increases",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T07:03:00-05:00",
     "date_et": "2023-02-21"
@@ -538,7 +730,7 @@
     "url": "https://www.marketwatch.com/story/walmart-stock-slides-4-5-premarket-as-soft-guidance-offsets-earnings-beat-851b3e92",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T07:18:00-05:00",
     "date_et": "2023-02-21"
@@ -554,7 +746,7 @@
     "url": "https://www.marketwatch.com/story/walmart-raises-quarterly-dividend-by-2-to-57-cents-a-share-e7d855b8",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T07:36:00-05:00",
     "date_et": "2023-02-21"
@@ -570,7 +762,7 @@
     "url": "https://www.foxbusiness.com/markets/walmart-sees-weaker-2023-results-cautious-on-economic-outlook",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T08:31:03-05:00",
     "date_et": "2023-02-21"
@@ -586,7 +778,7 @@
     "url": "https://www.investors.com/news/walmart-stock-falls-on-weak-guidance-but-may-hold-trade-down-upside/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T08:42:37-05:00",
     "date_et": "2023-02-21"
@@ -602,7 +794,7 @@
     "url": "https://247wallst.com/retail/2023/02/21/walmart-and-home-depot-hit-hard/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T09:30:54-05:00",
     "date_et": "2023-02-21"
@@ -618,7 +810,7 @@
     "url": "https://www.foxbusiness.com/markets/walmart-shares-slip-companys-2023-outlook",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T09:35:43-05:00",
     "date_et": "2023-02-21"
@@ -634,7 +826,7 @@
     "url": "https://www.zacks.com/commentary/2056572/comparing-6-e-commerce-stocks-reporting-earnings-this-week",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T09:47:27-05:00",
     "date_et": "2023-02-21"
@@ -650,7 +842,7 @@
     "url": "https://www.zacks.com/stock/news/2056708/walmart-wmt-q4-earnings-and-revenues-beat-estimates",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T09:47:38-05:00",
     "date_et": "2023-02-21"
@@ -666,7 +858,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2023/02/21/walmart-options-fly-off-the-shelves-after-earnings",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T10:08:22-05:00",
     "date_et": "2023-02-21"
@@ -682,7 +874,7 @@
     "url": "https://www.marketbeat.com/originals/what-do-walmarts-q4-results-mean-bad-news-for-the-s-and-p-500/?SNAPI",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T10:26:23-05:00",
     "date_et": "2023-02-21"
@@ -698,7 +890,7 @@
     "url": "https://www.pymnts.com/news/retail/2023/walmart-were-an-at-scale-omnichannel-retailer-thats-naturally-hedged/?SNAPI",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T10:47:38-05:00",
     "date_et": "2023-02-21"
@@ -714,7 +906,7 @@
     "url": "https://www.cnbc.com/2023/02/21/walmart-home-depot-cautious-consumer.html",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T11:04:26-05:00",
     "date_et": "2023-02-21"
@@ -730,7 +922,7 @@
     "url": "https://nypost.com/2023/02/21/dow-plunges-as-walmart-home-depot-forecasts-disappoint/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T11:34:36-05:00",
     "date_et": "2023-02-21"
@@ -746,7 +938,7 @@
     "url": "https://www.proactiveinvestors.ca/companies/news/1006849?SNAPI",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T11:53:54-05:00",
     "date_et": "2023-02-21"
@@ -762,7 +954,7 @@
     "url": "https://www.foxbusiness.com/markets/walmart-curbs-losses-companys-2023-outlook",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T11:55:42-05:00",
     "date_et": "2023-02-21"
@@ -778,7 +970,7 @@
     "url": "https://www.zacks.com/stock/news/2056929/walmart-wmt-reports-q4-earnings-what-key-metrics-have-to-say",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T12:03:19-05:00",
     "date_et": "2023-02-21"
@@ -794,7 +986,7 @@
     "url": "https://www.zacks.com/stock/news/2056926/walmart-home-depot-beat-q4-earnings-sell-off",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T12:03:21-05:00",
     "date_et": "2023-02-21"
@@ -810,7 +1002,7 @@
     "url": "https://www.zacks.com/stock/news/2056927/walmart-wmt-q4-earnings-top-estimates-e-commerce-strong",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T12:03:22-05:00",
     "date_et": "2023-02-21"
@@ -826,7 +1018,7 @@
     "url": "https://invezz.com/news/2023/02/21/buy-walmart-stock-despite-weak-outlook/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T12:05:28-05:00",
     "date_et": "2023-02-21"
@@ -842,7 +1034,7 @@
     "url": "https://seekingalpha.com/article/4580280-walmart-inc-wmt-q4-2023-earnings-call-transcript",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T12:31:05-05:00",
     "date_et": "2023-02-21"
@@ -858,7 +1050,7 @@
     "url": "https://nypost.com/2023/02/21/walmart-cautious-about-fiscal-year-after-strong-q4-earnings/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T12:41:41-05:00",
     "date_et": "2023-02-21"
@@ -874,7 +1066,7 @@
     "url": "https://www.businessinsider.com/walmart-home-depot-issue-warnings-for-american-consumer-2023-2",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T13:29:03-05:00",
     "date_et": "2023-02-21"
@@ -890,7 +1082,7 @@
     "url": "https://www.zacks.com/stock/news/2057010/retail-etfs-in-focus-as-big-box-q4-earnings-unfold",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T13:33:17-05:00",
     "date_et": "2023-02-21"
@@ -906,7 +1098,7 @@
     "url": "https://www.forbes.com/sites/retailwire/2023/02/21/is-walmarts-loss-leading-egg-scapade-a-winner/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T14:15:31-05:00",
     "date_et": "2023-02-21"
@@ -922,7 +1114,7 @@
     "url": "https://www.zacks.com/stock/news/2057061/week-ahead-retail-earnings-berkshire-hathaway-and-time-to-buy-nvidia-stock",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T15:03:08-05:00",
     "date_et": "2023-02-21"
@@ -938,7 +1130,7 @@
     "url": "https://stockmarket.com/featured/good-stocks-to-invest-in-right-now-2-consumer-staples-stocks-to-watch-2023-02-21",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T15:46:25-05:00",
     "date_et": "2023-02-21"
@@ -954,7 +1146,7 @@
     "url": "https://www.forbes.com/sites/anthonytellez/2023/02/21/walmart-home-depot-here-are-the-major-companies-raising-employee-wages-in-2023/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T16:19:25-05:00",
     "date_et": "2023-02-21"
@@ -970,7 +1162,7 @@
     "url": "https://www.zacks.com/stock/news/2057088/how-do-these-2-retail-giants-shape-up-heading-into-earnings",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T18:49:28-05:00",
     "date_et": "2023-02-21"
@@ -986,7 +1178,7 @@
     "url": "https://www.zacks.com/commentary/2057076/e-commerce-earnings-time-to-buy-these-3-stocks",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T18:49:30-05:00",
     "date_et": "2023-02-21"
@@ -1002,7 +1194,7 @@
     "url": "https://www.foxbusiness.com/economy/walmart-executives-offer-observations-food-inflation",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T19:10:58-05:00",
     "date_et": "2023-02-21"
@@ -1018,7 +1210,7 @@
     "url": "https://www.cnbc.com/2023/02/21/walmart-ceo-doug-mcmillon-fighting-inflation.html",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-21T20:33:44-05:00",
     "date_et": "2023-02-21"
@@ -1034,7 +1226,7 @@
     "url": "https://www.fool.com/investing/2023/02/22/did-walmarts-dividend-just-become-more-attractive/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-22T08:20:00-05:00",
     "date_et": "2023-02-22"
@@ -1050,7 +1242,7 @@
     "url": "https://investorplace.com/2023/02/cost-wmt-hd-the-3-best-dividend-paying-retail-stocks-to-buy-now/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-22T08:42:07-05:00",
     "date_et": "2023-02-22"
@@ -1066,7 +1258,7 @@
     "url": "https://www.forbes.com/sites/qai/2023/02/22/home-depot-earnings-and-walmart-earnings-may-signal-trouble-for-retail-giants/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-22T10:14:09-05:00",
     "date_et": "2023-02-22"
@@ -1082,7 +1274,7 @@
     "url": "https://www.cnbc.com/2023/02/22/dicks-sporting-goods-buys-moosejaw-walmart.html",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-22T11:15:01-05:00",
     "date_et": "2023-02-22"
@@ -1098,7 +1290,7 @@
     "url": "https://www.prnewswire.com/news-releases/dicks-sporting-goods-to-acquire-moosejaw-301753328.html",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-22T11:20:00-05:00",
     "date_et": "2023-02-22"
@@ -1114,7 +1306,7 @@
     "url": "https://www.marketwatch.com/story/dicks-sporting-goods-to-buy-moosejaw-from-walmart-6eab6633",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-22T11:45:00-05:00",
     "date_et": "2023-02-22"
@@ -1130,7 +1322,7 @@
     "url": "https://invezz.com/news/2023/02/22/dicks-sporting-goods-buying-moosejaw/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-22T12:37:33-05:00",
     "date_et": "2023-02-22"
@@ -1146,7 +1338,7 @@
     "url": "https://www.zacks.com/stock/news/2057571/crrfy-or-wmt-which-is-the-better-value-stock-right-now",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-22T12:48:23-05:00",
     "date_et": "2023-02-22"
@@ -1162,7 +1354,7 @@
     "url": "https://www.marketwatch.com/story/walmart-is-getting-more-popular-with-higher-income-shoppers-f180decd",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-22T13:31:00-05:00",
     "date_et": "2023-02-22"
@@ -1178,7 +1370,7 @@
     "url": "https://investorplace.com/2023/02/dks-stock-alert-dicks-sporting-goods-acquires-moosejaw-from-walmart/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-22T13:56:17-05:00",
     "date_et": "2023-02-22"
@@ -1194,7 +1386,7 @@
     "url": "https://www.foxbusiness.com/markets/walmart-sells-moosejaw-dicks-sporting-goods",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-22T14:50:47-05:00",
     "date_et": "2023-02-22"
@@ -1210,7 +1402,7 @@
     "url": "https://www.forbes.com/sites/anafaguy/2023/02/22/delivery-wars-target-will-spend-100-million-to-expand-next-day-delivery-and-compete-with-amazon-and-walmart/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-22T15:30:22-05:00",
     "date_et": "2023-02-22"
@@ -1226,7 +1418,7 @@
     "url": "https://www.businessinsider.com/walmart-selling-moosejaw-outdoor-brand-to-dicks-sporting-goods-2023-2",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-22T15:51:44-05:00",
     "date_et": "2023-02-22"
@@ -1242,7 +1434,7 @@
     "url": "https://www.pymnts.com/acquisitions/2023/dicks-snaps-up-walmarts-moosejaw-to-expand-outdoor-offerings/?SNAPI",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-22T17:01:39-05:00",
     "date_et": "2023-02-22"
@@ -1258,7 +1450,7 @@
     "url": "https://www.zacks.com/commentary/2057814/exploring-the-retail-sector-and-looking-ahead-to-2023-earnings",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-22T20:19:09-05:00",
     "date_et": "2023-02-22"
@@ -1274,7 +1466,7 @@
     "url": "https://techcrunch.com/2023/02/23/walmart-sells-e-commerce-outdoor-retailer-moosejaw/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-23T11:26:02-05:00",
     "date_et": "2023-02-23"
@@ -1290,7 +1482,7 @@
     "url": "https://www.zacks.com/stock/news/2058491/2-retail-stocks-to-consider-buying-before-earnings",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-23T21:04:09-05:00",
     "date_et": "2023-02-23"
@@ -1306,7 +1498,7 @@
     "url": "https://www.marketbeat.com/originals/what-are-consumer-staples-stocks/?SNAPI",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-24T12:01:34-05:00",
     "date_et": "2023-02-24"
@@ -1322,7 +1514,7 @@
     "url": "https://www.businessinsider.com/costco-first-walmart-last-in-customer-satisfaction-survey-results-2023-2",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-24T14:10:16-05:00",
     "date_et": "2023-02-24"
@@ -1338,7 +1530,7 @@
     "url": "https://www.zacks.com/commentary/2058948/breaking-down-retail-earnings-and-consumer-spending-trends",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-24T15:49:05-05:00",
     "date_et": "2023-02-24"
@@ -1354,7 +1546,7 @@
     "url": "https://www.gurufocus.com/news/1957424/hillman-a-good-moat-at-a-high-price",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-24T18:30:02-05:00",
     "date_et": "2023-02-24"
@@ -1370,7 +1562,7 @@
     "url": "https://www.forbes.com/sites/shelleykohan/2023/02/25/walmart-amazon-and-the-home-depot-agree-consumer-spending-will-slow-in-2023/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-25T08:00:00-05:00",
     "date_et": "2023-02-25"
@@ -1386,7 +1578,7 @@
     "url": "https://www.fool.com/investing/2023/02/26/walmart-has-a-warning-for-dividend-stock-investors/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-26T05:13:00-05:00",
     "date_et": "2023-02-26"
@@ -1402,7 +1594,7 @@
     "url": "https://www.fool.com/investing/2023/02/26/1-growth-area-that-could-make-walmart-a-big-winner/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-26T07:25:00-05:00",
     "date_et": "2023-02-26"
@@ -1418,7 +1610,7 @@
     "url": "https://www.fool.com/investing/2023/02/26/walmart-is-beating-amazon-and-costco-where-it-coun/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-26T08:25:00-05:00",
     "date_et": "2023-02-26"
@@ -1434,7 +1626,7 @@
     "url": "https://seekingalpha.com/article/4582218-mda-breakout-stocks-week-9-march-2023",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-26T09:37:33-05:00",
     "date_et": "2023-02-26"
@@ -1450,7 +1642,7 @@
     "url": "https://www.fool.com/investing/2023/02/26/walmart-and-home-depot-keep-their-estimates-conser/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-26T10:01:00-05:00",
     "date_et": "2023-02-26"
@@ -1466,7 +1658,7 @@
     "url": "https://www.cnbc.com/2023/02/26/cant-figure-out-economy-walmart-home-depot-are-having-trouble-too.html",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-26T10:12:46-05:00",
     "date_et": "2023-02-26"
@@ -1482,7 +1674,7 @@
     "url": "https://www.cnbc.com/2023/02/26/top-wall-street-analysts-say-buy-walmart-crocs.html",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-26T10:19:04-05:00",
     "date_et": "2023-02-26"
@@ -1498,7 +1690,7 @@
     "url": "https://www.pymnts.com/news/retail/2023/why-the-amazon-walmart-retail-battle-wont-be-fought-in-the-grocery-aisle/?SNAPI",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-27T07:00:43-05:00",
     "date_et": "2023-02-27"
@@ -1514,7 +1706,7 @@
     "url": "https://www.zacks.com/stock/news/2059157/best-performing-etfs-of-last-week",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-27T09:02:13-05:00",
     "date_et": "2023-02-27"
@@ -1530,7 +1722,7 @@
     "url": "https://www.gurufocus.com/news/1957711/docebo-a-rare-profitable-unicorn",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-27T11:47:07-05:00",
     "date_et": "2023-02-27"
@@ -1546,7 +1738,7 @@
     "url": "https://www.marketbeat.com/originals/want-monthly-income-heres-3-dividend-stocks-that-pay-monthly/?SNAPI",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-28T07:23:53-05:00",
     "date_et": "2023-02-28"
@@ -1562,7 +1754,7 @@
     "url": "https://www.businesswire.com/news/home/20230228005402/en/Walmart-and-CareSource-Enter-Agreement-to-Address-Health-Disparities/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-28T08:00:00-05:00",
     "date_et": "2023-02-28"
@@ -1578,7 +1770,7 @@
     "url": "https://www.businesswire.com/news/home/20230228005402/en/Walmart-and-CareSource-Enter-Agreement-to-Address-Health-Disparities",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-28T08:00:00-05:00",
     "date_et": "2023-02-28"
@@ -1594,7 +1786,7 @@
     "url": "https://www.businesswire.com/news/home/20230227005889/en/Real-Time-Intelligent-Retargeting-Launches-on-Sam%E2%80%99s-Club-Member-Access-Platform-MAP",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-28T08:22:00-05:00",
     "date_et": "2023-02-28"
@@ -1610,7 +1802,7 @@
     "url": "https://www.businesswire.com/news/home/20230228005458/en/Walmart-to-Participate-in-Raymond-James-Institutional-Investors-Conference/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-28T08:30:00-05:00",
     "date_et": "2023-02-28"
@@ -1626,7 +1818,7 @@
     "url": "https://www.businesswire.com/news/home/20230228005458/en/Walmart-to-Participate-in-Raymond-James-Institutional-Investors-Conference",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-28T08:30:00-05:00",
     "date_et": "2023-02-28"
@@ -1642,7 +1834,7 @@
     "url": "https://investorplace.com/2023/02/amc-stock-alert-amc-entertainment-launches-popcorn-line-at-walmart/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-28T09:38:46-05:00",
     "date_et": "2023-02-28"
@@ -1658,7 +1850,7 @@
     "url": "https://www.marketwatch.com/story/amc-stock-keeps-rallying-after-popcorn-collaboration-with-walmart-announced-ahead-of-earnings-ba5f046e",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-28T09:39:00-05:00",
     "date_et": "2023-02-28"
@@ -1674,7 +1866,7 @@
     "url": "https://www.businessinsider.com/walmart-warns-workers-dont-share-sensitive-information-chatgpt-generative-ai-2023-2",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-28T11:32:28-05:00",
     "date_et": "2023-02-28"
@@ -1690,7 +1882,7 @@
     "url": "https://invezz.com/news/2023/02/28/walmart-banks-more-revenue-than-apple-and-home-depot-combined-but-warns-of-tougher-times-ahead/?SNAPI",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-28T12:48:29-05:00",
     "date_et": "2023-02-28"
@@ -1706,7 +1898,7 @@
     "url": "https://www.businesswire.com/news/home/20230228006155/en/Walmart-and-Citi-Introduce-the-Bridge-built-by%C2%A0Citi%C2%AE-platform-to-Walmart-Suppliers",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-28T13:00:00-05:00",
     "date_et": "2023-02-28"
@@ -1722,7 +1914,7 @@
     "url": "https://www.businesswire.com/news/home/20230228006155/en/Walmart-and-Citi-Introduce-the-Bridge-built-by%C2%A0Citi%C2%AE-platform-to-Walmart-Suppliers/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-28T13:00:00-05:00",
     "date_et": "2023-02-28"
@@ -1738,7 +1930,7 @@
     "url": "https://investorplace.com/2023/02/why-amc-stock-is-heating-up-ahead-of-earnings/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-28T13:14:30-05:00",
     "date_et": "2023-02-28"
@@ -1754,7 +1946,7 @@
     "url": "https://www.zacks.com/stock/news/2060049/peering-into-this-week-s-retail-earnings",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-02-28T19:35:22-05:00",
     "date_et": "2023-02-28"
@@ -1770,7 +1962,7 @@
     "url": "https://www.marketbeat.com/originals/what-are-blue-chip-stocks/?SNAPI",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-01T07:01:12-05:00",
     "date_et": "2023-03-01"
@@ -1786,7 +1978,7 @@
     "url": "https://www.marketbeat.com/originals/which-dollar-store-if-any-is-worth-your-investment-dollars/?SNAPI",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-01T07:01:13-05:00",
     "date_et": "2023-03-01"
@@ -1802,7 +1994,7 @@
     "url": "https://www.zacks.com/stock/news/2060377/walmart-inc-wmt-is-attracting-investor-attention-here-is-what-you-should-know",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-01T10:32:39-05:00",
     "date_et": "2023-03-01"
@@ -1818,7 +2010,7 @@
     "url": "https://www.forbes.com/sites/retailwire/2023/03/01/what-dicks-can-do-with-moosejaw-that-walmart-didnt/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-01T10:56:32-05:00",
     "date_et": "2023-03-01"
@@ -1834,7 +2026,7 @@
     "url": "https://investorplace.com/2023/03/weekly-recap-investors-shift-gears-as-the-years-worst-week-unfolds/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-01T12:53:53-05:00",
     "date_et": "2023-03-01"
@@ -1850,7 +2042,7 @@
     "url": "https://www.zacks.com/commentary/2060631/q4-earnings-season-is-winding-down-let-s-see-what-s-next",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-01T19:34:31-05:00",
     "date_et": "2023-03-01"
@@ -1866,7 +2058,7 @@
     "url": "https://www.zacks.com/commentary/2060665/q4-earnings-season-is-winding-down-let-s-see-what-s-next",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-01T19:34:36-05:00",
     "date_et": "2023-03-01"
@@ -1882,7 +2074,7 @@
     "url": "https://www.fool.com/investing/2023/03/02/like-walmart-target-is-solving-one-of-its-biggest/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-02T05:04:00-05:00",
     "date_et": "2023-03-02"
@@ -1898,7 +2090,7 @@
     "url": "https://www.forbes.com/sites/brucejapsen/2023/03/02/walmart-to-double-health-clinic-footprint-next-year-as-amazon-and-rivals-buy-doctor-offices/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-02T09:30:00-05:00",
     "date_et": "2023-03-02"
@@ -1914,7 +2106,7 @@
     "url": "https://www.zacks.com/stock/news/2061096/retail-etfs-losing-shine-post-q4-earnings",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-02T12:48:15-05:00",
     "date_et": "2023-03-02"
@@ -1930,7 +2122,7 @@
     "url": "https://www.pymnts.com/healthcare/2023/walmart-aims-to-open-75-health-centers-by-2025/?SNAPI",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-02T13:23:10-05:00",
     "date_et": "2023-03-02"
@@ -1946,7 +2138,7 @@
     "url": "https://www.pymnts.com/news/retail/2023/sams-club-logistics-push-gives-walmart-more-firepower-in-grocery-wars/?SNAPI",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-02T16:24:44-05:00",
     "date_et": "2023-03-02"
@@ -1962,7 +2154,7 @@
     "url": "https://www.investors.com/stock-lists/stock-spotlight/this-semiconductor-stock-sees-earnings-soar-with-further-growth-to-come/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-02T16:29:03-05:00",
     "date_et": "2023-03-02"
@@ -1978,7 +2170,7 @@
     "url": "https://247wallst.com/business/2023/03/04/walmart-moves-into-health-business/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-04T11:15:32-05:00",
     "date_et": "2023-03-04"
@@ -1994,7 +2186,7 @@
     "url": "https://seekingalpha.com/article/4584680-mda-breakout-stocks-week-10-march-2023-high-frequency-gainers-give-you-edge",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-05T06:56:46-05:00",
     "date_et": "2023-03-05"
@@ -2010,7 +2202,7 @@
     "url": "https://stockmarket.com/featured/3-dow-jones-industrial-average-stocks-to-watch-in-march-2023-2023-03-06",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-06T14:31:03-05:00",
     "date_et": "2023-03-06"
@@ -2026,7 +2218,7 @@
     "url": "https://www.marketbeat.com/originals/pdd-holdings-deserves-a-spot-on-your-watchlist-as-china-reopens/?SNAPI",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-07T07:31:23-05:00",
     "date_et": "2023-03-07"
@@ -2042,7 +2234,7 @@
     "url": "https://www.fool.com/investing/2023/03/07/is-walmart-stock-a-yellow-flag-for-a-coming-market/",
     "ticker": "WMT",
     "event_date": "2023-02-21",
-    "window_start": "2023-02-14",
+    "window_start": "2023-02-07",
     "window_end": "2023-03-07",
     "publishedDateET": "2023-03-07T10:07:00-05:00",
     "date_et": "2023-03-07"

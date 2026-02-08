@@ -4,11 +4,39 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2024-09-09",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2024-09-02",
+  "start": "2024-08-26",
   "end": "2024-09-23",
   "chunks": [
+    {
+      "start": "2024-08-26",
+      "end": "2024-08-26"
+    },
+    {
+      "start": "2024-08-27",
+      "end": "2024-08-27"
+    },
+    {
+      "start": "2024-08-28",
+      "end": "2024-08-28"
+    },
+    {
+      "start": "2024-08-29",
+      "end": "2024-08-29"
+    },
+    {
+      "start": "2024-08-30",
+      "end": "2024-08-30"
+    },
+    {
+      "start": "2024-08-31",
+      "end": "2024-08-31"
+    },
+    {
+      "start": "2024-09-01",
+      "end": "2024-09-01"
+    },
     {
       "start": "2024-09-02",
       "end": "2024-09-02"
@@ -105,16 +133,16 @@
   "chunk_days": 0,
   "pad_days": 0,
   "sleep": 0.05,
-  "fetched_total": 145,
-  "kept_total": 145,
+  "fetched_total": 147,
+  "kept_total": 147,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2024-09-03T16:00:00-04:00",
+  "min_publishedDateET": "2024-08-27T08:00:00-04:00",
   "max_publishedDateET": "2024-09-23T06:25:39-04:00",
   "outputs": {
     "raw_json": "data/ORCL/news/2024-09-09/stock_news.raw.json",
     "jsonl": "data/ORCL/news/2024-09-09/stock_news.jsonl",
     "csv": "data/ORCL/news/2024-09-09/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:30:36.291967-05:00",
+  "generated_at": "2026-02-07T19:35:07.797577-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

@@ -7,7 +7,7 @@
   "buffer_after_months": 1,
   "download_start": "2019-10-01",
   "download_end": "2026-02-01",
-  "created_at_local": "2026-02-07T18:35:05.529543",
+  "created_at_local": "2026-02-07T19:50:22.703777",
   "schema": [
     "date",
     "adj_close"

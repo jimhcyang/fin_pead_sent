@@ -1,6 +1,182 @@
 [
   {
     "symbol": "MU",
+    "publishedDate": "2021-12-06 12:55:00",
+    "publisher": "Market Watch",
+    "title": "The Ratings Game: Micron dubbed a ‘best idea' at Cowen on potential to outperform chip sector",
+    "image": "https://images.financialmodelingprep.com/news/the-ratings-game-micron-dubbed-a-best-idea-at-20211206.jpg",
+    "site": "marketwatch.com",
+    "text": "Optimism continues to build for Micron Technology Inc., with a Cowen & Co. analyst dubbing the stock his “best idea” among large chip stocks heading into next year.",
+    "url": "https://www.marketwatch.com/story/micron-dubbed-a-best-idea-at-cowen-on-potential-to-outperform-chip-sector-11638813308",
+    "ticker": "MU",
+    "event_date": "2021-12-20",
+    "window_start": "2021-12-06",
+    "window_end": "2022-01-03",
+    "publishedDateET": "2021-12-06T12:55:00-05:00",
+    "date_et": "2021-12-06"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2021-12-06 09:00:00",
+    "publisher": "GlobeNewsWire",
+    "title": "Micron Releases 2021 ‘For All' Report, Charting Significant Achievements Across Global Company Commitments to Diversity, Equality and Inclusion",
+    "image": "https://images.financialmodelingprep.com/news/micron-releases-2021-for-all-report-charting-significant-achievements-20211206.jpg",
+    "site": "globenewswire.com",
+    "text": "Sharpened focus on accountability and transparency reflected in fourth-annual report and first-time disclosure of EEO-1 diversity and pay data Sharpened focus on accountability and transparency reflected in fourth-annual report and first-time disclosure of EEO-1 diversity and pay data",
+    "url": "https://www.globenewswire.com/news-release/2021/12/06/2346651/14450/en/Micron-Releases-2021-For-All-Report-Charting-Significant-Achievements-Across-Global-Company-Commitments-to-Diversity-Equality-and-Inclusion.html",
+    "ticker": "MU",
+    "event_date": "2021-12-20",
+    "window_start": "2021-12-06",
+    "window_end": "2022-01-03",
+    "publishedDateET": "2021-12-06T09:00:00-05:00",
+    "date_et": "2021-12-06"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2021-12-06 09:00:00",
+    "publisher": "GlobeNewsWire",
+    "title": "Micron to Open State-of-the-Art Memory Design Center in Atlanta",
+    "image": "https://images.financialmodelingprep.com/news/micron-to-open-stateoftheart-memory-design-center-in-atlanta-20211206.jpg",
+    "site": "globenewswire.com",
+    "text": "ATLANTA, Dec. 06, 2021 (GLOBE NEWSWIRE) -- Micron Technology, Inc. (Nasdaq: MU), one of the world's largest semiconductor manufacturers and the only U.S.-based manufacturer of memory, today announced plans for its new memory design center in Midtown Atlanta, expanding the company's reach into the Southeast.",
+    "url": "https://www.globenewswire.com/news-release/2021/12/06/2346643/14450/en/Micron-to-Open-State-of-the-Art-Memory-Design-Center-in-Atlanta.html",
+    "ticker": "MU",
+    "event_date": "2021-12-20",
+    "window_start": "2021-12-06",
+    "window_end": "2022-01-03",
+    "publishedDateET": "2021-12-06T09:00:00-05:00",
+    "date_et": "2021-12-06"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2021-12-07 21:43:49",
+    "publisher": "Seeking Alpha",
+    "title": "Micron Technology Stock Remains Undervalued",
+    "image": "https://images.financialmodelingprep.com/news/micron-technology-stock-remains-undervalued-20211207.jpg",
+    "site": "seekingalpha.com",
+    "text": "Micron Technology stock dipped last week when Apple revealed that its iPhone sales had slowed. Apple is one of Micron's top customers.",
+    "url": "https://seekingalpha.com/article/4473971-micron-technology-stock-remains-undervalued",
+    "ticker": "MU",
+    "event_date": "2021-12-20",
+    "window_start": "2021-12-06",
+    "window_end": "2022-01-03",
+    "publishedDateET": "2021-12-07T21:43:49-05:00",
+    "date_et": "2021-12-07"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2021-12-07 16:36:18",
+    "publisher": "The Motley Fool",
+    "title": "Why Qualcomm, Advanced Micro Devices, and Micron Technology Surged Today",
+    "image": "https://images.financialmodelingprep.com/news/why-qualcomm-advanced-micro-devices-and-micron-technology-surged-20211207.jpg",
+    "site": "fool.com",
+    "text": "Receding omicron fears helped \"cyclical\" chip stocks, and a positive analyst comment boosted Micron in particular.",
+    "url": "https://www.fool.com/investing/2021/12/07/why-qualcomm-advanced-micro-devices-and-micron-tec/",
+    "ticker": "MU",
+    "event_date": "2021-12-20",
+    "window_start": "2021-12-06",
+    "window_end": "2022-01-03",
+    "publishedDateET": "2021-12-07T16:36:18-05:00",
+    "date_et": "2021-12-07"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2021-12-07 10:55:00",
+    "publisher": "The Motley Fool",
+    "title": "2 Growth Stocks to Buy and Hold Forever",
+    "image": "https://images.financialmodelingprep.com/news/2-growth-stocks-to-buy-and-hold-forever-20211207.jpg",
+    "site": "fool.com",
+    "text": "Emerging trends could give these companies a huge shot in the arm.",
+    "url": "https://www.fool.com/investing/2021/12/07/2-growth-stocks-to-buy-and-hold-forever/",
+    "ticker": "MU",
+    "event_date": "2021-12-20",
+    "window_start": "2021-12-06",
+    "window_end": "2022-01-03",
+    "publishedDateET": "2021-12-07T10:55:00-05:00",
+    "date_et": "2021-12-07"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2021-12-08 18:58:16",
+    "publisher": "Zacks Investment Research",
+    "title": "Micron (MU) Gains But Lags Market: What You Should Know",
+    "image": "https://images.financialmodelingprep.com/news/micron-mu-gains-but-lags-market-what-you-should-20211208.jpg",
+    "site": "zacks.com",
+    "text": "In the latest trading session, Micron (MU) closed at $86.02, marking a +0.22% move from the previous day.",
+    "url": "https://www.zacks.com/stock/news/1837067/micron-mu-gains-but-lags-market-what-you-should-know",
+    "ticker": "MU",
+    "event_date": "2021-12-20",
+    "window_start": "2021-12-06",
+    "window_end": "2022-01-03",
+    "publishedDateET": "2021-12-08T18:58:16-05:00",
+    "date_et": "2021-12-08"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2021-12-08 17:27:04",
+    "publisher": "Zacks Investment Research",
+    "title": "What Stocks Should be on Your Wish List in 2022?",
+    "image": "https://images.financialmodelingprep.com/news/what-stocks-should-be-on-your-wish-list-in-20211208.jpg",
+    "site": "zacks.com",
+    "text": "Zacks Chief Equity Strategist, John Blank, shares his insights with Tracey about what might be coming in 2022 and where stock investors should be looking next year.",
+    "url": "https://www.zacks.com/stock/news/1837052/what-stocks-should-be-on-your-wish-list-in-2022",
+    "ticker": "MU",
+    "event_date": "2021-12-20",
+    "window_start": "2021-12-06",
+    "window_end": "2022-01-03",
+    "publishedDateET": "2021-12-08T17:27:04-05:00",
+    "date_et": "2021-12-08"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2021-12-10 05:27:00",
+    "publisher": "Barron's",
+    "title": "Chip Stocks Nvidia and Micron Edge Higher After Broadcom's Strong Earnings",
+    "image": "https://images.financialmodelingprep.com/news/chip-stocks-nvidia-and-micron-edge-higher-after-broadcoms-20211210.jpg",
+    "site": "barrons.com",
+    "text": "Broadcom's strong earnings and bullish forecast boost shares of other chip companies such as Nvidia, Micron and Applied Materials.",
+    "url": "https://www.barrons.com/articles/nvidia-micron-broadcom-stock-semiconductor-earnings-51639131984",
+    "ticker": "MU",
+    "event_date": "2021-12-20",
+    "window_start": "2021-12-06",
+    "window_end": "2022-01-03",
+    "publishedDateET": "2021-12-10T05:27:00-05:00",
+    "date_et": "2021-12-10"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2021-12-12 09:57:07",
+    "publisher": "Pulse2",
+    "title": "Micron Technology Stock (MU): $99 Price Target From Cowen",
+    "image": "https://images.financialmodelingprep.com/news/micron-technology-stock-mu-99-price-target-from-cowen-20211212.jpg",
+    "site": "pulse2.com",
+    "text": "The shares of Micron Technology, Inc. (NASDAQ: MU) have received a price target of $99 from Cowen. These are the details.",
+    "url": "https://pulse2.com/micron-technology-stock-nasdaq-mu-99-price-target-from-cowen/",
+    "ticker": "MU",
+    "event_date": "2021-12-20",
+    "window_start": "2021-12-06",
+    "window_end": "2022-01-03",
+    "publishedDateET": "2021-12-12T09:57:07-05:00",
+    "date_et": "2021-12-12"
+  },
+  {
+    "symbol": "MU",
+    "publishedDate": "2021-12-12 07:00:00",
+    "publisher": "The Motley Fool",
+    "title": "3 Tech Stocks That Can Slay Higher Inflation",
+    "image": "https://images.financialmodelingprep.com/news/3-tech-stocks-that-can-slay-higher-inflation-20211212.jpg",
+    "site": "fool.com",
+    "text": "Inflation was recently the highest since the early 1980s. Are stocks dead?",
+    "url": "https://www.fool.com/investing/2021/12/12/3-tech-stocks-that-can-slay-higher-inflation/",
+    "ticker": "MU",
+    "event_date": "2021-12-20",
+    "window_start": "2021-12-06",
+    "window_end": "2022-01-03",
+    "publishedDateET": "2021-12-12T07:00:00-05:00",
+    "date_et": "2021-12-12"
+  },
+  {
+    "symbol": "MU",
     "publishedDate": "2021-12-13 16:10:05",
     "publisher": "Zacks Investment Research",
     "title": "Micron (MU) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
@@ -10,7 +186,7 @@
     "url": "https://www.zacks.com/stock/news/1838743/micron-mu-earnings-expected-to-grow-what-to-know-ahead-of-next-week-s-release",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-13T16:10:05-05:00",
     "date_et": "2021-12-13"
@@ -26,7 +202,7 @@
     "url": "https://investorplace.com/smartmoney/2021/12/against-any-odds-heres-how-to-succeed-in-2022/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-13T09:48:29-05:00",
     "date_et": "2021-12-13"
@@ -42,7 +218,7 @@
     "url": "https://www.zacks.com/stock/news/1839366/micron-mu-dips-more-than-broader-markets-what-you-should-know",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-14T19:09:24-05:00",
     "date_et": "2021-12-14"
@@ -58,7 +234,7 @@
     "url": "https://www.zacks.com/stock/news/1839665/td-synnex-s-snx-hyve-adds-micron-7400-nvme-ssd-to-polaris-9219",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-15T11:35:11-05:00",
     "date_et": "2021-12-15"
@@ -74,7 +250,7 @@
     "url": "https://www.benzinga.com/trading-ideas/movers/21/12/24656017/why-micron-shares-are-falling",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-16T14:47:07-05:00",
     "date_et": "2021-12-16"
@@ -90,7 +266,7 @@
     "url": "https://www.fool.com/investing/2021/12/16/micron-technology-stock-before-earnings-buy-or-sel/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-16T09:15:14-05:00",
     "date_et": "2021-12-16"
@@ -106,7 +282,7 @@
     "url": "https://www.zacks.com/stock/news/1839981/factors-to-note-ahead-of-micron-s-mu-q1-earnings-release",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-16T08:28:07-05:00",
     "date_et": "2021-12-16"
@@ -122,7 +298,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2021/12/16/heres-what-makes-micron-technology-stock-a-strong-bet-in-the-semiconductor-space/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-16T05:30:23-05:00",
     "date_et": "2021-12-16"
@@ -138,7 +314,7 @@
     "url": "https://www.zacks.com/stock/news/1840748/micron-mu-q1-earnings-to-gain-from-solid-memory-chip-demand",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-17T14:32:03-05:00",
     "date_et": "2021-12-17"
@@ -154,7 +330,7 @@
     "url": "https://247wallst.com/investing/2021/12/17/earnings-preview-general-mills-micron-nike-rite-aid/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-17T11:44:46-05:00",
     "date_et": "2021-12-17"
@@ -170,7 +346,7 @@
     "url": "https://www.benzinga.com/news/earnings/21/12/24670355/earnings-outlook-for-micron-technology",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-17T10:20:20-05:00",
     "date_et": "2021-12-17"
@@ -186,7 +362,7 @@
     "url": "https://pulse2.com/micron-technology-stock-nasdaq-mu-105-price-target-from-lynx/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-18T08:27:28-05:00",
     "date_et": "2021-12-18"
@@ -202,7 +378,7 @@
     "url": "https://www.marketwatch.com/story/micron-stocks-roller-coaster-ride-surges-toward-a-new-peak-11640050601",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-20T20:36:00-05:00",
     "date_et": "2021-12-20"
@@ -218,7 +394,7 @@
     "url": "https://seekingalpha.com/article/4476131-micron-technology-inc-mu-ceo-sanjay-mehrotra-on-q1-2022-results-earnings-call-transcript",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-20T20:17:08-05:00",
     "date_et": "2021-12-20"
@@ -234,7 +410,7 @@
     "url": "https://www.fool.com/investing/2021/12/20/why-micron-and-nike-are-rising-after-hours/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-20T17:57:00-05:00",
     "date_et": "2021-12-20"
@@ -250,7 +426,7 @@
     "url": "https://investorplace.com/2021/12/4-top-stock-trades-for-tuesday-tsla-nke-mu-cgc/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-20T16:49:18-05:00",
     "date_et": "2021-12-20"
@@ -266,7 +442,7 @@
     "url": "https://www.marketwatch.com/story/micron-stock-rallies-after-earnings-outlook-top-street-view-11640035114",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-20T16:18:00-05:00",
     "date_et": "2021-12-20"
@@ -282,7 +458,7 @@
     "url": "https://www.reuters.com/technology/micron-forecasts-second-quarter-revenue-above-estimates-2021-12-20/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-20T16:07:00-05:00",
     "date_et": "2021-12-20"
@@ -298,7 +474,7 @@
     "url": "https://www.globenewswire.com/news-release/2021/12/20/2355642/14450/en/Micron-Technology-Inc-Reports-Results-for-the-First-Quarter-of-Fiscal-2022.html",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-20T16:02:00-05:00",
     "date_et": "2021-12-20"
@@ -314,7 +490,7 @@
     "url": "https://www.forbes.com/sites/adamsarhan/2021/12/20/earnings-preview-what-to-expect-from-micron-on-monday/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-20T14:31:29-05:00",
     "date_et": "2021-12-20"
@@ -330,7 +506,7 @@
     "url": "https://www.cnbc.com/2021/12/21/jim-cramer-microns-strong-quarter-lifted-the-entire-market-tuesday.html",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T18:41:12-05:00",
     "date_et": "2021-12-21"
@@ -346,7 +522,7 @@
     "url": "https://www.kiplinger.com/investing/stocks/603976/stock-market-today-122121-stocks-stage-big-bounce-as-bulls-reemerge",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T16:33:26-05:00",
     "date_et": "2021-12-21"
@@ -362,7 +538,7 @@
     "url": "https://www.reuters.com/markets/europe/wall-street-closes-up-strongly-with-boost-nike-micron-following-omicron-slide-2021-12-21/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T16:27:00-05:00",
     "date_et": "2021-12-21"
@@ -378,7 +554,7 @@
     "url": "https://www.marketwatch.com/story/micron-stock-heads-for-best-day-in-more-than-a-year-as-memory-winter-turns-into-spring-11640117455",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T15:10:00-05:00",
     "date_et": "2021-12-21"
@@ -394,7 +570,7 @@
     "url": "https://www.fool.com/investing/2021/12/21/micron-is-up-big-today-is-it-still-a-buy/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T13:58:29-05:00",
     "date_et": "2021-12-21"
@@ -410,7 +586,7 @@
     "url": "https://www.benzinga.com/news/earnings/21/12/24725107/micron-technology-spiking-up-over-10-whats-going-on",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T13:52:33-05:00",
     "date_et": "2021-12-21"
@@ -426,7 +602,7 @@
     "url": "https://invezz.com/news/2021/12/21/micron-ceo-supply-chain-bottlenecks-are-improving/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T13:29:35-05:00",
     "date_et": "2021-12-21"
@@ -442,7 +618,7 @@
     "url": "https://www.zacks.com/stock/news/1841834/pre-market-edge-out-of-omicron-led-slump",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T13:05:12-05:00",
     "date_et": "2021-12-21"
@@ -458,7 +634,7 @@
     "url": "https://www.fool.com/investing/2021/12/21/why-micron-is-surging-today/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T11:48:00-05:00",
     "date_et": "2021-12-21"
@@ -474,7 +650,7 @@
     "url": "https://www.fool.com/investing/2021/12/21/micron-stock-still-looks-like-a-great-buy-for-2022/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T11:29:54-05:00",
     "date_et": "2021-12-21"
@@ -490,7 +666,7 @@
     "url": "https://stockmarket.com/featured/dow-jones-gains-on-nikes-earnings-beat-apple-micron-among-big-tech-names-leading-recovery-2021-12-21",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T11:09:45-05:00",
     "date_et": "2021-12-21"
@@ -506,7 +682,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2021/12/21/bull-notes-roll-in-for-micron-stock-after-beat-and-raise",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T10:38:25-05:00",
     "date_et": "2021-12-21"
@@ -522,7 +698,7 @@
     "url": "https://www.forbes.com/sites/jjkinahan/2021/12/21/micron-earnings-announcement-helps-to-lead-potential-rebound/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T10:28:49-05:00",
     "date_et": "2021-12-21"
@@ -538,7 +714,7 @@
     "url": "https://investorplace.com/2021/12/mu-stock-alert-11-reasons-why-micron-is-the-top-trending-ticker-tuesday/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T10:03:33-05:00",
     "date_et": "2021-12-21"
@@ -554,7 +730,7 @@
     "url": "https://www.benzinga.com/news/21/12/24713486/read-how-analysts-reacted-to-micron-post-q1-earnings",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T09:25:12-05:00",
     "date_et": "2021-12-21"
@@ -570,7 +746,7 @@
     "url": "https://www.zacks.com/stock/news/1841531/micron-mu-q1-earnings-top-stock-rises-on-strong-outlook",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T08:26:06-05:00",
     "date_et": "2021-12-21"
@@ -586,7 +762,7 @@
     "url": "https://stockmarket.com/featured/stock-market-today-stock-futures-rise-after-omicron-led-sell-off-nike-and-micron-soar-on-strong-earnings-pfizer-and-gsk-make-fda-breakthrough-with-hiv-drug-2021-12-21",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T07:44:55-05:00",
     "date_et": "2021-12-21"
@@ -602,7 +778,7 @@
     "url": "https://www.reuters.com/markets/europe/futures-rebound-sharp-selloff-nike-micron-lead-gains-2021-12-21/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T07:24:00-05:00",
     "date_et": "2021-12-21"
@@ -618,7 +794,7 @@
     "url": "https://seekingalpha.com/article/4476149-micron-its-not-just-about-numbers-but-also-strong-performance-and-outlook",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-21T00:38:20-05:00",
     "date_et": "2021-12-21"
@@ -634,7 +810,7 @@
     "url": "https://stockmarket.com/featured/best-growth-stocks-to-buy-now-3-consumer-tech-names-to-check-out-2021-12-22",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-22T16:30:00-05:00",
     "date_et": "2021-12-22"
@@ -650,7 +826,7 @@
     "url": "https://www.globenewswire.com/news-release/2021/12/22/2357037/14450/en/Micron-Appoints-Rob-Beard-as-SVP-General-Counsel-and-Corporate-Secretary.html",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-22T16:01:00-05:00",
     "date_et": "2021-12-22"
@@ -666,7 +842,7 @@
     "url": "https://www.cnbc.com/2021/12/23/investing-club-micron-biden-and-santa-contribute-to-comeback-whats-ahead-next-week.html",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-23T16:55:02-05:00",
     "date_et": "2021-12-23"
@@ -682,7 +858,7 @@
     "url": "https://www.fool.com/investing/2021/12/23/5-green-flags-for-micron-technologys-future/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-23T08:37:00-05:00",
     "date_et": "2021-12-23"
@@ -698,7 +874,7 @@
     "url": "https://seekingalpha.com/article/4476781-micron-technology-expect-more-of-these-rallies",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-25T04:06:28-05:00",
     "date_et": "2021-12-25"
@@ -714,7 +890,7 @@
     "url": "https://stockmarket.com/featured/4-top-semiconductor-stocks-to-watch-right-now-2021-12-27",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-27T16:28:00-05:00",
     "date_et": "2021-12-27"
@@ -730,7 +906,7 @@
     "url": "https://seekingalpha.com/article/4476952-micron-my-best-idea-for-2022",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-27T14:43:41-05:00",
     "date_et": "2021-12-27"
@@ -746,7 +922,7 @@
     "url": "https://investorplace.com/2021/12/4-top-stock-trades-for-tuesday-spy-qqq-mu-roku/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-27T13:50:34-05:00",
     "date_et": "2021-12-27"
@@ -762,7 +938,7 @@
     "url": "https://invezz.com/news/2021/12/28/top-undervalued-stocks-to-buy-in-2022/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-28T14:19:04-05:00",
     "date_et": "2021-12-28"
@@ -778,7 +954,7 @@
     "url": "https://www.fool.com/investing/2021/12/28/3-top-chip-stocks-to-buy-in-2022-ride-ev-megatrend/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-28T11:12:00-05:00",
     "date_et": "2021-12-28"
@@ -794,7 +970,7 @@
     "url": "https://www.fool.com/investing/2021/12/28/2-semiconductor-stocks-71-to-74-says-wall-street/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-28T08:25:00-05:00",
     "date_et": "2021-12-28"
@@ -810,7 +986,7 @@
     "url": "https://www.fool.com/investing/2021/12/28/3-bargain-stocks-you-can-buy-today-hold-forever/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-28T08:10:00-05:00",
     "date_et": "2021-12-28"
@@ -826,7 +1002,7 @@
     "url": "https://www.benzinga.com/news/21/12/24815297/why-are-western-digital-micron-shares-trading-higher-today",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-29T11:57:14-05:00",
     "date_et": "2021-12-29"
@@ -842,7 +1018,7 @@
     "url": "https://www.fool.com/investing/2021/12/29/heres-1-big-reason-to-buy-micron-technology-stock/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-29T09:17:23-05:00",
     "date_et": "2021-12-29"
@@ -858,7 +1034,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2021/12/29/following-strong-earnings-release-micron-technology-stock-looks-set-to-extend-its-rally/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-29T08:30:57-05:00",
     "date_et": "2021-12-29"
@@ -874,7 +1050,7 @@
     "url": "https://www.fool.com/investing/2021/12/29/my-top-growth-stock-to-buy-for-2022/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-29T06:03:00-05:00",
     "date_et": "2021-12-29"
@@ -890,7 +1066,7 @@
     "url": "https://investorplace.com/2021/12/7-growth-stocks-that-analysts-are-loving-right-now/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-29T06:00:59-05:00",
     "date_et": "2021-12-29"
@@ -906,7 +1082,7 @@
     "url": "https://www.fool.com/investing/2021/12/29/4-high-growth-trends-youll-want-to-invest-in-2022/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-29T05:06:00-05:00",
     "date_et": "2021-12-29"
@@ -922,7 +1098,7 @@
     "url": "https://www.benzinga.com/trading-ideas/technicals/21/12/24837799/premarket-prep-stock-of-the-day-micron-technology",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-30T15:24:09-05:00",
     "date_et": "2021-12-30"
@@ -938,7 +1114,7 @@
     "url": "https://www.benzinga.com/government/21/12/24837073/house-speaker-nancy-pelosi-loads-call-options-in-alphabet-micron-roblox-salesforce-and-disney",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-30T15:11:40-05:00",
     "date_et": "2021-12-30"
@@ -954,7 +1130,7 @@
     "url": "https://www.benzinga.com/government/21/12/24825673/micron-senses-trouble-from-china-city-shutdown-report",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-30T06:07:53-05:00",
     "date_et": "2021-12-30"
@@ -970,7 +1146,7 @@
     "url": "https://pulse2.com/micron-technology-stock-nasdaq-mu-why-the-price-fell/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2021-12-31T08:41:17-05:00",
     "date_et": "2021-12-31"
@@ -986,7 +1162,7 @@
     "url": "https://www.fool.com/investing/2022/01/02/1-green-flag-for-micron-technology-2022-and-1-red-/",
     "ticker": "MU",
     "event_date": "2021-12-20",
-    "window_start": "2021-12-13",
+    "window_start": "2021-12-06",
     "window_end": "2022-01-03",
     "publishedDateET": "2022-01-02T09:02:00-05:00",
     "date_et": "2022-01-02"

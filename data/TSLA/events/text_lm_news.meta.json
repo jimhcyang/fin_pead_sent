@@ -5,7 +5,7 @@
   "event_long_out": "data/TSLA/events/text_lm_news_event_long.csv",
   "event_wide_out": "data/TSLA/events/text_lm_news_event_wide.csv",
   "min_tokens": 20,
-  "rows_in": 7626,
-  "rows_scored": 4626,
+  "rows_in": 9610,
+  "rows_scored": 5752,
   "events_scored": 20
 }

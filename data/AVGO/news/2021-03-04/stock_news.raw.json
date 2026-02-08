@@ -1,6 +1,38 @@
 [
   {
     "symbol": "AVGO",
+    "publishedDate": "2021-02-23 18:56:10",
+    "publisher": "Zacks Investment Research",
+    "title": "Broadcom Inc. (AVGO) Stock Sinks As Market Gains: What You Should Know",
+    "image": "https://images.financialmodelingprep.com/news/broadcom-inc-avgo-stock-sinks-as-market-gains-what-20210223.jpg",
+    "site": "zacks.com",
+    "text": "Broadcom Inc. (AVGO) closed at $471.90 in the latest trading session, marking a -0.94% move from the prior day.",
+    "url": "https://www.zacks.com/stock/news/1268372/broadcom-inc-avgo-stock-sinks-as-market-gains-what-you-should-know",
+    "ticker": "AVGO",
+    "event_date": "2021-03-04",
+    "window_start": "2021-02-18",
+    "window_end": "2021-03-18",
+    "publishedDateET": "2021-02-23T18:56:10-05:00",
+    "date_et": "2021-02-23"
+  },
+  {
+    "symbol": "AVGO",
+    "publishedDate": "2021-02-24 21:58:15",
+    "publisher": "Zacks Investment Research",
+    "title": "Buy this Great Semiconductor Stock Before Earnings for Tech Growth?",
+    "image": "https://images.financialmodelingprep.com/news/buy-this-great-semiconductor-stock-before-earnings-for-tech-20210224.jpg",
+    "site": "zacks.com",
+    "text": "Let's dive into Marvell Technology Group Ltd. (MRVL) ahead of its Q4 fiscal 2021 financial release on March 3 to see why it might be worth buying.",
+    "url": "https://www.zacks.com/stock/news/1269110/buy-this-great-semiconductor-stock-before-earnings-for-tech-growth",
+    "ticker": "AVGO",
+    "event_date": "2021-03-04",
+    "window_start": "2021-02-18",
+    "window_end": "2021-03-18",
+    "publishedDateET": "2021-02-24T21:58:15-05:00",
+    "date_et": "2021-02-24"
+  },
+  {
+    "symbol": "AVGO",
     "publishedDate": "2021-02-26 08:42:11",
     "publisher": "Schaeffers Research",
     "title": "This Semiconductor Stock's Valuation May Be Deceiving",
@@ -10,7 +42,7 @@
     "url": "https://www.schaeffersresearch.com/content/analysis/2021/02/26/this-semiconductor-stocks-valuation-may-be-deceiving",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-02-26T08:42:11-05:00",
     "date_et": "2021-02-26"
@@ -26,7 +58,7 @@
     "url": "https://www.zacks.com/stock/news/1271512/is-broadcom-avgo-stock-a-great-tech-buy-ahead-of-q1-earnings",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-01T21:13:14-05:00",
     "date_et": "2021-03-01"
@@ -42,7 +74,7 @@
     "url": "https://www.barrons.com/articles/zoom-costco-target-snowflake-broadcom-and-other-stocks-for-investors-to-watch-this-week-51614636442",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-01T17:07:00-05:00",
     "date_et": "2021-03-01"
@@ -58,7 +90,7 @@
     "url": "https://www.zacks.com/stock/news/1271152/broadcom-avgo-to-report-q1-earnings-whats-in-the-cards",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-01T10:38:02-05:00",
     "date_et": "2021-03-01"
@@ -74,7 +106,7 @@
     "url": "http://www.businesswire.com/news/home/20210301005314/en/Movandi-Names-Bill-Ruehle-as-Chief-Financial-Officer",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-01T09:01:00-05:00",
     "date_et": "2021-03-01"
@@ -90,7 +122,7 @@
     "url": "https://www.businesswire.com/news/home/20210301005314/en/Movandi-Names-Bill-Ruehle-as-Chief-Financial-Officer/",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-01T09:01:00-05:00",
     "date_et": "2021-03-01"
@@ -106,7 +138,7 @@
     "url": "https://www.zacks.com/stock/news/1272174/this-weeks-must-see-earnings-charts",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-02T18:10:15-05:00",
     "date_et": "2021-03-02"
@@ -122,7 +154,7 @@
     "url": "https://www.proactiveinvestors.co.uk//companies/news/942549/zoom-snowflake-and-broadcom-to-report-earnings-942549.html?SNAPI",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-02T02:17:48-05:00",
     "date_et": "2021-03-02"
@@ -138,7 +170,7 @@
     "url": "https://247wallst.com/investing/2021/03/03/earnings-previews-broadcom-costco-gap-smith-wesson-big-lots/",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-03T13:39:31-05:00",
     "date_et": "2021-03-03"
@@ -154,7 +186,7 @@
     "url": "https://seekingalpha.com/article/4410989-chip-shortage-may-end-semis-perfect-storm-prematurely",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-03T08:44:51-05:00",
     "date_et": "2021-03-03"
@@ -170,7 +202,7 @@
     "url": "https://seekingalpha.com/article/4411646-broadcom-inc-avgo-ceo-hock-tan-on-q1-2021-results-earnings-call-transcript",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-04T22:49:10-05:00",
     "date_et": "2021-03-04"
@@ -186,7 +218,7 @@
     "url": "https://www.barrons.com/articles/broadcom-reported-earnings-heres-what-to-know-51614903651",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-04T19:20:00-05:00",
     "date_et": "2021-03-04"
@@ -202,7 +234,7 @@
     "url": "https://www.zacks.com/stock/news/1273705/broadcom-inc-avgo-tops-q1-earnings-and-revenue-estimates",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-04T18:58:11-05:00",
     "date_et": "2021-03-04"
@@ -218,7 +250,7 @@
     "url": "https://invezz.com/news/2021/03/04/broadcom-beats-wall-street-estimates-in-the-fiscal-first-quarter/",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-04T18:10:00-05:00",
     "date_et": "2021-03-04"
@@ -234,7 +266,7 @@
     "url": "https://www.zacks.com/stock/news/1273667/what-lies-ahead-for-semiconductor-stocks-etfs",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-04T17:27:03-05:00",
     "date_et": "2021-03-04"
@@ -250,7 +282,7 @@
     "url": "https://www.cnbc.com/2021/03/04/stocks-making-the-biggest-moves-after-the-bell-costco-gap-broadcom-more.html",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-04T17:25:18-05:00",
     "date_et": "2021-03-04"
@@ -266,7 +298,7 @@
     "url": "https://www.benzinga.com/news/earnings/21/03/20020248/recap-broadcom-q1-earnings",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-04T16:42:12-05:00",
     "date_et": "2021-03-04"
@@ -282,7 +314,7 @@
     "url": "https://www.marketwatch.com/story/broadcom-chip-sales-slightly-miss-street-view-while-software-revenue-beats-11614893312",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-04T16:28:00-05:00",
     "date_et": "2021-03-04"
@@ -298,7 +330,7 @@
     "url": "https://www.reuters.com/article/us-broadcom-results/broadcom-forecasts-strong-current-quarter-sales-on-chip-demand-idUSKBN2AW2RR",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-04T16:27:00-05:00",
     "date_et": "2021-03-04"
@@ -314,7 +346,7 @@
     "url": "https://www.prnewswire.com/news-releases/broadcom-inc-announces-first-quarter-fiscal-year-2021-financial-results-and-quarterly-dividends-301240995.html",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-04T16:15:00-05:00",
     "date_et": "2021-03-04"
@@ -330,7 +362,7 @@
     "url": "https://www.benzinga.com/analyst-ratings/analyst-color/21/03/20032608/why-analysts-are-bullish-on-broadcomm-after-q1-print",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-05T12:16:49-05:00",
     "date_et": "2021-03-05"
@@ -346,7 +378,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2021/03/05/options-traders-analysts-take-notice-of-avgo-after-earnings",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-05T11:25:01-05:00",
     "date_et": "2021-03-05"
@@ -362,7 +394,7 @@
     "url": "https://www.benzinga.com/news/21/03/20028948/broadcom-protected-by-non-cancellation-policy-assures-genuine-chip-demand-bloomberg",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-05T10:58:38-05:00",
     "date_et": "2021-03-05"
@@ -378,7 +410,7 @@
     "url": "https://www.zacks.com/stock/news/1274106/broadcom-avgo-q1-earnings-and-revenues-surpass-estimates",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-05T10:40:33-05:00",
     "date_et": "2021-03-05"
@@ -394,7 +426,7 @@
     "url": "https://investorplace.com/2021/03/7-internet-of-things-stocks-to-buy-for-our-interconnected-world/",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-09T15:08:53-05:00",
     "date_et": "2021-03-09"
@@ -410,7 +442,7 @@
     "url": "https://247wallst.com/technology-3/2021/03/10/6-sizzling-semiconductor-stocks-to-buy-after-massive-sell-off/",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-10T07:42:08-05:00",
     "date_et": "2021-03-10"
@@ -426,7 +458,7 @@
     "url": "https://www.fool.com/investing/2021/03/10/why-top-tech-dividend-stock-broadcom-a-buy-q4/",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-10T07:30:00-05:00",
     "date_et": "2021-03-10"
@@ -442,7 +474,7 @@
     "url": "https://investorplace.com/2021/03/7-of-the-best-tech-dividend-stocks/",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-12T14:29:41-05:00",
     "date_et": "2021-03-12"
@@ -458,7 +490,7 @@
     "url": "https://www.benzinga.com/news/21/03/20155353/last-weeks-notable-insider-buys-news-corp-microsoft-snowflake-walmart-and-more",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-13T11:45:50-05:00",
     "date_et": "2021-03-13"
@@ -474,7 +506,7 @@
     "url": "https://seekingalpha.com/article/4413629-broadcom-wonderful-hyper-growth-blue-chip-fair-price",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-13T07:00:00-05:00",
     "date_et": "2021-03-13"
@@ -490,7 +522,7 @@
     "url": "https://www.fool.com/investing/2021/03/14/3-dividend-paying-tech-stocks-to-buy-right-now/",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-14T07:30:00-04:00",
     "date_et": "2021-03-14"
@@ -506,7 +538,7 @@
     "url": "https://www.prnewswire.com/news-releases/broadcom-inc-announces-private-exchange-offers-of-certain-outstanding-notes-for-new-notes-301247776.html",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-15T21:30:00-04:00",
     "date_et": "2021-03-15"
@@ -522,7 +554,7 @@
     "url": "https://www.prnewswire.com/news-releases/broadcom-inc-and-morgan-stanley-to-host-broadband-teach-in-301247590.html",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-15T16:15:00-04:00",
     "date_et": "2021-03-15"
@@ -538,7 +570,7 @@
     "url": "https://www.fool.com/investing/2021/03/17/5-brand-name-stocks-with-12-year-winning-streaks/",
     "ticker": "AVGO",
     "event_date": "2021-03-04",
-    "window_start": "2021-02-25",
+    "window_start": "2021-02-18",
     "window_end": "2021-03-18",
     "publishedDateET": "2021-03-17T06:36:00-04:00",
     "date_et": "2021-03-17"

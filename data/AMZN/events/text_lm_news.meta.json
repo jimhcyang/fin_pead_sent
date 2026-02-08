@@ -5,7 +5,7 @@
   "event_long_out": "data/AMZN/events/text_lm_news_event_long.csv",
   "event_wide_out": "data/AMZN/events/text_lm_news_event_wide.csv",
   "min_tokens": 20,
-  "rows_in": 7004,
-  "rows_scored": 4669,
+  "rows_in": 8888,
+  "rows_scored": 5920,
   "events_scored": 20
 }

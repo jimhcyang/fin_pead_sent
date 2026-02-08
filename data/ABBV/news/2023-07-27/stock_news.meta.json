@@ -4,11 +4,39 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2023-07-27",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2023-07-20",
+  "start": "2023-07-13",
   "end": "2023-08-10",
   "chunks": [
+    {
+      "start": "2023-07-13",
+      "end": "2023-07-13"
+    },
+    {
+      "start": "2023-07-14",
+      "end": "2023-07-14"
+    },
+    {
+      "start": "2023-07-15",
+      "end": "2023-07-15"
+    },
+    {
+      "start": "2023-07-16",
+      "end": "2023-07-16"
+    },
+    {
+      "start": "2023-07-17",
+      "end": "2023-07-17"
+    },
+    {
+      "start": "2023-07-18",
+      "end": "2023-07-18"
+    },
+    {
+      "start": "2023-07-19",
+      "end": "2023-07-19"
+    },
     {
       "start": "2023-07-20",
       "end": "2023-07-20"
@@ -105,16 +133,16 @@
   "chunk_days": 0,
   "pad_days": 0,
   "sleep": 0.05,
-  "fetched_total": 42,
-  "kept_total": 42,
+  "fetched_total": 49,
+  "kept_total": 49,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2023-07-20T16:18:18-04:00",
+  "min_publishedDateET": "2023-07-14T02:42:54-04:00",
   "max_publishedDateET": "2023-08-09T10:23:00-04:00",
   "outputs": {
     "raw_json": "data/ABBV/news/2023-07-27/stock_news.raw.json",
     "jsonl": "data/ABBV/news/2023-07-27/stock_news.jsonl",
     "csv": "data/ABBV/news/2023-07-27/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:34:25.000867-05:00",
+  "generated_at": "2026-02-07T19:41:05.561514-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

@@ -4,13 +4,13 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2022-04-28",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2022-04-21",
+  "start": "2022-04-14",
   "end": "2022-05-12",
   "chunks": [
     {
-      "start": "2022-04-21",
+      "start": "2022-04-14",
       "end": "2022-05-12"
     }
   ],
@@ -21,16 +21,16 @@
   "chunk_days": 0,
   "pad_days": 1,
   "sleep": 0.05,
-  "fetched_total": 393,
-  "kept_total": 362,
+  "fetched_total": 467,
+  "kept_total": 431,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2022-04-21T00:01:00-04:00",
+  "min_publishedDateET": "2022-04-14T04:50:44-04:00",
   "max_publishedDateET": "2022-05-12T19:36:00-04:00",
   "outputs": {
     "raw_json": "data/AMZN/news/2022-04-28/stock_news.raw.json",
     "jsonl": "data/AMZN/news/2022-04-28/stock_news.jsonl",
     "csv": "data/AMZN/news/2022-04-28/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:22:26.720382-05:00",
+  "generated_at": "2026-02-07T19:24:14.827052-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

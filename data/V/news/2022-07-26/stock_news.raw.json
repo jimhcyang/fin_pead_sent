@@ -1,6 +1,86 @@
 [
   {
     "symbol": "V",
+    "publishedDate": "2022-07-12 14:38:01",
+    "publisher": "GuruFocus",
+    "title": "It Could Be Time to Hunt for Bargains",
+    "image": "https://images.financialmodelingprep.com/news/it-could-be-time-to-hunt-for-bargains-20220712.jpg",
+    "site": "gurufocus.com",
+    "text": "Investor sentiment has deteriorated so quickly this year that it has caught many market participants off guard. Today, one would be hard-pressed to find any positive information for the market.",
+    "url": "https://www.gurufocus.com/news/1821357/it-could-be-time-to-hunt-for-bargains",
+    "ticker": "V",
+    "event_date": "2022-07-26",
+    "window_start": "2022-07-12",
+    "window_end": "2022-08-09",
+    "publishedDateET": "2022-07-12T14:38:01-04:00",
+    "date_et": "2022-07-12"
+  },
+  {
+    "symbol": "V",
+    "publishedDate": "2022-07-13 05:06:00",
+    "publisher": "The Motley Fool",
+    "title": "2 Warren Buffett Stocks to Buy Hand Over Fist and 1 to Avoid Like the Plague",
+    "image": "https://images.financialmodelingprep.com/news/2-warren-buffett-stocks-to-buy-hand-over-fist-20220713.jpg",
+    "site": "fool.com",
+    "text": "Among Berkshire Hathaway's numerous holdings, there are two screaming buys and one high-growth stock that still has a lot to prove.",
+    "url": "https://www.fool.com/investing/2022/07/13/2-warren-buffett-stocks-buy-1-to-avoid-like-plague/",
+    "ticker": "V",
+    "event_date": "2022-07-26",
+    "window_start": "2022-07-12",
+    "window_end": "2022-08-09",
+    "publishedDateET": "2022-07-13T05:06:00-04:00",
+    "date_et": "2022-07-13"
+  },
+  {
+    "symbol": "V",
+    "publishedDate": "2022-07-13 10:45:25",
+    "publisher": "Zacks Investment Research",
+    "title": "Visa Inc. (V) Is a Trending Stock: Facts to Know Before Betting on It",
+    "image": "https://images.financialmodelingprep.com/news/visa-inc-v-is-a-trending-stock-facts-to-20220713.jpg",
+    "site": "zacks.com",
+    "text": "Visa (V) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+    "url": "https://www.zacks.com/stock/news/1951616/visa-inc-v-is-a-trending-stock-facts-to-know-before-betting-on-it",
+    "ticker": "V",
+    "event_date": "2022-07-26",
+    "window_start": "2022-07-12",
+    "window_end": "2022-08-09",
+    "publishedDateET": "2022-07-13T10:45:25-04:00",
+    "date_et": "2022-07-13"
+  },
+  {
+    "symbol": "V",
+    "publishedDate": "2022-07-14 13:57:36",
+    "publisher": "PYMNTS",
+    "title": "UK Parliament Asks Visa, Mastercard to Explain Swipe Fees Hike",
+    "image": "https://images.financialmodelingprep.com/news/uk-parliament-asks-visa-mastercard-to-explain-swipe-fees-20220714.jpg",
+    "site": "pymnts.com",
+    "text": "On Wednesday (July 13), the Treasury Committee at the U.K. Parliament sent letters to Visa and Mastercard requesting them to explain their increases in cross-border interchange fees after the U.K. left the European Union. The companies have until July 27 to respond.",
+    "url": "https://www.pymnts.com/news/regulation/2022/uk-parliament-asks-visa-mastercard-to-explain-swipe-fees-hike/",
+    "ticker": "V",
+    "event_date": "2022-07-26",
+    "window_start": "2022-07-12",
+    "window_end": "2022-08-09",
+    "publishedDateET": "2022-07-14T13:57:36-04:00",
+    "date_et": "2022-07-14"
+  },
+  {
+    "symbol": "V",
+    "publishedDate": "2022-07-16 09:00:00",
+    "publisher": "Seeking Alpha",
+    "title": "10 Dividend Growth Stocks For July 2022",
+    "image": "https://images.financialmodelingprep.com/news/10-dividend-growth-stocks-for-july-2022-20220716.jpg",
+    "site": "seekingalpha.com",
+    "text": "This monthly series ranks a selection of dividend growth stocks in Dividend Radar and presents the ten top-ranked stocks for consideration. To rank stocks, I use DVK Quality Snapshots to obtain quality scores, sort them in descending order, and break ties with additional metrics.",
+    "url": "https://seekingalpha.com/article/4523702-10-dividend-growth-stocks-july-2022",
+    "ticker": "V",
+    "event_date": "2022-07-26",
+    "window_start": "2022-07-12",
+    "window_end": "2022-08-09",
+    "publishedDateET": "2022-07-16T09:00:00-04:00",
+    "date_et": "2022-07-16"
+  },
+  {
+    "symbol": "V",
     "publishedDate": "2022-07-19 04:00:55",
     "publisher": "TechCrunch",
     "title": "Sudanese fintech Bloom nabs $6.5M, backed by Y Combinator, GFC and Visa",
@@ -10,7 +90,7 @@
     "url": "https://techcrunch.com/2022/07/19/sudanese-fintech-bloom-nabs-6-5m-backed-by-y-combinator-gfc-and-visa/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-19T04:00:55-04:00",
     "date_et": "2022-07-19"
@@ -26,7 +106,7 @@
     "url": "https://www.zacks.com/stock/news/1954367/visa-v-reports-next-week-wall-street-expects-earnings-growth",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-19T11:38:14-04:00",
     "date_et": "2022-07-19"
@@ -42,7 +122,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2022/07/20/visa-stock-to-edge-past-the-street-expectations-in-q3/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-20T08:45:55-04:00",
     "date_et": "2022-07-20"
@@ -58,7 +138,7 @@
     "url": "https://www.fool.com/investing/2022/07/20/3-high-margin-businesses-that-can-absorb-inflation/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-20T11:45:00-04:00",
     "date_et": "2022-07-20"
@@ -74,7 +154,7 @@
     "url": "https://www.pymnts.com/news/fintech-investments/2022/visa-considers-investment-in-fintech-airwallex/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-20T19:38:00-04:00",
     "date_et": "2022-07-20"
@@ -90,7 +170,7 @@
     "url": "https://www.zacks.com/stock/news/1956027/can-high-network-processing-costs-spoil-visa-v-q3-earnings",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-21T14:45:07-04:00",
     "date_et": "2022-07-21"
@@ -106,7 +186,7 @@
     "url": "https://www.businessinsider.com/visa-may-invest-in-cross-border-payments-fintech-airwallex-2022-7",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-22T10:00:07-04:00",
     "date_et": "2022-07-22"
@@ -122,7 +202,7 @@
     "url": "https://www.businesswire.com/news/home/20220725005034/en/McAfee-Expands-Partnership-with-Visa-to-Offer-UK-Visa-Business-Cardholders-Online-Protection-Software/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-25T03:00:00-04:00",
     "date_et": "2022-07-25"
@@ -138,7 +218,7 @@
     "url": "https://www.fool.com/investing/2022/07/25/15-stocks-warren-buffett-has-held-for-10-years/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-25T05:06:00-04:00",
     "date_et": "2022-07-25"
@@ -154,7 +234,7 @@
     "url": "https://www.fool.com/investing/2022/07/25/wise-shows-once-again-why-it-is-a-must-own-for-dis/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-25T05:45:00-04:00",
     "date_et": "2022-07-25"
@@ -170,7 +250,7 @@
     "url": "https://www.fool.com/investing/2022/07/25/my-favorite-payment-industry-stock-right-now/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-25T06:20:00-04:00",
     "date_et": "2022-07-25"
@@ -186,7 +266,7 @@
     "url": "https://www.barrons.com/articles/stocks-to-watch-this-week-apple-visa-microsoft-exxon-mobil-chipotle-51658689226",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-25T08:13:00-04:00",
     "date_et": "2022-07-25"
@@ -202,7 +282,7 @@
     "url": "https://www.businesswire.com/news/home/20220726006054/en/Visa-Inc.-Fiscal-Third-Quarter-2022-Financial-Results",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-26T16:05:00-04:00",
     "date_et": "2022-07-26"
@@ -218,7 +298,7 @@
     "url": "https://www.businesswire.com/news/home/20220726006054/en",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-26T16:05:00-04:00",
     "date_et": "2022-07-26"
@@ -234,7 +314,7 @@
     "url": "https://www.businesswire.com/news/home/20220726006054/en/Visa-Inc.-Fiscal-Third-Quarter-2022-Financial-Results/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-26T16:05:00-04:00",
     "date_et": "2022-07-26"
@@ -250,7 +330,7 @@
     "url": "https://www.pymnts.com/earnings/2022/visa-reports-very-strong-payments-and-cross-border-volume-in-q3/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-26T17:29:17-04:00",
     "date_et": "2022-07-26"
@@ -266,7 +346,7 @@
     "url": "https://www.zacks.com/stock/news/1958241/visa-v-q3-earnings-and-revenues-beat-estimates",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-26T18:39:12-04:00",
     "date_et": "2022-07-26"
@@ -282,7 +362,7 @@
     "url": "https://www.pymnts.com/earnings/2022/visa-payments-volume-in-q3-136-above-pre-pandemic-levels/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-26T21:14:16-04:00",
     "date_et": "2022-07-26"
@@ -298,7 +378,7 @@
     "url": "https://www.marketwatch.com/story/visa-mastercard-stocks-turn-lower-after-wsj-says-senators-preparing-bill-targeting-credit-fees-2022-07-27",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-27T13:46:46-04:00",
     "date_et": "2022-07-27"
@@ -314,7 +394,7 @@
     "url": "https://www.zacks.com/stock/news/1959020/visa-s-v-q3-earnings-beat-on-strong-cross-border-volume",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-27T13:57:50-04:00",
     "date_et": "2022-07-27"
@@ -330,7 +410,7 @@
     "url": "https://www.marketwatch.com/story/senate-bill-takes-aim-at-visa-and-mastercard-rising-credit-card-fees-for-merchants-11658945790",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-27T14:16:00-04:00",
     "date_et": "2022-07-27"
@@ -346,7 +426,7 @@
     "url": "https://www.pymnts.com/legal/2022/bill-targets-visa-mastercard-fees/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-27T14:16:33-04:00",
     "date_et": "2022-07-27"
@@ -362,7 +442,7 @@
     "url": "https://www.pymnts.com/news/payment-methods/2022/alphabet-and-visas-earnings-spotlight-real-time-payments-digital-wallet-traction/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-27T15:06:05-04:00",
     "date_et": "2022-07-27"
@@ -378,7 +458,7 @@
     "url": "https://www.fool.com/investing/2022/07/27/why-visa-stock-sank-today/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-27T17:03:47-04:00",
     "date_et": "2022-07-27"
@@ -394,7 +474,7 @@
     "url": "https://www.marketwatch.com/story/what-possible-credit-legislation-could-mean-for-visa-mastercard-and-you-11658967695",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-27T20:21:00-04:00",
     "date_et": "2022-07-27"
@@ -410,7 +490,7 @@
     "url": "https://seekingalpha.com/article/4527364-visa-vs-american-express-which-is-better",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-29T07:46:15-04:00",
     "date_et": "2022-07-29"
@@ -426,7 +506,7 @@
     "url": "https://invezz.com/news/2022/07/30/visa-inc-crushes-third-quarter-financial-estimates/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-30T06:34:56-04:00",
     "date_et": "2022-07-30"
@@ -442,7 +522,7 @@
     "url": "https://www.fool.com/investing/2022/07/31/visa-stock-overcomes-rising-economic-challenges-is/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-31T07:05:00-04:00",
     "date_et": "2022-07-31"
@@ -458,7 +538,7 @@
     "url": "https://www.fool.com/investing/2022/07/31/2-unstoppable-growth-stocks-to-buy-now/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-07-31T10:15:00-04:00",
     "date_et": "2022-07-31"
@@ -474,7 +554,7 @@
     "url": "https://www.fool.com/investing/2022/08/01/3-warren-buffett-stocks-buy-hand-over-fist-august/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-01T05:06:00-04:00",
     "date_et": "2022-08-01"
@@ -490,7 +570,7 @@
     "url": "https://www.zacks.com/stock/news/1962011/5-s-p-500-behemoths-to-buy-for-stellar-returns-in-august",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-02T09:50:43-04:00",
     "date_et": "2022-08-02"
@@ -506,7 +586,7 @@
     "url": "https://www.gurufocus.com/news/1841423/5-credit-service-companies-with-high-gf-scores",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-02T17:39:53-04:00",
     "date_et": "2022-08-02"
@@ -522,7 +602,7 @@
     "url": "https://seekingalpha.com/article/4528855-how-to-benefit-most-from-a-dividend-growth-stock-using-visa-as-an-example",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-02T19:09:51-04:00",
     "date_et": "2022-08-02"
@@ -538,7 +618,7 @@
     "url": "https://www.fool.com/investing/2022/08/03/better-buy-paypal-or-visa/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-03T06:45:00-04:00",
     "date_et": "2022-08-03"
@@ -554,7 +634,7 @@
     "url": "https://www.zacks.com/stock/news/1962796/visa-inc-v-is-attracting-investor-attention-here-is-what-you-should-know",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-03T10:32:26-04:00",
     "date_et": "2022-08-03"
@@ -570,7 +650,7 @@
     "url": "https://stockmarket.com/featured/5-cyclical-stocks-to-watch-in-august-2022-2022-08-03",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-03T13:37:43-04:00",
     "date_et": "2022-08-03"
@@ -586,7 +666,7 @@
     "url": "https://www.cnbc.com/2022/08/04/visa-suspends-card-payments-for-ad-purchases-on-pornhub-and-mindgeek-amid-controversy.html",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-04T12:06:33-04:00",
     "date_et": "2022-08-04"
@@ -602,7 +682,7 @@
     "url": "https://investorplace.com/best-blockchain-stocks/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-04T15:31:23-04:00",
     "date_et": "2022-08-04"
@@ -618,7 +698,7 @@
     "url": "https://www.pymnts.com/credit-cards/2022/pornhubs-legal-turmoil-prompts-visa-halt-card-payments-ad-buys/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-04T15:32:19-04:00",
     "date_et": "2022-08-04"
@@ -634,7 +714,7 @@
     "url": "https://www.reuters.com/business/finance/mastercard-visa-suspend-ties-with-ad-arm-pornhub-owner-mindgeek-2022-08-04/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-04T17:16:00-04:00",
     "date_et": "2022-08-04"
@@ -650,7 +730,7 @@
     "url": "https://247wallst.com/investing/2022/08/04/these-are-the-ten-biggest-companies-with-over-90-institutional-ownership/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-04T21:10:10-04:00",
     "date_et": "2022-08-04"
@@ -666,7 +746,7 @@
     "url": "https://seekingalpha.com/article/4530140-visa-entered-buying-zone",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-05T07:10:18-04:00",
     "date_et": "2022-08-05"
@@ -682,7 +762,7 @@
     "url": "https://www.fool.com/investing/2022/08/06/nasdaq-bear-market-5-growth-stocks-regret-not-buy/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-06T05:06:00-04:00",
     "date_et": "2022-08-06"
@@ -698,7 +778,7 @@
     "url": "https://www.pymnts.com/partnerships/2022/western-union-expands-integration-with-visa-direct/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-09T11:48:09-04:00",
     "date_et": "2022-08-09"
@@ -714,7 +794,7 @@
     "url": "https://www.pymnts.com/news/faster-payments/2022/astra-taps-visa-direct-offer-faster-payments/",
     "ticker": "V",
     "event_date": "2022-07-26",
-    "window_start": "2022-07-19",
+    "window_start": "2022-07-12",
     "window_end": "2022-08-09",
     "publishedDateET": "2022-08-09T12:50:04-04:00",
     "date_et": "2022-08-09"

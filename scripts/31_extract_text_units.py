@@ -50,6 +50,16 @@ ET = ZoneInfo("America/New_York")
 DATE_DIR_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 SPEAKER_RE = re.compile(r"^([A-Za-z][A-Za-z .\-\'&]{0,80}):\s*(.*)$")
+def _is_header_only(line: str) -> bool:
+    """
+    Returns True if the line has a colon and nothing after the first colon
+    (e.g., 'John Doe - Firm:' or 'Operator:' with no trailing content).
+    Used to drop leading roster/header lines.
+    """
+    if ":" not in line:
+        return False
+    before, after = line.split(":", 1)
+    return before.strip() != "" and after.strip() == ""
 
 
 # -------------------------
@@ -309,6 +319,21 @@ def _strip_speaker(line: str) -> str:
     return (m.group(2) or "").strip()
 
 
+def _drop_leading_meta_lines(lines: List[str]) -> List[str]:
+    """
+    Remove leading metadata lines that are just \"Name - Firm:\" headers with no content.
+    These sometimes precede the true start of the transcript (e.g., analyst roster).
+    """
+    i = 0
+    while i < len(lines):
+        ln = (lines[i] or "").strip()
+        if _is_header_only(ln):
+            i += 1
+            continue
+        break
+    return lines[i:]
+
+
 def find_qa_start(lines_non_empty: List[str]) -> Tuple[Optional[int], str, Optional[str]]:
     """
     Decide the first non-empty line index (0-based) that begins the Q&A section.
@@ -393,6 +418,7 @@ def transcript_speaker_turns(transcript_text: str) -> Tuple[List[Dict[str, Any]]
     """
     raw_lines = transcript_text.splitlines()
     non_empty: List[str] = [ln.strip() for ln in raw_lines if (ln or "").strip()]
+    non_empty = _drop_leading_meta_lines(non_empty)
 
     qa_start, qa_marker, anchor_name = find_qa_start(non_empty)
 

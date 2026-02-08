@@ -6,7 +6,7 @@
   "event_wide_out": "data/HD/events/text_lm_transcripts_event_wide.csv",
   "min_tokens": 20,
   "keep_operator": false,
-  "rows_in": 1478,
+  "rows_in": 1477,
   "rows_scored": 939,
   "events_scored": 20
 }

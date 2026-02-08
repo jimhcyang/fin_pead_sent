@@ -4,11 +4,39 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2021-06-03",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2021-05-27",
+  "start": "2021-05-20",
   "end": "2021-06-17",
   "chunks": [
+    {
+      "start": "2021-05-20",
+      "end": "2021-05-20"
+    },
+    {
+      "start": "2021-05-21",
+      "end": "2021-05-21"
+    },
+    {
+      "start": "2021-05-22",
+      "end": "2021-05-22"
+    },
+    {
+      "start": "2021-05-23",
+      "end": "2021-05-23"
+    },
+    {
+      "start": "2021-05-24",
+      "end": "2021-05-24"
+    },
+    {
+      "start": "2021-05-25",
+      "end": "2021-05-25"
+    },
+    {
+      "start": "2021-05-26",
+      "end": "2021-05-26"
+    },
     {
       "start": "2021-05-27",
       "end": "2021-05-27"
@@ -105,16 +133,16 @@
   "chunk_days": 0,
   "pad_days": 0,
   "sleep": 0.05,
-  "fetched_total": 34,
-  "kept_total": 34,
+  "fetched_total": 41,
+  "kept_total": 41,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2021-05-27T15:47:18-04:00",
+  "min_publishedDateET": "2021-05-20T13:33:42-04:00",
   "max_publishedDateET": "2021-06-15T08:00:00-04:00",
   "outputs": {
     "raw_json": "data/AVGO/news/2021-06-03/stock_news.raw.json",
     "jsonl": "data/AVGO/news/2021-06-03/stock_news.jsonl",
     "csv": "data/AVGO/news/2021-06-03/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:23:40.328544-05:00",
+  "generated_at": "2026-02-07T19:25:44.447161-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

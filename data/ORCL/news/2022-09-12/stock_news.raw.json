@@ -1,6 +1,38 @@
 [
   {
     "symbol": "ORCL",
+    "publishedDate": "2022-08-31 09:00:00",
+    "publisher": "Business Wire",
+    "title": "Pecan AI More Than Doubles Revenue in the First Half of 2022",
+    "image": "https://images.financialmodelingprep.com/news/pecan-ai-more-than-doubles-revenue-in-the-first-20220831.jpg",
+    "site": "businesswire.com",
+    "text": "NEW YORK & TEL AVIV, Israel--(BUSINESS WIRE)--Pecan AI, the leader in AI-based predictive analytics for BI analysts and business teams, today announced significant growth in the first half of 2022, including Annual Recurring Revenue (ARR) jumping 150%, customer count increasing by 121% and the number of employees now at 125, up by more than 60%. Pecan also welcomed several new key executives including Chris Sweeney as SVP of Sales and Danielle Gotkis as SVP of Marketing. Abhay Parasnis, the former CTO & CPO of Adobe, joined Pecan as board advisor. Pecan is the world’s only low-code predictive analytics and data science platform designed for business teams across sales, marketing, operations, and the data analytics teams that support them. Given the recent macroeconomic complexities, more stringent privacy rules, discontinuation of third party cookies, and the ever-growing list of digital channels which makes customer behavior less predictable, today’s revenue and go-to-market teams are increasingly challenged to substantiate their decisions and demonstrate value in a measurable manner. In deploying Pecan, these teams can now use their massive pools of first-party data and state-of-the-art AI-based statistical algorithms to predict future customer behavior, empowering them to make non-biased, data-driven decisions that positively impact their customer journey KPIs, as well as revenue and profitability. In February 2022, Pecan announced a $66 million Series C funding round led by global private equity and venture capital firm, Insight Partners with participation from GV, as well as all previous investors. “Every organization aspires to be data-driven, but not every business team has access to sufficient advanced machine learning capabilities they need to succeed,” said Zohar Bronfman, co-founder and CEO of Pecan. “Imagine knowing on day two after acquiring a customer whether they’ll become a high-value customer within the next 30 or 45 days, how much they’re likely to spend over the next 3 months, or if they’ll churn in just a couple of weeks. Armed with this data, our clients have transformed how they make their decisions regarding acquisition and retention programs, evolving their customer experience with the level of personalization, agility, and precision never thought possible before. It’s clear that we are tapping into a need that previously had not been addressed.” In addition to record growth, Pecan has added several prominent customers to its roster, including mobile gaming companies Genesis and Beach Bum, and a popular DTC wellness brand Hydrant who tripled its revenue per customer from promotions that relied on Pecan’s predictions. These new companies join Pecan's growing list of customers that includes Johnson & Johnson, CAA Club Group, and SciPlay. This month, Pecan has also hit a major milestone of a billion monthly predictions in live production, affecting billions of dollars in revenue for its customers. “The great momentum Pecan is experiencing is incredible validation that the market demand for data science far exceeds the supply of data scientists,” said George Mathew, Managing Director at Insight Partners. “By empowering companies to accurately predict future events without requiring data science resources, Pecan enables its customers to accelerate and enhance their data literacy, empowering business teams to become more agile and deliberate with how they drive revenue and growth.” Pecan currently has a leadership team of 11, including new hires Sweeney and Gotkis. The leadership team is made up of almost 50% women. In addition to Gotkis, Limor Segev serves as SVP of Product, Riki Falah as VP of Finance, and Linat Wager as VP of builder experience. Danielle Gotkis has a long history of marketing management roles, including at Recurly, Feedzai and dLocal (NASDAQ: DLO). Chris Sweeney comes from a long history in enterprise sales leadership, including at New Relic (NYSE: NEWR) and Oracle (NYSE: ORCL). To learn more about Pecan AI, visit: pecan.ai About Pecan AI Pecan helps business intelligence, operations, and revenue teams predict mission-critical outcomes. As the world’s only low-code predictive analytics platform, Pecan enables companies to harness the full power of AI and predictive modeling without requiring any data scientists on staff. With Pecan’s platform, companies turn hindsight into foresight by generating highly accurate predictions and recommendations that improve customer lifetime value, retention, conversion rates, demand forecasting, and other revenue-driving KPIs. Founded in 2018, Pecan’s predictions impact billions of dollars in revenue for fintech, insurance, retail, consumer packaged goods, mobile apps, and consumer services companies of all sizes. Learn more at www.pecan.ai.",
+    "url": "http://www.businesswire.com/news/home/20220831005167/en/Pecan-AI-More-Than-Doubles-Revenue-in-the-First-Half-of-2022",
+    "ticker": "ORCL",
+    "event_date": "2022-09-12",
+    "window_start": "2022-08-29",
+    "window_end": "2022-09-26",
+    "publishedDateET": "2022-08-31T09:00:00-04:00",
+    "date_et": "2022-08-31"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2022-09-02 08:00:00",
+    "publisher": "PRNewsWire",
+    "title": "Oracle Sets the Date for its First Quarter Fiscal Year 2023 Earnings Announcement",
+    "image": "https://images.financialmodelingprep.com/news/oracle-sets-the-date-for-its-first-quarter-fiscal-20220902.jpg",
+    "site": "prnewswire.com",
+    "text": "Earnings Results to be released on September 12, 2022, After the Close of the Market AUSTIN, Texas , Sept. 2, 2022 /PRNewswire/ -- Oracle Corporation today announced that its first quarter fiscal year 2023 results will be released on Monday, September 12th, after the close of the market.",
+    "url": "https://www.prnewswire.com/news-releases/oracle-sets-the-date-for-its-first-quarter-fiscal-year-2023-earnings-announcement-301616718.html",
+    "ticker": "ORCL",
+    "event_date": "2022-09-12",
+    "window_start": "2022-08-29",
+    "window_end": "2022-09-26",
+    "publishedDateET": "2022-09-02T08:00:00-04:00",
+    "date_et": "2022-09-02"
+  },
+  {
+    "symbol": "ORCL",
     "publishedDate": "2022-09-06 13:37:29",
     "publisher": "VentureBeat",
     "title": "Can AI help Oracle take on Salesforce to boost B2B sales?",
@@ -10,7 +42,7 @@
     "url": "https://venturebeat.com/ai/can-ai-help-oracle-take-on-salesforce-to-boost-b2b-sales/",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-06T13:37:29-04:00",
     "date_et": "2022-09-06"
@@ -26,7 +58,7 @@
     "url": "https://www.zacks.com/commentary/1977777/previewing-the-q3-earnings-season-as-estimates-slide",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-07T19:34:18-04:00",
     "date_et": "2022-09-07"
@@ -42,7 +74,7 @@
     "url": "https://www.zacks.com/stock/news/1977733/oracle-q1-preview-double-digit-revenue-growth-inbound",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-07T18:48:08-04:00",
     "date_et": "2022-09-07"
@@ -58,7 +90,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2022/09/08/what-to-expect-from-oracle-stock/",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-08T09:00:45-04:00",
     "date_et": "2022-09-08"
@@ -74,7 +106,7 @@
     "url": "https://247wallst.com/investing/2022/09/09/these-are-the-10-biggest-firms-releasing-earnings-next-week/",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-09T20:15:51-04:00",
     "date_et": "2022-09-09"
@@ -90,7 +122,7 @@
     "url": "https://www.investors.com/research/earnings-preview/oracle-orcl-stock-makes-key-test-ahead-of-quarterly-results-adobe-adbe-stock-struggles-amid-growth-concerns/",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-09T11:27:58-04:00",
     "date_et": "2022-09-09"
@@ -106,7 +138,7 @@
     "url": "https://247wallst.com/investing/2022/09/09/earnings-previews-oracle-planet-labs/",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-09T09:25:48-04:00",
     "date_et": "2022-09-09"
@@ -122,7 +154,7 @@
     "url": "https://www.barrons.com/articles/twitter-starbucks-oracle-danaher-and-other-stocks-for-investors-to-watch-this-week-51662922801",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-11T15:00:00-04:00",
     "date_et": "2022-09-11"
@@ -138,7 +170,7 @@
     "url": "https://www.foxbusiness.com/markets/twitter-whistleblower-testimony-consumer-price-index-oracle-earnings-top-week-ahead",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-11T11:19:12-04:00",
     "date_et": "2022-09-11"
@@ -154,7 +186,7 @@
     "url": "https://www.cnbc.com/2022/09/11/wall-streets-top-analysts-are-bullish-on-these-stocks-amid-an-uncertain-economy.html",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-11T08:58:36-04:00",
     "date_et": "2022-09-11"
@@ -170,7 +202,7 @@
     "url": "https://www.fool.com/investing/2022/09/11/2-stocks-that-could-end-the-bear-market-this-week/",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-11T04:54:00-04:00",
     "date_et": "2022-09-11"
@@ -186,7 +218,7 @@
     "url": "https://seekingalpha.com/article/4540536-oracle-corporation-orcl-q1-2023-earnings-call-transcript",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-12T22:07:04-04:00",
     "date_et": "2022-09-12"
@@ -202,7 +234,7 @@
     "url": "https://www.zacks.com/stock/news/1979549/market-rally-won-t-discourage-fed-from-cranking-rates",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-12T19:33:05-04:00",
     "date_et": "2022-09-12"
@@ -218,7 +250,7 @@
     "url": "https://www.zacks.com/stock/news/1979508/oracle-orcl-misses-q1-earnings-and-revenue-estimates",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-12T18:48:21-04:00",
     "date_et": "2022-09-12"
@@ -234,7 +266,7 @@
     "url": "https://www.barrons.com/articles/oracle-earnings-stock-price-51663016579",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-12T18:08:00-04:00",
     "date_et": "2022-09-12"
@@ -250,7 +282,7 @@
     "url": "https://invezz.com/news/2022/09/12/should-you-buy-oracle-shares-after-q1-earnings/",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-12T17:55:02-04:00",
     "date_et": "2022-09-12"
@@ -266,7 +298,7 @@
     "url": "https://www.cnbc.com/2022/09/12/oracle-reports-18percent-revenue-growth-after-cerner-deal-closes.html",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-12T16:41:37-04:00",
     "date_et": "2022-09-12"
@@ -282,7 +314,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-announces-mysql-heatwave-on-aws-301622389.html",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-12T16:29:00-04:00",
     "date_et": "2022-09-12"
@@ -298,7 +330,7 @@
     "url": "https://www.reuters.com/technology/oracle-offers-its-mysql-heatwave-database-analytics-amazons-cloud-2022-09-12/",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-12T16:27:10-04:00",
     "date_et": "2022-09-12"
@@ -314,7 +346,7 @@
     "url": "https://www.investors.com/news/technology/orcl-stock-wavers-on-quarterly-earnings/",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-12T16:24:04-04:00",
     "date_et": "2022-09-12"
@@ -330,7 +362,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-announces-fiscal-2023-first-quarter-financial-results-301622339.html",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-12T16:05:00-04:00",
     "date_et": "2022-09-12"
@@ -346,7 +378,7 @@
     "url": "https://www.zacks.com/stock/news/1979210/top-5-tech-stocks-at-attractive-valuations-for-the-rest-of-2022",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-12T09:47:09-04:00",
     "date_et": "2022-09-12"
@@ -362,7 +394,7 @@
     "url": "https://www.gurufocus.com/news/1864556/oracles-secular-growth-trajectory-is-admirable",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-13T16:15:50-04:00",
     "date_et": "2022-09-13"
@@ -378,7 +410,7 @@
     "url": "https://www.zacks.com/stock/news/1979949/oracle-orcl-q1-earnings-miss-estimates-revenues-rise",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-13T13:32:23-04:00",
     "date_et": "2022-09-13"
@@ -394,7 +426,7 @@
     "url": "https://www.zacks.com/stock/news/1980001/etfs-in-focus-post-oracle-earnings",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-13T13:32:20-04:00",
     "date_et": "2022-09-13"
@@ -410,7 +442,7 @@
     "url": "https://www.marketbeat.com/originals/the-two-things-you-need-to-know-about-oracles-fq1-report/?SNAPI",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-13T09:50:03-04:00",
     "date_et": "2022-09-13"
@@ -426,7 +458,7 @@
     "url": "https://www.marketwatch.com/story/oracle-luring-customers-away-from-amazon-as-cloud-battle-intensifies-larry-ellison-11663076896",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-13T09:48:00-04:00",
     "date_et": "2022-09-13"
@@ -442,7 +474,7 @@
     "url": "https://investorplace.com/2022/09/why-is-oracle-orcl-stock-in-the-spotlight-today/",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-13T09:41:44-04:00",
     "date_et": "2022-09-13"
@@ -458,7 +490,7 @@
     "url": "https://www.prnewswire.com/news-releases/tribal-casinos-deliver-winning-guest-experiences-with-oracle-cloud-301622666.html",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-13T09:00:00-04:00",
     "date_et": "2022-09-13"
@@ -474,7 +506,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-opens-first-cloud-region-in-spain-301622626.html",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-13T08:05:00-04:00",
     "date_et": "2022-09-13"
@@ -490,7 +522,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-empowers-managers-to-elevate-the-employee-experience-301622168.html",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-13T08:02:00-04:00",
     "date_et": "2022-09-13"
@@ -506,7 +538,7 @@
     "url": "https://investorplace.com/best-retirement-stocks/",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-13T07:37:20-04:00",
     "date_et": "2022-09-13"
@@ -522,7 +554,7 @@
     "url": "https://www.zacks.com/commentary/1980612/q3-earnings-season-gets-underway",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-14T18:44:13-04:00",
     "date_et": "2022-09-14"
@@ -538,7 +570,7 @@
     "url": "https://www.zacks.com/stock/news/1980573/oracle-orcl-opens-first-cloud-region-in-spain-with-telefonica",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-14T14:14:09-04:00",
     "date_et": "2022-09-14"
@@ -554,7 +586,7 @@
     "url": "https://www.fool.com/investing/2022/09/14/is-oracle-stock-a-buy-now/",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-14T05:05:00-04:00",
     "date_et": "2022-09-14"
@@ -570,7 +602,7 @@
     "url": "https://www.zacks.com/stock/news/1981368/is-most-watched-stock-oracle-corporation-orcl-worth-betting-on-now",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-16T10:32:33-04:00",
     "date_et": "2022-09-16"
@@ -586,7 +618,7 @@
     "url": "https://seekingalpha.com/article/4541324-oracle-wake-up-call-recent-earnings",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-16T08:45:00-04:00",
     "date_et": "2022-09-16"
@@ -602,7 +634,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-releases-java-19-301627861.html",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-20T11:10:00-04:00",
     "date_et": "2022-09-20"
@@ -618,7 +650,7 @@
     "url": "https://www.marketbeat.com/originals/oracles-short-term-pain-could-be-your-long-term-gain/?SNAPI",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-20T01:45:10-04:00",
     "date_et": "2022-09-20"
@@ -634,7 +666,7 @@
     "url": "https://www.zacks.com/commentary/1983304/how-earnings-estimates-are-evolving-amid-inflation-and-higher-rates",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-21T19:33:42-04:00",
     "date_et": "2022-09-21"
@@ -650,7 +682,7 @@
     "url": "https://www.zacks.com/commentary/1983282/how-earnings-estimates-are-evolving-amid-inflation-and-higher-rates",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-21T19:33:41-04:00",
     "date_et": "2022-09-21"
@@ -666,7 +698,7 @@
     "url": "https://www.pymnts.com/news/2022/keybank-partners-with-oracle-to-digitize-consumer-lending-process/",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-21T15:48:01-04:00",
     "date_et": "2022-09-21"
@@ -682,7 +714,7 @@
     "url": "https://www.fool.com/investing/2022/09/21/oracle-has-shocking-news-that-you-should-know/",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-21T10:23:00-04:00",
     "date_et": "2022-09-21"
@@ -698,7 +730,7 @@
     "url": "https://www.prnewswire.com/news-releases/keybank-overhauls-consumer-lending-with-oracle-301629073.html",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-21T07:45:00-04:00",
     "date_et": "2022-09-21"
@@ -714,7 +746,7 @@
     "url": "https://www.fool.com/investing/2022/09/21/this-company-is-taking-cloud-customers-from-amazon/",
     "ticker": "ORCL",
     "event_date": "2022-09-12",
-    "window_start": "2022-09-05",
+    "window_start": "2022-08-29",
     "window_end": "2022-09-26",
     "publishedDateET": "2022-09-21T05:30:00-04:00",
     "date_et": "2022-09-21"

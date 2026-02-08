@@ -4,13 +4,13 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2025-07-31",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2025-07-24",
+  "start": "2025-07-17",
   "end": "2025-08-14",
   "chunks": [
     {
-      "start": "2025-07-24",
+      "start": "2025-07-17",
       "end": "2025-08-14"
     }
   ],
@@ -21,16 +21,16 @@
   "chunk_days": 0,
   "pad_days": 1,
   "sleep": 0.05,
-  "fetched_total": 527,
-  "kept_total": 494,
+  "fetched_total": 608,
+  "kept_total": 577,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2025-07-24T08:07:00-04:00",
+  "min_publishedDateET": "2025-07-17T05:03:16-04:00",
   "max_publishedDateET": "2025-08-14T19:35:44-04:00",
   "outputs": {
     "raw_json": "data/AAPL/news/2025-07-31/stock_news.raw.json",
     "jsonl": "data/AAPL/news/2025-07-31/stock_news.jsonl",
     "csv": "data/AAPL/news/2025-07-31/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:21:33.375227-05:00",
+  "generated_at": "2026-02-07T19:23:17.949167-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

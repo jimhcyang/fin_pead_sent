@@ -4,11 +4,39 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2022-04-13",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2022-04-06",
+  "start": "2022-03-30",
   "end": "2022-04-27",
   "chunks": [
+    {
+      "start": "2022-03-30",
+      "end": "2022-03-30"
+    },
+    {
+      "start": "2022-03-31",
+      "end": "2022-03-31"
+    },
+    {
+      "start": "2022-04-01",
+      "end": "2022-04-01"
+    },
+    {
+      "start": "2022-04-02",
+      "end": "2022-04-02"
+    },
+    {
+      "start": "2022-04-03",
+      "end": "2022-04-03"
+    },
+    {
+      "start": "2022-04-04",
+      "end": "2022-04-04"
+    },
+    {
+      "start": "2022-04-05",
+      "end": "2022-04-05"
+    },
     {
       "start": "2022-04-06",
       "end": "2022-04-06"
@@ -105,16 +133,16 @@
   "chunk_days": 0,
   "pad_days": 0,
   "sleep": 0.05,
-  "fetched_total": 78,
-  "kept_total": 78,
+  "fetched_total": 116,
+  "kept_total": 116,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2022-04-06T18:49:14-04:00",
+  "min_publishedDateET": "2022-03-30T19:20:08-04:00",
   "max_publishedDateET": "2022-04-25T14:07:11-04:00",
   "outputs": {
     "raw_json": "data/JPM/news/2022-04-13/stock_news.raw.json",
     "jsonl": "data/JPM/news/2022-04-13/stock_news.jsonl",
     "csv": "data/JPM/news/2022-04-13/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:26:20.792044-05:00",
+  "generated_at": "2026-02-07T19:29:42.645333-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

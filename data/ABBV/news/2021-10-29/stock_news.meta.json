@@ -4,11 +4,39 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2021-10-29",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2021-10-22",
+  "start": "2021-10-15",
   "end": "2021-11-12",
   "chunks": [
+    {
+      "start": "2021-10-15",
+      "end": "2021-10-15"
+    },
+    {
+      "start": "2021-10-16",
+      "end": "2021-10-16"
+    },
+    {
+      "start": "2021-10-17",
+      "end": "2021-10-17"
+    },
+    {
+      "start": "2021-10-18",
+      "end": "2021-10-18"
+    },
+    {
+      "start": "2021-10-19",
+      "end": "2021-10-19"
+    },
+    {
+      "start": "2021-10-20",
+      "end": "2021-10-20"
+    },
+    {
+      "start": "2021-10-21",
+      "end": "2021-10-21"
+    },
     {
       "start": "2021-10-22",
       "end": "2021-10-22"
@@ -105,16 +133,16 @@
   "chunk_days": 0,
   "pad_days": 0,
   "sleep": 0.05,
-  "fetched_total": 48,
-  "kept_total": 48,
+  "fetched_total": 59,
+  "kept_total": 59,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2021-10-22T16:08:28-04:00",
+  "min_publishedDateET": "2021-10-15T16:03:06-04:00",
   "max_publishedDateET": "2021-11-10T08:30:00-05:00",
   "outputs": {
     "raw_json": "data/ABBV/news/2021-10-29/stock_news.raw.json",
     "jsonl": "data/ABBV/news/2021-10-29/stock_news.jsonl",
     "csv": "data/ABBV/news/2021-10-29/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:33:59.724696-05:00",
+  "generated_at": "2026-02-07T19:40:29.197508-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

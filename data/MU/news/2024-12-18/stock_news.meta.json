@@ -4,33 +4,145 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2024-12-18",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2024-12-11",
+  "start": "2024-12-04",
   "end": "2025-01-01",
   "chunks": [
     {
+      "start": "2024-12-04",
+      "end": "2024-12-04"
+    },
+    {
+      "start": "2024-12-05",
+      "end": "2024-12-05"
+    },
+    {
+      "start": "2024-12-06",
+      "end": "2024-12-06"
+    },
+    {
+      "start": "2024-12-07",
+      "end": "2024-12-07"
+    },
+    {
+      "start": "2024-12-08",
+      "end": "2024-12-08"
+    },
+    {
+      "start": "2024-12-09",
+      "end": "2024-12-09"
+    },
+    {
+      "start": "2024-12-10",
+      "end": "2024-12-10"
+    },
+    {
       "start": "2024-12-11",
+      "end": "2024-12-11"
+    },
+    {
+      "start": "2024-12-12",
+      "end": "2024-12-12"
+    },
+    {
+      "start": "2024-12-13",
+      "end": "2024-12-13"
+    },
+    {
+      "start": "2024-12-14",
+      "end": "2024-12-14"
+    },
+    {
+      "start": "2024-12-15",
+      "end": "2024-12-15"
+    },
+    {
+      "start": "2024-12-16",
+      "end": "2024-12-16"
+    },
+    {
+      "start": "2024-12-17",
+      "end": "2024-12-17"
+    },
+    {
+      "start": "2024-12-18",
+      "end": "2024-12-18"
+    },
+    {
+      "start": "2024-12-19",
+      "end": "2024-12-19"
+    },
+    {
+      "start": "2024-12-20",
+      "end": "2024-12-20"
+    },
+    {
+      "start": "2024-12-21",
+      "end": "2024-12-21"
+    },
+    {
+      "start": "2024-12-22",
+      "end": "2024-12-22"
+    },
+    {
+      "start": "2024-12-23",
+      "end": "2024-12-23"
+    },
+    {
+      "start": "2024-12-24",
+      "end": "2024-12-24"
+    },
+    {
+      "start": "2024-12-25",
+      "end": "2024-12-25"
+    },
+    {
+      "start": "2024-12-26",
+      "end": "2024-12-26"
+    },
+    {
+      "start": "2024-12-27",
+      "end": "2024-12-27"
+    },
+    {
+      "start": "2024-12-28",
+      "end": "2024-12-28"
+    },
+    {
+      "start": "2024-12-29",
+      "end": "2024-12-29"
+    },
+    {
+      "start": "2024-12-30",
+      "end": "2024-12-30"
+    },
+    {
+      "start": "2024-12-31",
+      "end": "2024-12-31"
+    },
+    {
+      "start": "2025-01-01",
       "end": "2025-01-01"
     }
   ],
-  "per_day": false,
-  "fallback_per_day_used": false,
+  "per_day": true,
+  "fallback_per_day_used": true,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
-  "pad_days": 1,
+  "pad_days": 0,
   "sleep": 0.05,
   "fetched_total": 135,
-  "kept_total": 124,
+  "kept_total": 135,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2024-12-11T05:10:00-05:00",
+  "min_publishedDateET": "2024-12-06T15:05:04-05:00",
   "max_publishedDateET": "2025-01-01T06:30:00-05:00",
   "outputs": {
     "raw_json": "data/MU/news/2024-12-18/stock_news.raw.json",
     "jsonl": "data/MU/news/2024-12-18/stock_news.jsonl",
     "csv": "data/MU/news/2024-12-18/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:32:00.422320-05:00",
+  "generated_at": "2026-02-07T19:37:41.924886-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

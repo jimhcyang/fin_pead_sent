@@ -1,6 +1,214 @@
 [
   {
     "symbol": "ORCL",
+    "publishedDate": "2025-02-24 09:00:00",
+    "publisher": "Seeking Alpha",
+    "title": "Oracle Q3 Preview: Secular Growth Acceleration Continues, Expect Lower FX Impact",
+    "image": "https://images.financialmodelingprep.com/news/oracle-q3-preview-secular-growth-acceleration-continues-expect-lower-20250224.jpg",
+    "site": "seekingalpha.com",
+    "text": "Oracle's currency headwinds in 3Q are expected to alleviate due to the weak dollar over the past few weeks, creating the potential to exceed market consensus. The company can maintain growth acceleration in revenue in 3Q on a constant currency basis, and its long-term growth potential is supported by nearly 50% YoY growth in RPO. Strong RPO growth is largely driven by cloud contract backlogs, which accounted for 75% of total RPO in 2Q.",
+    "url": "https://seekingalpha.com/article/4761032-oracle-q3-preview-secular-growth-acceleration-continues-expect-lower-fx-impact",
+    "ticker": "ORCL",
+    "event_date": "2025-03-10",
+    "window_start": "2025-02-24",
+    "window_end": "2025-03-24",
+    "publishedDateET": "2025-02-24T09:00:00-05:00",
+    "date_et": "2025-02-24"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2025-02-24 12:14:31",
+    "publisher": "The Motley Fool",
+    "title": "Why C3.ai, Oracle, and NuScale Power Stocks Are Moving on Monday",
+    "image": "https://images.financialmodelingprep.com/news/why-c3ai-oracle-and-nuscale-power-stocks-are-moving-20250224.jpg",
+    "site": "fool.com",
+    "text": "Big news in the artificial intelligence (AI) space over the weekend is shaking up stock prices at AI app-maker C3.ai (AI -4.77%) and small modular nuclear power plant-builder NuScale Power (SMR -3.41%) this morning, with C3.ai stock down 6.4% through 10:20 a.m. ET, and NuScale off 6.2%.",
+    "url": "https://www.fool.com/investing/2025/02/24/why-c3ai-oracle-and-nuscale-power-stocks-moving/",
+    "ticker": "ORCL",
+    "event_date": "2025-03-10",
+    "window_start": "2025-02-24",
+    "window_end": "2025-03-24",
+    "publishedDateET": "2025-02-24T12:14:31-05:00",
+    "date_et": "2025-02-24"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2025-02-25 04:03:00",
+    "publisher": "The Motley Fool",
+    "title": "Prediction: 1 Stock That Will Be Worth More Than Oracle 5 Years From Now",
+    "image": "https://images.financialmodelingprep.com/news/prediction-1-stock-that-will-be-worth-more-than-20250225.jpg",
+    "site": "fool.com",
+    "text": "The fast-growing adoption of artificial intelligence (AI) has given Oracle (ORCL 1.28%) a nice boost over the past couple of years, with shares of the company that's known for providing database management systems more than doubling during this period.",
+    "url": "https://www.fool.com/investing/2025/02/25/prediction-1-stock-that-will-be-worth-more-than-or/",
+    "ticker": "ORCL",
+    "event_date": "2025-03-10",
+    "window_start": "2025-02-24",
+    "window_end": "2025-03-24",
+    "publishedDateET": "2025-02-25T04:03:00-05:00",
+    "date_et": "2025-02-25"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2025-02-25 07:15:15",
+    "publisher": "MarketBeat",
+    "title": "3 Explosive Tech Stocks Breaking Out Right Now",
+    "image": "https://images.financialmodelingprep.com/news/3-explosive-tech-stocks-breaking-out-right-now-20250225.jpg",
+    "site": "marketbeat.com",
+    "text": "The entire stock market seems to be centered around the technology sector today, going after the ever-increasing valuations and growth projections seen in the artificial intelligence space and its support areas, such as semiconductors and chip makers. However, there is another area that hasn't gotten too much attention lately.",
+    "url": "https://www.marketbeat.com/stock-ideas/3-explosive-tech-stocks-breaking-out-right-now/",
+    "ticker": "ORCL",
+    "event_date": "2025-03-10",
+    "window_start": "2025-02-24",
+    "window_end": "2025-03-24",
+    "publishedDateET": "2025-02-25T07:15:15-05:00",
+    "date_et": "2025-02-25"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2025-02-25 10:05:37",
+    "publisher": "Zacks Investment Research",
+    "title": "Investors Heavily Search Oracle Corporation (ORCL): Here is What You Need to Know",
+    "image": "https://images.financialmodelingprep.com/news/investors-heavily-search-oracle-corporation-orcl-here-is-what-20250225.jpg",
+    "site": "zacks.com",
+    "text": "Zacks.com users have recently been watching Oracle (ORCL) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+    "url": "https://www.zacks.com/stock/news/2421016/investors-heavily-search-oracle-corporation-orcl-here-is-what-you-need-to-know?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|most_searched_stocks-2421016",
+    "ticker": "ORCL",
+    "event_date": "2025-03-10",
+    "window_start": "2025-02-24",
+    "window_end": "2025-03-24",
+    "publishedDateET": "2025-02-25T10:05:37-05:00",
+    "date_et": "2025-02-25"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2025-02-25 16:16:56",
+    "publisher": "Benzinga",
+    "title": "Microsoft Trades At Discount To Oracle Despite Strong Cloud Position: Analyst",
+    "image": "https://images.financialmodelingprep.com/news/microsoft-trades-at-discount-to-oracle-despite-strong-cloud-20250225.jpg",
+    "site": "benzinga.com",
+    "text": "Goldman Sachs analyst Kash Rangan reiterated a Buy rating on Microsoft Corp MSFT with a price target of $500.",
+    "url": "https://www.benzinga.com/analyst-ratings/price-target/25/02/43957240/microsoft-trades-at-discount-to-oracle-despite-strong-cloud-position-analyst",
+    "ticker": "ORCL",
+    "event_date": "2025-03-10",
+    "window_start": "2025-02-24",
+    "window_end": "2025-03-24",
+    "publishedDateET": "2025-02-25T16:16:56-05:00",
+    "date_et": "2025-02-25"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2025-02-26 04:00:00",
+    "publisher": "Business Wire",
+    "title": "Oracle Becoming Major Cloud Player in Europe",
+    "image": "https://images.financialmodelingprep.com/news/oracle-becoming-major-cloud-player-in-europe-20250226.jpg",
+    "site": "businesswire.com",
+    "text": "LONDON--(BUSINESS WIRE)---- $III #AI--Enterprises in Europe are adopting Oracle cloud and AI solutions to meet digital transformation, regulatory and sustainability goals, ISG says.",
+    "url": "https://www.businesswire.com/news/home/20250226132513/en/Oracle-Becoming-Major-Cloud-Player-in-Europe/",
+    "ticker": "ORCL",
+    "event_date": "2025-03-10",
+    "window_start": "2025-02-24",
+    "window_end": "2025-03-24",
+    "publishedDateET": "2025-02-26T04:00:00-05:00",
+    "date_et": "2025-02-26"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2025-02-26 04:12:00",
+    "publisher": "The Motley Fool",
+    "title": "Billionaire David Tepper Just Sold Shares of Amazon, Meta, and Oracle, and Bought Shares of Last Year's Top-Performing Dow Jones Stock and Big AI Winner",
+    "image": "https://images.financialmodelingprep.com/news/billionaire-david-tepper-just-sold-shares-of-amazon-meta-20250226.jpg",
+    "site": "fool.com",
+    "text": "Artificial intelligence (AI) stocks have been major market movers in recent quarters -- and for good reason. AI promises to join many other discoveries and technologies that have been game changers.",
+    "url": "https://www.fool.com/investing/2025/02/26/billionaire-tepper-bought-ai-winner/",
+    "ticker": "ORCL",
+    "event_date": "2025-03-10",
+    "window_start": "2025-02-24",
+    "window_end": "2025-03-24",
+    "publishedDateET": "2025-02-26T04:12:00-05:00",
+    "date_et": "2025-02-26"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2025-02-26 10:30:56",
+    "publisher": "Zacks Investment Research",
+    "title": "Is ORCL Stock a Buy, Sell or Hold at an EV/EBITDA Multiple of 21.89X?",
+    "image": "https://images.financialmodelingprep.com/news/is-orcl-stock-a-buy-sell-or-hold-at-20250226.jpg",
+    "site": "zacks.com",
+    "text": "Oracle's cloud growth impresses, but rich valuation warrants caution. You can hold or wait for better entry points in 2025 as competition and high capex unfold.",
+    "url": "https://www.zacks.com/stock/news/2421973/is-orcl-stock-a-buy-sell-or-hold-at-an-ev-ebitda-multiple-of-21-89x?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2421973",
+    "ticker": "ORCL",
+    "event_date": "2025-03-10",
+    "window_start": "2025-02-24",
+    "window_end": "2025-03-24",
+    "publishedDateET": "2025-02-26T10:30:56-05:00",
+    "date_et": "2025-02-26"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2025-02-26 20:00:00",
+    "publisher": "Business Wire",
+    "title": "Oracle Services Power IT Modernization in Asia Pacific",
+    "image": "https://images.financialmodelingprep.com/news/oracle-services-power-it-modernization-in-asia-pacific-20250226.jpg",
+    "site": "businesswire.com",
+    "text": "SYDNEY--(BUSINESS WIRE)---- $III #AI--A growing number of enterprises in Asia Pacific are seeking Oracle ecosystem services to help them carry out digital transformations, ISG says.",
+    "url": "https://www.businesswire.com/news/home/20250226780495/en/Oracle-Services-Power-IT-Modernization-in-Asia-Pacific/",
+    "ticker": "ORCL",
+    "event_date": "2025-03-10",
+    "window_start": "2025-02-24",
+    "window_end": "2025-03-24",
+    "publishedDateET": "2025-02-26T20:00:00-05:00",
+    "date_et": "2025-02-26"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2025-02-27 08:00:00",
+    "publisher": "PRNewsWire",
+    "title": "Oracle Interconnect for Microsoft Azure Now Supports Oracle US Government Cloud",
+    "image": "https://images.financialmodelingprep.com/news/oracle-interconnect-for-microsoft-azure-now-supports-oracle-us-20250227.jpg",
+    "site": "prnewswire.com",
+    "text": "Interconnect enables customers to migrate and run mission-critical workloads at FedRAMP High AUSTIN, Texas , Feb. 27, 2025  /PRNewswire/ -- To meet growing customer demand for multicloud capabilities, Oracle today announced the general availability of the Oracle US Gov West (Phoenix) and Azure US Gov Arizona (Phoenix) regions for Oracle Interconnect for Microsoft Azure. Joint customers can use the Oracle Interconnect for Microsoft Azure to easily migrate their workloads to Oracle Cloud Infrastructure and Azure FedRAMP High-authorized environments.",
+    "url": "https://www.prnewswire.com/news-releases/oracle-interconnect-for-microsoft-azure-now-supports-oracle-us-government-cloud-302387191.html",
+    "ticker": "ORCL",
+    "event_date": "2025-03-10",
+    "window_start": "2025-02-24",
+    "window_end": "2025-03-24",
+    "publishedDateET": "2025-02-27T08:00:00-05:00",
+    "date_et": "2025-02-27"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2025-02-27 17:30:09",
+    "publisher": "Seeking Alpha",
+    "title": "Oracle: $14.7 Billion Stargate Revenue Opportunity (Rating Upgrade)",
+    "image": "https://images.financialmodelingprep.com/news/oracle-147-billion-stargate-revenue-opportunity-rating-upgrade-20250227.jpg",
+    "site": "seekingalpha.com",
+    "text": "Oracle's involvement in the $100 billion Stargate AI infrastructure project positions it to significantly boost its cloud revenue and market share, potentially reaching $109 billion in revenue by 2029. Oracle's competitive pricing and strategic positioning make it an ideal partner for OpenAI, complementing Microsoft's Azure and easing capacity constraints. The Stargate project enhances US AI competitiveness, job creation, and innovation, with Oracle playing a crucial role in data center construction and cloud services.",
+    "url": "https://seekingalpha.com/article/4763044-oracle-14-7-billion-stargate-revenue-opportunity",
+    "ticker": "ORCL",
+    "event_date": "2025-03-10",
+    "window_start": "2025-02-24",
+    "window_end": "2025-03-24",
+    "publishedDateET": "2025-02-27T17:30:09-05:00",
+    "date_et": "2025-02-27"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2025-02-28 17:15:00",
+    "publisher": "The Motley Fool",
+    "title": "Is Oracle Stock a Buy?",
+    "image": "https://images.financialmodelingprep.com/news/is-oracle-stock-a-buy-20250228.jpg",
+    "site": "fool.com",
+    "text": "Artificial intelligence (AI) has been a boon for a number of businesses, including Oracle (ORCL 0.79%). AI energized the tech company's fortunes, sending its shares soaring 50% over the past 12 months through the week ending Feb. 21.",
+    "url": "https://www.fool.com/investing/2025/02/28/is-oracle-stock-a-buy/",
+    "ticker": "ORCL",
+    "event_date": "2025-03-10",
+    "window_start": "2025-02-24",
+    "window_end": "2025-03-24",
+    "publishedDateET": "2025-02-28T17:15:00-05:00",
+    "date_et": "2025-02-28"
+  },
+  {
+    "symbol": "ORCL",
     "publishedDate": "2025-03-03 07:45:00",
     "publisher": "PRNewsWire",
     "title": "New AI Agent Capabilities in Oracle Textura Help Accelerate Subcontractor Payments",
@@ -10,7 +218,7 @@
     "url": "https://www.prnewswire.com/news-releases/new-ai-agent-capabilities-in-oracle-textura-help-accelerate-subcontractor-payments-302389100.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-03T07:45:00-05:00",
     "date_et": "2025-03-03"
@@ -26,7 +234,7 @@
     "url": "https://www.prnewswire.com/news-releases/lubbock-power--light-fuels-new-customer-options-with-oracle-302389527.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-03T08:00:00-05:00",
     "date_et": "2025-03-03"
@@ -42,7 +250,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-helps-utilities-transform-raw-data-into-intelligence-302389519.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-03T08:00:00-05:00",
     "date_et": "2025-03-03"
@@ -58,7 +266,7 @@
     "url": "https://www.marketbeat.com/stock-ideas/these-3-tech-stocks-are-gaining-steam-after-nvidias-report/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-03T08:02:08-05:00",
     "date_et": "2025-03-03"
@@ -74,7 +282,7 @@
     "url": "https://www.investors.com/news/technology/oracle-stock-earnings-preview-stargate-ai-deepseek/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-03T12:24:02-05:00",
     "date_et": "2025-03-03"
@@ -90,7 +298,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-sets-the-date-for-its-third-quarter-fiscal-year-2025-earnings-announcement-302390338.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-03T16:00:00-05:00",
     "date_et": "2025-03-03"
@@ -106,7 +314,7 @@
     "url": "https://www.fool.com/investing/2025/03/04/better-artificial-intelligence-stock-orcl-vs-nvda/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-04T05:44:00-05:00",
     "date_et": "2025-03-04"
@@ -122,7 +330,7 @@
     "url": "https://www.businesswire.com/news/home/20250304122705/en/AvaSure-Previews-Bedside-AI-Virtual-Care-Assistant-Accelerated-by-Oracle-Cloud-Infrastructure-and-NVIDIA/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-04T08:05:00-05:00",
     "date_et": "2025-03-04"
@@ -138,7 +346,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-helps-health-systems-optimize-management-of-emergency-situations-302391519.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-04T09:00:00-05:00",
     "date_et": "2025-03-04"
@@ -154,7 +362,7 @@
     "url": "https://www.prnewswire.com/news-releases/physicians-reduce-documentation-time-by-30-with-oracle-health-clinical-ai-agent-302391532.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-04T09:15:00-05:00",
     "date_et": "2025-03-04"
@@ -170,7 +378,7 @@
     "url": "https://seekingalpha.com/article/4764700-demographic-trends-shaping-reit-portfolio-construction",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-04T23:57:55-05:00",
     "date_et": "2025-03-04"
@@ -186,7 +394,7 @@
     "url": "https://www.zacks.com/stock/news/2425847/unlocking-q3-potential-of-oracle-orcl-exploring-wall-street-estimates-for-key-metrics?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|nfm_preview-2425847",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-05T10:15:27-05:00",
     "date_et": "2025-03-05"
@@ -202,7 +410,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/03/06/3038281/28124/en/Assessment-of-the-608-Billion-Hyperscale-Data-Center-Industry-2030-Key-Trends-Disruptions-Pricing-Supply-Chain-Technology-Regulations-Investments-and-the-Impact-of-AI.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-06T09:21:00-05:00",
     "date_et": "2025-03-06"
@@ -218,7 +426,7 @@
     "url": "https://www.cnbc.com/2025/03/06/oracles-federal-electronic-health-record-suffered-nation-wide-outage-.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-06T17:36:58-05:00",
     "date_et": "2025-03-06"
@@ -234,7 +442,7 @@
     "url": "https://www.barrons.com/articles/oracle-earnings-ai-stock-fa622459",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-07T04:00:00-05:00",
     "date_et": "2025-03-07"
@@ -250,7 +458,7 @@
     "url": "https://www.benzinga.com/news/earnings/25/03/44189784/how-to-earn-500-a-month-from-oracle-stock-ahead-of-q3-earnings",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-07T08:59:00-05:00",
     "date_et": "2025-03-07"
@@ -266,7 +474,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1067590",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-07T11:43:05-05:00",
     "date_et": "2025-03-07"
@@ -282,7 +490,7 @@
     "url": "https://www.youtube.com/watch?v=p7BQw87dzJk",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-07T12:01:07-05:00",
     "date_et": "2025-03-07"
@@ -298,7 +506,7 @@
     "url": "https://www.investors.com/news/technology/oracle-stock-q3-earnings-february-quarter-results-orcl-news/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-07T13:05:40-05:00",
     "date_et": "2025-03-07"
@@ -314,7 +522,7 @@
     "url": "https://www.investopedia.com/what-analysts-think-of-oracle-stock-ahead-of-earnings-monday-11692393",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-07T16:50:57-05:00",
     "date_et": "2025-03-07"
@@ -330,7 +538,7 @@
     "url": "https://www.investopedia.com/what-to-expect-in-the-markets-this-week-11692664",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-09T06:30:49-04:00",
     "date_et": "2025-03-09"
@@ -346,7 +554,7 @@
     "url": "https://www.youtube.com/watch?v=uww5q6Ck1Ag",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-09T08:01:12-04:00",
     "date_et": "2025-03-09"
@@ -362,7 +570,7 @@
     "url": "https://www.barrons.com/articles/oracle-adobe-dollar-general-stocks-market-ecdf6bfb",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-09T14:00:00-04:00",
     "date_et": "2025-03-09"
@@ -378,7 +586,7 @@
     "url": "https://www.youtube.com/watch?v=le-HG6QUs1g",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T09:17:55-04:00",
     "date_et": "2025-03-10"
@@ -394,7 +602,7 @@
     "url": "https://www.youtube.com/watch?v=j-YVvG7uDPI",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T11:01:00-04:00",
     "date_et": "2025-03-10"
@@ -410,7 +618,7 @@
     "url": "https://www.investopedia.com/what-analysts-think-of-oracle-stock-ahead-of-earnings-monday-update-11692393",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T11:20:10-04:00",
     "date_et": "2025-03-10"
@@ -426,7 +634,7 @@
     "url": "https://www.fool.com/investing/2025/03/10/why-shares-of-alphabet-google-taiwan-semiconductor/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T12:28:00-04:00",
     "date_et": "2025-03-10"
@@ -442,7 +650,7 @@
     "url": "https://www.youtube.com/watch?v=LLtmD4Zd_Is",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T13:00:20-04:00",
     "date_et": "2025-03-10"
@@ -458,7 +666,7 @@
     "url": "https://www.benzinga.com/analyst-ratings/price-target/25/03/44228333/oracle-gears-up-for-q3-print-here-are-the-recent-forecast-changes-from-wall-streets-",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T13:09:41-04:00",
     "date_et": "2025-03-10"
@@ -474,7 +682,7 @@
     "url": "https://seekingalpha.com/article/4766237-oracle-orcl-earnings-preview-stock-down-20-percent-from-november-24-high-ai-momentum-fades",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T13:20:00-04:00",
     "date_et": "2025-03-10"
@@ -490,7 +698,7 @@
     "url": "https://www.benzinga.com/25/03/44229052/oracle-stock-stumbles-into-q3-earnings-will-buyers-step-in-as-it-nears-oversold-territory",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T13:32:20-04:00",
     "date_et": "2025-03-10"
@@ -506,7 +714,7 @@
     "url": "https://www.youtube.com/watch?v=WUxQnRiHDz8",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T13:53:08-04:00",
     "date_et": "2025-03-10"
@@ -522,7 +730,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-announces-fiscal-2025-third-quarter-financial-results-302397429.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T16:05:00-04:00",
     "date_et": "2025-03-10"
@@ -538,7 +746,7 @@
     "url": "https://www.reuters.com/technology/oracle-misses-third-quarter-revenue-estimates-2025-03-10/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T16:09:30-04:00",
     "date_et": "2025-03-10"
@@ -554,7 +762,7 @@
     "url": "https://www.youtube.com/watch?v=UxtHlyyPRag",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T16:31:53-04:00",
     "date_et": "2025-03-10"
@@ -570,7 +778,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1067673",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T16:33:49-04:00",
     "date_et": "2025-03-10"
@@ -586,7 +794,7 @@
     "url": "https://www.cnbc.com/2025/03/10/oracle-orcl-q3-earnings-report-2025.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T16:42:24-04:00",
     "date_et": "2025-03-10"
@@ -602,7 +810,7 @@
     "url": "https://www.youtube.com/watch?v=DQy3mFXbC2E",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T16:46:26-04:00",
     "date_et": "2025-03-10"
@@ -618,7 +826,7 @@
     "url": "https://www.marketwatch.com/story/oracle-shares-gain-as-investors-focus-on-cloud-deals-overlooking-quarterly-revenue-miss-0d88e168",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T16:50:00-04:00",
     "date_et": "2025-03-10"
@@ -634,7 +842,7 @@
     "url": "https://www.youtube.com/watch?v=vpxU17WjHwE",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T17:04:58-04:00",
     "date_et": "2025-03-10"
@@ -650,7 +858,7 @@
     "url": "https://www.wsj.com/tech/oracle-quarterly-revenue-rises-sees-further-growth-ahead-09dfa7e8",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T17:08:00-04:00",
     "date_et": "2025-03-10"
@@ -666,7 +874,7 @@
     "url": "https://www.fool.com/data-news/2025/03/10/oracle-cloud-revenue-surges-23/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T17:10:07-04:00",
     "date_et": "2025-03-10"
@@ -682,7 +890,7 @@
     "url": "https://www.investors.com/news/technology/oracle-stock-earnings-february-2025-orcl-news/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T17:19:57-04:00",
     "date_et": "2025-03-10"
@@ -698,7 +906,7 @@
     "url": "https://www.investopedia.com/oracle-earnings-q3-fy2025-11694091",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T17:30:54-04:00",
     "date_et": "2025-03-10"
@@ -714,7 +922,7 @@
     "url": "https://www.zacks.com/stock/news/2427970/oracle-orcl-q3-earnings-and-revenues-miss-estimates?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_4-2427970",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T18:16:06-04:00",
     "date_et": "2025-03-10"
@@ -730,7 +938,7 @@
     "url": "https://seekingalpha.com/article/4766310-oracle-corporation-orcl-q3-2025-earnings-call-transcript",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-10T19:47:34-04:00",
     "date_et": "2025-03-10"
@@ -746,7 +954,7 @@
     "url": "https://www.fool.com/investing/2025/03/11/is-oracle-stock-a-buy/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-11T05:34:00-04:00",
     "date_et": "2025-03-11"
@@ -762,7 +970,7 @@
     "url": "https://www.youtube.com/watch?v=7ai_fYENxQM",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-11T06:47:29-04:00",
     "date_et": "2025-03-11"
@@ -778,7 +986,7 @@
     "url": "https://seekingalpha.com/article/4766447-oracle-dont-be-paralyzed-by-fear-as-the-opportunity-knocks",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-11T09:00:00-04:00",
     "date_et": "2025-03-11"
@@ -794,7 +1002,7 @@
     "url": "https://www.fool.com/investing/2025/03/11/oracle-and-openai-drop-surprising-news-to-nvidia-s/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-11T09:19:08-04:00",
     "date_et": "2025-03-11"
@@ -810,7 +1018,7 @@
     "url": "https://www.youtube.com/watch?v=glOxatzJLbQ",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-11T10:30:22-04:00",
     "date_et": "2025-03-11"
@@ -826,7 +1034,7 @@
     "url": "https://www.marketbeat.com/originals/oracle-stock-5-reasons-this-ai-powerhouse-is-a-long-term-buy/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-11T11:28:01-04:00",
     "date_et": "2025-03-11"
@@ -842,7 +1050,7 @@
     "url": "https://www.marketwatch.com/story/oracle-won-some-big-cloud-contracts-heres-why-its-stock-is-falling-ec29af53",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-11T12:35:00-04:00",
     "date_et": "2025-03-11"
@@ -858,7 +1066,7 @@
     "url": "https://www.benzinga.com/news/earnings/earnings-misses/25/03/44255998/oracles-q3-falls-short-but-ai-demand-keep-long-term-outlook-strong-say-analysts",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-11T12:50:48-04:00",
     "date_et": "2025-03-11"
@@ -874,7 +1082,7 @@
     "url": "https://finbold.com/analyst-updates-oracle-orcl-stock-price-targets-after-earnings/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-11T13:05:49-04:00",
     "date_et": "2025-03-11"
@@ -890,7 +1098,7 @@
     "url": "https://www.youtube.com/watch?v=Q8S1fiGjxM8",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-11T13:05:58-04:00",
     "date_et": "2025-03-11"
@@ -906,7 +1114,7 @@
     "url": "https://seekingalpha.com/article/4766597-oracle-ai-growth-has-yet-to-begin",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-11T14:33:32-04:00",
     "date_et": "2025-03-11"
@@ -922,7 +1130,7 @@
     "url": "https://www.fool.com/investing/2025/03/11/why-oracle-stock-is-sinking-today/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-11T15:44:30-04:00",
     "date_et": "2025-03-11"
@@ -938,7 +1146,7 @@
     "url": "https://seekingalpha.com/article/4766794-oracle-earnings-fast-approaching-buy-territory-but-not-yet",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-12T07:58:45-04:00",
     "date_et": "2025-03-12"
@@ -954,7 +1162,7 @@
     "url": "https://www.fool.com/investing/2025/03/12/oracle-just-shared-some-amazing-news-for-the-entir/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-12T08:00:00-04:00",
     "date_et": "2025-03-12"
@@ -970,7 +1178,7 @@
     "url": "https://www.zacks.com/stock/news/2428867/oracle-trips-on-q3-earnings-sales-miss-buy-sell-or-hold-the-stock?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2428867",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-12T09:10:26-04:00",
     "date_et": "2025-03-12"
@@ -986,7 +1194,7 @@
     "url": "https://seekingalpha.com/article/4766855-oracle-earnings-review-strong-guidance-with-agi",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-12T11:15:43-04:00",
     "date_et": "2025-03-12"
@@ -1002,7 +1210,7 @@
     "url": "https://www.investors.com/news/technology/oracle-stock-ai-stargate-cloud-openai/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-12T13:48:40-04:00",
     "date_et": "2025-03-12"
@@ -1018,7 +1226,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-brings-ai-agents-to-the-fight-against-financial-crime-302399584.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-12T21:00:00-04:00",
     "date_et": "2025-03-12"
@@ -1034,7 +1242,7 @@
     "url": "https://seekingalpha.com/article/4767161-oracle-continues-to-achieve-remarkable-growth-even-without-pulling-the-stargate-lever",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-13T07:44:54-04:00",
     "date_et": "2025-03-13"
@@ -1050,7 +1258,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-red-bull-racing-doubles-down-on-oracle-cloud-and-ai-to-drive-performance-for-2025-season-and-beyond-302400546.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-13T08:30:00-04:00",
     "date_et": "2025-03-13"
@@ -1066,7 +1274,7 @@
     "url": "https://seekingalpha.com/article/4767180-oracle-durable-growth-can-deliver-good-returns",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-13T08:53:56-04:00",
     "date_et": "2025-03-13"
@@ -1082,7 +1290,7 @@
     "url": "https://www.fxempire.com/forecasts/article/tsla-pltr-and-orcl-forecast-major-nasdaq-stocks-mixed-early-thursday-1504107",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-13T09:44:15-04:00",
     "date_et": "2025-03-13"
@@ -1098,7 +1306,7 @@
     "url": "https://seekingalpha.com/article/4767206-super-micro-computer-has-high-hopes-but-analysts-arent-convinced-buy-the-skepticism",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-13T09:48:03-04:00",
     "date_et": "2025-03-13"
@@ -1114,7 +1322,7 @@
     "url": "https://www.zacks.com/stock/news/2429554/international-markets-and-oracle-orcl-a-deep-dive-for-investors?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|nfm_international_revenues-2429554",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-13T10:16:09-04:00",
     "date_et": "2025-03-13"
@@ -1130,7 +1338,7 @@
     "url": "https://nypost.com/2025/03/13/business/larry-ellisons-oracle-is-leading-contender-to-help-run-tiktok-in-potential-sale-report/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-13T14:20:02-04:00",
     "date_et": "2025-03-13"
@@ -1146,7 +1354,7 @@
     "url": "https://techcrunch.com/2025/03/13/oracle-is-reportedly-a-top-choice-for-storing-u-s-tiktok-user-data/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-13T15:55:07-04:00",
     "date_et": "2025-03-13"
@@ -1162,7 +1370,7 @@
     "url": "https://www.reuters.com/technology/oracle-said-weigh-data-center-indonesias-batam-island-bloomberg-news-reports-2025-03-14/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-14T00:42:23-04:00",
     "date_et": "2025-03-14"
@@ -1178,7 +1386,7 @@
     "url": "https://www.marketbeat.com/stock-ideas/market-momentum-shifts-but-these-3-stocks-are-built-to-last/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-14T08:46:20-04:00",
     "date_et": "2025-03-14"
@@ -1194,7 +1402,7 @@
     "url": "https://www.fool.com/investing/2025/03/14/why-is-oracle-stock-falling-and-is-it-a-buying-opp/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-14T09:32:43-04:00",
     "date_et": "2025-03-14"
@@ -1210,7 +1418,7 @@
     "url": "https://www.zacks.com/stock/news/2430101/oracle-corporation-orcl-is-a-trending-stock-facts-to-know-before-betting-on-it?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|most_searched_stocks-2430101",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-14T10:01:04-04:00",
     "date_et": "2025-03-14"
@@ -1226,7 +1434,7 @@
     "url": "https://www.zacks.com/stock/news/2430266/oracle-launches-ai-centre-in-southeast-asia-to-steer-competition?cid=CS-STOCKNEWSAPI-FT-analyst_blog|company_news_tech_sector-2430266",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-14T11:05:23-04:00",
     "date_et": "2025-03-14"
@@ -1242,7 +1450,7 @@
     "url": "https://www.youtube.com/watch?v=L7mWkh-8kno",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-14T21:55:22-04:00",
     "date_et": "2025-03-14"
@@ -1258,7 +1466,7 @@
     "url": "https://www.fool.com/investing/2025/03/15/stocks-bargain-buys-2025-uber-rivian-oracle/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-15T04:24:00-04:00",
     "date_et": "2025-03-15"
@@ -1274,7 +1482,7 @@
     "url": "https://www.youtube.com/watch?v=GGyXHZXOM-0",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-15T12:00:15-04:00",
     "date_et": "2025-03-15"
@@ -1290,7 +1498,7 @@
     "url": "https://www.fool.com/investing/2025/03/15/1-super-stock-join-nvidia-apple-amazon-1-trillion/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-15T18:28:00-04:00",
     "date_et": "2025-03-15"
@@ -1306,7 +1514,7 @@
     "url": "https://www.pymnts.com/acquisitions/2025/oracle-in-advanced-talks-to-take-over-tiktok/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-17T07:03:50-04:00",
     "date_et": "2025-03-17"
@@ -1322,7 +1530,7 @@
     "url": "https://www.investors.com/news/technology/oracle-stock-tiktok-bank-trump-larry-ellison/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-17T13:22:03-04:00",
     "date_et": "2025-03-17"
@@ -1338,7 +1546,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-releases-java-24-302403853.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-18T10:30:00-04:00",
     "date_et": "2025-03-18"
@@ -1354,7 +1562,7 @@
     "url": "https://www.pymnts.com/news/social-commerce/2025/proposed-tiktok-solution-would-have-oracle-provide-data-security/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-18T15:38:15-04:00",
     "date_et": "2025-03-18"
@@ -1370,7 +1578,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-expands-distributed-cloud-capabilities-with-nvidia-ai-enterprise-302404983.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-18T16:00:00-04:00",
     "date_et": "2025-03-18"
@@ -1386,7 +1594,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-and-nvidia-collaborate-to-help-enterprises-accelerate-agentic-ai-inference-302404976.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-18T16:00:00-04:00",
     "date_et": "2025-03-18"
@@ -1402,7 +1610,7 @@
     "url": "https://www.prnewswire.com/news-releases/dsta-selects-oracle-cloud-infrastructure-for-ministry-of-defence-singapore-302404905.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-18T17:00:00-04:00",
     "date_et": "2025-03-18"
@@ -1418,7 +1626,7 @@
     "url": "https://www.reuters.com/technology/artificial-intelligence/oracle-provide-cloud-computing-ai-services-singapore-military-2025-03-18/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-18T17:00:52-04:00",
     "date_et": "2025-03-18"
@@ -1434,7 +1642,7 @@
     "url": "https://www.fool.com/investing/2025/03/18/why-oracle-stock-slipped-by-3-today/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-18T17:16:07-04:00",
     "date_et": "2025-03-18"
@@ -1450,7 +1658,7 @@
     "url": "https://www.nytimes.com/2025/03/18/technology/oracle-tiktok.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-18T20:47:13-04:00",
     "date_et": "2025-03-18"
@@ -1466,7 +1674,7 @@
     "url": "https://www.fool.com/investing/2025/03/19/prediction-stocks-worth-more-oracle-baba-mstr/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-19T05:50:00-04:00",
     "date_et": "2025-03-19"
@@ -1482,7 +1690,7 @@
     "url": "https://www.prnewswire.com/news-releases/mattermost-collaboration-suite-now-available-on-the-oracle-cloud-marketplace-302405131.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-19T08:00:00-04:00",
     "date_et": "2025-03-19"
@@ -1498,7 +1706,7 @@
     "url": "https://www.barrons.com/articles/microsoft-google-oracle-nvidia-stock-spire-0a30e6c0",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-19T08:22:00-04:00",
     "date_et": "2025-03-19"
@@ -1514,7 +1722,7 @@
     "url": "https://www.prnewswire.com/news-releases/huntsville-hospital-health-system-standardizes-on-oracle-health-to-improve-patient-care-and-drive-innovation-302405775.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-19T09:00:00-04:00",
     "date_et": "2025-03-19"
@@ -1530,7 +1738,7 @@
     "url": "https://www.businesswire.com/news/home/20250319660334/en/SoftBank-Group-to-Acquire-Ampere-Computing/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-19T19:30:00-04:00",
     "date_et": "2025-03-19"
@@ -1546,7 +1754,7 @@
     "url": "https://www.zacks.com/commentary/2432486/a-closer-look-at-earnings-expectations-for-q1-full-year-2025?cid=CS-STOCKNEWSAPI-FT-earnings_trends-2432486",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-19T20:00:21-04:00",
     "date_et": "2025-03-19"
@@ -1562,7 +1770,7 @@
     "url": "https://www.prnewswire.com/news-releases/aegean-prioritizes-passenger-experience-and-builds-loyalty-with-oracle-302406386.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-20T05:00:00-04:00",
     "date_et": "2025-03-20"
@@ -1578,7 +1786,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-helps-customers-boost-employee-engagement-with-strategic-communications-and-internal-events-302406513.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-20T05:00:00-04:00",
     "date_et": "2025-03-20"
@@ -1594,7 +1802,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-and-microsoft-add-powerful-flexible-new-services-to-oracle-databaseazure-and-expand-regional-availability-302406590.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-20T05:00:00-04:00",
     "date_et": "2025-03-20"
@@ -1610,7 +1818,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-introduces-ai-agent-studio-302406862.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-20T05:00:00-04:00",
     "date_et": "2025-03-20"
@@ -1626,7 +1834,7 @@
     "url": "https://www.prnewswire.com/news-releases/lloyds-banking-group-expands-collaboration-with-oracle-to-support-tech-transformation-302406638.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-20T05:45:00-04:00",
     "date_et": "2025-03-20"
@@ -1642,7 +1850,7 @@
     "url": "https://www.marketbeat.com/originals/5-reasons-oracle-is-undervalued-and-ready-to-rebound/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-20T07:07:09-04:00",
     "date_et": "2025-03-20"
@@ -1658,7 +1866,7 @@
     "url": "https://www.newsfilecorp.com/release/245391/Oracle-Announces-Amended-and-Restated-Royalty-Agreement-for-the-Gibellini-Vanadium-Mine-Project",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-20T07:30:00-04:00",
     "date_et": "2025-03-20"
@@ -1674,7 +1882,7 @@
     "url": "https://www.fool.com/investing/2025/03/21/stock-split-watch-is-oracle-next/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-21T03:40:00-04:00",
     "date_et": "2025-03-21"
@@ -1690,7 +1898,7 @@
     "url": "https://www.zacks.com/stock/news/2433266/oracle-up-18-4-in-a-year-buy-sell-or-hold-the-stock?cid=CS-STOCKNEWSAPI-FT-analyst_blog|rank_focused-2433266",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-21T09:31:07-04:00",
     "date_et": "2025-03-21"
@@ -1706,7 +1914,7 @@
     "url": "https://www.zacks.com/commentary/2433163/nvidia-gtc-3-companies-teaming-up-with-nvda?cid=CS-STOCKNEWSAPI-FT-investment_ideas-2433163",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-21T12:10:26-04:00",
     "date_et": "2025-03-21"
@@ -1722,7 +1930,7 @@
     "url": "https://www.fool.com/investing/2025/03/22/better-artificial-intelligence-stock-oracle-dell/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-22T09:00:00-04:00",
     "date_et": "2025-03-22"
@@ -1738,7 +1946,7 @@
     "url": "https://www.fool.com/investing/2025/03/23/prediction-oracle-stock-could-surge-by-200-in-the/",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-23T15:52:00-04:00",
     "date_et": "2025-03-23"
@@ -1754,7 +1962,7 @@
     "url": "https://www.prnewswire.com/news-releases/colorado-first-responder-agencies-modernize-public-safety-systems-with-oracle-to-better-support-citizens-and-staff-302408015.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-24T08:00:00-04:00",
     "date_et": "2025-03-24"
@@ -1770,7 +1978,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-recognized-as-a-leader-in-idc-marketscape-for-ai-driven-retail-assortment-planning-solutions-302408654.html",
     "ticker": "ORCL",
     "event_date": "2025-03-10",
-    "window_start": "2025-03-03",
+    "window_start": "2025-02-24",
     "window_end": "2025-03-24",
     "publishedDateET": "2025-03-24T08:00:00-04:00",
     "date_et": "2025-03-24"

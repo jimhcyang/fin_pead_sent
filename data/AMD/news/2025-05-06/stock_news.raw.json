@@ -1,6 +1,278 @@
 [
   {
     "symbol": "AMD",
+    "publishedDate": "2025-04-22 00:19:00",
+    "publisher": "GlobeNewsWire",
+    "title": "HostColor Expands its AI Ready AMD Dedicated Servers",
+    "image": "https://images.financialmodelingprep.com/news/hostcolor-expands-its-ai-ready-amd-dedicated-servers-20250422.jpg",
+    "site": "globenewswire.com",
+    "text": "HostColor.com (HC) announced the availability of new AMD bare metal servers that are well suited for dedicated clouds, AI-based projects, and other high performance computing projects. HostColor.com (HC) announced the availability of new AMD bare metal servers that are well suited for dedicated clouds, AI-based projects, and other high performance computing projects.",
+    "url": "https://www.globenewswire.com/news-release/2025/04/22/3065125/0/en/HostColor-Expands-its-AI-Ready-AMD-Dedicated-Servers.html",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-22T00:19:00-04:00",
+    "date_et": "2025-04-22"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-22 15:57:00",
+    "publisher": "Market Watch",
+    "title": "AMD's AI story was already ‘tenuous,' and now the stock has new challenges",
+    "image": "https://images.financialmodelingprep.com/news/amds-ai-story-was-already-tenuous-and-now-the-20250422.jpg",
+    "site": "marketwatch.com",
+    "text": "Advanced Micro Devices Inc. was already “uncompetitive” in the artificial-intelligence market, according to Bernstein Research. Now the company can't sell its AI accelerators in China and it faces new pressures on its personal-computer business.",
+    "url": "https://www.marketwatch.com/story/amds-ai-story-was-already-tenuous-and-now-the-stock-has-new-challenges-9ee3d06b",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-22T15:57:00-04:00",
+    "date_et": "2025-04-22"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-22 18:50:47",
+    "publisher": "Zacks Investment Research",
+    "title": "Advanced Micro Devices (AMD) Ascends But Remains Behind Market: Some Facts to Note",
+    "image": "https://images.financialmodelingprep.com/news/advanced-micro-devices-amd-ascends-but-remains-behind-market-20250422.jpg",
+    "site": "zacks.com",
+    "text": "In the closing of the recent trading day, Advanced Micro Devices (AMD) stood at $86.26, denoting a +0.82% change from the preceding trading day.",
+    "url": "https://www.zacks.com/stock/news/2453166/advanced-micro-devices-amd-ascends-but-remains-behind-market-some-facts-to-note?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6-2453166",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-22T18:50:47-04:00",
+    "date_et": "2025-04-22"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-23 04:45:00",
+    "publisher": "The Motley Fool",
+    "title": "2 Artificial Intelligence (AI) Stocks That Could Soar in the Second Half of 2025",
+    "image": "https://images.financialmodelingprep.com/news/2-artificial-intelligence-ai-stocks-that-could-soar-in-20250423.jpg",
+    "site": "fool.com",
+    "text": "The tariff-driven stock market sell-off has put the indexes into a correction phase, hitting artificial intelligence (AI) stocks hard. Many of these stocks lost one-third or more of their value, and a few sell for less than half of their recent highs.",
+    "url": "https://www.fool.com/investing/2025/04/23/2-artificial-intelligence-ai-stocks-that-could-soa/",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-23T04:45:00-04:00",
+    "date_et": "2025-04-23"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-23 08:21:54",
+    "publisher": "FXEmpire",
+    "title": "NVDA, INTC and AMD Forecast – Major Stocks Pop in the Premarket",
+    "image": "https://images.financialmodelingprep.com/news/nvda-intc-and-amd-forecast-major-stocks-pop-in-20250423.jpg",
+    "site": "fxempire.com",
+    "text": "The premarket hours have seen these three stocks all show signs of strength, as the premarket trading seems to be a positive reaction to the Trump statements involving China and the trade talks, as the latest statements have been a bit of softening in tone.",
+    "url": "https://www.fxempire.com/forecasts/article/nvda-intc-and-amd-forecast-major-stocks-pop-in-the-premarket-1513774",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-23T08:21:54-04:00",
+    "date_et": "2025-04-23"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-23 09:00:00",
+    "publisher": "PRNewsWire",
+    "title": "Marvell Announces Successful Interoperability of Structera CXL Portfolio with AMD EPYC CPU and 5th Gen Intel Xeon Scalable Platforms",
+    "image": "https://images.financialmodelingprep.com/news/marvell-announces-successful-interoperability-of-structera-cxl-portfolio-with-20250423.jpg",
+    "site": "prnewswire.com",
+    "text": "Enabling Cloud Data Center Operators to Overcome Memory Performance and Scaling Challenges in General-purpose Servers SANTA CLARA, Calif. , April 23, 2025 /PRNewswire/ -- Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced the successful interoperability of the Marvell® Structera™ portfolio of Compute Express Link® (CXL®) devices with AMD EPYC™ CPUs and 5th Gen Intel Xeon platforms.",
+    "url": "https://www.prnewswire.com/news-releases/marvell-announces-successful-interoperability-of-structera-cxl-portfolio-with-amd-epyc-cpu-and-5th-gen-intel-xeon-scalable-platforms-302435689.html",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-23T09:00:00-04:00",
+    "date_et": "2025-04-23"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-23 10:07:00",
+    "publisher": "The Motley Fool",
+    "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
+    "image": "https://images.financialmodelingprep.com/news/cathie-wood-goes-bargain-hunting-3-stocks-she-just-20250423.jpg",
+    "site": "fool.com",
+    "text": "Growth investors feast on volatility, but the turbulence has proved challenging for Cathie Wood. The founder and CEO of Ark Invest has taken a hit in the current climate.",
+    "url": "https://www.fool.com/investing/2025/04/23/cathie-wood-goes-bargain-hunting-3-stocks-she-just/",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-23T10:07:00-04:00",
+    "date_et": "2025-04-23"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-23 14:25:11",
+    "publisher": "The Motley Fool",
+    "title": "Why AMD, Broadcom, and Taiwan Semiconductor Manufacturing Stocks Rallied on Wednesday",
+    "image": "https://images.financialmodelingprep.com/news/why-amd-broadcom-and-taiwan-semiconductor-manufacturing-stocks-rallied-20250423.jpg",
+    "site": "fool.com",
+    "text": "The uncertainty that has gripped the market recently has been palpable. Concerns about the on-again, off-again tariffs, a high-profile spat between the White House and the Federal Reserve Bank, and the ongoing trade war with China have raised concerns about the impact on the broader economy and led to historic volatility.",
+    "url": "https://www.fool.com/investing/2025/04/23/why-amd-broadcom-and-taiwan-semiconductor-manufact/",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-23T14:25:11-04:00",
+    "date_et": "2025-04-23"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-23 18:16:25",
+    "publisher": "The Motley Fool",
+    "title": "AMD Jumped Today -- Is the Artificial Intelligence (AI) Stock a Buy?",
+    "image": "https://images.financialmodelingprep.com/news/amd-jumped-today-is-the-artificial-intelligence-ai-stock-20250423.jpg",
+    "site": "fool.com",
+    "text": "Advanced Micro Devices (AMD 4.81%) stock closed out Wednesday's daily session with big gains. The semiconductor company's share price rose 4.9% in a day of trading that saw the S&P 500 index climb 1.6% and the Nasdaq Composite rise 2.5%.",
+    "url": "https://www.fool.com/investing/2025/04/23/amd-jumped-today-is-the-artificial-intelligence-ai/",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-23T18:16:25-04:00",
+    "date_et": "2025-04-23"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-23 18:30:00",
+    "publisher": "The Motley Fool",
+    "title": "Prediction: 2 Artificial Intelligence (AI) Stocks That Could Be Worth More Than Nvidia by 2030",
+    "image": "https://images.financialmodelingprep.com/news/prediction-2-artificial-intelligence-ai-stocks-that-could-be-20250423.jpg",
+    "site": "fool.com",
+    "text": "Despite the fanfare, the artificial intelligence (AI) revolution has just begun. With the AI market valued at $189 billion in 2023, the United Nations believes it will become a $4.8 trillion market by 2033.",
+    "url": "https://www.fool.com/investing/2025/04/23/prediction-2-artificial-intelligence-ai-stocks-tha/",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-23T18:30:00-04:00",
+    "date_et": "2025-04-23"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-24 07:15:00",
+    "publisher": "The Motley Fool",
+    "title": "Nasdaq Bear Market: Is AMD or Nvidia the Best Buy Now?",
+    "image": "https://images.financialmodelingprep.com/news/nasdaq-bear-market-is-amd-or-nvidia-the-best-20250424.jpg",
+    "site": "fool.com",
+    "text": "Nvidia (NVDA 3.86%) and AMD (AMD 4.81%) are two of the biggest providers of artificial intelligence (AI) computing hardware, but Nvidia is much larger and more successful than AMD in this regard. However, after the latest market sell-off, each is still well off its all-time highs, with AMD down around 60% and Nvidia down 30%.",
+    "url": "https://www.fool.com/investing/2025/04/24/nasdaq-bear-market-is-amd-or-nvidia-the-best-buy-n/",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-24T07:15:00-04:00",
+    "date_et": "2025-04-24"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-24 09:00:00",
+    "publisher": "Seeking Alpha",
+    "title": "AMD Vs. Arm: Which Is The Better Investment Ahead Of Earnings",
+    "image": "https://images.financialmodelingprep.com/news/amd-vs-arm-which-is-the-better-investment-ahead-20250424.jpg",
+    "site": "seekingalpha.com",
+    "text": "ARM and AMD are strong AI picks with solid growth, but AMD offers more direct exposure to generative AI and trades at a cheaper valuation. ARM has higher profit margins due to its royalty model, but trades at a rich premium compared to AMD. I discuss which is a better pick ahead of upcoming earnings.",
+    "url": "https://seekingalpha.com/article/4777288-amd-vs-arm-which-is-better-investment-ahead-of-earnings",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-24T09:00:00-04:00",
+    "date_et": "2025-04-24"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-24 15:40:00",
+    "publisher": "GlobeNewsWire",
+    "title": "Global Motherboard Market Forecast, 2025-2029 | Motherboard Market Predicted to Grow 2.3% in 2025, Bolstered by AI PC Integration and AMD Gaming Shift",
+    "image": "https://images.financialmodelingprep.com/news/global-motherboard-market-forecast-20252029-motherboard-market-predicted-to-20250424.jpg",
+    "site": "globenewswire.com",
+    "text": "The report forecasts global shipment volumes for 2025-2029, including key industry trends and regional insights. The report forecasts global shipment volumes for 2025-2029, including key industry trends and regional insights.",
+    "url": "https://www.globenewswire.com/news-release/2025/04/24/3067877/28124/en/Global-Motherboard-Market-Forecast-2025-2029-Motherboard-Market-Predicted-to-Grow-2-3-in-2025-Bolstered-by-AI-PC-Integration-and-AMD-Gaming-Shift.html",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-24T15:40:00-04:00",
+    "date_et": "2025-04-24"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-24 18:50:00",
+    "publisher": "The Motley Fool",
+    "title": "Why AMD Stock Jumped Today",
+    "image": "https://images.financialmodelingprep.com/news/why-amd-stock-jumped-today-20250424.jpg",
+    "site": "fool.com",
+    "text": "Advanced Micro Devices (AMD 4.49%) stock recorded another day of strong gains Thursday. Amid a 2% jump for the S&P 500 and a 2.7% rally for the Nasdaq Composite, the semiconductor specialist's share price closed out the day up 4.5%.",
+    "url": "https://www.fool.com/investing/2025/04/24/why-amd-stock-jumped-today/",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-24T18:50:00-04:00",
+    "date_et": "2025-04-24"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-25 08:14:18",
+    "publisher": "Benzinga",
+    "title": "Sentiment Fissures In the Semiconductor Space Put Spotlight On Direxion's AMD-Focused Bull And Bear Funds",
+    "image": "https://images.financialmodelingprep.com/news/sentiment-fissures-in-the-semiconductor-space-put-spotlight-on-20250425.jpg",
+    "site": "benzinga.com",
+    "text": "While being under the shadow of a major competitor isn't necessarily the strongest selling point, for semiconductor giant Advanced Micro Devices Inc. AMD, it certainly has its perks. Yes, the chipmaking industry tends to focus on artificial-intelligence darling Nvidia Corp NVDA, thanks to its world-class graphics processors and innovative tech architectures.",
+    "url": "https://www.benzinga.com/trading-ideas/long-ideas/25/04/45006075/sentiment-fissures-in-the-semiconductor-space-put-spotlight-on-direxions-amd-focused-bull-and-bear-funds",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-25T08:14:18-04:00",
+    "date_et": "2025-04-25"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-25 12:24:00",
+    "publisher": "The Motley Fool",
+    "title": "2 Top Artificial Intelligence (AI) Stocks to Buy Right Now",
+    "image": "https://images.financialmodelingprep.com/news/2-top-artificial-intelligence-ai-stocks-to-buy-right-20250425.jpg",
+    "site": "fool.com",
+    "text": "The broad market sell-off this year has weighed heavily on technology stocks. While the S&P 500 is down by about 11% from its peak, the tech-heavy Nasdaq Composite index is off by about 15%, and this more pronounced pullback isn't surprising considering that investors have become more risk-averse of late.",
+    "url": "https://www.fool.com/investing/2025/04/25/2-top-artificial-intelligence-ai-stocks-to-buy-rig/",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-25T12:24:00-04:00",
+    "date_et": "2025-04-25"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2025-04-28 18:50:46",
+    "publisher": "Zacks Investment Research",
+    "title": "Advanced Micro Devices (AMD) Stock Sinks As Market Gains: Here's Why",
+    "image": "https://images.financialmodelingprep.com/news/advanced-micro-devices-amd-stock-sinks-as-market-gains-20250428.jpg",
+    "site": "zacks.com",
+    "text": "Advanced Micro Devices (AMD) reachead $96.39 at the closing of the latest trading day, reflecting a -0.26% change compared to its last close.",
+    "url": "https://www.zacks.com/stock/news/2457284/advanced-micro-devices-amd-stock-sinks-as-market-gains-here-s-why?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6-2457284",
+    "ticker": "AMD",
+    "event_date": "2025-05-06",
+    "window_start": "2025-04-22",
+    "window_end": "2025-05-20",
+    "publishedDateET": "2025-04-28T18:50:46-04:00",
+    "date_et": "2025-04-28"
+  },
+  {
+    "symbol": "AMD",
     "publishedDate": "2025-04-29 04:22:08",
     "publisher": "Seeking Alpha",
     "title": "AMD Q1 Preview: Inflection Point Approaching (Technical Analysis)",
@@ -10,7 +282,7 @@
     "url": "https://seekingalpha.com/article/4779001-amd-q1-preview-inflection-point-approaching-technical-analysis",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-04-29T04:22:08-04:00",
     "date_et": "2025-04-29"
@@ -26,7 +298,7 @@
     "url": "https://seekingalpha.com/article/4779013-amd-dont-give-up-yet",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-04-29T05:22:22-04:00",
     "date_et": "2025-04-29"
@@ -42,7 +314,7 @@
     "url": "https://www.fool.com/investing/2025/04/29/2-artificial-intelligence-ai-stocks-that-could-mak/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-04-29T05:32:00-04:00",
     "date_et": "2025-04-29"
@@ -58,7 +330,7 @@
     "url": "https://247wallst.com/investing/2025/04/29/cathie-wood-braved-the-trump-tariff-slump-buying-nvidia-nasdaq-nvda-amd-nasdaq-amd-and-coinbase-nasdaq-coin-time-to-follow-her/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-04-29T08:57:06-04:00",
     "date_et": "2025-04-29"
@@ -74,7 +346,7 @@
     "url": "https://www.zacks.com/stock/news/2457994/advanced-micro-devices-amd-reports-next-week-wall-street-expects-earnings-growth?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_9-2457994",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-04-29T11:07:53-04:00",
     "date_et": "2025-04-29"
@@ -90,7 +362,7 @@
     "url": "https://www.fool.com/investing/2025/04/30/better-semiconductor-stock-amd-vs-nvidia/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-04-30T04:58:00-04:00",
     "date_et": "2025-04-30"
@@ -106,7 +378,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/04/30/3071262/0/en/Valitor-to-Present-on-its-Drug-Candidate-with-Twice-Yearly-Dosing-for-Wet-AMD-at-the-American-Academy-of-Ophthalmology-s-Eyecelerator-Conference-and-the-Association-for-Research-in.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-04-30T08:00:00-04:00",
     "date_et": "2025-04-30"
@@ -122,7 +394,7 @@
     "url": "https://www.fool.com/investing/2025/04/30/cathie-wood-goes-bargain-hunting-3-stocks-she-just/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-04-30T10:15:00-04:00",
     "date_et": "2025-04-30"
@@ -138,7 +410,7 @@
     "url": "https://seekingalpha.com/article/4779736-amd-real-upside-is-unpriced",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-04-30T10:34:17-04:00",
     "date_et": "2025-04-30"
@@ -154,7 +426,7 @@
     "url": "https://www.youtube.com/watch?v=igFDAAzF-GY",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-04-30T15:30:12-04:00",
     "date_et": "2025-04-30"
@@ -170,7 +442,7 @@
     "url": "https://www.fool.com/investing/2025/05/01/prediction-this-magnificent-artificial-intelligenc/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-01T04:35:00-04:00",
     "date_et": "2025-05-01"
@@ -186,7 +458,7 @@
     "url": "https://www.marketbeat.com/originals/amd-stock-signals-strong-buy-ahead-of-earnings/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-01T07:02:30-04:00",
     "date_et": "2025-05-01"
@@ -202,7 +474,7 @@
     "url": "https://www.fool.com/investing/2025/05/01/should-you-buy-amd-stock-before-may-6/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-01T09:23:00-04:00",
     "date_et": "2025-05-01"
@@ -218,7 +490,7 @@
     "url": "https://www.zacks.com/stock/news/2459971/gear-up-for-advanced-micro-amd-q1-earnings-wall-street-estimates-for-key-metrics?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|nfm_preview-2459971",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-01T10:20:53-04:00",
     "date_et": "2025-05-01"
@@ -234,7 +506,7 @@
     "url": "https://www.youtube.com/watch?v=YK1qpTbRXAc",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-01T15:30:42-04:00",
     "date_et": "2025-05-01"
@@ -250,7 +522,7 @@
     "url": "https://www.fool.com/investing/2025/05/02/should-you-buy-amd-stock-before-may-6/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-02T06:30:00-04:00",
     "date_et": "2025-05-02"
@@ -266,7 +538,7 @@
     "url": "https://seekingalpha.com/article/4781075-amd-it-could-get-worse-before-the-turnaround-occurs",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-02T09:18:55-04:00",
     "date_et": "2025-05-02"
@@ -282,7 +554,7 @@
     "url": "https://www.zacks.com/stock/news/2461034/advanced-micro-devices-inc-amd-is-attracting-investor-attention-here-is-what-you-should-know?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|most_searched_stocks-2461034",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-02T10:05:48-04:00",
     "date_et": "2025-05-02"
@@ -298,7 +570,7 @@
     "url": "https://www.fxempire.com/forecasts/article/nvda-amd-and-intc-forecast-chip-stocks-looking-to-celebrate-potential-talks-with-china-1515956",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-02T10:25:52-04:00",
     "date_et": "2025-05-02"
@@ -314,7 +586,7 @@
     "url": "https://seekingalpha.com/article/4781191-amd-you-may-not-get-it-this-cheap-again",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-02T12:45:00-04:00",
     "date_et": "2025-05-02"
@@ -330,7 +602,7 @@
     "url": "https://www.zacks.com/stock/news/2461473/will-advanced-micro-amd-beat-estimates-again-in-its-next-earnings-report?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_7-2461473",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-02T13:10:38-04:00",
     "date_et": "2025-05-02"
@@ -346,7 +618,7 @@
     "url": "https://www.zacks.com/stock/news/2461543/should-you-buy-hold-or-sell-amd-stock-ahead-of-q1-earnings?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2461543",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-02T16:00:43-04:00",
     "date_et": "2025-05-02"
@@ -362,7 +634,7 @@
     "url": "https://www.investopedia.com/what-analysts-think-of-amd-stock-ahead-of-earnings-11727438",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-03T05:20:59-04:00",
     "date_et": "2025-05-03"
@@ -378,7 +650,7 @@
     "url": "https://www.fool.com/investing/2025/05/03/nvidia-and-amd-just-got-amazing-news-from-meta-pla/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-03T10:45:00-04:00",
     "date_et": "2025-05-03"
@@ -394,7 +666,7 @@
     "url": "https://www.investopedia.com/what-to-expect-in-the-markets-this-week-11725770",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-04T06:20:58-04:00",
     "date_et": "2025-05-04"
@@ -410,7 +682,7 @@
     "url": "https://www.barrons.com/articles/fed-palantir-vertex-amd-disney-stocks-cf9e7ccb",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-04T14:00:00-04:00",
     "date_et": "2025-05-04"
@@ -426,7 +698,7 @@
     "url": "https://www.youtube.com/watch?v=ZdDD6COLf6E",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-04T18:00:37-04:00",
     "date_et": "2025-05-04"
@@ -442,7 +714,7 @@
     "url": "https://seekingalpha.com/article/4781726-amd-too-cheap-to-ignore-before-earnings-rating-upgrade",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-05T08:00:00-04:00",
     "date_et": "2025-05-05"
@@ -458,7 +730,7 @@
     "url": "https://www.fool.com/investing/2025/05/05/will-this-be-the-catalyst-amd-stock-investors-are/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-05T09:38:54-04:00",
     "date_et": "2025-05-05"
@@ -474,7 +746,7 @@
     "url": "https://www.zacks.com/stock/news/2461782/why-investors-need-to-take-advantage-of-these-2-computer-and-technology-stocks-now?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|zacks_education_earnings_esp-2461782",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-05T09:51:11-04:00",
     "date_et": "2025-05-05"
@@ -490,7 +762,7 @@
     "url": "https://www.fool.com/investing/2025/05/05/got-100-1-artificial-intelligence-ai-semiconductor/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-05T12:00:00-04:00",
     "date_et": "2025-05-05"
@@ -506,7 +778,7 @@
     "url": "https://www.zacks.com/stock/news/2462224/will-amd-stock-climb-on-strong-data-center-revenues-in-q1-earnings?cid=CS-STOCKNEWSAPI-FT-analyst_blog|earnings_preview-2462224",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-05T12:20:37-04:00",
     "date_et": "2025-05-05"
@@ -522,7 +794,7 @@
     "url": "https://www.fool.com/investing/2025/05/06/got-1000-top-growth-stocks-buy-double-money/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T04:08:00-04:00",
     "date_et": "2025-05-06"
@@ -538,7 +810,7 @@
     "url": "https://www.fxempire.com/forecasts/article/nasdaq-100-amd-earnings-in-focus-as-data-center-growth-faces-tariff-headwinds-1516841",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T05:42:12-04:00",
     "date_et": "2025-05-06"
@@ -554,7 +826,7 @@
     "url": "https://www.benzinga.com/analyst-ratings/price-target/25/05/45219332/top-wall-street-forecasters-revamp-amd-motor-expectations-ahead-of-q1-earnings",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T08:12:36-04:00",
     "date_et": "2025-05-06"
@@ -570,7 +842,7 @@
     "url": "https://www.fxempire.com/forecasts/article/the-day-ahead-markets-steady-today-as-fed-meeting-and-amd-earnings-take-focus-1516811",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T08:47:13-04:00",
     "date_et": "2025-05-06"
@@ -586,7 +858,7 @@
     "url": "https://www.youtube.com/watch?v=SF0OR9ZrXUM",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T09:13:52-04:00",
     "date_et": "2025-05-06"
@@ -602,7 +874,7 @@
     "url": "https://seekingalpha.com/article/4782259-big-tech-breathes-life-into-q1-earnings",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T11:15:00-04:00",
     "date_et": "2025-05-06"
@@ -618,7 +890,7 @@
     "url": "https://www.youtube.com/watch?v=SVnYS9cmS4s",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T11:30:16-04:00",
     "date_et": "2025-05-06"
@@ -634,7 +906,7 @@
     "url": "https://www.benzinga.com/25/05/45228066/amds-recovery-from-62-value-wipeout-faces-q1-earnings-test-can-it-break-long-term-resistance",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T11:39:46-04:00",
     "date_et": "2025-05-06"
@@ -650,7 +922,7 @@
     "url": "https://247wallst.com/investing/2025/05/05/live-nasdaq-composite-fear-grips-markets-as-investor-sentiment-shifts-yet-again/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T12:05:32-04:00",
     "date_et": "2025-05-06"
@@ -666,7 +938,7 @@
     "url": "https://www.zacks.com/stock/news/2463199/trade-deficit-comes-in-record-high-for-march?cid=CS-STOCKNEWSAPI-FT-economic_highlights-2463199",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T12:20:37-04:00",
     "date_et": "2025-05-06"
@@ -682,7 +954,7 @@
     "url": "https://www.youtube.com/watch?v=ua7Rp_9s8PU",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T12:45:04-04:00",
     "date_et": "2025-05-06"
@@ -698,7 +970,7 @@
     "url": "https://www.youtube.com/watch?v=Y6fGOKFF4IU",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T15:04:19-04:00",
     "date_et": "2025-05-06"
@@ -714,7 +986,7 @@
     "url": "https://www.reuters.com/business/chipmaker-amd-forecasts-second-quarter-revenue-above-estimates-2025-05-06/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T16:20:11-04:00",
     "date_et": "2025-05-06"
@@ -730,7 +1002,7 @@
     "url": "https://www.cnbc.com/2025/05/06/amd-earnings-report-q1-2025-.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T16:35:18-04:00",
     "date_et": "2025-05-06"
@@ -746,7 +1018,7 @@
     "url": "https://www.youtube.com/watch?v=3L0Uj8Ez3QI",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T16:36:50-04:00",
     "date_et": "2025-05-06"
@@ -762,7 +1034,7 @@
     "url": "https://www.marketwatch.com/story/amds-stock-rises-as-earnings-show-momentum-in-its-data-center-business-8f5261b4",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T17:03:00-04:00",
     "date_et": "2025-05-06"
@@ -778,7 +1050,7 @@
     "url": "https://www.wsj.com/business/earnings/advanced-micro-devices-guides-for-higher-quarterly-revenue-0c5144f4",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T17:10:00-04:00",
     "date_et": "2025-05-06"
@@ -794,7 +1066,7 @@
     "url": "https://www.youtube.com/watch?v=4fqHf1vBowE",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T17:15:50-04:00",
     "date_et": "2025-05-06"
@@ -810,7 +1082,7 @@
     "url": "https://www.investopedia.com/amd-earnings-q1-fy2025-11728921",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T17:21:05-04:00",
     "date_et": "2025-05-06"
@@ -826,7 +1098,7 @@
     "url": "https://www.youtube.com/watch?v=vqZute5qbI8",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T17:47:16-04:00",
     "date_et": "2025-05-06"
@@ -842,7 +1114,7 @@
     "url": "https://www.youtube.com/watch?v=QsF7UKPDIh0",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T17:51:41-04:00",
     "date_et": "2025-05-06"
@@ -858,7 +1130,7 @@
     "url": "https://seekingalpha.com/article/4782563-amd-excellent-results-its-too-cheap",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T18:00:00-04:00",
     "date_et": "2025-05-06"
@@ -874,7 +1146,7 @@
     "url": "https://www.youtube.com/watch?v=PvpbCc0_NIY",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T18:05:17-04:00",
     "date_et": "2025-05-06"
@@ -890,7 +1162,7 @@
     "url": "https://www.zacks.com/stock/news/2463442/advanced-micro-devices-amd-beats-q1-earnings-and-revenue-estimates?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_4-2463442",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T18:30:40-04:00",
     "date_et": "2025-05-06"
@@ -906,7 +1178,7 @@
     "url": "https://www.zacks.com/stock/news/2463478/tariff-talk-returns-to-sink-markets-plus-q1-earnings?cid=CS-STOCKNEWSAPI-FT-ahead_of_wall_street-2463478",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T19:05:21-04:00",
     "date_et": "2025-05-06"
@@ -922,7 +1194,7 @@
     "url": "https://www.zacks.com/stock/news/2463505/advanced-micro-amd-q1-earnings-taking-a-look-at-key-metrics-versus-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|nfm-2463505",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T19:05:23-04:00",
     "date_et": "2025-05-06"
@@ -938,7 +1210,7 @@
     "url": "https://seekingalpha.com/article/4782575-amd-q1-earnings-im-as-bullish-as-can-be-maintain-strong-buy",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T19:15:39-04:00",
     "date_et": "2025-05-06"
@@ -954,7 +1226,7 @@
     "url": "https://seekingalpha.com/article/4782579-bottom-is-out-amd-has-no-ai-gpu-growth-to-brag-about-rating-upgrade",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T19:30:20-04:00",
     "date_et": "2025-05-06"
@@ -970,7 +1242,7 @@
     "url": "https://seekingalpha.com/article/4782650-advanced-micro-devices-inc-amd-q1-2025-earnings-call-transcript",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T21:19:29-04:00",
     "date_et": "2025-05-06"
@@ -986,7 +1258,7 @@
     "url": "https://www.fool.com/investing/2025/05/06/nvidia-investors-just-got-incredible-news-from-amd/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T21:22:26-04:00",
     "date_et": "2025-05-06"
@@ -1002,7 +1274,7 @@
     "url": "https://seekingalpha.com/article/4782639-amd-stock-resilience-in-the-face-macro-regulatory-scrutiny-reiterate-buy",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-06T22:07:22-04:00",
     "date_et": "2025-05-06"
@@ -1018,7 +1290,7 @@
     "url": "https://www.barrons.com/articles/nvidia-stock-price-amd-smci-chips-406bf19c",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T05:05:00-04:00",
     "date_et": "2025-05-07"
@@ -1034,7 +1306,7 @@
     "url": "https://www.barrons.com/articles/amd-earnings-stock-price-43dfbbc7",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T06:17:00-04:00",
     "date_et": "2025-05-07"
@@ -1050,7 +1322,7 @@
     "url": "https://www.fool.com/investing/2025/05/07/amd-stock-earnings-q1-ai-stocks-ai-chip-stocks/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T07:26:42-04:00",
     "date_et": "2025-05-07"
@@ -1066,7 +1338,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/05/07/3076030/0/en/Valitor-Presents-Multiple-Preclinical-Datasets-on-the-Potential-of-its-Innovative-Anti-VEGF-Therapy-Dosed-Twice-Yearly-for-Wet-AMD-at-the-Association-for-Research-in-Vision-and-Oph.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T08:00:00-04:00",
     "date_et": "2025-05-07"
@@ -1082,7 +1354,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1070807",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T08:05:58-04:00",
     "date_et": "2025-05-07"
@@ -1098,7 +1370,7 @@
     "url": "https://www.marketbeat.com/originals/amd-relieves-market-despite-ongoing-share-price-outlook-caution/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T10:09:43-04:00",
     "date_et": "2025-05-07"
@@ -1114,7 +1386,7 @@
     "url": "https://www.youtube.com/watch?v=XSHCVCZKxLM",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T10:16:13-04:00",
     "date_et": "2025-05-07"
@@ -1130,7 +1402,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1070820",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T10:22:46-04:00",
     "date_et": "2025-05-07"
@@ -1146,7 +1418,7 @@
     "url": "https://www.fxempire.com/forecasts/article/sp-500-index-disney-soars-amd-gains-as-us-stocks-rise-ahead-of-fed-forecast-1517233",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T10:24:13-04:00",
     "date_et": "2025-05-07"
@@ -1162,7 +1434,7 @@
     "url": "https://www.youtube.com/watch?v=FlLAmcwMKas",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T11:00:33-04:00",
     "date_et": "2025-05-07"
@@ -1178,7 +1450,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2025/05/07/tech-earnings-advanced-micro-devices-super-micro-computer",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T11:33:35-04:00",
     "date_et": "2025-05-07"
@@ -1194,7 +1466,7 @@
     "url": "https://invezz.com/news/2025/05/07/amd-is-a-stable-second-source-for-gpus-is-that-enough-for-amd-stock-to-rally/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T11:49:44-04:00",
     "date_et": "2025-05-07"
@@ -1210,7 +1482,7 @@
     "url": "https://www.fool.com/investing/2025/05/07/why-amd-stock-skyrocketed-wednesday-morning-before/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T11:58:47-04:00",
     "date_et": "2025-05-07"
@@ -1226,7 +1498,7 @@
     "url": "https://www.cnbc.com/2025/05/07/amd-ceo-lisa-su-china-chips.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T12:28:01-04:00",
     "date_et": "2025-05-07"
@@ -1242,7 +1514,7 @@
     "url": "https://www.zacks.com/stock/news/2464321/amd-q1-earnings-top-estimates-revenues-up-y-y-shares-rise?cid=CS-STOCKNEWSAPI-FT-analyst_blog|earnings_article-2464321",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T13:20:43-04:00",
     "date_et": "2025-05-07"
@@ -1258,7 +1530,7 @@
     "url": "https://www.youtube.com/watch?v=siheys3i_jg",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T13:30:12-04:00",
     "date_et": "2025-05-07"
@@ -1274,7 +1546,7 @@
     "url": "https://www.youtube.com/watch?v=bsxr3SJB4Ao",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T14:00:37-04:00",
     "date_et": "2025-05-07"
@@ -1290,7 +1562,7 @@
     "url": "https://www.youtube.com/watch?v=UrkVHwchv6M",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T14:16:21-04:00",
     "date_et": "2025-05-07"
@@ -1306,7 +1578,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1070840",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T14:29:02-04:00",
     "date_et": "2025-05-07"
@@ -1322,7 +1594,7 @@
     "url": "https://www.investors.com/news/technology/trump-ai-chip-exports-nvidia-amd/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T17:00:32-04:00",
     "date_et": "2025-05-07"
@@ -1338,7 +1610,7 @@
     "url": "https://www.youtube.com/watch?v=O6DrQGXP4U0",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-07T17:56:16-04:00",
     "date_et": "2025-05-07"
@@ -1354,7 +1626,7 @@
     "url": "https://www.barrons.com/articles/nvidia-stock-price-amd-broadcom-ai-chips-824723b9",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-08T05:19:00-04:00",
     "date_et": "2025-05-08"
@@ -1370,7 +1642,7 @@
     "url": "https://www.businesswire.com/news/home/20250508837574/en/LumiThera%E2%80%99s-LIGHTSITE-IIIB-Extension-Trial-Topline-Results-Show-Extended-Vision-Improvement-in-Dry-AMD-Subjects/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-08T06:43:00-04:00",
     "date_et": "2025-05-08"
@@ -1386,7 +1658,7 @@
     "url": "https://www.marketbeat.com/stock-ideas/5-stocks-that-crushed-earnings-and-guidance-forecasts/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-08T08:32:02-04:00",
     "date_et": "2025-05-08"
@@ -1402,7 +1674,7 @@
     "url": "https://www.youtube.com/watch?v=akz_eJge5O8",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-08T08:40:02-04:00",
     "date_et": "2025-05-08"
@@ -1418,7 +1690,7 @@
     "url": "https://www.fool.com/investing/2025/05/08/cathie-wood-goes-bargain-hunting-3-stocks-she-just/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-08T11:22:00-04:00",
     "date_et": "2025-05-08"
@@ -1434,7 +1706,7 @@
     "url": "https://www.youtube.com/watch?v=AVlio9hHGpY",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-08T12:15:00-04:00",
     "date_et": "2025-05-08"
@@ -1450,7 +1722,7 @@
     "url": "https://247wallst.com/investing/2025/05/08/live-nasdaq-composite-markets-rise-on-trade-deal-promise/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-08T13:00:11-04:00",
     "date_et": "2025-05-08"
@@ -1466,7 +1738,7 @@
     "url": "https://www.zacks.com/stock/news/2465493/buy-the-spike-in-amd-stock-after-q1-earnings?cid=CS-STOCKNEWSAPI-FT-stocks_in_the_news-2465493",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-08T17:10:39-04:00",
     "date_et": "2025-05-08"
@@ -1482,7 +1754,7 @@
     "url": "https://www.fool.com/investing/2025/05/08/amd-vs-nvidia-which-artificial-intelligence-stock/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-08T20:15:00-04:00",
     "date_et": "2025-05-08"
@@ -1498,7 +1770,7 @@
     "url": "https://seekingalpha.com/article/4784193-amd-stock-q1-powerhouse-performance-tests-my-bear-thesis-but-risks-persist-upgrade-hold",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-09T05:29:00-04:00",
     "date_et": "2025-05-09"
@@ -1514,7 +1786,7 @@
     "url": "https://www.fool.com/investing/2025/05/09/amd-stock-analysis-buy-hold-or-sell/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-09T06:15:00-04:00",
     "date_et": "2025-05-09"
@@ -1530,7 +1802,7 @@
     "url": "https://www.etftrends.com/leveraged-inverse-channel/chips-dips-amd-crunch-higher-fried/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-09T08:38:26-04:00",
     "date_et": "2025-05-09"
@@ -1546,7 +1818,7 @@
     "url": "https://seekingalpha.com/article/4784265-amd-the-wake-up-call-is-coming",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-09T09:05:57-04:00",
     "date_et": "2025-05-09"
@@ -1562,7 +1834,7 @@
     "url": "https://www.zacks.com/commentary/2465867/4-stocks-to-watch-from-a-challenging-technology-solutions-industry?cid=CS-STOCKNEWSAPI-FT-industry_outlook-2465867",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-09T10:05:42-04:00",
     "date_et": "2025-05-09"
@@ -1578,7 +1850,7 @@
     "url": "https://www.fool.com/investing/2025/05/09/3-reasons-to-buy-amd-stock-like-theres-no-tomorrow/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-09T10:15:00-04:00",
     "date_et": "2025-05-09"
@@ -1594,7 +1866,7 @@
     "url": "https://seekingalpha.com/article/4784529-amd-catalysts-align-ahead-of-a-2025-inflection-point",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-09T14:49:01-04:00",
     "date_et": "2025-05-09"
@@ -1610,7 +1882,7 @@
     "url": "https://247wallst.com/investing/2025/05/08/sp-500-index-spx-live-broader-markets-rise-on-bullish-trade-optimism/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-09T15:32:05-04:00",
     "date_et": "2025-05-09"
@@ -1626,7 +1898,7 @@
     "url": "https://seekingalpha.com/article/4784582-amd-q1-you-still-have-time-to-buy-before-the-sentiment-shift",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-09T15:53:08-04:00",
     "date_et": "2025-05-09"
@@ -1642,7 +1914,7 @@
     "url": "https://www.fool.com/investing/2025/05/10/3-top-artificial-intelligence-ai-stocks-ready-for/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-10T04:59:00-04:00",
     "date_et": "2025-05-10"
@@ -1658,7 +1930,7 @@
     "url": "https://www.fool.com/investing/2025/05/10/amd-is-it-time-to-buy-this-ai-stock/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-10T07:21:00-04:00",
     "date_et": "2025-05-10"
@@ -1674,7 +1946,7 @@
     "url": "https://www.fool.com/investing/2025/05/10/cathie-wood-goes-bargain-hunting-1-dirt-cheap-ai/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-10T09:45:00-04:00",
     "date_et": "2025-05-10"
@@ -1690,7 +1962,7 @@
     "url": "https://www.fool.com/investing/2025/05/10/cathie-wood-just-cut-her-position-in-an-ai-stock-t/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-10T14:49:00-04:00",
     "date_et": "2025-05-10"
@@ -1706,7 +1978,7 @@
     "url": "https://www.fool.com/investing/2025/05/11/2-beaten-down-ai-stocks-to-buy-in-may/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-11T04:10:00-04:00",
     "date_et": "2025-05-11"
@@ -1722,7 +1994,7 @@
     "url": "https://www.fool.com/investing/2025/05/11/amd-stock-analysis-the-artificial-intelligence-seg/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-11T05:05:00-04:00",
     "date_et": "2025-05-11"
@@ -1738,7 +2010,7 @@
     "url": "https://www.fool.com/investing/2025/05/11/prediction-amd-could-surge-by-100-in-the-next-2/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-11T05:14:00-04:00",
     "date_et": "2025-05-11"
@@ -1754,7 +2026,7 @@
     "url": "https://www.fool.com/investing/2025/05/11/is-it-time-to-turn-bullish-on-amd-stock/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-11T07:00:00-04:00",
     "date_et": "2025-05-11"
@@ -1770,7 +2042,7 @@
     "url": "https://seekingalpha.com/article/4785281-amd-potential-to-double-its-valuation",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-11T08:37:51-04:00",
     "date_et": "2025-05-11"
@@ -1786,7 +2058,7 @@
     "url": "https://invezz.com/news/2025/05/12/analysts-are-upbeat-about-amd-stock-price-should-you-buy-or-sell/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-12T04:10:31-04:00",
     "date_et": "2025-05-12"
@@ -1802,7 +2074,7 @@
     "url": "https://www.businesswire.com/news/home/20250512248898/en/IPA%E2%80%99s-LENSai%E2%84%A2-Platform-Delivers-X-Ray%E2%80%93Level-Epitope-Mapping-Insights-in-Hours-Matching-Gold-Standard-Methods-with-Greater-Speed/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-12T08:01:00-04:00",
     "date_et": "2025-05-12"
@@ -1818,7 +2090,7 @@
     "url": "https://seekingalpha.com/article/4785545-amd-strong-upside-potential-if-us-china-trade-talks-turn-constructive",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-12T09:37:39-04:00",
     "date_et": "2025-05-12"
@@ -1834,7 +2106,7 @@
     "url": "https://seekingalpha.com/article/4785579-amd-quietly-catching-nvidia-wall-street-just-does-not-see-it-yet",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-12T11:12:37-04:00",
     "date_et": "2025-05-12"
@@ -1850,7 +2122,7 @@
     "url": "https://www.fool.com/investing/2025/05/12/why-nvidia-broadcom-and-other-semiconductor-and-ai/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-12T12:49:25-04:00",
     "date_et": "2025-05-12"
@@ -1866,7 +2138,7 @@
     "url": "https://www.marketwatch.com/story/nvidia-amd-help-the-chip-sector-to-its-highest-close-since-february-a2bf4d2b",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-12T17:32:00-04:00",
     "date_et": "2025-05-12"
@@ -1882,7 +2154,7 @@
     "url": "https://www.fool.com/investing/2025/05/13/where-will-amd-be-in-5-years/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-13T06:00:00-04:00",
     "date_et": "2025-05-13"
@@ -1898,7 +2170,7 @@
     "url": "https://www.businesswire.com/news/home/20250513959765/en/Alpha-and-Omega-Semiconductor-Introduces-AMD-SVI3-Multiphase-Controller-with-Low-Quiescent-Power-for-Graphics-and-Desktop-Systems/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-13T08:00:00-04:00",
     "date_et": "2025-05-13"
@@ -1914,7 +2186,7 @@
     "url": "https://247wallst.com/investing/2025/05/11/the-stock-market-crash-that-could-ruin-everything/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-13T08:00:04-04:00",
     "date_et": "2025-05-13"
@@ -1930,7 +2202,7 @@
     "url": "https://www.prnewswire.com/news-releases/mitac-computing-deploys-latest-amd-epyc-4005-series-processors-302451730.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-13T09:00:00-04:00",
     "date_et": "2025-05-13"
@@ -1946,7 +2218,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/05/13/3080163/0/en/AMD-Unveils-EPYC-4005-Series-Processors-Delivering-Workload-Optimized-Solutions-for-Entry-Level-Enterprise.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-13T09:00:00-04:00",
     "date_et": "2025-05-13"
@@ -1962,7 +2234,7 @@
     "url": "https://www.businesswire.com/news/home/20250513519746/en/New-AMD-EPYC-4005-Series-Server-CPUs-Now-Available-Exclusively-at-Newegg-for-North-American-Retail-Launch/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-13T09:00:00-04:00",
     "date_et": "2025-05-13"
@@ -1978,7 +2250,7 @@
     "url": "https://www.prnewswire.com/news-releases/supermicro-delivers-best-in-class-cost-and-density-per-server-instance-with-the-new-microcloud-a-multi-node-solution-for-lightweight-entry-class-workloads-powered-by-amd-epyc-4005-series-processors-302453010.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-13T09:05:00-04:00",
     "date_et": "2025-05-13"
@@ -1994,7 +2266,7 @@
     "url": "https://www.zacks.com/stock/news/2467903/advanced-micro-devices-inc-amd-is-a-trending-stock-facts-to-know-before-betting-on-it?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|most_searched_stocks-2467903",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-13T10:06:12-04:00",
     "date_et": "2025-05-13"
@@ -2010,7 +2282,7 @@
     "url": "https://www.marketbeat.com/originals/qualcomm-is-5x-cheaper-than-amd-but-wont-be-for-long/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-13T10:57:15-04:00",
     "date_et": "2025-05-13"
@@ -2026,7 +2298,7 @@
     "url": "https://www.fool.com/investing/2025/05/13/amd-management-expects-robust-growth-to-continue-i/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-13T11:43:35-04:00",
     "date_et": "2025-05-13"
@@ -2042,7 +2314,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/05/13/3080429/0/en/AMD-and-HUMAIN-Form-Strategic-10B-Collaboration-to-Advance-Global-AI.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-13T12:08:00-04:00",
     "date_et": "2025-05-13"
@@ -2058,7 +2330,7 @@
     "url": "https://www.businesswire.com/news/home/20250513239882/en/CyberLink-Collaborates-with-AMD-to-Bring-On-Device-Generative-AI-to-a-Broader-Audience/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-13T12:33:00-04:00",
     "date_et": "2025-05-13"
@@ -2074,7 +2346,7 @@
     "url": "https://www.businesswire.com/news/home/20250514340458/en/TensorWave-Secures-100-Million-Series-A-Funding-Co-Led-by-Magnetar-and-AMD-Ventures/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T07:00:00-04:00",
     "date_et": "2025-05-14"
@@ -2090,7 +2362,7 @@
     "url": "https://www.barrons.com/articles/arm-market-share-amd-intel-824fbcf1",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T08:09:00-04:00",
     "date_et": "2025-05-14"
@@ -2106,7 +2378,7 @@
     "url": "https://seekingalpha.com/article/4786522-amd-will-never-match-nvidia-and-thats-why-its-a-buy-upgrade",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T09:02:51-04:00",
     "date_et": "2025-05-14"
@@ -2122,7 +2394,7 @@
     "url": "https://www.reuters.com/business/amd-announces-new-6-billion-share-buyback-plan-2025-05-14/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T09:09:13-04:00",
     "date_et": "2025-05-14"
@@ -2138,7 +2410,7 @@
     "url": "https://www.barrons.com/articles/amd-stock-price-advanced-micro-devices-3d34e2d4",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T09:23:00-04:00",
     "date_et": "2025-05-14"
@@ -2154,7 +2426,7 @@
     "url": "https://www.cnbc.com/2025/05/14/amd-shares-buyback.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T09:41:12-04:00",
     "date_et": "2025-05-14"
@@ -2170,7 +2442,7 @@
     "url": "https://www.youtube.com/watch?v=yUv0o-MICpg",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T09:45:18-04:00",
     "date_et": "2025-05-14"
@@ -2186,7 +2458,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2025/05/14/chip-stock-surges-on-share-buyback-saudi-arabia-deal",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T10:28:25-04:00",
     "date_et": "2025-05-14"
@@ -2202,7 +2474,7 @@
     "url": "https://www.youtube.com/watch?v=cT81sXo2xi4",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T10:39:01-04:00",
     "date_et": "2025-05-14"
@@ -2218,7 +2490,7 @@
     "url": "https://invezz.com/news/2025/05/14/amd-stock-rallies-on-stock-buyback-announcement-find-out-more/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T11:00:29-04:00",
     "date_et": "2025-05-14"
@@ -2234,7 +2506,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1071226",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T11:29:03-04:00",
     "date_et": "2025-05-14"
@@ -2250,7 +2522,7 @@
     "url": "https://finbold.com/amd-stock-short-squeeze-alert/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T11:52:24-04:00",
     "date_et": "2025-05-14"
@@ -2266,7 +2538,7 @@
     "url": "https://www.investopedia.com/top-stock-movers-now-super-micro-computer-amd-newmont-and-more-11734632",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T12:01:19-04:00",
     "date_et": "2025-05-14"
@@ -2282,7 +2554,7 @@
     "url": "https://seekingalpha.com/article/4786616-amd-sell-the-buyback-news",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T12:04:31-04:00",
     "date_et": "2025-05-14"
@@ -2298,7 +2570,7 @@
     "url": "https://www.marketbeat.com/originals/amds-ai-powered-stock-price-rally-just-shifted-gears/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T12:05:47-04:00",
     "date_et": "2025-05-14"
@@ -2314,7 +2586,7 @@
     "url": "https://www.fool.com/investing/2025/05/14/why-amd-stock-skyrocketed-wednesday-morning/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T12:05:56-04:00",
     "date_et": "2025-05-14"
@@ -2330,7 +2602,7 @@
     "url": "https://www.youtube.com/watch?v=_Z1WmGM6poU",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T12:46:42-04:00",
     "date_et": "2025-05-14"
@@ -2346,7 +2618,7 @@
     "url": "https://www.youtube.com/watch?v=p26OBBQUeOo",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T12:49:14-04:00",
     "date_et": "2025-05-14"
@@ -2362,7 +2634,7 @@
     "url": "https://www.marketwatch.com/story/nvidia-amd-extend-stock-gains-why-the-ai-trade-is-roaring-back-33696883",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T13:40:00-04:00",
     "date_et": "2025-05-14"
@@ -2378,7 +2650,7 @@
     "url": "https://www.fastcompany.com/91334525/amd-stock-price-jumps-on-buyback-saudi-arabia-humain-deal",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T13:40:26-04:00",
     "date_et": "2025-05-14"
@@ -2394,7 +2666,7 @@
     "url": "https://www.zacks.com/stock/news/2470791/amd-vs-lattice-semiconductor-which-fpga-stock-has-the-edge?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2470791",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T14:35:38-04:00",
     "date_et": "2025-05-14"
@@ -2410,7 +2682,7 @@
     "url": "https://www.foxbusiness.com/markets/ai-chipmaker-amd-unveils-6b-buyback-plan",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T15:06:23-04:00",
     "date_et": "2025-05-14"
@@ -2426,7 +2698,7 @@
     "url": "https://247wallst.com/investing/2025/05/14/advanced-micro-devices-nasdaq-amd-live-stock-soaring-higher-pre-market/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T16:13:32-04:00",
     "date_et": "2025-05-14"
@@ -2442,7 +2714,7 @@
     "url": "https://www.youtube.com/watch?v=119-JxXhnSc",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-14T18:02:09-04:00",
     "date_et": "2025-05-14"
@@ -2458,7 +2730,7 @@
     "url": "https://www.fool.com/investing/2025/05/15/is-amd-stock-due-for-a-big-rally-after-its-earning/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-15T05:35:00-04:00",
     "date_et": "2025-05-15"
@@ -2474,7 +2746,7 @@
     "url": "https://www.fool.com/investing/2025/05/15/this-is-my-top-artificial-intelligence-chip-stock/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-15T06:30:00-04:00",
     "date_et": "2025-05-15"
@@ -2490,7 +2762,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2025/05/15/whats-next-for-amd-stock-after-recent-20-gain/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-15T07:00:04-04:00",
     "date_et": "2025-05-15"
@@ -2506,7 +2778,7 @@
     "url": "https://www.fxempire.com/forecasts/article/nvda-amd-and-intc-forecast-us-chips-pull-back-in-premarket-trading-1519277",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-15T08:36:07-04:00",
     "date_et": "2025-05-15"
@@ -2522,7 +2794,7 @@
     "url": "https://seekingalpha.com/article/4787050-amd-something-bigger-than-the-6b-buyback-comes-next-month",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-15T09:05:41-04:00",
     "date_et": "2025-05-15"
@@ -2538,7 +2810,7 @@
     "url": "https://seekingalpha.com/article/4786956-amd-ai-data-center-strategy-working-still-trading-like-legacy-chip-stock",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-15T09:30:00-04:00",
     "date_et": "2025-05-15"
@@ -2554,7 +2826,7 @@
     "url": "https://www.fool.com/investing/2025/05/15/great-news-for-amd-stock-investors/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-15T09:30:00-04:00",
     "date_et": "2025-05-15"
@@ -2570,7 +2842,7 @@
     "url": "https://seekingalpha.com/article/4787075-amd-has-a-bright-future-ahead",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-15T09:46:34-04:00",
     "date_et": "2025-05-15"
@@ -2586,7 +2858,7 @@
     "url": "https://www.benzinga.com/trading-ideas/long-ideas/25/05/45443777/best-amd-stock-rally-in-2-years-gets-a-buyback-boost",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-15T11:36:13-04:00",
     "date_et": "2025-05-15"
@@ -2602,7 +2874,7 @@
     "url": "https://www.forbes.com/sites/tylerroush/2025/05/15/these-stocks-are-the-biggest-winners-from-trumps-middle-east-trip/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-15T12:15:13-04:00",
     "date_et": "2025-05-15"
@@ -2618,7 +2890,7 @@
     "url": "https://www.youtube.com/watch?v=sNBobRU1DQQ",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-15T13:15:06-04:00",
     "date_et": "2025-05-15"
@@ -2634,7 +2906,7 @@
     "url": "https://www.zacks.com/stock/news/2472150/can-saudi-ai-deals-boost-amd-over-nvidia-and-is-it-a-buy?cid=CS-STOCKNEWSAPI-FT-analyst_blog|investment_ideas-2472150",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-15T16:01:04-04:00",
     "date_et": "2025-05-15"
@@ -2650,7 +2922,7 @@
     "url": "https://seekingalpha.com/article/4787316-amd-profitability-trends-a-buy-signal-for-savvy-investors",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-15T16:56:53-04:00",
     "date_et": "2025-05-15"
@@ -2666,7 +2938,7 @@
     "url": "https://www.zacks.com/stock/news/2472590/markets-mostly-up-on-mid-east-wheeling-dealing?cid=CS-STOCKNEWSAPI-FT-ahead_of_wall_street-2472590",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-15T19:13:02-04:00",
     "date_et": "2025-05-15"
@@ -2682,7 +2954,7 @@
     "url": "https://www.fool.com/investing/2025/05/16/3-top-tech-stocks-to-buy-in-may/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-16T03:17:00-04:00",
     "date_et": "2025-05-16"
@@ -2698,7 +2970,7 @@
     "url": "https://www.fool.com/investing/2025/05/16/should-buy-advanced-micro-devices-amd-stock-after/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-16T04:24:00-04:00",
     "date_et": "2025-05-16"
@@ -2714,7 +2986,7 @@
     "url": "https://www.fool.com/investing/2025/05/16/3-breakout-growth-stocks-you-can-buy-and-hold-for/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-16T05:15:00-04:00",
     "date_et": "2025-05-16"
@@ -2730,7 +3002,7 @@
     "url": "https://www.fool.com/investing/2025/05/16/1-semiconductor-stock-that-could-be-a-surprise-ai/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-16T06:15:00-04:00",
     "date_et": "2025-05-16"
@@ -2746,7 +3018,7 @@
     "url": "https://seekingalpha.com/article/4787527-amd-isnt-what-it-seems",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-16T06:47:55-04:00",
     "date_et": "2025-05-16"
@@ -2762,7 +3034,7 @@
     "url": "https://seekingalpha.com/article/4787542-amd-china-trade-talks-could-be-a-catalyst-for-ai-sales-growth",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-16T08:22:05-04:00",
     "date_et": "2025-05-16"
@@ -2778,7 +3050,7 @@
     "url": "https://seekingalpha.com/article/4787308-amd-a-losing-bet-on-ai",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-16T09:30:00-04:00",
     "date_et": "2025-05-16"
@@ -2794,7 +3066,7 @@
     "url": "https://seekingalpha.com/article/4787595-amd-inference-is-hitting-an-inflection-point",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-16T10:24:14-04:00",
     "date_et": "2025-05-16"
@@ -2810,7 +3082,7 @@
     "url": "https://www.fool.com/investing/2025/05/16/amd-stock-investors-got-flooded-with-amazing-news/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-16T10:42:33-04:00",
     "date_et": "2025-05-16"
@@ -2826,7 +3098,7 @@
     "url": "https://www.fxempire.com/forecasts/article/nasdaq-index-bullish-forecast-as-adobe-alphabet-amd-lead-weekly-stock-market-gains-1519596",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-16T10:58:24-04:00",
     "date_et": "2025-05-16"
@@ -2842,7 +3114,7 @@
     "url": "https://www.zacks.com/stock/news/2473060/amd-rises-31-in-one-month-should-you-buy-hold-or-sell-the-stock?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2473060",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-16T11:31:04-04:00",
     "date_et": "2025-05-16"
@@ -2858,7 +3130,7 @@
     "url": "https://www.fool.com/investing/2025/05/16/why-advanced-micro-devices-stock-is-skyrocketing-t/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-16T13:04:07-04:00",
     "date_et": "2025-05-16"
@@ -2874,7 +3146,7 @@
     "url": "https://seekingalpha.com/article/4787693-amds-ai-strategy-sprints-past-intel-firmly-in-the-fast-lane",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-16T15:20:47-04:00",
     "date_et": "2025-05-16"
@@ -2890,7 +3162,7 @@
     "url": "https://www.youtube.com/watch?v=Gk0iQnMEsUE",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-17T13:00:15-04:00",
     "date_et": "2025-05-17"
@@ -2906,7 +3178,7 @@
     "url": "https://www.fool.com/investing/2025/05/18/tech-stock-winners-trump-600-billion-saudi-deal/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-18T04:00:00-04:00",
     "date_et": "2025-05-18"
@@ -2922,7 +3194,7 @@
     "url": "https://www.fool.com/investing/2025/05/18/artificial-intelligence-ai-infrastructure-spend-co/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-18T15:22:00-04:00",
     "date_et": "2025-05-18"
@@ -2938,7 +3210,7 @@
     "url": "https://seekingalpha.com/article/4787935-amd-16-billion-positive-signals",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-18T20:00:00-04:00",
     "date_et": "2025-05-18"
@@ -2954,7 +3226,7 @@
     "url": "https://www.prnewswire.com/news-releases/mitac-computing-showcases-strategic-ai-and-cloud-infrastructure-partnership-with-amd-at-computex-2025-302458414.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-18T22:00:00-04:00",
     "date_et": "2025-05-18"
@@ -2970,7 +3242,7 @@
     "url": "https://www.prnewswire.com/news-releases/sanmina-announces-acquisition-of-data-center-infrastructure-manufacturing-business-of-zt-systems-from-amd-302458905.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-19T07:30:00-04:00",
     "date_et": "2025-05-19"
@@ -2986,7 +3258,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/05/19/3083916/0/en/AMD-Announces-Agreement-to-Divest-ZT-Systems-Data-Center-Infrastructure-Manufacturing-Business-to-Sanmina.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-19T07:35:00-04:00",
     "date_et": "2025-05-19"
@@ -3002,7 +3274,7 @@
     "url": "https://www.reuters.com/business/sanmina-buy-zt-systems-manufacturing-business-amd-3-billion-deal-2025-05-19/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-19T07:45:11-04:00",
     "date_et": "2025-05-19"
@@ -3018,7 +3290,7 @@
     "url": "https://www.marketbeat.com/stock-ideas/best-value-stocks-according-to-morningstar-in-2025/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-19T07:46:09-04:00",
     "date_et": "2025-05-19"
@@ -3034,7 +3306,7 @@
     "url": "https://www.wsj.com/finance/investing/sanmina-to-acquire-zt-systems-manufacturing-business-from-amd-82e957b6",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-19T08:17:00-04:00",
     "date_et": "2025-05-19"
@@ -3050,7 +3322,7 @@
     "url": "https://www.marketbeat.com/stock-ideas/buybacks-and-big-time-developments-3-stocks-making-huge-moves/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-19T08:31:43-04:00",
     "date_et": "2025-05-19"
@@ -3066,7 +3338,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/05/19/3084036/0/en/Cirrascale-Cloud-Services-to-Offer-AMD-Instinct-MI350-Series-GPUs-and-Platforms-in-its-AI-Innovation-Cloud.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-19T09:00:00-04:00",
     "date_et": "2025-05-19"
@@ -3082,7 +3354,7 @@
     "url": "https://techcrunch.com/2025/05/19/amd-strikes-a-deal-to-sell-zt-systems-server-manufacturing-business-for-3b/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-19T13:31:16-04:00",
     "date_et": "2025-05-19"
@@ -3098,7 +3370,7 @@
     "url": "https://www.fool.com/investing/2025/05/19/6-billion-reasons-to-buy-this-dirt-cheap-artificia/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-19T20:13:00-04:00",
     "date_et": "2025-05-19"
@@ -3114,7 +3386,7 @@
     "url": "https://www.fxempire.com/forecasts/article/nvda-intc-and-amd-forecast-chop-stocks-quiet-in-premarket-trading-1520304",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-20T08:27:58-04:00",
     "date_et": "2025-05-20"
@@ -3130,7 +3402,7 @@
     "url": "https://finbold.com/banking-giant-just-identified-nvidias-competitor-to-watch-out-for/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-20T09:32:31-04:00",
     "date_et": "2025-05-20"
@@ -3146,7 +3418,7 @@
     "url": "https://seekingalpha.com/article/4788434-amds-growth-is-just-kicking-off",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-20T10:00:00-04:00",
     "date_et": "2025-05-20"
@@ -3162,7 +3434,7 @@
     "url": "https://www.cnbc.com/2025/05/20/elon-musk-says-he-expects-to-keep-buying-gpus-from-nvidia-and-amd.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-20T16:21:30-04:00",
     "date_et": "2025-05-20"
@@ -3178,7 +3450,7 @@
     "url": "https://www.youtube.com/watch?v=ebFVn2Alax0",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-20T16:47:18-04:00",
     "date_et": "2025-05-20"
@@ -3194,7 +3466,7 @@
     "url": "https://www.investopedia.com/tesla-and-xai-plan-to-keep-buying-chips-from-nvidia-and-amd-musk-says-11738838",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-20T18:40:36-04:00",
     "date_et": "2025-05-20"
@@ -3210,7 +3482,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/05/21/3085385/0/en/ASUS-and-AMD-Jointly-Unveil-Full-2025-Expert-P-Series-Lineup-at-AMD-Keynote.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-20T23:00:00-04:00",
     "date_et": "2025-05-20"
@@ -3226,7 +3498,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/05/21/3085386/0/en/AMD-Introduces-New-Radeon-Graphics-Cards-and-Ryzen-Threadripper-Processors-at-COMPUTEX-2025.html",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-20T23:00:00-04:00",
     "date_et": "2025-05-20"
@@ -3242,7 +3514,7 @@
     "url": "https://www.investors.com/news/technology/amd-stock-intel-computex-2025-news/",
     "ticker": "AMD",
     "event_date": "2025-05-06",
-    "window_start": "2025-04-29",
+    "window_start": "2025-04-22",
     "window_end": "2025-05-20",
     "publishedDateET": "2025-05-20T23:00:03-04:00",
     "date_et": "2025-05-20"

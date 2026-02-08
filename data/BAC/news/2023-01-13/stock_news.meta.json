@@ -4,11 +4,39 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2023-01-13",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2023-01-06",
+  "start": "2022-12-30",
   "end": "2023-01-27",
   "chunks": [
+    {
+      "start": "2022-12-30",
+      "end": "2022-12-30"
+    },
+    {
+      "start": "2022-12-31",
+      "end": "2022-12-31"
+    },
+    {
+      "start": "2023-01-01",
+      "end": "2023-01-01"
+    },
+    {
+      "start": "2023-01-02",
+      "end": "2023-01-02"
+    },
+    {
+      "start": "2023-01-03",
+      "end": "2023-01-03"
+    },
+    {
+      "start": "2023-01-04",
+      "end": "2023-01-04"
+    },
+    {
+      "start": "2023-01-05",
+      "end": "2023-01-05"
+    },
     {
       "start": "2023-01-06",
       "end": "2023-01-06"
@@ -105,16 +133,16 @@
   "chunk_days": 0,
   "pad_days": 0,
   "sleep": 0.05,
-  "fetched_total": 95,
-  "kept_total": 95,
+  "fetched_total": 110,
+  "kept_total": 110,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2023-01-06T18:48:23-05:00",
+  "min_publishedDateET": "2022-12-30T07:00:24-05:00",
   "max_publishedDateET": "2023-01-26T15:15:37-05:00",
   "outputs": {
     "raw_json": "data/BAC/news/2023-01-13/stock_news.raw.json",
     "jsonl": "data/BAC/news/2023-01-13/stock_news.jsonl",
     "csv": "data/BAC/news/2023-01-13/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:32:42.503971-05:00",
+  "generated_at": "2026-02-07T19:38:42.233478-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

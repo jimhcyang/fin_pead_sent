@@ -1,6 +1,822 @@
 [
   {
     "symbol": "META",
+    "publishedDate": "2022-01-19 05:25:51",
+    "publisher": "Benzinga",
+    "title": "Here's How JP Morgan Views Meta, Amazon, Apple",
+    "image": "https://images.financialmodelingprep.com/news/heres-how-jp-morgan-views-meta-amazon-apple-20220119.jpg",
+    "site": "benzinga.com",
+    "text": "JPMorgan just shared its view on some significant tech stocks. JPMorgan analyst Doug Anmuth lowered the price target on Meta Platforms Inc (NASDAQ:FB) to $385 from $390 (16% upside to January 14 closing price) and reiterated an Overweight rating on the shares.",
+    "url": "https://www.benzinga.com/analyst-ratings/analyst-color/22/01/25102391/heres-how-jp-morgan-views-meta-amazon-apple",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-19T05:25:51-05:00",
+    "date_et": "2022-01-19"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-19 11:05:57",
+    "publisher": "TechXplore",
+    "title": "Prying eyes and ears—the impact of Facebook's Project Aria on people's privacy",
+    "image": "https://images.financialmodelingprep.com/news/prying-eyes-and-earsthe-impact-of-facebooks-project-aria-20220119.jpg",
+    "site": "techxplore.com",
+    "text": "The rapid evolution and spread of digital technology raise various privacy and ethical issues both for those developing technologies and for the public. Some new technology contains small cameras that can be easily disguised in public, with photo and video data that can be recorded, distributed, exploited and combined with previously collected data.",
+    "url": "https://techxplore.com/news/2022-01-prying-eyes-earsthe-impact-facebook.html",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-19T11:05:57-05:00",
+    "date_et": "2022-01-19"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-19 12:19:11",
+    "publisher": "Zacks Investment Research",
+    "title": "The Metaverse Investment Playbook",
+    "image": "https://images.financialmodelingprep.com/news/the-metaverse-investment-playbook-20220119.jpg",
+    "site": "zacks.com",
+    "text": "The future of this virtual world presents real investment opportunities you don't want to miss today.",
+    "url": "https://www.zacks.com/stock/news/1853931/the-metaverse-investment-playbook",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-19T12:19:11-05:00",
+    "date_et": "2022-01-19"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-19 13:05:35",
+    "publisher": "Zacks Investment Research",
+    "title": "A Deep Dive into the FAANG Earnings Charts",
+    "image": "https://images.financialmodelingprep.com/news/a-deep-dive-into-the-faang-earnings-charts-20220119.jpg",
+    "site": "zacks.com",
+    "text": "Meta, Apple, Amazon, Netflix and Alphabet will report earnings shortly. Here's what to look for.",
+    "url": "https://www.zacks.com/stock/news/1853979/a-deep-dive-into-the-faang-earnings-charts",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-19T13:05:35-05:00",
+    "date_et": "2022-01-19"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-19 15:43:31",
+    "publisher": "GuruFocus",
+    "title": "Outlook 2022: Polar Opposites",
+    "image": "https://images.financialmodelingprep.com/news/outlook-2022-polar-opposites-20220119.jpg",
+    "site": "gurufocus.com",
+    "text": "There are three pillars of investing for us at Smead Capital Management. First, we must know the history of the stock market.",
+    "url": "https://www.gurufocus.com/news/1620874/outlook-2022-polar-opposites",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-19T15:43:31-05:00",
+    "date_et": "2022-01-19"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-19 15:48:00",
+    "publisher": "The Motley Fool",
+    "title": "Why Meta Platforms Stock Popped Today",
+    "image": "https://images.financialmodelingprep.com/news/why-meta-platforms-stock-popped-today-20220119.jpg",
+    "site": "fool.com",
+    "text": "The company, that used to be Facebook, wants to make more money from Instagram.",
+    "url": "https://www.fool.com/investing/2022/01/19/why-meta-platforms-stock-popped-today/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-19T15:48:00-05:00",
+    "date_et": "2022-01-19"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-19 16:43:31",
+    "publisher": "InvestorPlace",
+    "title": "The Forever Battery That Promises to Change the EV Industry",
+    "image": "https://images.financialmodelingprep.com/news/the-forever-battery-that-promises-to-change-the-ev-20220119.jpg",
+    "site": "investorplace.com",
+    "text": "The harsh reality here is that while batteries make things work, today's batteries are keeping EVs from working as well as they could. Solid-state batteries could be the key to allowing electric cars to drive for thousands of miles without needing to recharge.",
+    "url": "https://investorplace.com/hypergrowthinvesting/2022/01/the-forever-battery-that-promises-to-change-the-ev-industry-3/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-19T16:43:31-05:00",
+    "date_et": "2022-01-19"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-20 08:30:00",
+    "publisher": "Seeking Alpha",
+    "title": "Dividend Harvesting Week 46 Update, $4,600 Allocated, $312.32 In Annual Dividends Yielding 6.32% Across 60 Positions",
+    "image": "https://images.financialmodelingprep.com/news/dividend-harvesting-week-46-update-4600-allocated-31232-in-20220120.jpg",
+    "site": "seekingalpha.com",
+    "text": "After 46 weeks and $4,600 allocated, the Dividend Harvesting portfolio is generating $312.32 in annual dividend income.",
+    "url": "https://seekingalpha.com/article/4480258-dividend-harvesting-week-46-update",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-20T08:30:00-05:00",
+    "date_et": "2022-01-20"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-20 08:35:00",
+    "publisher": "Seeking Alpha",
+    "title": "Investing In Metaverse Real Estate",
+    "image": "https://images.financialmodelingprep.com/news/investing-in-metaverse-real-estate-20220120.jpg",
+    "site": "seekingalpha.com",
+    "text": "A new REIT capitalizing on virtual real estate recently filed for an IPO.",
+    "url": "https://seekingalpha.com/article/4480131-investing-in-metaverse-real-estate",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-20T08:35:00-05:00",
+    "date_et": "2022-01-20"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-20 09:08:32",
+    "publisher": "TechCrunch",
+    "title": "Meta's Workplace will integrate with WhatsApp later this year to expand communication with frontline employees",
+    "image": "https://images.financialmodelingprep.com/news/metas-workplace-will-integrate-with-whatsapp-later-this-year-20220120.jpg",
+    "site": "techcrunch.com",
+    "text": "Workplace, the app owned and originally built by Facebook (now Meta) as a version of the social network for enterprise employees to communicate with each other, has signed up upwards of 7 million users, finding traction in particular among multinational organizations with a mix of front-line, deskless and desk-based workers, as a way for management […]",
+    "url": "https://techcrunch.com/2022/01/20/metas-workplace-will-integrate-with-whatsapp-later-this-year-to-expand-communication-with-frontline-employees/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-20T09:08:32-05:00",
+    "date_et": "2022-01-20"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-20 10:45:53",
+    "publisher": "New York Post",
+    "title": "Short seller Spruce Point targets moderator for controversial Facebook content",
+    "image": "https://images.financialmodelingprep.com/news/short-seller-spruce-point-targets-moderator-for-controversial-facebook-20220120.jpg",
+    "site": "nypost.com",
+    "text": "Hedge fund Spruce Point Capital said it has bet against the shares of a company Facebook uses to screen controversial message chats, claiming the firm has a pattern of painting an overly rosy picture of its business.",
+    "url": "https://nypost.com/2022/01/20/short-seller-spruce-point-targets-taskus-a-facebook-moderator/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-20T10:45:53-05:00",
+    "date_et": "2022-01-20"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-20 11:06:55",
+    "publisher": "PYMNTS",
+    "title": "Big Tech's Chorus of Critics Grows Ahead of Hill Hearing",
+    "image": "https://images.financialmodelingprep.com/news/big-techs-chorus-of-critics-grows-ahead-of-hill-20220120.jpg",
+    "site": "pymnts.com",
+    "text": "Thursday (Jan. 20) looms as an important day in the annals of legislation targeting and likely reshaping Big Tech. But the dominant names in the space are getting pushback from other avenues, where this week a new coalition has levied a slew of grievances against the Googles, the Amazons of the world, et al.",
+    "url": "https://www.pymnts.com/antitrust/2022/big-techs-chorus-of-critics-grows-ahead-of-hill-hearing/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-20T11:06:55-05:00",
+    "date_et": "2022-01-20"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-20 11:20:29",
+    "publisher": "Investopedia",
+    "title": "Stocks Jump, Dow Rises After Four Days of Declines",
+    "image": "https://images.financialmodelingprep.com/news/stocks-jump-dow-rises-after-four-days-of-declines-20220120.jpg",
+    "site": "investopedia.com",
+    "text": "Financial news digest for Jan. 20 with stock, bond, cryptocurrency, and markets news. Breaking news on companies, earnings, and interest rates.",
+    "url": "https://www.investopedia.com/stocks-jump-dow-rises-after-declines-5216495",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-20T11:20:29-05:00",
+    "date_et": "2022-01-20"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-20 13:04:13",
+    "publisher": "Zacks Investment Research",
+    "title": "Meta Platforms (FB) Set to Launch Subscriptions on Instagram",
+    "image": "https://images.financialmodelingprep.com/news/meta-platforms-fb-set-to-launch-subscriptions-on-instagram-20220120.jpg",
+    "site": "zacks.com",
+    "text": "Meta Platforms' (FB) launch of Subscriptions in Instagram is a strategic move to attract more creators.",
+    "url": "https://www.zacks.com/stock/news/1854772/meta-platforms-fb-set-to-launch-subscriptions-on-instagram",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-20T13:04:13-05:00",
+    "date_et": "2022-01-20"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-20 14:22:04",
+    "publisher": "The Motley Fool",
+    "title": "Why Meta Platforms Stock Climbed Higher on Thursday",
+    "image": "https://images.financialmodelingprep.com/news/why-meta-platforms-stock-climbed-higher-on-thursday-20220120.jpg",
+    "site": "fool.com",
+    "text": "The social media giant is expanding a feature designed to lure creators to its platforms.",
+    "url": "https://www.fool.com/investing/2022/01/20/why-meta-platforms-stock-climbed-higher-on-thursda/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-20T14:22:04-05:00",
+    "date_et": "2022-01-20"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-20 18:14:48",
+    "publisher": "TechCrunch",
+    "title": "The first big tech antitrust bill lumbers toward reality",
+    "image": "https://images.financialmodelingprep.com/news/the-first-big-tech-antitrust-bill-lumbers-toward-reality-20220120.jpeg",
+    "site": "techcrunch.com",
+    "text": "A major Senate bill that would prevent tech companies from giving preference to their own products and services just passed a significant hurdle in Congress, bringing it one step closer to becoming law. The Senate Judiciary Committee voted today on the American Innovation and Choice Online Act, moving the prominent antitrust bill toward a vote […]",
+    "url": "https://techcrunch.com/2022/01/20/tech-antitrust-self-preferencing-bill-american-innovation-and-choice-online-act/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-20T18:14:48-05:00",
+    "date_et": "2022-01-20"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-20 18:51:53",
+    "publisher": "PYMNTS",
+    "title": "Facebook, Instagram Jump Into NFTs, a Springboard to the Metaverse",
+    "image": "https://images.financialmodelingprep.com/news/facebook-instagram-jump-into-nfts-a-springboard-to-the-20220120.jpg",
+    "site": "pymnts.com",
+    "text": "Meta's two main social networks, Facebook and Instagram, are planning a big move into the nonfungible token (NFT) market, according to reports. By making it possible — and likely cheap — for Facebook and Instagram users to mint, trade and display NFTs, the social media giant is not only jumping into a very hot and […]",
+    "url": "https://www.pymnts.com/metaverse/2022/facebook-instagram-jump-into-nfts-springboard-metaverse/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-20T18:51:53-05:00",
+    "date_et": "2022-01-20"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-21 09:15:06",
+    "publisher": "Zacks Investment Research",
+    "title": "4 Stocks & ETFs to Make the Most of Metaverse Boom",
+    "image": "https://images.financialmodelingprep.com/news/4-stocks-etfs-to-make-the-most-of-metaverse-20220121.jpg",
+    "site": "zacks.com",
+    "text": "The Metaverse is a shared virtual 3D worlds that are interactive and collaborative. Analysts expect a huge market opportunity for the metaverse.",
+    "url": "https://www.zacks.com/stock/news/1855241/4-stocks-etfs-to-make-the-most-of-metaverse-boom",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-21T09:15:06-05:00",
+    "date_et": "2022-01-21"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-21 11:00:47",
+    "publisher": "Proactive Investors",
+    "title": "Attention turns to other FAANG companies as Netflix's shares plummet",
+    "image": "https://images.financialmodelingprep.com/news/attention-turns-to-other-faang-companies-as-netflixs-shares-20220121.jpg",
+    "site": "proactiveinvestors.co.uk",
+    "text": "Netflix was the first of the FAANG (Facebook/Meta, Apple, Amazon and Google/Alphabet), companies to release results in 2022, with companies to report this season and it set a low bar for the rest of its merry band of tech giants to follow  A fourth quarter report accompanied by a prediction of a slowdown in new subscribers spooked investors and sent its share price crashing by 26%. Forecasts stand at 2.5mln new subscribers for the Nasdaq listed company were considerably lower than the 4mln achieved for the same period last year and miles short of market forecasts Can its compadres do better?",
+    "url": "https://www.proactiveinvestors.co.uk//companies/news/971849/attention-turns-to-other-faang-companies-as-netflix-s-shares-plummet-971849.html?SNAPI",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-21T11:00:47-05:00",
+    "date_et": "2022-01-21"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-21 12:20:09",
+    "publisher": "Zacks Investment Research",
+    "title": "Markets Wait for Fed FOMC and Major Earnings Next Week",
+    "image": "https://images.financialmodelingprep.com/news/markets-wait-for-fed-fomc-and-major-earnings-next-20220121.jpg",
+    "site": "zacks.com",
+    "text": "Markets Wait for Fed FOMC and Major Earnings Next Week",
+    "url": "https://www.zacks.com/stock/news/1855456/markets-wait-for-fed-fomc-and-major-earnings-next-week",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-21T12:20:09-05:00",
+    "date_et": "2022-01-21"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-21 12:20:19",
+    "publisher": "Zacks Investment Research",
+    "title": "Next Week's Opportunity to Tame the Bears",
+    "image": "https://images.financialmodelingprep.com/news/next-weeks-opportunity-to-tame-the-bears-20220121.jpg",
+    "site": "zacks.com",
+    "text": "Part of what's motivating the sell-off is the prospect of four interest rate hikes coming in 2022.",
+    "url": "https://www.zacks.com/stock/news/1855418/next-week-s-opportunity-to-tame-the-bears",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-21T12:20:19-05:00",
+    "date_et": "2022-01-21"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-21 13:18:45",
+    "publisher": "Stockmarket.com",
+    "title": "Which Stocks To Buy Now? 4 Value Stocks To Watch",
+    "image": "https://images.financialmodelingprep.com/news/which-stocks-to-buy-now-4-value-stocks-to-20220121.jpg",
+    "site": "stockmarket.com",
+    "text": "Should you be investing in these value stocks amid concerns of high inflation?",
+    "url": "https://stockmarket.com/featured/which-stocks-to-buy-now-4-value-stocks-to-watch-2022-01-21",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-21T13:18:45-05:00",
+    "date_et": "2022-01-21"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-21 14:27:00",
+    "publisher": "Barron's",
+    "title": "Where to Find Bargains Among the Tech Wreck",
+    "image": "https://images.financialmodelingprep.com/news/where-to-find-bargains-among-the-tech-wreck-20220121.jpg",
+    "site": "barrons.com",
+    "text": "Investors may want to consider some of the tech leaders and bottom fish among the busted growth stocks.",
+    "url": "https://www.barrons.com/articles/where-to-find-bargains-among-tech-and-growth-stocks-51642793260",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-21T14:27:00-05:00",
+    "date_et": "2022-01-21"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-21 15:55:25",
+    "publisher": "New York Post",
+    "title": "Google, Amazon, Meta crank up lobbying as Big Tech scrutiny rises",
+    "image": "https://images.financialmodelingprep.com/news/google-amazon-meta-crank-up-lobbying-as-big-tech-20220121.png",
+    "site": "nypost.com",
+    "text": "Google, Amazon, and Meta spent tens of millions of dollars lobbying Congress last year as the tech behemoths came under increasing scrutiny from antitrust regulators and lawmakers on both sides of the aisle. Google's parent company Alphabet Inc. boosted spending on lobbyists by 27.5% last year to $9.6 million, according to filings.",
+    "url": "https://nypost.com/2022/01/21/google-amazon-meta-up-lobbying-as-big-tech-scrutiny-rises/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-21T15:55:25-05:00",
+    "date_et": "2022-01-21"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-21 16:46:10",
+    "publisher": "The Motley Fool",
+    "title": "Why Meta Platforms Stock Was Sliding Today",
+    "image": "https://images.financialmodelingprep.com/news/why-meta-platforms-stock-was-sliding-today-20220121.jpg",
+    "site": "fool.com",
+    "text": "A broader tech sell-off pushed shares of the social media giant lower.",
+    "url": "https://www.fool.com/investing/2022/01/21/why-meta-platforms-stock-was-sliding-today/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-21T16:46:10-05:00",
+    "date_et": "2022-01-21"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-22 06:15:00",
+    "publisher": "The Motley Fool",
+    "title": "My Top Metaverse Stock for 2022 (and Beyond)",
+    "image": "https://images.financialmodelingprep.com/news/my-top-metaverse-stock-for-2022-and-beyond-20220122.jpg",
+    "site": "fool.com",
+    "text": "This gaming stock could become a strong investment in this fast-growing market",
+    "url": "https://www.fool.com/investing/2022/01/22/my-top-metaverse-stock-for-2022-and-beyond/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-22T06:15:00-05:00",
+    "date_et": "2022-01-22"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-22 08:00:00",
+    "publisher": "The Motley Fool",
+    "title": "3 Monster Metaverse Stocks to Buy Right Now",
+    "image": "https://images.financialmodelingprep.com/news/3-monster-metaverse-stocks-to-buy-right-now-20220122.jpg",
+    "site": "fool.com",
+    "text": "Companies once set out to change the world, but these innovators are building an entirely new one.",
+    "url": "https://www.fool.com/investing/2022/01/22/3-monster-metaverse-stocks-to-buy-right-now/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-22T08:00:00-05:00",
+    "date_et": "2022-01-22"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-22 08:15:00",
+    "publisher": "The Motley Fool",
+    "title": "Why Meta Platforms Is a Top Video Game Stock",
+    "image": "https://images.financialmodelingprep.com/news/why-meta-platforms-is-a-top-video-game-stock-20220122.jpg",
+    "site": "fool.com",
+    "text": "It has video game hardware, gaming studios, live-streaming platforms, and more under its business umbrella.",
+    "url": "https://www.fool.com/investing/2022/01/22/why-meta-platforms-is-a-top-video-game-stock/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-22T08:15:00-05:00",
+    "date_et": "2022-01-22"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-23 06:47:00",
+    "publisher": "The Motley Fool",
+    "title": "1 Green Flag and 1 Red Flag for Meta's Metaverse Dreams",
+    "image": "https://images.financialmodelingprep.com/news/1-green-flag-and-1-red-flag-for-metas-20220123.jpg",
+    "site": "fool.com",
+    "text": "Meta's metaverse-building plans still face some near-term growing pains.",
+    "url": "https://www.fool.com/investing/2022/01/23/1-green-flag-and-1-red-flag-for-metas-metaverse-dr/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-23T06:47:00-05:00",
+    "date_et": "2022-01-23"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-23 07:15:00",
+    "publisher": "The Motley Fool",
+    "title": "FAANG Stocks: 2022 Winners and Losers",
+    "image": "https://images.financialmodelingprep.com/news/faang-stocks-2022-winners-and-losers-20220123.jpg",
+    "site": "fool.com",
+    "text": "Which of the big tech stocks are worth your investment dollars this year?",
+    "url": "https://www.fool.com/investing/2022/01/23/faang-stocks-2022-winners-and-losers/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-23T07:15:00-05:00",
+    "date_et": "2022-01-23"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-24 05:52:00",
+    "publisher": "The Motley Fool",
+    "title": "3 Metaverse Stocks That Are Already Money Machines",
+    "image": "https://images.financialmodelingprep.com/news/3-metaverse-stocks-that-are-already-money-machines-20220124.jpg",
+    "site": "fool.com",
+    "text": "These companies don't have to wait on the metaverse to rake in big bucks.",
+    "url": "https://www.fool.com/investing/2022/01/24/3-metaverse-stocks-that-are-already-money-machines/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-24T05:52:00-05:00",
+    "date_et": "2022-01-24"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-24 06:00:00",
+    "publisher": "Seeking Alpha",
+    "title": "The Tech Stock Crash Will Likely Get Worse",
+    "image": "https://images.financialmodelingprep.com/news/the-tech-stock-crash-will-likely-get-worse-20220124.jpg",
+    "site": "seekingalpha.com",
+    "text": "Tech stocks are currently in the midst of a correction, with the NASDAQ-100 having shed about 14% from the top.",
+    "url": "https://seekingalpha.com/article/4481106-tech-stock-crash-will-likely-get-worse",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-24T06:00:00-05:00",
+    "date_et": "2022-01-24"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-24 07:26:39",
+    "publisher": "24/7 Wall Street",
+    "title": "3 Stocks That Will Never Reach Their All-Time Highs Again: Facebook, Netflix, Peloton",
+    "image": "https://images.financialmodelingprep.com/news/3-stocks-that-will-never-reach-their-alltime-highs-20220124.jpg",
+    "site": "247wallst.com",
+    "text": "As the stock market plunges and the Nasdaq moves into correction territory, almost four out of 10 of the stocks in the Nasdaq Composite have share prices down 50% or more.",
+    "url": "https://247wallst.com/technology-3/2022/01/24/3-stocks-that-will-never-reach-their-all-time-highs-again-facebook-netflix-peloton/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-24T07:26:39-05:00",
+    "date_et": "2022-01-24"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-24 10:00:13",
+    "publisher": "PYMNTS",
+    "title": "Big Tech's Three Biggest Regulatory Threats",
+    "image": "https://images.financialmodelingprep.com/news/big-techs-three-biggest-regulatory-threats-20220124.jpg",
+    "site": "pymnts.com",
+    "text": "When the Senate Judiciary Committee voted last Thursday to advance the American Innovation and Choice Online Act, a bipartisan antitrust bill, it set the path for the bill to potentially be adopted by the full Senate. While this is probably the biggest regulatory threat for Google, Amazon, Apple and Meta right now, there are two […]",
+    "url": "https://www.pymnts.com/big-tech/2022/big-techs-three-biggest-regulatory-threats/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-24T10:00:13-05:00",
+    "date_et": "2022-01-24"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-24 10:20:00",
+    "publisher": "The Motley Fool",
+    "title": "Could This Be the Next Big Thing for Meta Platforms?",
+    "image": "https://images.financialmodelingprep.com/news/could-this-be-the-next-big-thing-for-meta-20220124.jpg",
+    "site": "fool.com",
+    "text": "Instagram has announced subscription services to some of its users.",
+    "url": "https://www.fool.com/investing/2022/01/24/could-this-be-the-next-big-thing-for-meta-platform/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-24T10:20:00-05:00",
+    "date_et": "2022-01-24"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-24 12:25:00",
+    "publisher": "Reuters",
+    "title": "Meta introduces fastest AI supercomputer",
+    "image": "https://images.financialmodelingprep.com/news/meta-introduces-fastest-ai-supercomputer-20220124.jpg",
+    "site": "reuters.com",
+    "text": "Facebook parent Meta Platforms Inc introduced its new AI Research SuperCluster (RSC) on Monday, which the company believes will be the fastest AI supercomputer in the world.",
+    "url": "https://www.reuters.com/technology/meta-introduces-fastest-ai-supercomputer-2022-01-24/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-24T12:25:00-05:00",
+    "date_et": "2022-01-24"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-24 12:28:22",
+    "publisher": "The Motley Fool",
+    "title": "Why Shares of Amazon, Apple, and Meta Platforms Are Falling Today",
+    "image": "https://images.financialmodelingprep.com/news/why-shares-of-amazon-apple-and-meta-platforms-are-20220124.jpg",
+    "site": "fool.com",
+    "text": "Tech stocks are tumbling, but investors should keep a long-term perspective.",
+    "url": "https://www.fool.com/investing/2022/01/24/why-shares-of-amazon-apple-and-meta-platforms-are/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-24T12:28:22-05:00",
+    "date_et": "2022-01-24"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-24 12:32:13",
+    "publisher": "TechCrunch",
+    "title": "Meta leaps into the supercomputer game with its AI Research SuperCluster",
+    "image": "https://images.financialmodelingprep.com/news/meta-leaps-into-the-supercomputer-game-with-its-ai-20220124.jpg",
+    "site": "techcrunch.com",
+    "text": "There's a global competition to build the biggest, most powerful computers on the planet, and Meta (AKA Facebook) is about to jump into the melee with the “AI Research SuperCluster,” or RSC. Once fully operational it may well sit in the top ten fastest supercomputers in the world, which it will use for the massive […]",
+    "url": "https://techcrunch.com/2022/01/24/meta-leaps-into-the-supercomputer-game-with-its-ai-research-supercluster/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-24T12:32:13-05:00",
+    "date_et": "2022-01-24"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-24 13:00:07",
+    "publisher": "CNET",
+    "title": "Meta has a giant new AI supercomputer to shape the metaverse",
+    "image": "https://images.financialmodelingprep.com/news/meta-has-a-giant-new-ai-supercomputer-to-shape-20220124.jpg",
+    "site": "cnet.com",
+    "text": "The company's RSC has comparable horsepower to the world's fifth fastest general-purpose supercomputer.",
+    "url": "https://www.cnet.com/tech/computing/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-24T13:00:07-05:00",
+    "date_et": "2022-01-24"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-24 13:04:50",
+    "publisher": "Benzinga",
+    "title": "Meta Launches Next-Gen AI Supercomputer: All You Need To Know",
+    "image": "https://images.financialmodelingprep.com/news/meta-launches-nextgen-ai-supercomputer-all-you-need-to-20220124.jpg",
+    "site": "benzinga.com",
+    "text": "Meta Platforms Inc (NASDAQ: FB) touts its AI Research SuperCluster (RSC), among the fastest AI supercomputers running today and will be the fastest in the world once fully built out in mid-2022.  Several hundred people, including researchers from partners NVIDIA Corp (NASDAQ: NVDA), Penguin Computing Inc, and Pure Storage Inc (NYSE: PSTG), were involved in the two-year project, the Wall Street Journal reports.",
+    "url": "https://www.benzinga.com/news/22/01/25189902/meta-launches-next-gen-ai-supercomputer-all-you-need-to-know",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-24T13:04:50-05:00",
+    "date_et": "2022-01-24"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-24 13:21:32",
+    "publisher": "CNN",
+    "title": "Meta is building an AI supercomputer",
+    "image": "https://images.financialmodelingprep.com/news/meta-is-building-an-ai-supercomputer-20220124.jpg",
+    "site": "cnn.com",
+    "text": "Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions of users. Now its parent company is taking a step that could move it closer to that elusive goal: building its first supercomputer.",
+    "url": "https://www.cnn.com/2022/01/24/tech/meta-supercomputer/index.html",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-24T13:21:32-05:00",
+    "date_et": "2022-01-24"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-24 13:41:36",
+    "publisher": "VentureBeat",
+    "title": "Meta is developing a record-breaking supercomputer to power the metaverse",
+    "image": "https://images.financialmodelingprep.com/news/meta-is-developing-a-recordbreaking-supercomputer-to-power-the-20220124.jpg",
+    "site": "venturebeat.com",
+    "text": "Meta claims that once it is fully functional, this will be the fastest operating supercomputer in the world.",
+    "url": "https://venturebeat.com/2022/01/24/meta-is-developing-a-record-breaking-supercomputer-to-power-the-metaverse/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-24T13:41:36-05:00",
+    "date_et": "2022-01-24"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-24 14:36:20",
+    "publisher": "New York Post",
+    "title": "Meta says ‘fastest' AI supercomputer will detect harmful content",
+    "image": "https://images.financialmodelingprep.com/news/meta-says-fastest-ai-supercomputer-will-detect-harmful-content-20220124.jpg",
+    "site": "nypost.com",
+    "text": "Facebook parent Meta said on Monday that its research team has built a new artificial intelligence supercomputer that it thinks will be the fastest in the world when completed in mid-2022.",
+    "url": "https://nypost.com/2022/01/24/meta-says-fastest-ai-supercomputer-will-detect-harmful-content/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-24T14:36:20-05:00",
+    "date_et": "2022-01-24"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-24 14:42:25",
+    "publisher": "The Guardian",
+    "title": "Mark Zuckerberg says Meta is building the world's fastest supercomputer",
+    "image": "https://images.financialmodelingprep.com/news/mark-zuckerberg-says-meta-is-building-the-worlds-fastest-20220124.jpg",
+    "site": "theguardian.com",
+    "text": "Facebook founder's planned metaverse, blending reality with digital experiences, will require enormous computing power",
+    "url": "https://www.theguardian.com/technology/2022/jan/24/mark-zuckerberg-says-meta-is-building-the-worlds-fastest-supercomputer",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-24T14:42:25-05:00",
+    "date_et": "2022-01-24"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-24 23:21:45",
+    "publisher": "Seeking Alpha",
+    "title": "Meta Platforms' Instagram Success Shows Its Overall Portfolio Strength",
+    "image": "https://images.financialmodelingprep.com/news/meta-platforms-instagram-success-shows-its-overall-portfolio-strength-20220124.jpg",
+    "site": "seekingalpha.com",
+    "text": "Meta Platforms' Instagram Success Shows Its Overall Portfolio Strength",
+    "url": "https://seekingalpha.com/article/4481326-meta-platforms-instagram-success-shows-overall-portfolio-strength",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-24T23:21:45-05:00",
+    "date_et": "2022-01-24"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-25 00:09:10",
+    "publisher": "Pulse2",
+    "title": "Meta Stock (FB): Why The Price Went Up",
+    "image": "https://images.financialmodelingprep.com/news/meta-stock-fb-why-the-price-went-up-20220125.jpg",
+    "site": "pulse2.com",
+    "text": "The stock price of Meta Platforms Inc (NASDAQ: FB) increased by 1.83% in the most recent trading session. This is why it happened.",
+    "url": "https://pulse2.com/meta-stock-nasdaq-fb-why-the-price-went-up/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-25T00:09:10-05:00",
+    "date_et": "2022-01-25"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-25 10:58:30",
+    "publisher": "GuruFocus",
+    "title": "Meta: 'World's Fastest Computer' Coming This Summer",
+    "image": "https://images.financialmodelingprep.com/news/meta-worlds-fastest-computer-coming-this-summer-20220125.jpg",
+    "site": "gurufocus.com",
+    "text": "Meta Platforms Inc. ( FB , Financial), the company that was known as Facebook until its recent rebranding in light of a new focus on the metaverse, introduced its AI Research SuperCluster (RSC) yesterday. It is touting this as being the world's fastest AI supercomputer – or at least it could be, once it is completed.",
+    "url": "https://www.gurufocus.com/news/1624702/meta-worlds-fastest-computer-coming-this-summer",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-25T10:58:30-05:00",
+    "date_et": "2022-01-25"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-25 11:53:29",
+    "publisher": "PYMNTS",
+    "title": "Meta Preps For Metaverse With World's Fastest Computer",
+    "image": "https://images.financialmodelingprep.com/news/meta-preps-for-metaverse-with-worlds-fastest-computer-20220125.jpg",
+    "site": "pymnts.com",
+    "text": "Meta has unveiled the AI Research SuperCluster (RSC), a supercomputer that the social media giant says will — by mid-year — be the fastest on earth, and that is designed to help the company enter the metaverse. “AI can currently perform tasks like translating text between languages and helping identify potentially harmful content, but developing […]",
+    "url": "https://www.pymnts.com/meta/2022/meta-preps-for-metaverse-with-worlds-fastest-computer/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-25T11:53:29-05:00",
+    "date_et": "2022-01-25"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-25 13:18:11",
+    "publisher": "The Motley Fool",
+    "title": "Why Meta Platforms Stock Slid on Tuesday",
+    "image": "https://images.financialmodelingprep.com/news/why-meta-platforms-stock-slid-on-tuesday-20220125.jpg",
+    "site": "fool.com",
+    "text": "The tech giant's shares have fallen more than 10% so far this year. Is this a buying opportunity?",
+    "url": "https://www.fool.com/investing/2022/01/25/why-meta-platforms-stock-slid-on-tuesday/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-25T13:18:11-05:00",
+    "date_et": "2022-01-25"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-25 15:04:29",
+    "publisher": "InvestorPlace",
+    "title": "7 Meta Stocks to Buy after Take-Two Buys Zynga",
+    "image": "https://images.financialmodelingprep.com/news/7-meta-stocks-to-buy-after-taketwo-buys-zynga-20220125.jpg",
+    "site": "investorplace.com",
+    "text": "The metaverse will grow in the next decade, as Take-Two announces a big acquisition. Expect meta stocks to rise on more news.",
+    "url": "https://investorplace.com/2022/01/7-meta-stocks-to-buy-after-take-two-buys-zynga/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-25T15:04:29-05:00",
+    "date_et": "2022-01-25"
+  },
+  {
+    "symbol": "META",
+    "publishedDate": "2022-01-25 21:44:50",
+    "publisher": "PYMNTS",
+    "title": "Facebook Eyes Sale of Diem Assets",
+    "image": "https://images.financialmodelingprep.com/news/facebook-eyes-sale-of-diem-assets-20220125.jpg",
+    "site": "pymnts.com",
+    "text": "Meta CEO Mark Zuckerberg is seeing the demise of his cryptocurrency project due to regulatory pressures, Bloomberg reported Tuesday (Jan. 25). The Diem Association, which used to be known as Libra and which is backed by Meta, is looking at selling its assets as a way to potentially return capital to investor members.",
+    "url": "https://www.pymnts.com/facebook/2022/facebook-eyes-sale-of-diem-assets/",
+    "ticker": "META",
+    "event_date": "2022-02-02",
+    "window_start": "2022-01-19",
+    "window_end": "2022-02-16",
+    "publishedDateET": "2022-01-25T21:44:50-05:00",
+    "date_et": "2022-01-25"
+  },
+  {
+    "symbol": "META",
     "publishedDate": "2022-01-26 03:24:20",
     "publisher": "Seeking Alpha",
     "title": "Meta Platforms, A Growth Stock Priced Like A Value Stock - We Rate It At Buy",
@@ -10,7 +826,7 @@
     "url": "https://seekingalpha.com/article/4481659-meta-platforms-facebook-growth-stock-priced-like-value-stock-buy",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-26T03:24:20-05:00",
     "date_et": "2022-01-26"
@@ -26,7 +842,7 @@
     "url": "https://www.fool.com/investing/2022/01/26/meta-platforms-is-bullish-on-nvidias-technology/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-26T06:00:00-05:00",
     "date_et": "2022-01-26"
@@ -42,7 +858,7 @@
     "url": "https://www.fool.com/investing/2022/01/26/better-metaverse-stock-meta-vs-microsoft/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-26T08:05:00-05:00",
     "date_et": "2022-01-26"
@@ -58,7 +874,7 @@
     "url": "https://www.zacks.com/stock/news/1857412/meta-platforms-fb-to-launch-world-s-fastest-ai-computer",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-26T09:14:10-05:00",
     "date_et": "2022-01-26"
@@ -74,7 +890,7 @@
     "url": "https://www.zacks.com/stock/news/1857531/pure-storage-pstg-inks-deal-with-meta-to-boost-ai-rsc-project",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-26T11:31:07-05:00",
     "date_et": "2022-01-26"
@@ -90,7 +906,7 @@
     "url": "https://www.pymnts.com/cryptocurrency/2022/facebook-diem-move-fast-break-things-crash-into-a-wall/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-26T13:08:33-05:00",
     "date_et": "2022-01-26"
@@ -106,7 +922,7 @@
     "url": "https://www.foxbusiness.com/technology/oregon-mom-snapchat-meta-addiction-daughter-mental-health",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-26T13:46:36-05:00",
     "date_et": "2022-01-26"
@@ -122,7 +938,7 @@
     "url": "https://www.zacks.com/stock/news/1857713/meta-platforms-fb-expected-to-beat-earnings-estimates-what-to-know-ahead-of-q4-release",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-26T16:10:04-05:00",
     "date_et": "2022-01-26"
@@ -138,7 +954,7 @@
     "url": "https://www.fool.com/investing/2022/01/26/why-meta-platforms-stock-got-punished-today/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-26T17:13:04-05:00",
     "date_et": "2022-01-26"
@@ -154,7 +970,7 @@
     "url": "https://seekingalpha.com/article/4481898-meta-financial-group-inc-cash-ceo-brett-pharr-on-q1-2022-results-earnings-call-transcript",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-26T19:07:01-05:00",
     "date_et": "2022-01-26"
@@ -170,7 +986,7 @@
     "url": "https://www.zacks.com/stock/news/1857872/meta-financial-cash-q1-earnings-and-revenues-top-estimates",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-26T20:43:07-05:00",
     "date_et": "2022-01-26"
@@ -186,7 +1002,7 @@
     "url": "https://stockmarket.com/featured/4-top-consumer-tech-stocks-for-february-2022-2022-01-26",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-26T21:02:27-05:00",
     "date_et": "2022-01-26"
@@ -202,7 +1018,7 @@
     "url": "https://www.marketwatch.com/story/facebooks-foray-into-crypto-is-quietly-ending-11643249936",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-26T21:18:00-05:00",
     "date_et": "2022-01-26"
@@ -218,7 +1034,7 @@
     "url": "https://www.fool.com/investing/2022/01/27/meta-platforms-facebook-earnings-preview/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-27T05:57:00-05:00",
     "date_et": "2022-01-27"
@@ -234,7 +1050,7 @@
     "url": "https://www.fool.com/investing/2022/01/27/stock-market-correction-2-stocks-to-buy-on-the-dip/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-27T06:30:00-05:00",
     "date_et": "2022-01-27"
@@ -250,7 +1066,7 @@
     "url": "https://www.reuters.com/technology/facebook-wins-conditional-eu-antitrust-nod-kustomer-deal-2022-01-27/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-27T08:33:00-05:00",
     "date_et": "2022-01-27"
@@ -266,7 +1082,7 @@
     "url": "https://www.reuters.com/technology/whatsapp-has-until-end-feb-clarify-privacy-policy-change-eu-says-2022-01-27/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-27T08:39:00-05:00",
     "date_et": "2022-01-27"
@@ -282,7 +1098,7 @@
     "url": "https://www.investopedia.com/meta-diem-project-reportedly-shutting-down-5217204",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-27T09:25:36-05:00",
     "date_et": "2022-01-27"
@@ -298,7 +1114,7 @@
     "url": "https://techcrunch.com/2022/01/27/whatsapp-eu-consumer-protection-probe/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-27T09:40:34-05:00",
     "date_et": "2022-01-27"
@@ -314,7 +1130,7 @@
     "url": "https://techxplore.com/news/2022-01-eu-watchdog-facebook-kustomer-startup.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-27T10:57:19-05:00",
     "date_et": "2022-01-27"
@@ -330,7 +1146,7 @@
     "url": "https://investorplace.com/2022/01/7-metaverse-stocks-that-future-thinking-investors-need-to-know-about/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-27T13:04:50-05:00",
     "date_et": "2022-01-27"
@@ -346,7 +1162,7 @@
     "url": "https://www.pymnts.com/facebook/2022/facebook-unloads-crypto-unit-diem-silvergate-capital-200-million-dollars/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-27T13:18:29-05:00",
     "date_et": "2022-01-27"
@@ -362,7 +1178,7 @@
     "url": "https://techcrunch.com/2022/01/27/facebook-reportedly-ditches-diem-stablecoin-with-asset-sale/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-27T13:49:13-05:00",
     "date_et": "2022-01-27"
@@ -378,7 +1194,7 @@
     "url": "https://www.zacks.com/stock/news/1858461/after-the-sell-off-are-growth-stocks-now-values",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-27T14:35:04-05:00",
     "date_et": "2022-01-27"
@@ -394,7 +1210,7 @@
     "url": "https://thedogofwallstreet.com/fb/my-thoughts-on-facebook-parent-company-meta-winding-down-its-cryptocurrency-venture?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-27T18:14:06-05:00",
     "date_et": "2022-01-27"
@@ -410,7 +1226,7 @@
     "url": "https://www.foxbusiness.com/lifestyle/sheriff-disables-facebook-comments-over-fears-of-crime-tips-getting-lost",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-27T22:03:13-05:00",
     "date_et": "2022-01-27"
@@ -426,7 +1242,7 @@
     "url": "https://www.proactiveinvestors.co.uk//companies/news/972501/a-meta-way-forward-972501.html?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-28T07:00:45-05:00",
     "date_et": "2022-01-28"
@@ -442,7 +1258,7 @@
     "url": "https://www.zacks.com/stock/news/1858840/5-corporate-giants-likely-to-gain-from-q4-earnings-next-week",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-28T07:43:20-05:00",
     "date_et": "2022-01-28"
@@ -458,7 +1274,7 @@
     "url": "https://www.fool.com/investing/2022/01/28/3-metaverse-stocks-to-buy-right-now/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-28T08:10:00-05:00",
     "date_et": "2022-01-28"
@@ -474,7 +1290,7 @@
     "url": "https://www.zacks.com/commentary/1859343/the-outlook-for-tech-stocks-in-a-rising-rate-environment",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-28T16:55:04-05:00",
     "date_et": "2022-01-28"
@@ -490,7 +1306,7 @@
     "url": "https://www.fool.com/investing/2022/01/29/2-monster-growth-stocks-with-36-to-47-upside-accor/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-29T06:10:00-05:00",
     "date_et": "2022-01-29"
@@ -506,7 +1322,7 @@
     "url": "https://www.fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-29T08:20:00-05:00",
     "date_et": "2022-01-29"
@@ -522,7 +1338,7 @@
     "url": "https://seekingalpha.com/article/4482760-invest-in-the-metaverse-with-meta",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-30T00:44:21-05:00",
     "date_et": "2022-01-30"
@@ -538,7 +1354,7 @@
     "url": "https://seekingalpha.com/article/4482773-meta-etf-hit-all-time-lows-buy-for-speculation-only",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-30T08:00:00-05:00",
     "date_et": "2022-01-30"
@@ -554,7 +1370,7 @@
     "url": "https://www.cnbc.com/2022/01/30/top-wall-street-analysts-like-stocks-like-uber-and-shopify.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-30T09:32:56-05:00",
     "date_et": "2022-01-30"
@@ -570,7 +1386,7 @@
     "url": "https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T05:00:18-05:00",
     "date_et": "2022-01-31"
@@ -586,7 +1402,7 @@
     "url": "https://www.reuters.com/technology/facebook-owner-meta-lift-veil-off-its-metaverse-business-2022-01-31/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T05:06:00-05:00",
     "date_et": "2022-01-31"
@@ -602,7 +1418,7 @@
     "url": "https://www.fool.com/investing/2022/01/31/what-ill-be-watching-when-meta-platforms-reports-e/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T06:05:00-05:00",
     "date_et": "2022-01-31"
@@ -618,7 +1434,7 @@
     "url": "https://seekingalpha.com/article/4482869-the-big-picture-case-for-megacap-techs",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T06:30:00-05:00",
     "date_et": "2022-01-31"
@@ -634,7 +1450,7 @@
     "url": "https://techxplore.com/news/2022-01-virtual-meta-ethical-ground.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T07:55:19-05:00",
     "date_et": "2022-01-31"
@@ -650,7 +1466,7 @@
     "url": "https://www.proactiveinvestors.co.uk//companies/news/972651/facebook-s-metaverse-arm-reality-labs-to-hog-spotlight-in-this-week-s-update-972651.html?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T08:07:40-05:00",
     "date_et": "2022-01-31"
@@ -666,7 +1482,7 @@
     "url": "https://www.investopedia.com/stocks-mixed-at-close-of-volatile-month-5217588",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T10:40:29-05:00",
     "date_et": "2022-01-31"
@@ -682,7 +1498,7 @@
     "url": "https://www.zacks.com/stock/news/1859720/stock-market-news-for-jan-31-2022",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T10:49:45-05:00",
     "date_et": "2022-01-31"
@@ -698,7 +1514,7 @@
     "url": "https://www.zacks.com/stock/news/1859724/why-earnings-season-could-be-great-for-meta-fb",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T10:49:46-05:00",
     "date_et": "2022-01-31"
@@ -714,7 +1530,7 @@
     "url": "https://www.zacks.com/stock/news/1859904/good-riddance-to-a-rough-trading-month",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T11:35:05-05:00",
     "date_et": "2022-01-31"
@@ -730,7 +1546,7 @@
     "url": "https://techxplore.com/news/2022-01-google-meta-competitors-california-ag.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T13:30:25-05:00",
     "date_et": "2022-01-31"
@@ -746,7 +1562,7 @@
     "url": "https://www.zacks.com/stock/news/1860021/meta-platforms-fb-to-report-q4-earnings-what-to-expect",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T13:53:12-05:00",
     "date_et": "2022-01-31"
@@ -762,7 +1578,7 @@
     "url": "https://www.zacks.com/stock/news/1860034/etfs-to-watch-ahead-of-meta-platforms-q4-earnings",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T13:53:13-05:00",
     "date_et": "2022-01-31"
@@ -778,7 +1594,7 @@
     "url": "https://www.gurufocus.com/news/1628976/motiwala-capitals-2021-letter",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T14:25:44-05:00",
     "date_et": "2022-01-31"
@@ -794,7 +1610,7 @@
     "url": "https://www.schaeffersresearch.com/content/analysis/2022/01/31/why-bears-should-bet-on-this-overvalued-tech-powerhouse",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T15:42:22-05:00",
     "date_et": "2022-01-31"
@@ -810,7 +1626,7 @@
     "url": "https://www.fool.com/investing/2022/01/31/why-meta-platforms-stock-gained-ground-today/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-01-31T17:46:01-05:00",
     "date_et": "2022-01-31"
@@ -826,7 +1642,7 @@
     "url": "https://www.investopedia.com/facebook-meta-q4-fy2021-earnings-report-preview-what-to-look-for-5217719",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-01T09:05:30-05:00",
     "date_et": "2022-02-01"
@@ -842,7 +1658,7 @@
     "url": "https://www.zacks.com/stock/news/1860462/stock-market-news-for-feb-1-2022",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-01T09:59:21-05:00",
     "date_et": "2022-02-01"
@@ -858,7 +1674,7 @@
     "url": "https://247wallst.com/investing/2022/02/01/earnings-previews-meta-platforms-qualcomm-spotify-t-mobile/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-01T11:09:51-05:00",
     "date_et": "2022-02-01"
@@ -874,7 +1690,7 @@
     "url": "https://www.investopedia.com/meta-attempting-to-break-out-5217756",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-01T12:05:36-05:00",
     "date_et": "2022-02-01"
@@ -890,7 +1706,7 @@
     "url": "https://stockmarket.com/featured/top-metaverse-stocks-to-buy-now-4-for-your-february-watchlist-2022-02-01",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-01T13:04:42-05:00",
     "date_et": "2022-02-01"
@@ -906,7 +1722,7 @@
     "url": "https://investorplace.com/2022/02/facebook-fb-stock-is-a-gem-investors-need-to-accumulate-on-dips/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-01T13:07:20-05:00",
     "date_et": "2022-02-01"
@@ -922,7 +1738,7 @@
     "url": "https://www.marketwatch.com/story/can-facebook-show-it-deserves-the-name-meta-11643739775",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-01T13:22:00-05:00",
     "date_et": "2022-02-01"
@@ -938,7 +1754,7 @@
     "url": "https://seekingalpha.com/article/4483236-top-5-investments-for-2022-january-review",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-01T13:27:01-05:00",
     "date_et": "2022-02-01"
@@ -954,7 +1770,7 @@
     "url": "https://www.zacks.com/stock/news/1860745/will-global-user-growth-aid-meta-platfoms-fb-q4-earnings",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-01T13:50:07-05:00",
     "date_et": "2022-02-01"
@@ -970,7 +1786,7 @@
     "url": "https://www.pymnts.com/acquisitions/2022/meta-reportedly-in-talks-to-buy-audio-software-startup-for-content-creators/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-01T14:04:33-05:00",
     "date_et": "2022-02-01"
@@ -986,7 +1802,7 @@
     "url": "https://www.cnn.com/2022/02/01/tech/facebook-diem-association-dissolving/index.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-01T16:37:35-05:00",
     "date_et": "2022-02-01"
@@ -1002,7 +1818,7 @@
     "url": "https://news.sky.com/story/facebook-google-and-twitter-should-pay-compensation-to-people-scammed-on-their-sites-mps-suggest-12530441",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-01T23:01:00-05:00",
     "date_et": "2022-02-01"
@@ -1018,7 +1834,7 @@
     "url": "https://www.foxbusiness.com/markets/us-stocks-mixed-hours-before-opening-bell-meta-platforms-to-release-4th-quarter-earning",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T04:12:56-05:00",
     "date_et": "2022-02-02"
@@ -1034,7 +1850,7 @@
     "url": "https://www.reuters.com/technology/meta-focus-after-strong-report-by-alphabet-boosts-confidence-2022-02-02/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T06:04:00-05:00",
     "date_et": "2022-02-02"
@@ -1050,7 +1866,7 @@
     "url": "https://www.fool.com/investing/2022/02/02/why-does-meta-platforms-need-a-supercomputer/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T07:15:00-05:00",
     "date_et": "2022-02-02"
@@ -1066,7 +1882,7 @@
     "url": "https://www.fool.com/investing/2022/02/02/prediction-these-2-of-the-biggest-stocks-by-2040/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T08:42:00-05:00",
     "date_et": "2022-02-02"
@@ -1082,7 +1898,7 @@
     "url": "https://www.businessinsider.com/facebook-meta-behind-metaverse-race-decentraland-2022-1",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T11:00:47-05:00",
     "date_et": "2022-02-02"
@@ -1098,7 +1914,7 @@
     "url": "https://www.zacks.com/stock/news/1861324/tuesday-earnings-snapshot-a-chartist-s-technical-outlay",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T12:18:14-05:00",
     "date_et": "2022-02-02"
@@ -1114,7 +1930,7 @@
     "url": "https://investorplace.com/2022/02/7-web-3-0-plays-that-could-be-the-best-plays-you-ever-make/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T12:21:46-05:00",
     "date_et": "2022-02-02"
@@ -1130,7 +1946,7 @@
     "url": "https://stockmarket.com/featured/most-active-stocks-today-3-tech-stocks-to-watch-2022-02-02",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T12:33:00-05:00",
     "date_et": "2022-02-02"
@@ -1146,7 +1962,7 @@
     "url": "https://www.benzinga.com/news/22/02/25372347/what-can-investors-expect-out-of-meta-from-q4-results",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T12:37:24-05:00",
     "date_et": "2022-02-02"
@@ -1162,7 +1978,7 @@
     "url": "https://www.forbes.com/sites/adamsarhan/2022/02/02/earnings-preview-what-to-expect-from-meta-platformsthe-company-formerly-known-as-facebooktoday/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T14:11:00-05:00",
     "date_et": "2022-02-02"
@@ -1178,7 +1994,7 @@
     "url": "https://invezz.com/news/2022/02/02/these-two-money-managers-bought-fb-ahead-of-its-q4-results/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T14:45:08-05:00",
     "date_et": "2022-02-02"
@@ -1194,7 +2010,7 @@
     "url": "https://www.cnbc.com/2022/02/02/facebook-parent-meta-fb-q4-2021-earnings.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T15:31:19-05:00",
     "date_et": "2022-02-02"
@@ -1210,7 +2026,7 @@
     "url": "https://www.benzinga.com/trading-ideas/technicals/22/02/25377646/what-to-watch-on-metas-facebook-chart-after-the-stock-reacts-to-q4-earnings",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T15:51:53-05:00",
     "date_et": "2022-02-02"
@@ -1226,7 +2042,7 @@
     "url": "https://www.reuters.com/technology/facebook-owner-meta-forecasts-q1-revenue-below-estimates-2022-02-02/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T16:19:00-05:00",
     "date_et": "2022-02-02"
@@ -1242,7 +2058,7 @@
     "url": "https://deadline.com/2022/02/meta-platforms-facebook-stock-plunge-q4-earnings-1234925255/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T16:21:00-05:00",
     "date_et": "2022-02-02"
@@ -1258,7 +2074,7 @@
     "url": "https://www.marketwatch.com/story/meta-shares-slide-more-than-20-on-earnings-miss-weak-guidance-11643837086",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T16:24:00-05:00",
     "date_et": "2022-02-02"
@@ -1274,7 +2090,7 @@
     "url": "https://www.nytimes.com/2022/02/02/technology/meta-facebook-earnings-metaverse.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T16:33:21-05:00",
     "date_et": "2022-02-02"
@@ -1290,7 +2106,7 @@
     "url": "https://venturebeat.com/2022/02/02/metas-vr-division-lost-3-3b-on-877m-in-revenue-in-q4/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T16:35:00-05:00",
     "date_et": "2022-02-02"
@@ -1306,7 +2122,7 @@
     "url": "https://www.benzinga.com/news/earnings/22/02/25382094/meta-platforms-facebook-q4-earnings-takeaways-big-eps-miss-revenue-beat-new-ticker",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T16:40:08-05:00",
     "date_et": "2022-02-02"
@@ -1322,7 +2138,7 @@
     "url": "https://www.theguardian.com/technology/2022/feb/02/facebook-shares-slump-growth-fourth-quarter",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T16:46:59-05:00",
     "date_et": "2022-02-02"
@@ -1338,7 +2154,7 @@
     "url": "https://www.cnbc.com/2022/02/02/pinterest-snap-and-twitter-fall-after-facebook-earnings-disappoint.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T16:49:42-05:00",
     "date_et": "2022-02-02"
@@ -1354,7 +2170,7 @@
     "url": "https://www.foxbusiness.com/markets/facebook-stock-inflation-zuckerberg-meta",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T16:53:32-05:00",
     "date_et": "2022-02-02"
@@ -1370,7 +2186,7 @@
     "url": "https://techxplore.com/news/2022-02-facebook-parent-meta-plunge-profits.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T17:03:17-05:00",
     "date_et": "2022-02-02"
@@ -1386,7 +2202,7 @@
     "url": "https://www.foxbusiness.com/politics/aoc-facebook-broken-up",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T17:06:20-05:00",
     "date_et": "2022-02-02"
@@ -1402,7 +2218,7 @@
     "url": "https://www.cnbc.com/2022/02/02/meta-reality-labs-reports-10-billion-loss.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T17:10:45-05:00",
     "date_et": "2022-02-02"
@@ -1418,7 +2234,7 @@
     "url": "https://www.cnet.com/tech/mobile/meta-earnings-disappoint-as-the-company-pushes-into-the-metaverse/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T17:20:00-05:00",
     "date_et": "2022-02-02"
@@ -1434,7 +2250,7 @@
     "url": "https://techcrunch.com/2022/02/02/facebook-meta-spotify-stocks/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T17:23:18-05:00",
     "date_et": "2022-02-02"
@@ -1450,7 +2266,7 @@
     "url": "https://techcrunch.com/2022/02/02/facebook-isnt-growing-anymore/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T17:29:31-05:00",
     "date_et": "2022-02-02"
@@ -1466,7 +2282,7 @@
     "url": "https://www.investopedia.com/facebook-meta-q4-fy2021-earnings-report-recap-5217818",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T17:30:30-05:00",
     "date_et": "2022-02-02"
@@ -1482,7 +2298,7 @@
     "url": "https://www.reuters.com/business/facebook-miss-sends-social-media-stocks-into-after-hours-tailspin-2022-02-02/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T17:33:00-05:00",
     "date_et": "2022-02-02"
@@ -1498,7 +2314,7 @@
     "url": "https://invezz.com/news/2022/02/02/meta-platforms-tanks-20-on-q4-results-not-much-to-like-here/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T17:38:55-05:00",
     "date_et": "2022-02-02"
@@ -1514,7 +2330,7 @@
     "url": "https://www.barrons.com/articles/facebook-meta-stock-buybacks-51643841821",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T17:45:00-05:00",
     "date_et": "2022-02-02"
@@ -1530,7 +2346,7 @@
     "url": "https://news.sky.com/story/facebook-owner-meta-takes-big-share-hit-as-it-warns-of-inflation-impact-ahead-12531326",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T18:13:00-05:00",
     "date_et": "2022-02-02"
@@ -1546,7 +2362,7 @@
     "url": "https://seekingalpha.com/article/4483715-meta-platforms-q4-earnings-reiterating-buy-after-report",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T18:15:07-05:00",
     "date_et": "2022-02-02"
@@ -1562,7 +2378,7 @@
     "url": "https://www.reuters.com/business/meta-platforms-weak-forecast-sparks-meltdown-social-media-stocks-2022-02-02/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T18:33:00-05:00",
     "date_et": "2022-02-02"
@@ -1578,7 +2394,7 @@
     "url": "https://www.zacks.com/stock/news/1861608/meta-platforms-fb-q4-earnings-miss-estimates",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T19:10:55-05:00",
     "date_et": "2022-02-02"
@@ -1594,7 +2410,7 @@
     "url": "https://www.fool.com/investing/2022/02/02/meta-just-ruined-a-good-day-for-the-stock-market/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T19:17:00-05:00",
     "date_et": "2022-02-02"
@@ -1610,7 +2426,7 @@
     "url": "https://www.cnbc.com/2022/02/02/facebook-says-apple-ios-privacy-change-will-cost-10-billion-this-year.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T19:56:55-05:00",
     "date_et": "2022-02-02"
@@ -1626,7 +2442,7 @@
     "url": "https://seekingalpha.com/article/4483754-meta-platforms-inc-fb-ceo-mark-zuckerberg-on-q4-2021-results-earning-call-transcript",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T20:36:03-05:00",
     "date_et": "2022-02-02"
@@ -1642,7 +2458,7 @@
     "url": "https://www.marketwatch.com/story/meta-cfo-cries-wolf-again-with-bleak-facebook-outlook-but-he-may-be-right-this-time-11643858681",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T22:24:00-05:00",
     "date_et": "2022-02-02"
@@ -1658,7 +2474,7 @@
     "url": "https://www.pymnts.com/earnings/2022/meta-earnings-hit-by-metaverse-investments-as-stock-plunges-20-pct/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T22:39:23-05:00",
     "date_et": "2022-02-02"
@@ -1674,7 +2490,7 @@
     "url": "https://www.reuters.com/technology/australian-mining-billionaire-files-lawsuit-against-facebook-over-scam-ads-2022-02-03/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-02T22:59:00-05:00",
     "date_et": "2022-02-02"
@@ -1690,7 +2506,7 @@
     "url": "https://www.reuters.com/technology/meta-platforms-frankfurt-listed-shares-drop-tepid-forecast-2022-02-03/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T02:46:00-05:00",
     "date_et": "2022-02-03"
@@ -1706,7 +2522,7 @@
     "url": "https://www.proactiveinvestors.co.uk//companies/news/973076/facebook-owner-meta-user-numbers-fall-for-first-time-as-company-predicts-slowing-growth-for-q1-973076.html?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T04:51:45-05:00",
     "date_et": "2022-02-03"
@@ -1722,7 +2538,7 @@
     "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-meta-spotify-stocks-earnings-facebook-metaverse-tech-2022-2",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T04:57:35-05:00",
     "date_et": "2022-02-03"
@@ -1738,7 +2554,7 @@
     "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-pix-2022-02-03/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T05:11:00-05:00",
     "date_et": "2022-02-03"
@@ -1754,7 +2570,7 @@
     "url": "https://www.forbes.com/sites/roberthart/2022/02/03/facebook-loses-daily-active-users-for-the-first-time--heres-where-theyre-going/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T05:14:33-05:00",
     "date_et": "2022-02-03"
@@ -1770,7 +2586,7 @@
     "url": "https://www.reuters.com/business/nasdaq-futures-sink-2-after-facebooks-dour-forecast-2022-02-03/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T05:15:00-05:00",
     "date_et": "2022-02-03"
@@ -1786,7 +2602,7 @@
     "url": "https://www.barrons.com/articles/stock-market-today-51643883424",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T05:17:00-05:00",
     "date_et": "2022-02-03"
@@ -1802,7 +2618,7 @@
     "url": "https://www.businessinsider.com/meta-facebook-user-numbers-shrink-first-time-ever-2022-2",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T05:43:39-05:00",
     "date_et": "2022-02-03"
@@ -1818,7 +2634,7 @@
     "url": "https://www.benzinga.com/news/22/02/25387578/mark-zuckerberg-calls-out-2-factors-that-are-impacting-metas-business",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T05:45:13-05:00",
     "date_et": "2022-02-03"
@@ -1834,7 +2650,7 @@
     "url": "https://www.reuters.com/technology/metas-miss-creates-big-tech-divide-whos-got-data-2022-02-03/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T06:07:00-05:00",
     "date_et": "2022-02-03"
@@ -1850,7 +2666,7 @@
     "url": "https://www.reuters.com/world/us/why-biden-has-eased-up-facebook-over-covid-misinformation-2022-02-03/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T06:14:00-05:00",
     "date_et": "2022-02-03"
@@ -1866,7 +2682,7 @@
     "url": "https://www.foxbusiness.com/markets/stocks-facebook-amazon-earnings-dow-nasdaq",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T07:40:07-05:00",
     "date_et": "2022-02-03"
@@ -1882,7 +2698,7 @@
     "url": "https://pulse2.com/meta-nasdaq-fb-stock-why-the-price-substantially-fell-today/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T08:14:51-05:00",
     "date_et": "2022-02-03"
@@ -1898,7 +2714,7 @@
     "url": "https://seekingalpha.com/article/4483855-meta-platforms-stock-q4-earnings-buy-point-still-attractive",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T08:27:43-05:00",
     "date_et": "2022-02-03"
@@ -1914,7 +2730,7 @@
     "url": "https://www.cnbc.com/2022/02/03/facebook-shares-plummet-22percent-after-reporting-weak-guidance.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T08:49:27-05:00",
     "date_et": "2022-02-03"
@@ -1930,7 +2746,7 @@
     "url": "https://seekingalpha.com/article/4483864-meta-platforms-facebook-q4-earnings-market-overreacting",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T08:54:14-05:00",
     "date_et": "2022-02-03"
@@ -1946,7 +2762,7 @@
     "url": "https://www.marketwatch.com/story/meta-stock-plummets-after-earningscan-company-salvage-any-growth-out-of-facebook-platform-11643896586",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T08:56:00-05:00",
     "date_et": "2022-02-03"
@@ -1962,7 +2778,7 @@
     "url": "https://www.marketwatch.com/story/more-than-90-of-the-tech-heavy-nasdaq-100-stocks-are-falling-led-by-facebook-parent-meta-2022-02-03",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T09:18:21-05:00",
     "date_et": "2022-02-03"
@@ -1978,7 +2794,7 @@
     "url": "https://www.cnbc.com/2022/02/03/investing-club-what-cramer-is-watching-thursday-the-markets-quiet-winners-facebook-stumbles-qualcomm-rises.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T09:21:23-05:00",
     "date_et": "2022-02-03"
@@ -1994,7 +2810,7 @@
     "url": "https://www.fool.com/real-estate/2022/02/03/can-meta-and-the-metaverse-save-retail/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T09:30:00-05:00",
     "date_et": "2022-02-03"
@@ -2010,7 +2826,7 @@
     "url": "https://www.proactiveinvestors.co.uk//companies/news/973111/meta-s-virtual-business-costing-company-real-cash-973111.html?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T09:32:50-05:00",
     "date_et": "2022-02-03"
@@ -2026,7 +2842,7 @@
     "url": "https://www.proactiveinvestors.com//companies/news/973081/us-indices-plunge-at-open-as-meta-platforms-crash-sends-shockwaves-through-big-tech-973081.html?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T09:48:47-05:00",
     "date_et": "2022-02-03"
@@ -2042,7 +2858,7 @@
     "url": "https://247wallst.com/technology-3/2022/02/03/thursday-mornings-5-tech-stock-movers-include-amazon-meta-platforms-and-spotify/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T10:06:49-05:00",
     "date_et": "2022-02-03"
@@ -2058,7 +2874,7 @@
     "url": "https://stockmarket.com/featured/stock-market-today-dow-jones-s-meta-spotify-falter-after-earnings-2022-02-03",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T10:12:07-05:00",
     "date_et": "2022-02-03"
@@ -2074,7 +2890,7 @@
     "url": "https://www.marketwatch.com/story/facebook-is-one-of-only-four-companies-in-the-s-p-500-to-make-this-remarkable-achievement-over-the-past-10-years-and-its-stock-is-already-cheap-11643901445",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T10:17:00-05:00",
     "date_et": "2022-02-03"
@@ -2090,7 +2906,7 @@
     "url": "https://www.reuters.com/technology/meta-platforms-shorts-increase-2022-gains-stock-plunges-s3-partners-2022-02-03/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T10:24:00-05:00",
     "date_et": "2022-02-03"
@@ -2106,7 +2922,7 @@
     "url": "https://www.proactiveinvestors.co.uk//companies/news/973121/amazon-investors-hoping-it-doesn-t-follow-footsteps-of-meta-and-netflix-973121.html?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T10:32:48-05:00",
     "date_et": "2022-02-03"
@@ -2122,7 +2938,7 @@
     "url": "https://247wallst.com/technology-3/2022/02/03/analysts-ponder-how-bad-things-could-get-for-meta-platforms/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T11:08:37-05:00",
     "date_et": "2022-02-03"
@@ -2138,7 +2954,7 @@
     "url": "https://techxplore.com/news/2022-02-meta-facebook-historic-stock-tanks.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T11:10:33-05:00",
     "date_et": "2022-02-03"
@@ -2154,7 +2970,7 @@
     "url": "https://www.foxbusiness.com/markets/mark-zuckerberg-net-worth-meta-earnings",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T11:12:06-05:00",
     "date_et": "2022-02-03"
@@ -2170,7 +2986,7 @@
     "url": "https://seekingalpha.com/article/4483909-meta-platforms-big-drop-after-earnings-creates-opportunity",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T11:26:13-05:00",
     "date_et": "2022-02-03"
@@ -2186,7 +3002,7 @@
     "url": "https://seekingalpha.com/article/4483913-meta-the-crash-is-an-overreaction",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T11:29:21-05:00",
     "date_et": "2022-02-03"
@@ -2202,7 +3018,7 @@
     "url": "https://www.zacks.com/stock/news/1862075/meta-platforms-sinks-post-dismal-q4-earnings-etfs-in-focus",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T11:30:09-05:00",
     "date_et": "2022-02-03"
@@ -2218,7 +3034,7 @@
     "url": "https://www.reuters.com/technology/clutch-hedge-funds-held-meta-shares-may-have-been-punished-2022-02-03/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T11:33:00-05:00",
     "date_et": "2022-02-03"
@@ -2234,7 +3050,7 @@
     "url": "https://markets.businessinsider.com/news/stocks/facebook-meta-platforms-stock-price-jpmorgan-downgrade-tiktok-earnings-reaction-2022-2",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T11:42:51-05:00",
     "date_et": "2022-02-03"
@@ -2250,7 +3066,7 @@
     "url": "https://investorplace.com/2022/02/meta-platforms-fb-stock-shifts-from-growth-to-belief-play-after-earnings-miss/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T11:53:18-05:00",
     "date_et": "2022-02-03"
@@ -2266,7 +3082,7 @@
     "url": "https://investorplace.com/2022/02/is-fb-stock-a-buy-after-earnings-plunge-analysts-weigh-in-on-meta-platforms-price-predictions/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T12:06:39-05:00",
     "date_et": "2022-02-03"
@@ -2282,7 +3098,7 @@
     "url": "https://www.fool.com/investing/2022/02/03/why-meta-platforms-stock-cratered-on-thursday/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T12:13:41-05:00",
     "date_et": "2022-02-03"
@@ -2298,7 +3114,7 @@
     "url": "https://www.proactiveinvestors.com//companies/news/973081/us-markets-tumble-as-meta-disappoints-investors-973081.html?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T12:14:49-05:00",
     "date_et": "2022-02-03"
@@ -2314,7 +3130,7 @@
     "url": "https://www.benzinga.com/news/earnings/22/02/25398021/meta-platforms-crashes-on-earnings-whats-next-for-facebooks-stock",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T12:15:22-05:00",
     "date_et": "2022-02-03"
@@ -2330,7 +3146,7 @@
     "url": "https://www.gurufocus.com/news/1633216/6-reasons-to-buy-or-sell-meta-stock",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T12:15:38-05:00",
     "date_et": "2022-02-03"
@@ -2346,7 +3162,7 @@
     "url": "https://www.barrons.com/articles/meta-platforms-stock-facebook-market-capitalization-51643908656",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T12:18:00-05:00",
     "date_et": "2022-02-03"
@@ -2362,7 +3178,7 @@
     "url": "https://www.reuters.com/business/meta-plunge-slams-wall-street-retail-investors-buy-dip-2022-02-03/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T12:59:00-05:00",
     "date_et": "2022-02-03"
@@ -2378,7 +3194,7 @@
     "url": "https://www.zacks.com/stock/news/1862154/meta-platforms-fb-q4-earnings-miss-mark-revenues-up-y-y",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T13:04:05-05:00",
     "date_et": "2022-02-03"
@@ -2394,7 +3210,7 @@
     "url": "https://www.forbes.com/sites/sergeiklebnikov/2022/02/03/facebook-faces-an-existential-moment-after-230-billion-stock-crash/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T13:27:57-05:00",
     "date_et": "2022-02-03"
@@ -2410,7 +3226,7 @@
     "url": "https://markets.businessinsider.com/news/stocks/meta-stock-price-warren-buffett-berkshire-hathaway-market-capitalization-pandemic-2022-2",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T14:05:03-05:00",
     "date_et": "2022-02-03"
@@ -2426,7 +3242,7 @@
     "url": "https://www.reuters.com/business/meta-slide-drives-insane-options-volume-some-bet-bounce-2022-02-03/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T14:17:00-05:00",
     "date_et": "2022-02-03"
@@ -2442,7 +3258,7 @@
     "url": "https://www.investopedia.com/daily-sum-5218034",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T14:25:36-05:00",
     "date_et": "2022-02-03"
@@ -2458,7 +3274,7 @@
     "url": "https://www.reuters.com/technology/zuckerberg-loses-29-billion-day-meta-shares-crash-2022-02-03/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T14:29:00-05:00",
     "date_et": "2022-02-03"
@@ -2474,7 +3290,7 @@
     "url": "https://www.fool.com/investing/2022/02/03/2-big-reasons-buy-the-dip-in-meta-platforms-stock/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T14:51:43-05:00",
     "date_et": "2022-02-03"
@@ -2490,7 +3306,7 @@
     "url": "https://www.etftrends.com/portfolio-strategies-channel/metas-plunge-highlights-market-cap-funds-overweight-in-big-tech/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T15:08:47-05:00",
     "date_et": "2022-02-03"
@@ -2506,7 +3322,7 @@
     "url": "https://www.cnn.com/2022/02/03/tech/meta-facebook-market-cap-decline/index.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T15:09:30-05:00",
     "date_et": "2022-02-03"
@@ -2522,7 +3338,7 @@
     "url": "https://www.benzinga.com/news/22/02/25398963/how-much-will-apples-ios-privacy-changes-cost-facebook-in-2022",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T15:26:13-05:00",
     "date_et": "2022-02-03"
@@ -2538,7 +3354,7 @@
     "url": "https://techxplore.com/news/2022-02-facebook-slump-reignites-debate-younger.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T15:29:37-05:00",
     "date_et": "2022-02-03"
@@ -2554,7 +3370,7 @@
     "url": "https://seekingalpha.com/article/4484092-meta-platforms-earnings-fb-stock-decline-fear-driven",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T15:34:57-05:00",
     "date_et": "2022-02-03"
@@ -2570,7 +3386,7 @@
     "url": "https://www.zacks.com/commentary/1862278/meta-fb-netflix-nflx-capitulate-on-earnings-is-it-time-to-buy",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T16:07:09-05:00",
     "date_et": "2022-02-03"
@@ -2586,7 +3402,7 @@
     "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-nasdaq-meta-paypal-spotify-tech-q4-earnings-2022-2",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T16:10:59-05:00",
     "date_et": "2022-02-03"
@@ -2602,7 +3418,7 @@
     "url": "https://www.proactiveinvestors.com//companies/news/973081/us-stocks-nosedive-at-closing-with-disappointing-earnings-from-meta-973081.html?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T16:17:47-05:00",
     "date_et": "2022-02-03"
@@ -2618,7 +3434,7 @@
     "url": "https://www.cnbc.com/2022/02/03/facebooks-237point6-billion-drop-in-value-sets-all-time-record.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T16:28:44-05:00",
     "date_et": "2022-02-03"
@@ -2634,7 +3450,7 @@
     "url": "https://www.marketwatch.com/story/facebook-plunged-26-and-these-16-other-nasdaq-100-stocks-dropped-at-least-5-11643924569",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T16:42:00-05:00",
     "date_et": "2022-02-03"
@@ -2650,7 +3466,7 @@
     "url": "https://www.businessinsider.com/5-reasons-meta-facebook-hands-tied-tbd-nikita-bier-2022-2",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T16:42:06-05:00",
     "date_et": "2022-02-03"
@@ -2666,7 +3482,7 @@
     "url": "https://techxplore.com/news/2022-02-facebook-slippedin-key.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T16:45:40-05:00",
     "date_et": "2022-02-03"
@@ -2682,7 +3498,7 @@
     "url": "https://www.zacks.com/commentary/1862281/meta-platforms-plenty-of-warning-signs-before-today-s-plunge",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T16:52:05-05:00",
     "date_et": "2022-02-03"
@@ -2698,7 +3514,7 @@
     "url": "https://www.nytimes.com/2022/02/03/technology/facebook-meta-challenges.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T17:03:42-05:00",
     "date_et": "2022-02-03"
@@ -2714,7 +3530,7 @@
     "url": "https://www.theguardian.com/technology/2022/feb/03/facebook-stock-shares-meta-mark-zuckerberg",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T17:54:10-05:00",
     "date_et": "2022-02-03"
@@ -2730,7 +3546,7 @@
     "url": "https://www.cnbc.com/2022/02/03/jim-cramer-says-dont-buy-the-dip-in-facebook-parent-meta-just-yet.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T18:14:03-05:00",
     "date_et": "2022-02-03"
@@ -2746,7 +3562,7 @@
     "url": "https://www.cnet.com/tech/mobile/meta-shares-plummet-after-disappointing-earnings-user-drop/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T18:30:00-05:00",
     "date_et": "2022-02-03"
@@ -2762,7 +3578,7 @@
     "url": "https://www.reuters.com/technology/facebook-usage-dips-first-time-will-instagram-follow-2022-02-03/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T18:58:00-05:00",
     "date_et": "2022-02-03"
@@ -2778,7 +3594,7 @@
     "url": "https://seekingalpha.com/article/4484209-meta-platforms-facebook-earnings-outlook-q4-results-correction",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T20:37:56-05:00",
     "date_et": "2022-02-03"
@@ -2794,7 +3610,7 @@
     "url": "https://www.cnn.com/2022/02/03/tech/andrew-forrest-australia-facebook-lawsuit-intl-hnk/index.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T20:57:29-05:00",
     "date_et": "2022-02-03"
@@ -2810,7 +3626,7 @@
     "url": "https://www.foxbusiness.com/economy/facebook-10-billion-apple-privacy-push",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-03T23:56:36-05:00",
     "date_et": "2022-02-03"
@@ -2826,7 +3642,7 @@
     "url": "https://www.reuters.com/technology/facebook-owner-meta-says-it-will-pay-new-2-million-uk-fine-2022-02-04/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T05:13:00-05:00",
     "date_et": "2022-02-04"
@@ -2842,7 +3658,7 @@
     "url": "https://www.reuters.com/business/finance/global-tech-stocks-stage-tentative-recovery-after-meta-rout-2022-02-04/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T06:18:00-05:00",
     "date_et": "2022-02-04"
@@ -2858,7 +3674,7 @@
     "url": "https://www.cnbc.com/2022/02/04/facebook-is-the-big-loser-of-the-fourth-quarters-advertising-wars.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T06:46:28-05:00",
     "date_et": "2022-02-04"
@@ -2874,7 +3690,7 @@
     "url": "https://www.fool.com/investing/2022/02/04/facebook-earnings-3-big-disappointments/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T06:55:00-05:00",
     "date_et": "2022-02-04"
@@ -2890,7 +3706,7 @@
     "url": "https://www.cnbc.com/2022/02/03/facebooks-232point6-billion-drop-in-value-sets-all-time-record.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T07:30:43-05:00",
     "date_et": "2022-02-04"
@@ -2906,7 +3722,7 @@
     "url": "https://www.proactiveinvestors.co.uk//companies/news/973202/amazon-set-for-huge-gain-after-meta-s-record-one-day-loss-what-s-happening-with-markets-973202.html?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T07:34:47-05:00",
     "date_et": "2022-02-04"
@@ -2922,7 +3738,7 @@
     "url": "https://www.cnbc.com/2022/02/03/facebooks-232billion-drop-in-value-sets-all-time-record.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T08:03:55-05:00",
     "date_et": "2022-02-04"
@@ -2938,7 +3754,7 @@
     "url": "https://markets.businessinsider.com/news/stocks/facebook-meta-value-market-cap-drop-comparison-netflix-nike-amazon-2022-2",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T08:24:36-05:00",
     "date_et": "2022-02-04"
@@ -2954,7 +3770,7 @@
     "url": "https://www.zacks.com/stock/news/1862609/5-etfs-you-might-fall-for-this-february",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T09:10:06-05:00",
     "date_et": "2022-02-04"
@@ -2970,7 +3786,7 @@
     "url": "https://www.marketwatch.com/story/metas-projections-for-facebook-advertising-point-to-trouble-for-the-u-s-economy-11643984084",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T09:14:00-05:00",
     "date_et": "2022-02-04"
@@ -2986,7 +3802,7 @@
     "url": "https://www.zacks.com/stock/news/1862662/stock-market-news-for-feb-4-2022",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T09:56:11-05:00",
     "date_et": "2022-02-04"
@@ -3002,7 +3818,7 @@
     "url": "https://www.fool.com/investing/2022/02/04/why-meta-platforms-stock-is-plummeting-this-week/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T10:19:37-05:00",
     "date_et": "2022-02-04"
@@ -3018,7 +3834,7 @@
     "url": "https://markets.businessinsider.com/news/stocks/shark-tank-meta-facebook-blockchain-metaverse-stock-crash-2022-2",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T10:33:15-05:00",
     "date_et": "2022-02-04"
@@ -3034,7 +3850,7 @@
     "url": "https://www.reuters.com/technology/digital-ad-minnows-snap-pinterest-soar-past-giant-meta-2022-02-04/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T10:40:00-05:00",
     "date_et": "2022-02-04"
@@ -3050,7 +3866,7 @@
     "url": "https://techxplore.com/news/2022-02-facebook-users-meta-fallen-cliff.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T11:10:06-05:00",
     "date_et": "2022-02-04"
@@ -3066,7 +3882,7 @@
     "url": "https://www.reuters.com/technology/facebook-owner-meta-adds-tool-guard-against-harassment-metaverse-2022-02-04/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T11:21:00-05:00",
     "date_et": "2022-02-04"
@@ -3082,7 +3898,7 @@
     "url": "https://www.geekwire.com/2022/amazon-market-value-soars-170b-as-meta-keeps-sinking-in-tech-earnings-aftermath/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T11:34:22-05:00",
     "date_et": "2022-02-04"
@@ -3098,7 +3914,7 @@
     "url": "https://www.pymnts.com/news/regulation/2022/cma-fines-meta-2m-for-violating-initial-enforcement-order/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T11:49:03-05:00",
     "date_et": "2022-02-04"
@@ -3114,7 +3930,7 @@
     "url": "https://www.zacks.com/stock/news/1862862/rate-hikes-to-weigh-on-nasdaq-go-short-with-these-etfs",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T12:14:04-05:00",
     "date_et": "2022-02-04"
@@ -3130,7 +3946,7 @@
     "url": "https://seekingalpha.com/article/4484453-meta-platforms-earnings-stock-drop",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T12:30:47-05:00",
     "date_et": "2022-02-04"
@@ -3146,7 +3962,7 @@
     "url": "https://www.proactiveinvestors.co.uk//companies/news/973233/meta-faces-historic-stock-rout-after-facebook-growth-stalled-973233.html?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T12:32:39-05:00",
     "date_et": "2022-02-04"
@@ -3162,7 +3978,7 @@
     "url": "https://techcrunch.com/2022/02/04/on-metas-regulatory-headwinds-and-adtechs-privacy-reckoning/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T13:55:33-05:00",
     "date_et": "2022-02-04"
@@ -3178,7 +3994,7 @@
     "url": "https://www.businessinsider.com/2-4-2022-facebook-will-experience-its-slowest-growth-ever-in-2021",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T14:03:00-05:00",
     "date_et": "2022-02-04"
@@ -3194,7 +4010,7 @@
     "url": "https://invezz.com/news/2022/02/04/shannon-saccocia-sees-another-15-downside-in-fb/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T14:38:29-05:00",
     "date_et": "2022-02-04"
@@ -3210,7 +4026,7 @@
     "url": "https://www.etftrends.com/etf-education-channel/how-long-term-investors-can-embrace-tech-on-the-pullback/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T15:10:55-05:00",
     "date_et": "2022-02-04"
@@ -3226,7 +4042,7 @@
     "url": "https://seekingalpha.com/article/4484532-meta-platforms-buy-the-crash",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T15:29:14-05:00",
     "date_et": "2022-02-04"
@@ -3242,7 +4058,7 @@
     "url": "https://www.fool.com/investing/2022/02/04/meta-platforms-stock-crashes-hit-with-several-head/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T15:42:21-05:00",
     "date_et": "2022-02-04"
@@ -3258,7 +4074,7 @@
     "url": "https://www.benzinga.com/analyst-ratings/analyst-color/22/02/25430718/how-investors-can-take-advantage-of-others-mistakes-after-a-wild-week-in-the-stock-",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T16:30:25-05:00",
     "date_et": "2022-02-04"
@@ -3274,7 +4090,7 @@
     "url": "https://www.theguardian.com/technology/2022/feb/04/meta-rivalry-apple-inflamed-facebook-parent-company-share-price-plummets",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T16:31:09-05:00",
     "date_et": "2022-02-04"
@@ -3290,7 +4106,7 @@
     "url": "https://www.benzinga.com/trading-ideas/technicals/22/02/25434735/premarket-prep-plus-sean-udall-shares-2-buy-the-dip-opportunities-in-payments-sector",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T16:42:36-05:00",
     "date_et": "2022-02-04"
@@ -3306,7 +4122,7 @@
     "url": "https://www.marketwatch.com/story/these-two-s-p-500-stocks-had-their-worst-weeks-ever-11644011541",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T16:52:00-05:00",
     "date_et": "2022-02-04"
@@ -3322,7 +4138,7 @@
     "url": "https://investorplace.com/2022/02/what-are-the-chances-of-truth-social-dwac-world-stock-succeeding/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-04T17:24:02-05:00",
     "date_et": "2022-02-04"
@@ -3338,7 +4154,7 @@
     "url": "https://seekingalpha.com/article/4484631-fngd-take-advantage-of-tech-headwinds",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-05T02:32:29-05:00",
     "date_et": "2022-02-05"
@@ -3354,7 +4170,7 @@
     "url": "https://techxplore.com/news/2022-02-meta-personal-boundary-tool-virtual.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-05T05:20:02-05:00",
     "date_et": "2022-02-05"
@@ -3370,7 +4186,7 @@
     "url": "https://markets.businessinsider.com/news/stocks/meta-stock-price-metaverse-industry-growth-prospects-etf-facebook-fb-2022-2",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-05T08:16:00-05:00",
     "date_et": "2022-02-05"
@@ -3386,7 +4202,7 @@
     "url": "https://www.fool.com/investing/2022/02/05/is-meta-platforms-stock-a-buy-now/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-05T10:15:00-05:00",
     "date_et": "2022-02-05"
@@ -3402,7 +4218,7 @@
     "url": "https://thedogofwallstreet.com/fb/meta-platforms-why-im-still-bullish?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-05T11:10:00-05:00",
     "date_et": "2022-02-05"
@@ -3418,7 +4234,7 @@
     "url": "https://www.cnn.com/2022/02/05/tech/meta-facebook-crossroads/index.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-05T13:50:32-05:00",
     "date_et": "2022-02-05"
@@ -3434,7 +4250,7 @@
     "url": "https://seekingalpha.com/article/4484714-meta-platforms-earnings-metaverse-opportunity",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-06T06:57:33-05:00",
     "date_et": "2022-02-06"
@@ -3450,7 +4266,7 @@
     "url": "https://seekingalpha.com/article/4484709-forget-meta-buy-tech-stocks-instead",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-06T09:00:00-05:00",
     "date_et": "2022-02-06"
@@ -3466,7 +4282,7 @@
     "url": "https://thedogofwallstreet.com/fb/metas-huge-drop-in-share-price-a-review-on-what-caused-facebook-sell-off?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-06T19:01:00-05:00",
     "date_et": "2022-02-06"
@@ -3482,7 +4298,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2022/02/06/what-is-the-nearest-technical-support-for-meta-nasdaq-fb/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-06T21:16:22-05:00",
     "date_et": "2022-02-06"
@@ -3498,7 +4314,7 @@
     "url": "https://www.pymnts.com/metaverse/2022/meta-debuts-personal-space-boundaries-in-metaverse/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-06T23:04:00-05:00",
     "date_et": "2022-02-06"
@@ -3514,7 +4330,7 @@
     "url": "https://thedogofwallstreet.com/fb/metas-huge-drop-in-share-price-a-review-on-what-caused-facebook-sell-off?SNAPI?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-06T23:09:00-05:00",
     "date_et": "2022-02-06"
@@ -3530,7 +4346,7 @@
     "url": "https://seekingalpha.com/article/4484743-10-beaten-large-cap-stocks-2022-favorite-fb-stock",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T09:31:00-05:00",
     "date_et": "2022-02-07"
@@ -3546,7 +4362,7 @@
     "url": "https://www.cnet.com/news/meta-warns-of-pulling-facebook-and-instagram-from-europe-over-data-rules/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T11:42:00-05:00",
     "date_et": "2022-02-07"
@@ -3562,7 +4378,7 @@
     "url": "https://invezz.com/news/2022/02/07/why-is-meta-threatening-to-shut-down-facebook-and-instagram-in-europe/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T12:24:59-05:00",
     "date_et": "2022-02-07"
@@ -3578,7 +4394,7 @@
     "url": "https://techxplore.com/news/2022-02-europe-spat-facebook-meta.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T13:32:08-05:00",
     "date_et": "2022-02-07"
@@ -3594,7 +4410,7 @@
     "url": "https://www.zacks.com/stock/news/1863562/which-big-tech-stock-to-buy-on-the-dip",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T13:53:21-05:00",
     "date_et": "2022-02-07"
@@ -3610,7 +4426,7 @@
     "url": "https://www.benzinga.com/analyst-ratings/analyst-color/22/02/25454832/7-of-the-best-nasdaq-stocks-to-buy-on-the-dip",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T13:58:33-05:00",
     "date_et": "2022-02-07"
@@ -3626,7 +4442,7 @@
     "url": "https://www.marketwatch.com/story/meta-threatens-to-shutter-facebook-and-instagram-in-europe-over-data-transfer-dispute-11644262137",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T14:29:00-05:00",
     "date_et": "2022-02-07"
@@ -3642,7 +4458,7 @@
     "url": "https://www.zacks.com/stock/news/1863621/6-best-leveraged-etf-areas-of-last-week",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T14:39:06-05:00",
     "date_et": "2022-02-07"
@@ -3658,7 +4474,7 @@
     "url": "https://seekingalpha.com/article/4484935-meta-buying-opportunity-is",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T15:20:25-05:00",
     "date_et": "2022-02-07"
@@ -3674,7 +4490,7 @@
     "url": "https://seekingalpha.com/article/4484950-meta-buy-when-blood-in-streets",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T16:01:35-05:00",
     "date_et": "2022-02-07"
@@ -3690,7 +4506,7 @@
     "url": "https://www.cnbc.com/2022/02/07/peter-thiel-to-step-down-from-facebook-board.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T16:16:52-05:00",
     "date_et": "2022-02-07"
@@ -3706,7 +4522,7 @@
     "url": "https://www.foxbusiness.com/markets/peter-thiel-steps-down-from-facebook-board",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T16:27:31-05:00",
     "date_et": "2022-02-07"
@@ -3722,7 +4538,7 @@
     "url": "https://www.benzinga.com/news/22/02/25463869/meta-platforms-paypal-lead-s-p-500-lower-in-a-mixed-day-of-trading",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T16:30:10-05:00",
     "date_et": "2022-02-07"
@@ -3738,7 +4554,7 @@
     "url": "https://www.marketwatch.com/story/metas-stock-plunge-exposes-a-weakness-for-the-s-p-500-and-index-fund-investors-11644269537",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T16:32:00-05:00",
     "date_et": "2022-02-07"
@@ -3754,7 +4570,7 @@
     "url": "https://www.businessinsider.com/peter-thiel-resigns-meta-board-of-directors-2022-2",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T16:33:03-05:00",
     "date_et": "2022-02-07"
@@ -3770,7 +4586,7 @@
     "url": "https://www.marketwatch.com/story/peter-thiel-to-step-down-from-board-of-facebook-parent-meta-11644269939",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T16:39:00-05:00",
     "date_et": "2022-02-07"
@@ -3786,7 +4602,7 @@
     "url": "https://www.foxbusiness.com/markets/peter-thiel-steps-down-from-facebook-meta-board",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T16:43:26-05:00",
     "date_et": "2022-02-07"
@@ -3802,7 +4618,7 @@
     "url": "https://www.marketwatch.com/story/netflix-vs-facebook-which-is-the-better-stock-after-those-shocking-earnings-11644270425",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T16:47:00-05:00",
     "date_et": "2022-02-07"
@@ -3818,7 +4634,7 @@
     "url": "https://www.marketwatch.com/story/nvidia-becomes-7th-largest-u-s-company-as-it-passes-facebook-owner-meta-for-the-first-time-11644270523",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T16:48:00-05:00",
     "date_et": "2022-02-07"
@@ -3834,7 +4650,7 @@
     "url": "https://www.forbes.com/sites/zacharysmith/2022/02/07/peter-thiel-leaving-meta-board-to-focus-on-pro-trump-politics/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T16:53:39-05:00",
     "date_et": "2022-02-07"
@@ -3850,7 +4666,7 @@
     "url": "https://techcrunch.com/2022/02/07/peter-thiel-to-leave-facebook-board-which-you-probably-forgot-he-was-still-on/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T16:57:00-05:00",
     "date_et": "2022-02-07"
@@ -3866,7 +4682,7 @@
     "url": "https://www.reuters.com/technology/peter-thiel-step-down-meta-platforms-board-2022-02-07/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T17:11:00-05:00",
     "date_et": "2022-02-07"
@@ -3882,7 +4698,7 @@
     "url": "https://www.pymnts.com/news/regulation/2022/meta-warns-european-union-facebook-instagram-interruption-over-data-rules/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T17:11:55-05:00",
     "date_et": "2022-02-07"
@@ -3898,7 +4714,7 @@
     "url": "https://www.foxbusiness.com/technology/meta-threatens-to-pull-facebook-and-instagram-offline-in-europe-over-data-laws",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T18:27:34-05:00",
     "date_et": "2022-02-07"
@@ -3914,7 +4730,7 @@
     "url": "https://www.gurufocus.com/news/1636466/why-facebook-wont-win-the-metaverse",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T18:29:12-05:00",
     "date_et": "2022-02-07"
@@ -3930,7 +4746,7 @@
     "url": "https://www.cnet.com/tech/billionaire-tech-investor-peter-thiel-leaves-meta-board/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T18:40:00-05:00",
     "date_et": "2022-02-07"
@@ -3946,7 +4762,7 @@
     "url": "https://www.fool.com/investing/2022/02/07/why-meta-platforms-stock-dropped-today/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T19:43:05-05:00",
     "date_et": "2022-02-07"
@@ -3962,7 +4778,7 @@
     "url": "https://www.pymnts.com/personnel/2022/thiel-leaving-meta-board-seat-to-focus-on-politics/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-07T19:54:39-05:00",
     "date_et": "2022-02-07"
@@ -3978,7 +4794,7 @@
     "url": "https://invezz.com/news/2022/02/08/best-places-where-you-can-buy-the-meta-stock-fb-dip-it-has-dropped-by-over-30-in-6-days/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T01:48:40-05:00",
     "date_et": "2022-02-08"
@@ -3994,7 +4810,7 @@
     "url": "https://techxplore.com/news/2022-02-peter-thiel-board-facebook-parent.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T03:48:02-05:00",
     "date_et": "2022-02-08"
@@ -4010,7 +4826,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2022/02/08/meta-platforms-stock-dropped-by-25-last-week-what-next/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T05:00:56-05:00",
     "date_et": "2022-02-08"
@@ -4026,7 +4842,7 @@
     "url": "https://www.fool.com/investing/2022/02/08/is-facebook-repeating-alphabets-biggest-mistake/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T05:52:00-05:00",
     "date_et": "2022-02-08"
@@ -4042,7 +4858,7 @@
     "url": "https://www.proactiveinvestors.co.uk//companies/news/973433/eu-studying-regulatory-role-in-metaverse-973433.html?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T06:04:43-05:00",
     "date_et": "2022-02-08"
@@ -4058,7 +4874,7 @@
     "url": "https://www.reuters.com/business/futures-slip-earnings-disappoint-meta-platforms-weak-again-2022-02-08/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T07:34:00-05:00",
     "date_et": "2022-02-08"
@@ -4074,7 +4890,7 @@
     "url": "https://www.reuters.com/legal/transactional/facebook-should-tighten-doxxing-rules-home-addresses-says-its-oversight-board-2022-02-08/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T08:23:00-05:00",
     "date_et": "2022-02-08"
@@ -4090,7 +4906,7 @@
     "url": "https://seekingalpha.com/article/4484922-10-beaten-stocks-graham-pick-meta-platforms",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T09:30:00-05:00",
     "date_et": "2022-02-08"
@@ -4106,7 +4922,7 @@
     "url": "https://investorplace.com/2022/02/twtr-stock-could-be-volatile-if-q4-earnings-and-outlook-disappoint-like-at-facebook/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T09:48:28-05:00",
     "date_et": "2022-02-08"
@@ -4122,7 +4938,7 @@
     "url": "https://www.zacks.com/stock/news/1864042/stock-market-news-for-feb-8-2022",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T10:45:20-05:00",
     "date_et": "2022-02-08"
@@ -4138,7 +4954,7 @@
     "url": "https://www.gurufocus.com/news/1637106/as-meta-slides-are-value-investors-holding-the-bag",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T11:36:27-05:00",
     "date_et": "2022-02-08"
@@ -4154,7 +4970,7 @@
     "url": "https://www.etf.com/sections/daily-etf-watch/newly-launched-punk-times-metas-meltdown?nopaging=1",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T12:04:36-05:00",
     "date_et": "2022-02-08"
@@ -4170,7 +4986,7 @@
     "url": "https://www.benzinga.com/trading-ideas/short-ideas/22/02/25489843/option-traders-buying-meta-platforms-calls-yet-stock-keeps-falling-more-downside-ahead",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T14:46:41-05:00",
     "date_et": "2022-02-08"
@@ -4186,7 +5002,7 @@
     "url": "https://techcrunch.com/2022/02/08/metas-oversight-board-facebook-and-instagram-to-tighten-doxing-rules/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T15:05:21-05:00",
     "date_et": "2022-02-08"
@@ -4202,7 +5018,7 @@
     "url": "https://www.fool.com/investing/2022/02/08/is-the-metaverse-overrated/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T15:30:00-05:00",
     "date_et": "2022-02-08"
@@ -4218,7 +5034,7 @@
     "url": "https://www.fool.com/investing/2022/02/08/meta-platforms-stock-is-falling-again-today-heres/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T15:56:00-05:00",
     "date_et": "2022-02-08"
@@ -4234,7 +5050,7 @@
     "url": "https://www.cnbc.com/2022/02/08/facebook-falls-behind-nvidia-market-cap-now-eighth-biggest-in-us.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T16:36:08-05:00",
     "date_et": "2022-02-08"
@@ -4250,7 +5066,7 @@
     "url": "https://www.pymnts.com/meta/2022/meta-exec-talks-up-profit-perks-of-metaverse/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T17:44:17-05:00",
     "date_et": "2022-02-08"
@@ -4266,7 +5082,7 @@
     "url": "https://www.reuters.com/technology/meta-chime-file-lawsuit-against-alleged-phishing-scam-facebook-instagram-2022-02-09/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-08T19:57:00-05:00",
     "date_et": "2022-02-08"
@@ -4282,7 +5098,7 @@
     "url": "https://www.foxbusiness.com/markets/stocks-tech-peloton-inflation-earnings",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-09T08:21:00-05:00",
     "date_et": "2022-02-09"
@@ -4298,7 +5114,7 @@
     "url": "https://www.fool.com/investing/2022/02/09/the-one-simple-reason-pinterest-won-and-facebook-l/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-09T08:30:00-05:00",
     "date_et": "2022-02-09"
@@ -4314,7 +5130,7 @@
     "url": "https://www.schaeffersresearch.com/content/bgs/2022/02/09/how-traders-scored-a-big-win-with-meta-stocks-freefall",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-09T11:00:09-05:00",
     "date_et": "2022-02-09"
@@ -4330,7 +5146,7 @@
     "url": "https://seekingalpha.com/article/4485477-snap-and-meta-when-the-student-becomes-the-teacher",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-09T11:05:00-05:00",
     "date_et": "2022-02-09"
@@ -4346,7 +5162,7 @@
     "url": "https://www.zacks.com/stock/news/1864864/5-top-ranked-tech-etfs-to-buy-at-bargain-price",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-09T11:30:07-05:00",
     "date_et": "2022-02-09"
@@ -4362,7 +5178,7 @@
     "url": "https://www.fool.com/investing/2022/02/09/why-meta-platforms-stock-jumped-higher-on-wednesda/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-09T11:57:50-05:00",
     "date_et": "2022-02-09"
@@ -4378,7 +5194,7 @@
     "url": "https://www.marketwatch.com/story/facebook-parent-metas-stock-bounces-after-chart-flashes-most-oversold-reading-in-a-decade-11644429094",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-09T12:51:00-05:00",
     "date_et": "2022-02-09"
@@ -4394,7 +5210,7 @@
     "url": "https://www.barrons.com/articles/facebook-meta-platforms-stock-price-51644413822",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-09T14:45:00-05:00",
     "date_et": "2022-02-09"
@@ -4410,7 +5226,7 @@
     "url": "https://investorplace.com/2022/02/7-web-3-0-stocks-with-millionaire-maker-potential/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-09T16:34:21-05:00",
     "date_et": "2022-02-09"
@@ -4426,7 +5242,7 @@
     "url": "https://www.fool.com/investing/2022/02/09/even-meta-and-alphabet-dont-make-this-sector-a-blo/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-09T16:40:25-05:00",
     "date_et": "2022-02-09"
@@ -4442,7 +5258,7 @@
     "url": "https://seekingalpha.com/article/4485744-meta-platforms-facebook-stock-earnings-growth-solid-long-term-returns",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-10T01:34:47-05:00",
     "date_et": "2022-02-10"
@@ -4458,7 +5274,7 @@
     "url": "https://seekingalpha.com/article/4485795-meta-platforms-stock-earnings-cheaper-now-covid-crash",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-10T07:01:36-05:00",
     "date_et": "2022-02-10"
@@ -4474,7 +5290,7 @@
     "url": "https://www.fool.com/investing/2022/02/10/better-buy-meta-platforms-vs-paypal-holdings/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-10T07:15:00-05:00",
     "date_et": "2022-02-10"
@@ -4490,7 +5306,7 @@
     "url": "https://www.fool.com/investing/2022/02/10/could-meta-platforms-stock-double-over-the-next-12/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-10T08:05:00-05:00",
     "date_et": "2022-02-10"
@@ -4506,7 +5322,7 @@
     "url": "https://www.marketbeat.com/originals/can-meta-nasdaq-fb-rise-from-the-ashes/?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-10T08:07:53-05:00",
     "date_et": "2022-02-10"
@@ -4522,7 +5338,7 @@
     "url": "https://www.proactiveinvestors.co.uk/companies/news/973785?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-10T09:43:47-05:00",
     "date_et": "2022-02-10"
@@ -4538,7 +5354,7 @@
     "url": "https://www.pymnts.com/meta/2022/metas-market-cap-crash-could-help-to-dodge-us-antitrust-bill/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-10T10:00:49-05:00",
     "date_et": "2022-02-10"
@@ -4554,7 +5370,7 @@
     "url": "https://www.zacks.com/stock/news/1865653/stock-market-news-for-feb-10-2022",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-10T10:46:21-05:00",
     "date_et": "2022-02-10"
@@ -4570,7 +5386,7 @@
     "url": "https://seekingalpha.com/article/4486029-in-the-metaverse-with-these-three-stocks",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-10T16:36:24-05:00",
     "date_et": "2022-02-10"
@@ -4586,7 +5402,7 @@
     "url": "https://seekingalpha.com/article/4486055-meta-platforms-myth-busting",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-10T17:31:56-05:00",
     "date_et": "2022-02-10"
@@ -4602,7 +5418,7 @@
     "url": "https://www.zacks.com/stock/news/1866035/navigating-thematic-etfs-in-2022",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-10T19:10:45-05:00",
     "date_et": "2022-02-10"
@@ -4618,7 +5434,7 @@
     "url": "https://seekingalpha.com/article/4486190-meta-platforms-dont-blame-apple-metaverse-bigger-role",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-11T00:14:55-05:00",
     "date_et": "2022-02-11"
@@ -4634,7 +5450,7 @@
     "url": "https://seekingalpha.com/article/4486211-meta-platforms-fb-stock-time-to-engage-or-victim-tech-sell-off",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-11T01:59:28-05:00",
     "date_et": "2022-02-11"
@@ -4650,7 +5466,7 @@
     "url": "https://www.fool.com/investing/2022/02/11/2-metaverse-stocks-turn-200000-to-1-million-2030/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-11T07:05:00-05:00",
     "date_et": "2022-02-11"
@@ -4666,7 +5482,7 @@
     "url": "https://seekingalpha.com/article/4486273-meta-platforms-solid-company-despite-challenges",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-11T08:06:22-05:00",
     "date_et": "2022-02-11"
@@ -4682,7 +5498,7 @@
     "url": "https://seekingalpha.com/article/4486274-meta-platforms-is-an-appealing-opportunity",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-11T08:09:44-05:00",
     "date_et": "2022-02-11"
@@ -4698,7 +5514,7 @@
     "url": "https://www.fool.com/investing/2022/02/11/down-13-is-it-safe-to-invest-in-the-nasdaq-now/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-11T09:50:00-05:00",
     "date_et": "2022-02-11"
@@ -4714,7 +5530,7 @@
     "url": "https://investorplace.com/2022/02/invest-in-virzoom-for-a-piece-of-the-future-of-fitness/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-11T12:40:44-05:00",
     "date_et": "2022-02-11"
@@ -4730,7 +5546,7 @@
     "url": "https://thedogofwallstreet.com/fb/facebook-can-still-be-broken-my-biggest-fear-about-facebook?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-12T11:07:00-05:00",
     "date_et": "2022-02-12"
@@ -4746,7 +5562,7 @@
     "url": "https://www.theguardian.com/technology/2022/feb/13/meta-facebook-metaverse-zuckerberg-future",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-13T01:00:16-05:00",
     "date_et": "2022-02-13"
@@ -4762,7 +5578,7 @@
     "url": "https://www.fool.com/investing/2022/02/13/buying-this-stock-could-be-the-smartest-thing-you/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-13T06:00:00-05:00",
     "date_et": "2022-02-13"
@@ -4778,7 +5594,7 @@
     "url": "https://www.fool.com/investing/2022/02/13/is-now-really-the-time-to-be-buying-stocks/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-13T06:06:00-05:00",
     "date_et": "2022-02-13"
@@ -4794,7 +5610,7 @@
     "url": "https://www.fool.com/investing/2022/02/13/3-top-tech-stocks-to-buy-in-february/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-13T06:45:00-05:00",
     "date_et": "2022-02-13"
@@ -4810,7 +5626,7 @@
     "url": "https://investorplace.com/hypergrowthinvesting/2022/02/meta-is-betting-everything-on-the-metaverse-but-it-wont-be-the-winner/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-13T07:30:50-05:00",
     "date_et": "2022-02-13"
@@ -4826,7 +5642,7 @@
     "url": "https://www.nytimes.com/2022/02/13/business/media/super-bowl-commercials-metaverse.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-13T20:46:42-05:00",
     "date_et": "2022-02-13"
@@ -4842,7 +5658,7 @@
     "url": "https://www.fool.com/investing/2022/02/14/meta-platforms-time-to-buy-the-dip/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-14T05:15:00-05:00",
     "date_et": "2022-02-14"
@@ -4858,7 +5674,7 @@
     "url": "https://www.fool.com/investing/2022/02/14/tech-sell-off-this-beaten-down-stock-could-soar/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-14T07:44:00-05:00",
     "date_et": "2022-02-14"
@@ -4874,7 +5690,7 @@
     "url": "https://www.reuters.com/technology/texas-sues-meta-over-facebooks-facial-recognition-practices-report-2022-02-14/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-14T12:12:00-05:00",
     "date_et": "2022-02-14"
@@ -4890,7 +5706,7 @@
     "url": "https://www.forbes.com/sites/nicholasreimann/2022/02/14/texas-suing-meta-over-facial-recognition-technology-seeking-hundreds-of-billions-in-penalties/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-14T12:47:51-05:00",
     "date_et": "2022-02-14"
@@ -4906,7 +5722,7 @@
     "url": "https://nypost.com/2022/02/14/texas-sues-meta-for-using-face-recognition-without-consent/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-14T13:12:04-05:00",
     "date_et": "2022-02-14"
@@ -4922,7 +5738,7 @@
     "url": "https://investorplace.com/2022/02/8-tech-stocks-winners-losers-from-q4-reporting-season/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-14T13:52:56-05:00",
     "date_et": "2022-02-14"
@@ -4938,7 +5754,7 @@
     "url": "https://www.businessinsider.com/facebooks-facial-recognition-program-is-subject-of-new-texas-lawsuit-2022-2",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-14T14:24:59-05:00",
     "date_et": "2022-02-14"
@@ -4954,7 +5770,7 @@
     "url": "https://www.benzinga.com/government/22/02/25606490/texas-attorney-general-prosecutes-facebook-parent-meta-all-you-need-to-know",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-14T14:41:13-05:00",
     "date_et": "2022-02-14"
@@ -4970,7 +5786,7 @@
     "url": "https://www.cnn.com/2022/02/14/tech/texas-meta-suit/index.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-14T15:33:28-05:00",
     "date_et": "2022-02-14"
@@ -4986,7 +5802,7 @@
     "url": "https://www.pymnts.com/news/biometrics/2022/texas-ag-facebook-facial-recognition-violates-state-law/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-14T16:41:47-05:00",
     "date_et": "2022-02-14"
@@ -5002,7 +5818,7 @@
     "url": "https://www.reuters.com/technology/cooperman-lone-pine-among-funds-that-dumped-meta-before-earnings-rout-2022-02-14/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-14T18:25:00-05:00",
     "date_et": "2022-02-14"
@@ -5018,7 +5834,7 @@
     "url": "https://www.barrons.com/articles/meta-stock-cheaper-since-2012-ipo-51644868760",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-14T19:30:00-05:00",
     "date_et": "2022-02-14"
@@ -5034,7 +5850,7 @@
     "url": "https://invezz.com/news/2022/02/15/is-meta-stock-a-buy-after-a-huge-stock-decline/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-14T19:59:36-05:00",
     "date_et": "2022-02-14"
@@ -5050,7 +5866,7 @@
     "url": "https://www.pymnts.com/meta/2022/meta-to-debut-personalized-facebook-news-in-france/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-14T21:40:25-05:00",
     "date_et": "2022-02-14"
@@ -5066,7 +5882,7 @@
     "url": "https://www.foxbusiness.com/economy/texas-meta-over-facebooks-facial-recognition",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T02:54:31-05:00",
     "date_et": "2022-02-15"
@@ -5082,7 +5898,7 @@
     "url": "https://seekingalpha.com/article/4486975-back-to-earth-or-temporary-setback-revisiting-the-fangam-stocks",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T03:01:00-05:00",
     "date_et": "2022-02-15"
@@ -5098,7 +5914,7 @@
     "url": "https://seekingalpha.com/article/4487018-my-2022-big-tech-buy-list",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T06:44:43-05:00",
     "date_et": "2022-02-15"
@@ -5114,7 +5930,7 @@
     "url": "https://www.fool.com/investing/2022/02/15/best-stocks-invest-50000-in-right-now-amazon/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T07:20:00-05:00",
     "date_et": "2022-02-15"
@@ -5130,7 +5946,7 @@
     "url": "https://www.barrons.com/articles/meta-stock-facebook-buy-sell-51644868760",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T08:02:00-05:00",
     "date_et": "2022-02-15"
@@ -5146,7 +5962,7 @@
     "url": "https://investorplace.com/2022/02/7-meme-stocks-that-will-outsurvive-them-all/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T10:04:08-05:00",
     "date_et": "2022-02-15"
@@ -5162,7 +5978,7 @@
     "url": "https://www.reuters.com/technology/metas-facebook-pay-90-million-settle-privacy-lawsuit-over-user-tracking-2022-02-15/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T11:19:00-05:00",
     "date_et": "2022-02-15"
@@ -5178,7 +5994,7 @@
     "url": "https://techxplore.com/news/2022-02-texas-sues-meta-facebook-facial-recognition.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T11:42:48-05:00",
     "date_et": "2022-02-15"
@@ -5194,7 +6010,7 @@
     "url": "https://www.marketwatch.com/story/meta-changes-news-feed-to-feed-2022-02-15",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T12:54:19-05:00",
     "date_et": "2022-02-15"
@@ -5210,7 +6026,7 @@
     "url": "https://seekingalpha.com/article/4487134-meta-platforms-clear-message-to-regulators",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T13:35:24-05:00",
     "date_et": "2022-02-15"
@@ -5226,7 +6042,7 @@
     "url": "https://www.benzinga.com/government/22/02/25641028/facebook-parent-meta-to-pay-90m-to-settle-decade-long-privacy-lawsuit",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T14:33:58-05:00",
     "date_et": "2022-02-15"
@@ -5242,7 +6058,7 @@
     "url": "https://techxplore.com/news/2022-02-meta-mn-settlement-facebook-privacy.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T16:01:19-05:00",
     "date_et": "2022-02-15"
@@ -5258,7 +6074,7 @@
     "url": "https://www.marketwatch.com/story/zuckerberg-tells-facebook-employees-they-are-now-metamates-11644959008",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T16:03:00-05:00",
     "date_et": "2022-02-15"
@@ -5274,7 +6090,7 @@
     "url": "https://invezz.com/news/2022/02/15/2-metaverse-stocks-to-buy-in-2022/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T18:01:00-05:00",
     "date_et": "2022-02-15"
@@ -5290,7 +6106,7 @@
     "url": "https://www.reuters.com/technology/meta-closes-kustomer-deal-after-regulatory-approval-2022-02-15/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T18:08:00-05:00",
     "date_et": "2022-02-15"
@@ -5306,7 +6122,7 @@
     "url": "https://www.businessinsider.com/meta-facebook-pay-90-million-lawsuit-tracking-users-logged-off-2022-2",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T18:24:22-05:00",
     "date_et": "2022-02-15"
@@ -5322,7 +6138,7 @@
     "url": "https://www.theguardian.com/technology/2022/feb/15/meta-mark-zuckerberg-facebook-metaverse",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-15T19:25:46-05:00",
     "date_et": "2022-02-15"
@@ -5338,7 +6154,7 @@
     "url": "https://techxplore.com/news/2022-02-facebook-co-workers-metamates-image-evolves.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-16T04:09:58-05:00",
     "date_et": "2022-02-16"
@@ -5354,7 +6170,7 @@
     "url": "https://www.proactiveinvestors.co.uk/companies/news/974250?SNAPI",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-16T05:01:44-05:00",
     "date_et": "2022-02-16"
@@ -5370,7 +6186,7 @@
     "url": "https://www.fool.com/investing/2022/02/16/4-stocks-that-could-win-in-an-inflationary-environ/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-16T08:41:00-05:00",
     "date_et": "2022-02-16"
@@ -5386,7 +6202,7 @@
     "url": "https://www.cnbc.com/2022/02/16/new-bill-would-require-facebook-google-and-others-to-protect-children.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-16T08:59:01-05:00",
     "date_et": "2022-02-16"
@@ -5402,7 +6218,7 @@
     "url": "https://www.pymnts.com/meta/2022/metas-facial-recognition-lawsuit-may-intensify-privacy-law-discussion/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-16T09:04:51-05:00",
     "date_et": "2022-02-16"
@@ -5418,7 +6234,7 @@
     "url": "https://www.benzinga.com/government/22/02/25656481/facebook-parent-meta-finally-consummates-kustomer-acquisition-post-regulatory-approval",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-16T09:08:56-05:00",
     "date_et": "2022-02-16"
@@ -5434,7 +6250,7 @@
     "url": "https://www.cnbc.com/2022/02/16/google-plans-android-privacy-change-similar-to-apples.html",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-16T09:38:24-05:00",
     "date_et": "2022-02-16"
@@ -5450,7 +6266,7 @@
     "url": "https://www.benzinga.com/government/22/02/25661783/why-is-facebook-parent-metas-stock-trading-lower-today",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-16T09:39:54-05:00",
     "date_et": "2022-02-16"
@@ -5466,7 +6282,7 @@
     "url": "https://www.fool.com/investing/2022/02/16/metaverse-stocks-buy-and-hold-for-next-10-years/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-16T09:55:25-05:00",
     "date_et": "2022-02-16"
@@ -5482,7 +6298,7 @@
     "url": "https://investorplace.com/smartmoney/2022/02/long-live-the-faang-stocks/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-16T11:40:12-05:00",
     "date_et": "2022-02-16"
@@ -5498,7 +6314,7 @@
     "url": "https://www.benzinga.com/news/22/02/25663640/from-facebook-to-meta-facebookers-to-metamates-mark-zuckerberg-talks-about-the-future",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-16T12:49:10-05:00",
     "date_et": "2022-02-16"
@@ -5514,7 +6330,7 @@
     "url": "https://www.fool.com/investing/2022/02/16/heres-why-meta-platforms-stock-is-down-today/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-16T12:58:09-05:00",
     "date_et": "2022-02-16"
@@ -5530,7 +6346,7 @@
     "url": "https://techcrunch.com/2022/02/16/president-nick-clegg/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-16T16:18:15-05:00",
     "date_et": "2022-02-16"
@@ -5546,7 +6362,7 @@
     "url": "https://investorplace.com/2022/02/following-its-232-billion-plummet-fb-stock-is-deeply-discounted/",
     "ticker": "META",
     "event_date": "2022-02-02",
-    "window_start": "2022-01-26",
+    "window_start": "2022-01-19",
     "window_end": "2022-02-16",
     "publishedDateET": "2022-02-16T16:39:58-05:00",
     "date_et": "2022-02-16"

@@ -1,6 +1,358 @@
 [
   {
     "symbol": "JNJ",
+    "publishedDate": "2021-01-12 06:30:00",
+    "publisher": "Seeking Alpha",
+    "title": "Retirement Strategy: Johnson & Johnson, Another Buy-And-Hold-Forever Dividend Superstar",
+    "image": "https://images.financialmodelingprep.com/news/retirement-strategy-johnson-johnson-another-buyandholdforever-dividend-superstar-20210112.jpg",
+    "site": "seekingalpha.com",
+    "text": "In this new series, I am hoping folks realize that the stocks I'm suggesting could provide an income for life, so you don't go broke before you kick the bucket. Obviously these should be a portion of a portfolio of dividend growth stocks for DGI'ers.",
+    "url": "https://seekingalpha.com/article/4398475-retirement-strategy-johnson-johnson-another-buy-and-hold-forever-dividend-superstar",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-12T06:30:00-05:00",
+    "date_et": "2021-01-12"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-12 07:10:00",
+    "publisher": "The Motley Fool",
+    "title": "3 Recession-Proof Healthcare Stocks to Buy for 2021",
+    "image": "https://images.financialmodelingprep.com/news/3-recessionproof-healthcare-stocks-to-buy-for-2021-20210112.jpg",
+    "site": "fool.com",
+    "text": "With solid valuations and good dividends, these businesses will get you through the next rainy day -- or year.",
+    "url": "https://www.fool.com/investing/2021/01/12/3-recession-proof-healthcare-stocks-to-buy-for-202/",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-12T07:10:00-05:00",
+    "date_et": "2021-01-12"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-12 08:49:00",
+    "publisher": "Barron's",
+    "title": "Johnson & Johnson's Covid-19 Vaccine Could Alter The Course Of The Pandemic. Investors Will Soon Know If It Works.",
+    "image": "https://images.financialmodelingprep.com/news/johnson-johnsons-covid19-vaccine-could-alter-the-course-of-20210112.jpg",
+    "site": "barrons.com",
+    "text": "Company CEO Alex Gorsky said at a conference that the company is in the “final stages” of analyzing the single-dose vaccine's efficacy.",
+    "url": "https://www.barrons.com/articles/johnson-johnsons-covid-19-vaccine-could-alter-the-course-of-the-pandemic-investors-will-soon-know-if-it-works-51610459381",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-12T08:49:00-05:00",
+    "date_et": "2021-01-12"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-12 18:48:17",
+    "publisher": "Zacks Investment Research",
+    "title": "Johnson & Johnson (JNJ) Stock Sinks As Market Gains: What You Should Know",
+    "image": "https://images.financialmodelingprep.com/news/johnson-johnson-jnj-stock-sinks-as-market-gains-what-20210112.jpg",
+    "site": "zacks.com",
+    "text": "Johnson & Johnson (JNJ) closed at $158.13 in the latest trading session, marking a -0.78% move from the prior day.",
+    "url": "https://www.zacks.com/stock/news/1245461/johnson-johnson-jnj-stock-sinks-as-market-gains-what-you-should-know",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-12T18:48:17-05:00",
+    "date_et": "2021-01-12"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-13 05:41:47",
+    "publisher": "Market Watch",
+    "title": "Johnson & Johnson vaccine production is behind schedule: report",
+    "image": "https://images.financialmodelingprep.com/news/johnson-johnson-vaccine-production-is-behind-schedule-report-20210113.jpg",
+    "site": "marketwatch.com",
+    "text": "Federal officials have been told that Johnson & Johnson's vaccine production has fallen as much as two months behind the original production schedule and won't catch up until the end of April, The New York Times reported, citing people familiar with the situations. The report quoted the lead manufacturing adviser for Operation Warp Speed that the company might be able to catch up with initial production goals by March.",
+    "url": "https://www.marketwatch.com/story/johnson-johnson-vaccine-production-is-behind-schedule-report-2021-01-13",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-13T05:41:47-05:00",
+    "date_et": "2021-01-13"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-13 05:57:00",
+    "publisher": "Reuters",
+    "title": "J&J may not meet U.S. COVID-19 vaccine supply target by spring: NYT",
+    "image": "https://images.financialmodelingprep.com/news/jj-may-not-meet-us-covid19-vaccine-supply-target-20210113.jpg",
+    "site": "reuters.com",
+    "text": "Johnson & Johnson is facing unexpected delays in the manufacturing of its coronavirus vaccine and may not be able to supply the doses it promised the federal government by spring, the New York Times reported on Wednesday.",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-vaccines-johnson-j/jj-may-not-meet-u-s-covid-19-vaccine-supply-target-by-spring-nyt-idUSKBN29I18I",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-13T05:57:00-05:00",
+    "date_et": "2021-01-13"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-13 06:03:00",
+    "publisher": "The Motley Fool",
+    "title": "3 Dividend Aristocrats to Buy Right Now",
+    "image": "https://images.financialmodelingprep.com/news/3-dividend-aristocrats-to-buy-right-now-20210113.jpg",
+    "site": "fool.com",
+    "text": "These stocks are as solid as they come.",
+    "url": "https://www.fool.com/investing/2021/01/13/3-dividend-aristocrats-to-buy-right-now/",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-13T06:03:00-05:00",
+    "date_et": "2021-01-13"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-13 06:05:00",
+    "publisher": "The Motley Fool",
+    "title": "My Best Coronavirus Stock for 2021",
+    "image": "https://images.financialmodelingprep.com/news/my-best-coronavirus-stock-for-2021-20210113.jpg",
+    "site": "fool.com",
+    "text": "Its risk-reward proposition is compelling.",
+    "url": "https://www.fool.com/investing/2021/01/13/my-best-coronavirus-stock-for-2021/",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-13T06:05:00-05:00",
+    "date_et": "2021-01-13"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-13 11:31:52",
+    "publisher": "Investor's Business Daily",
+    "title": "J&J Stock Topples On Report Its Covid Vaccine Is 2 Months Behind Schedule",
+    "image": "https://images.financialmodelingprep.com/news/jj-stock-topples-on-report-its-covid-vaccine-is-20210113.jpg",
+    "site": "investors.com",
+    "text": "Johnson & Johnson said it's premature to discuss the details of its coronavirus vaccine supply after JNJ stock slipped Wednesday on a report it's two months behind schedule. The post J&J Stock Topples On Report Its Covid Vaccine Is 2 Months Behind Schedule appeared first on Investor's Business Daily.",
+    "url": "https://www.investors.com/news/technology/jnj-stock-dips-report-coronavirus-vaccine-2-months-behind-schedule/",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-13T11:31:52-05:00",
+    "date_et": "2021-01-13"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-13 14:51:59",
+    "publisher": "InvestorPlace",
+    "title": "7 Pharmaceutical Stocks With Exciting Plans for 2021",
+    "image": "https://images.financialmodelingprep.com/news/7-pharmaceutical-stocks-with-exciting-plans-for-2021-20210113.jpg",
+    "site": "investorplace.com",
+    "text": "Pharmaceutical stocks have many benefits, particularly when their products are in demand. And in 2021, that seems likely to be the case.",
+    "url": "https://investorplace.com/2021/01/7-pharmaceutical-stocks-with-exciting-plans-for-2021/",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-13T14:51:59-05:00",
+    "date_et": "2021-01-13"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-13 17:00:01",
+    "publisher": "CNBC",
+    "title": "J&J's one-shot Covid vaccine is safe and generates promising immune response in early trial",
+    "image": "https://images.financialmodelingprep.com/news/jjs-oneshot-covid-vaccine-is-safe-and-generates-promising-20210113.jpeg",
+    "site": "cnbc.com",
+    "text": "The new clinical trial data shows a single shot of the vaccine \"gives sustainable antibodies,\" Dr. Paul Stoffels, J&J chief scientific officer, told CNBC.",
+    "url": "https://www.cnbc.com/2021/01/13/covid-vaccine-johnson-johnson-one-shot-safe-generates-immune-response.html",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-13T17:00:01-05:00",
+    "date_et": "2021-01-13"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-14 07:58:39",
+    "publisher": "Market Watch",
+    "title": "J&J's COVID-19 vaccine candidate shows it generates antibodies in early-stage trial",
+    "image": "https://images.financialmodelingprep.com/news/jjs-covid19-vaccine-candidate-shows-it-generates-antibodies-in-20210114.jpg",
+    "site": "marketwatch.com",
+    "text": "Shares of Johnson & Johnson gained 1.7% in premarket trading on Thursday, the day after a study published in the New England Journal of Medicine showed that its COVID-19 vaccine candidate generated neutralizing antibody titers in 100% of roughly 800 adult participants younger than 55 years old by day 57. (Some of the data from the Phase 1/2 clinical trial was published in preprint form in September.",
+    "url": "https://www.marketwatch.com/story/jjs-covid-19-vaccine-candidate-shows-it-generates-antibodies-in-early-stage-trial-2021-01-14",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-14T07:58:39-05:00",
+    "date_et": "2021-01-14"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-14 08:58:40",
+    "publisher": "New York Post",
+    "title": "Johnson & Johnson COVID-19 vaccine generates immune response in trial",
+    "image": "https://images.financialmodelingprep.com/news/johnson-johnson-covid19-vaccine-generates-immune-response-in-trial-20210114.jpg",
+    "site": "nypost.com",
+    "text": "Johnson & Johnson's coronavirus vaccine generated a lasting immune response to the deadly bug in an early-stage clinical trial, the pharmaceutical giant said.",
+    "url": "https://nypost.com/2021/01/14/johnson-johnson-covid-vaccine-generates-immune-response-in-trial/",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-14T08:58:40-05:00",
+    "date_et": "2021-01-14"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-14 10:39:28",
+    "publisher": "Seeking Alpha",
+    "title": "A Dividend Investor's Guide To 2021: The Cure To Uncertain Times",
+    "image": "https://images.financialmodelingprep.com/news/a-dividend-investors-guide-to-2021-the-cure-to-uncertain-20210114.jpg",
+    "site": "seekingalpha.com",
+    "text": "Year 2020 was wild, and left many important threats for 2021. I will summarize the key threats I see, and offer my approach to the markets.",
+    "url": "https://seekingalpha.com/article/4398925-dividend-investors-guide-to-2021-cure-to-uncertain-times",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-14T10:39:28-05:00",
+    "date_et": "2021-01-14"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-14 14:08:00",
+    "publisher": "The Motley Fool",
+    "title": "Invitae Nabs Bristol Myers Squibb, J&J, Novartis, and Roche for Acute Myeloid Leukemia Project",
+    "image": "https://images.financialmodelingprep.com/news/invitae-nabs-bristol-myers-squibb-jj-novartis-and-roche-20210114.jpg",
+    "site": "fool.com",
+    "text": "Those are some solid endorsements.",
+    "url": "https://www.fool.com/investing/2021/01/14/invitae-nabs-bristol-myers-squibb-jj-novartis-and/",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-14T14:08:00-05:00",
+    "date_et": "2021-01-14"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-14 18:48:20",
+    "publisher": "Zacks Investment Research",
+    "title": "Johnson & Johnson (JNJ) Gains As Market Dips: What You Should Know",
+    "image": "https://images.financialmodelingprep.com/news/johnson-johnson-jnj-gains-as-market-dips-what-you-20210114.jpg",
+    "site": "zacks.com",
+    "text": "Johnson & Johnson (JNJ) closed the most recent trading day at $160.65, moving +1.75% from the previous trading session.",
+    "url": "https://www.zacks.com/stock/news/1246971/johnson-johnson-jnj-gains-as-market-dips-what-you-should-know",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-14T18:48:20-05:00",
+    "date_et": "2021-01-14"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-15 06:07:00",
+    "publisher": "The Motley Fool",
+    "title": "3 Great Stocks You Can Buy and Hold Forever",
+    "image": "https://images.financialmodelingprep.com/news/3-great-stocks-you-can-buy-and-hold-forever-20210115.jpg",
+    "site": "fool.com",
+    "text": "Holding on to stocks for the long haul is a good way to build wealth -- as long as you've picked strong and growing enterprises. Here are three to consider.",
+    "url": "https://www.fool.com/investing/2021/01/15/3-great-stocks-you-can-buy-and-hold-forever/",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-15T06:07:00-05:00",
+    "date_et": "2021-01-15"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-16 06:09:00",
+    "publisher": "The Motley Fool",
+    "title": "3 Fantastic Coronavirus Vaccine Stocks to Buy Right Now",
+    "image": "https://images.financialmodelingprep.com/news/3-fantastic-coronavirus-vaccine-stocks-to-buy-right-now-20210116.jpg",
+    "site": "fool.com",
+    "text": "Each has more to offer than just a COVID-19 vaccine.",
+    "url": "https://www.fool.com/investing/2021/01/16/3-fantastic-coronavirus-vaccine-stocks-to-buy-righ/",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-16T06:09:00-05:00",
+    "date_et": "2021-01-16"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-17 05:43:41",
+    "publisher": "Seeking Alpha",
+    "title": "Week 3 MDA Breakout Stocks - January 2021: Short-Term Picks To Give You An Edge",
+    "image": "https://images.financialmodelingprep.com/news/week-3-mda-breakout-stocks-january-2021-shortterm-picks-to-20210117.jpg",
+    "site": "seekingalpha.com",
+    "text": "Week 3 MDA Breakout Stocks - January 2021: Short-Term Picks To Give You An Edge",
+    "url": "https://seekingalpha.com/article/4399342-week-3-mda-breakout-stocks-january-2021-short-term-picks-to-give-you-edge",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-17T05:43:41-05:00",
+    "date_et": "2021-01-17"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-17 11:31:00",
+    "publisher": "The Motley Fool",
+    "title": "Here Are the Most Compelling Buys of the COVID Vaccine Stocks",
+    "image": "https://images.financialmodelingprep.com/news/here-are-the-most-compelling-buys-of-the-covid-20210117.jpg",
+    "site": "fool.com",
+    "text": "Experts give their opinion of a conservative pick and a riskier one.",
+    "url": "https://www.fool.com/investing/2021/01/17/here-are-the-most-compelling-buys-of-covid-vaccine/",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-17T11:31:00-05:00",
+    "date_et": "2021-01-17"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-18 06:45:00",
+    "publisher": "The Motley Fool",
+    "title": "Should You Buy Johnson & Johnson For Its COVID Vaccine?",
+    "image": "https://images.financialmodelingprep.com/news/should-you-buy-johnson-johnson-for-its-covid-vaccine-20210118.jpg",
+    "site": "fool.com",
+    "text": "The possibility of a one-dose vaccine may give it an edge over rivals.",
+    "url": "https://www.fool.com/investing/2021/01/18/should-you-buy-johnson-johnson-for-its-covid-vacci/",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-18T06:45:00-05:00",
+    "date_et": "2021-01-18"
+  },
+  {
+    "symbol": "JNJ",
+    "publishedDate": "2021-01-18 12:02:10",
+    "publisher": "Zacks Investment Research",
+    "title": "J&J's (JNJ) Darzalex Faspro Gets FDA Nod for Amyloidosis",
+    "image": "https://images.financialmodelingprep.com/news/jjs-jnj-darzalex-faspro-gets-fda-nod-for-amyloidosis-20210118.jpg",
+    "site": "zacks.com",
+    "text": "J&J (JNJ) gets accelerated approval for a new indication of Darzalex Faspro in combination with bortezomib, cyclophosphamide and dexamethasone for treating amyloidosis patients.",
+    "url": "https://www.zacks.com/stock/news/1248175/jjs-jnj-darzalex-faspro-gets-fda-nod-for-amyloidosis",
+    "ticker": "JNJ",
+    "event_date": "2021-01-26",
+    "window_start": "2021-01-12",
+    "window_end": "2021-02-09",
+    "publishedDateET": "2021-01-18T12:02:10-05:00",
+    "date_et": "2021-01-18"
+  },
+  {
+    "symbol": "JNJ",
     "publishedDate": "2021-01-19 07:01:00",
     "publisher": "The Motley Fool",
     "title": "2 Top Dividend Kings to Buy and Hold Forever",
@@ -10,7 +362,7 @@
     "url": "https://www.fool.com/investing/2021/01/19/2-top-dividend-kings-to-buy-and-hold-forever/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-19T07:01:00-05:00",
     "date_et": "2021-01-19"
@@ -26,7 +378,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2021/01/19/johnson--johnsons-covid-19-vaccine-updates-efficacy-figures-production-delays/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-19T09:00:00-05:00",
     "date_et": "2021-01-19"
@@ -42,7 +394,7 @@
     "url": "https://seekingalpha.com/article/4399114-invest-like-billionaire-high-yield-thw",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-19T09:05:12-05:00",
     "date_et": "2021-01-19"
@@ -58,7 +410,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2021/01/19/allison-transmission-korn-ferry--johnson--johnson-poised-to-outperform/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-19T09:07:23-05:00",
     "date_et": "2021-01-19"
@@ -74,7 +426,7 @@
     "url": "https://www.investopedia.com/healthcare-stocks-appear-set-to-move-higher-5095993",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-19T13:17:36-05:00",
     "date_et": "2021-01-19"
@@ -90,7 +442,7 @@
     "url": "https://investorplace.com/2021/01/the-7-best-stocks-to-buy-in-the-dow-jones-today/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-19T15:48:27-05:00",
     "date_et": "2021-01-19"
@@ -106,7 +458,7 @@
     "url": "https://seekingalpha.com/article/4399836-dividend-income-summary-berts-december-2020-summary-new-record",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-20T03:41:50-05:00",
     "date_et": "2021-01-20"
@@ -122,7 +474,7 @@
     "url": "https://seekingalpha.com/article/4399873-in-this-overheated-market-not-when-how-to-prepare",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-20T09:27:52-05:00",
     "date_et": "2021-01-20"
@@ -138,7 +490,7 @@
     "url": "https://investorplace.com/2021/01/9-beginner-stocks-for-first-time-investors-to-buy/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-20T11:03:11-05:00",
     "date_et": "2021-01-20"
@@ -154,7 +506,7 @@
     "url": "https://investorplace.com/2021/01/covid-19-vaccine-5-pharma-stocks-headlines-today-nvax-stock-bntx-stock/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-20T11:52:55-05:00",
     "date_et": "2021-01-20"
@@ -170,7 +522,7 @@
     "url": "https://www.zacks.com/stock/news/1249437/johnson-johnson-jnj-stock-sinks-as-market-gains-what-you-should-know",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-20T18:48:20-05:00",
     "date_et": "2021-01-20"
@@ -186,7 +538,7 @@
     "url": "https://www.fool.com/investing/2021/01/21/these-3-stocks-just-hit-all-time-highs-and-they-st/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-21T00:33:00-05:00",
     "date_et": "2021-01-21"
@@ -202,7 +554,7 @@
     "url": "https://seekingalpha.com/article/4400093-medical-device-aristocrats-for-high-class-dividend-portfolio",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-21T04:30:00-05:00",
     "date_et": "2021-01-21"
@@ -218,7 +570,7 @@
     "url": "https://www.fool.com/investing/2021/01/21/3-covid-stocks-to-buy-if-youre-not-a-big-risk-take/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-21T06:09:00-05:00",
     "date_et": "2021-01-21"
@@ -234,7 +586,7 @@
     "url": "https://www.fool.com/investing/2021/01/21/is-johnson-johnson-a-buy/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-21T07:07:00-05:00",
     "date_et": "2021-01-21"
@@ -250,7 +602,7 @@
     "url": "https://thedogofwallstreet.com/axsm/are-biotech-stocks-a-good-idea-right-now",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-21T10:22:30-05:00",
     "date_et": "2021-01-21"
@@ -266,7 +618,7 @@
     "url": "https://seekingalpha.com/article/4400184-allison-transmission-korn-ferry-and-johnson-johnson-3-long-ideas-poised-to-outperform",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-21T11:31:00-05:00",
     "date_et": "2021-01-21"
@@ -282,7 +634,7 @@
     "url": "https://www.cnbc.com/2021/01/21/jj-plans-to-have-100-million-vaccines-for-americans-by-spring-board-member-says.html",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-21T21:01:56-05:00",
     "date_et": "2021-01-21"
@@ -298,7 +650,7 @@
     "url": "https://seekingalpha.com/article/4400341-2020-portfolio-activity-summary-and-2021-target",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-22T04:51:08-05:00",
     "date_et": "2021-01-22"
@@ -314,7 +666,7 @@
     "url": "https://www.fool.com/investing/2021/01/22/3-cheap-dividend-aristocrats-to-buy-right-now/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-22T06:16:00-05:00",
     "date_et": "2021-01-22"
@@ -330,7 +682,7 @@
     "url": "https://www.benzinga.com/general/biotech/21/01/19270827/johnson-johnson-could-have-100-million-covid-19-vaccines-by-april-board-member-mcclellan-says",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-22T06:43:45-05:00",
     "date_et": "2021-01-22"
@@ -346,7 +698,7 @@
     "url": "https://nypost.com/2021/01/22/one-shot-covid-vaccine-could-give-johnson-johnson-an-edge/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-22T08:24:33-05:00",
     "date_et": "2021-01-22"
@@ -362,7 +714,7 @@
     "url": "https://nypost.com/2021/01/22/johnson-johnson-eyes-100-million-covid-vaccines-by-april/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-22T09:07:28-05:00",
     "date_et": "2021-01-22"
@@ -378,7 +730,7 @@
     "url": "https://www.barrons.com/articles/johnson-johnson-aims-for-100-million-vaccine-doses-by-spring-the-stock-market-is-counting-on-it-51611325577",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-22T09:26:00-05:00",
     "date_et": "2021-01-22"
@@ -394,7 +746,7 @@
     "url": "https://www.zacks.com/stock/news/1250356/jj-jnj-to-get-the-ball-rolling-for-pharma-q4-earnings",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-22T09:47:27-05:00",
     "date_et": "2021-01-22"
@@ -410,7 +762,7 @@
     "url": "https://www.benzinga.com/news/earnings/21/01/19274371/j-j-snack-foodss-earnings-a-preview",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-22T10:17:27-05:00",
     "date_et": "2021-01-22"
@@ -426,7 +778,7 @@
     "url": "https://www.zacks.com/stock/news/1250524/q4-earnings-come-to-regional-banks-ally-hban-more",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-22T11:17:06-05:00",
     "date_et": "2021-01-22"
@@ -442,7 +794,7 @@
     "url": "https://www.zacks.com/stock/news/1250555/regional-banks-post-mixed-earnings-results",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-22T12:02:06-05:00",
     "date_et": "2021-01-22"
@@ -458,7 +810,7 @@
     "url": "https://seekingalpha.com/article/4400435-sana-biotechnology-seeks-150-million-u-s-ipo",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-22T13:54:37-05:00",
     "date_et": "2021-01-22"
@@ -474,7 +826,7 @@
     "url": "https://www.zacks.com/commentary/1250712/q4-and-2021-earnings-estimates-keep-going-up",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-22T15:48:05-05:00",
     "date_et": "2021-01-22"
@@ -490,7 +842,7 @@
     "url": "https://www.fool.com/investing/2021/01/22/top-coronavirus-vaccine-makers-will-earn-up-to-23/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-22T16:08:00-05:00",
     "date_et": "2021-01-22"
@@ -506,7 +858,7 @@
     "url": "https://www.marketwatch.com/story/fauci-says-johnson-johnson-covid-19-vaccine-may-get-approval-in-two-weeks-11611443596",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-23T18:13:00-05:00",
     "date_et": "2021-01-23"
@@ -522,7 +874,7 @@
     "url": "https://seekingalpha.com/article/4400583-week-4-mda-breakout-stocks-january-2021-short-term-picks-to-give-you-edge",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-24T05:04:50-05:00",
     "date_et": "2021-01-24"
@@ -538,7 +890,7 @@
     "url": "https://www.fool.com/investing/2021/01/24/where-to-invest-1-million-right-now/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-24T07:10:00-05:00",
     "date_et": "2021-01-24"
@@ -554,7 +906,7 @@
     "url": "https://www.fool.com/investing/2021/01/24/3-bargain-stocks-you-can-buy-right-now/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-24T09:15:00-05:00",
     "date_et": "2021-01-24"
@@ -570,7 +922,7 @@
     "url": "https://seekingalpha.com/article/4400664-week-in-review-suzhous-adagene-to-stage-125-million-ipo-on-nasdaq",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-24T16:39:12-05:00",
     "date_et": "2021-01-24"
@@ -586,7 +938,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2021/01/25/should-you-buy-johnson--johnson-stock-at-160/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-25T07:00:00-05:00",
     "date_et": "2021-01-25"
@@ -602,7 +954,7 @@
     "url": "https://investorplace.com/2021/01/5-biden-friendly-warren-buffett-stocks-to-load-up-on-ko-gm-jnj-tmus-mco/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-25T10:43:35-05:00",
     "date_et": "2021-01-25"
@@ -618,7 +970,7 @@
     "url": "https://seekingalpha.com/article/4400788-dont-buy-hold-and-hope-for-best",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-25T11:13:11-05:00",
     "date_et": "2021-01-25"
@@ -634,7 +986,7 @@
     "url": "https://www.marketwatch.com/story/jj-may-share-findings-from-phase-3-vaccine-trial-this-week-2021-01-25",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-25T12:37:38-05:00",
     "date_et": "2021-01-25"
@@ -650,7 +1002,7 @@
     "url": "https://www.barrons.com/articles/it-was-a-grim-morning-in-the-covid-19-fight-the-market-is-looking-to-johnson-johnson-for-hope-51611605861",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-25T15:17:00-05:00",
     "date_et": "2021-01-25"
@@ -666,7 +1018,7 @@
     "url": "https://www.benzinga.com/news/earnings/21/01/19308870/j-j-snack-foods-q1-earnings-insights",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-25T16:19:02-05:00",
     "date_et": "2021-01-25"
@@ -682,7 +1034,7 @@
     "url": "https://www.investors.com/news/technology/vaccine-stocks-will-johnson-johnson-coronavirus-vaccine-undercut-pfizer-moderna/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-25T16:36:51-05:00",
     "date_et": "2021-01-25"
@@ -698,7 +1050,7 @@
     "url": "https://investorplace.com/2021/01/4-top-stock-trades-for-tuesday-gme-clx-jnj-mcd/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-25T17:21:16-05:00",
     "date_et": "2021-01-25"
@@ -714,7 +1066,7 @@
     "url": "https://www.marketwatch.com/story/j-j-snack-stock-drops-14-as-earnings-miss-street-expectations-11611613452",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-25T17:24:00-05:00",
     "date_et": "2021-01-25"
@@ -730,7 +1082,7 @@
     "url": "https://www.zacks.com/stock/news/1251647/jj-snack-foods-jjsf-lags-q1-earnings-estimates",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-25T18:03:08-05:00",
     "date_et": "2021-01-25"
@@ -746,7 +1098,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2021/01/26/johnson--johnsons-vaccine-updates-when-will-the-shot-be-available-for-use/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T05:30:00-05:00",
     "date_et": "2021-01-26"
@@ -762,7 +1114,7 @@
     "url": "https://www.fool.com/investing/2021/01/26/should-you-buy-johnson-johnson-stock-before-its-bi/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T06:09:00-05:00",
     "date_et": "2021-01-26"
@@ -778,7 +1130,7 @@
     "url": "https://www.cnbc.com/2021/01/26/johnson-johnson-jnj-earnings-q4-2020.html",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T06:30:01-05:00",
     "date_et": "2021-01-26"
@@ -794,7 +1146,7 @@
     "url": "https://www.reuters.com/article/us-johnson-johnson-results/johnson-johnson-quarterly-sales-rise-8-3-sees-vaccine-data-soon-idUSKBN29V197",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T06:41:00-05:00",
     "date_et": "2021-01-26"
@@ -810,7 +1162,7 @@
     "url": "https://www.prnewswire.com/news-releases/johnson--johnson-reports-2020-fourth-quarter-and-full-year-results-301214853.html",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T06:42:00-05:00",
     "date_et": "2021-01-26"
@@ -826,7 +1178,7 @@
     "url": "https://www.marketwatch.com/story/jj-beats-earnings-estimates-in-q4-driven-by-a-16-jump-in-sales-of-remicade-2021-01-26",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T07:31:19-05:00",
     "date_et": "2021-01-26"
@@ -842,7 +1194,7 @@
     "url": "https://invezz.com/news/2021/01/26/johnsons-johnsons-sales-jump-to-16-35-billion-in-fiscal-q4/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T08:33:09-05:00",
     "date_et": "2021-01-26"
@@ -858,7 +1210,7 @@
     "url": "https://www.zacks.com/stock/news/1251790/johnson-johnson-jnj-tops-q4-earnings-and-revenue-estimates",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T09:02:10-05:00",
     "date_et": "2021-01-26"
@@ -874,7 +1226,7 @@
     "url": "https://www.investors.com/news/technology/jnj-stock-johnson-johnson-earnings-q4-2020/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T09:27:49-05:00",
     "date_et": "2021-01-26"
@@ -890,7 +1242,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2021/01/26/sunny-outlook-incoming-vaccine-data-lifts-jnj-to-fresh-highs",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T09:31:41-05:00",
     "date_et": "2021-01-26"
@@ -906,7 +1258,7 @@
     "url": "https://www.foxbusiness.com/markets/jj-covid-19-vaccine-data-due-soon-after-boosting-outlook",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T09:59:40-05:00",
     "date_et": "2021-01-26"
@@ -922,7 +1274,7 @@
     "url": "https://www.investopedia.com/johnson-and-johnson-jnj-surges-to-all-time-high-5097426",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T11:15:47-05:00",
     "date_et": "2021-01-26"
@@ -938,7 +1290,7 @@
     "url": "https://www.zacks.com/stock/news/1251894/housing-charges-economy-%2B95-case-shiller-dhis-earnings-beat",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T11:17:12-05:00",
     "date_et": "2021-01-26"
@@ -954,7 +1306,7 @@
     "url": "https://www.zacks.com/stock/news/1251881/jj-jnj-q4-earnings-sales-beat-2021-guidance-upbeat",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T11:17:28-05:00",
     "date_et": "2021-01-26"
@@ -970,7 +1322,7 @@
     "url": "https://www.gurufocus.com/news/1340903/johnson--johnson-shares-pop-on-strongerthanexpected-4thquarter-results",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T11:23:16-05:00",
     "date_et": "2021-01-26"
@@ -986,7 +1338,7 @@
     "url": "https://www.fool.com/investing/2021/01/26/heres-why-investors-cheered-johnson-johnsons-q4-re/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T11:30:00-05:00",
     "date_et": "2021-01-26"
@@ -1002,7 +1354,7 @@
     "url": "https://www.businessinsider.com/jj-single-dose-coronavirus-vaccine-data-to-come-within-days-2021-1",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T11:39:37-05:00",
     "date_et": "2021-01-26"
@@ -1018,7 +1370,7 @@
     "url": "https://www.zacks.com/stock/news/1251901/home-prices-rose-in-november",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T12:02:23-05:00",
     "date_et": "2021-01-26"
@@ -1034,7 +1386,7 @@
     "url": "https://www.marketwatch.com/story/jj-ceo-expect-phase-3-results-for-its-covid-19-vaccine-candidate-early-next-week-2021-01-26",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T12:39:05-05:00",
     "date_et": "2021-01-26"
@@ -1050,7 +1402,7 @@
     "url": "https://seekingalpha.com/article/4401077-johnson-johnson-jnj-ceo-alex-gorsky-on-q4-2020-results-earnings-call-transcript",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T14:02:20-05:00",
     "date_et": "2021-01-26"
@@ -1066,7 +1418,7 @@
     "url": "https://www.pymnts.com/earnings/2021/johnson-johnson-sales-rise-8-3-pct-amid-consumer-health-pharmaceutical-growth/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T14:37:23-05:00",
     "date_et": "2021-01-26"
@@ -1082,7 +1434,7 @@
     "url": "https://www.gurufocus.com/news/1341335/johnson--johnson-rises-on-4thquarter-earnings-beat",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T14:40:31-05:00",
     "date_et": "2021-01-26"
@@ -1098,7 +1450,7 @@
     "url": "https://www.fool.com/investing/2021/01/26/johnson-johnson-rises-on-q4-beats-coronavirus-vacc/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-26T21:10:00-05:00",
     "date_et": "2021-01-26"
@@ -1114,7 +1466,7 @@
     "url": "https://www.businessinsider.com/business-insiders-biggest-healthcare-stories-for-january-27-2021-1",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-27T08:51:18-05:00",
     "date_et": "2021-01-27"
@@ -1130,7 +1482,7 @@
     "url": "https://seekingalpha.com/article/4401314-breaking-up-johnson-johnson-not-you-me",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-27T12:28:17-05:00",
     "date_et": "2021-01-27"
@@ -1146,7 +1498,7 @@
     "url": "https://www.zacks.com/stock/news/1252643/johnson-johnson-jnj-is-a-top-dividend-stock-right-now-should-you-buy",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-27T12:47:23-05:00",
     "date_et": "2021-01-27"
@@ -1162,7 +1514,7 @@
     "url": "https://www.zacks.com/stock/news/1252728/jnj-touches-new-highs-post-solid-q4-earnings-etfs-in-focus",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-27T13:32:08-05:00",
     "date_et": "2021-01-27"
@@ -1178,7 +1530,7 @@
     "url": "https://www.zacks.com/commentary/1252808/a-positive-and-reassuring-earnings-picture",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-28T01:31:03-05:00",
     "date_et": "2021-01-28"
@@ -1194,7 +1546,7 @@
     "url": "https://www.fool.com/investing/2021/01/28/3-great-stocks-for-low-risk-investors/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-28T07:48:00-05:00",
     "date_et": "2021-01-28"
@@ -1210,7 +1562,7 @@
     "url": "https://www.fool.com/investing/2021/01/28/if-youre-retired-consider-buying-these-2-stocks/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-28T11:30:00-05:00",
     "date_et": "2021-01-28"
@@ -1226,7 +1578,7 @@
     "url": "https://www.zacks.com/stock/news/1253404/5-big-pharma-biotech-stocks-set-to-trump-q4-earnings-estimates",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-28T12:02:36-05:00",
     "date_et": "2021-01-28"
@@ -1242,7 +1594,7 @@
     "url": "https://www.fool.com/investing/2021/01/28/this-company-may-be-the-next-to-cross-the-coronavi/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-28T12:42:00-05:00",
     "date_et": "2021-01-28"
@@ -1258,7 +1610,7 @@
     "url": "https://www.benzinga.com/general/biotech/21/01/19388031/johnson-johnson-to-start-with-2-million-doses-covid-19-vaccine-supply",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T05:11:00-05:00",
     "date_et": "2021-01-29"
@@ -1274,7 +1626,7 @@
     "url": "https://www.fool.com/investing/2021/01/29/new-to-the-stock-market-3-investments-you-cant-go/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T06:02:00-05:00",
     "date_et": "2021-01-29"
@@ -1290,7 +1642,7 @@
     "url": "https://www.fool.com/investing/2021/01/29/better-coronavirus-stock-johnson-johnson-vs-pfizer/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T07:23:00-05:00",
     "date_et": "2021-01-29"
@@ -1306,7 +1658,7 @@
     "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial-301218035.html",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T08:00:00-05:00",
     "date_et": "2021-01-29"
@@ -1322,7 +1674,7 @@
     "url": "https://www.cnbc.com/2021/01/29/covid-vaccine-jjs-one-shot-drug-is-72percent-in-the-us-but-less-effective-elsewhere.html",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T08:00:07-05:00",
     "date_et": "2021-01-29"
@@ -1338,7 +1690,7 @@
     "url": "https://www.businessinsider.com/jj-one-dose-covid-vaccine-late-stage-trial-results-2021-1",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T08:01:18-05:00",
     "date_et": "2021-01-29"
@@ -1354,7 +1706,7 @@
     "url": "https://www.marketwatch.com/story/johnson-johnson-says-covid-vaccine-was-66-effective-in-phase-3-trial-2021-01-29",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T08:13:33-05:00",
     "date_et": "2021-01-29"
@@ -1370,7 +1722,7 @@
     "url": "https://www.forbes.com/sites/siladityaray/2021/01/29/johnson--johnsons-single-dose-covid-19-vaccine-is-66-effective-in-global-trial-but-has-lower-efficacy-against-south-african-variant/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T08:38:43-05:00",
     "date_et": "2021-01-29"
@@ -1386,7 +1738,7 @@
     "url": "https://www.barrons.com/articles/stocks-moving-premarket-friday-jnj-gamestop-amc-novavax-51611928781",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T08:59:00-05:00",
     "date_et": "2021-01-29"
@@ -1402,7 +1754,7 @@
     "url": "https://techcrunch.com/2021/01/29/johnson-johnsons-covid-19-vaccine-is-85-effective-against-severe-cases-and-66-effective-overall-per-trial-data/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T09:04:52-05:00",
     "date_et": "2021-01-29"
@@ -1418,7 +1770,7 @@
     "url": "https://www.barrons.com/articles/news-updates-51611930488",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T09:29:00-05:00",
     "date_et": "2021-01-29"
@@ -1434,7 +1786,7 @@
     "url": "https://www.reuters.com/article/us-usa-stocks/wall-st-opens-lower-after-jj-vaccine-data-idUSKBN29Y1MV",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T09:37:00-05:00",
     "date_et": "2021-01-29"
@@ -1450,7 +1802,7 @@
     "url": "https://www.forbes.com/sites/jjkinahan/2021/01/29/speculative-trading-heightens-uncertainty-jnj-reports-vaccine-66-effective-globally/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T09:45:44-05:00",
     "date_et": "2021-01-29"
@@ -1466,7 +1818,7 @@
     "url": "https://www.investopedia.com/moderna-mrna-at-high-as-johnson-and-johnson-jnj-vaccine-disappoints-5100992",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T10:10:38-05:00",
     "date_et": "2021-01-29"
@@ -1482,7 +1834,7 @@
     "url": "https://www.benzinga.com/general/biotech/21/01/19393568/johnson-johnsons-covid-19-vaccine-data-what-you-need-to-know",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T10:33:32-05:00",
     "date_et": "2021-01-29"
@@ -1498,7 +1850,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2021/01/29/blue-chip-pharma-stock-dips-on-vaccine-update",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T10:56:00-05:00",
     "date_et": "2021-01-29"
@@ -1514,7 +1866,7 @@
     "url": "https://www.marketwatch.com/story/vaccine-hopes-boosted-by-data-from-novavax-and-j-j-but-fears-over-new-variants-remain-11611936022",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T11:00:00-05:00",
     "date_et": "2021-01-29"
@@ -1530,7 +1882,7 @@
     "url": "https://www.zacks.com/stock/news/1254275/personal-income-increased-in-december",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T11:17:08-05:00",
     "date_et": "2021-01-29"
@@ -1546,7 +1898,7 @@
     "url": "https://www.zacks.com/stock/news/1254261/economic-prints-q4-reports-up-for-lilly-cat-jj-posts-phase-3-data",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T11:17:16-05:00",
     "date_et": "2021-01-29"
@@ -1562,7 +1914,7 @@
     "url": "https://www.fastcompany.com/90599466/what-makes-johnson-johnsons-covid-19-vaccine-different-we-break-it-down",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T12:49:39-05:00",
     "date_et": "2021-01-29"
@@ -1578,7 +1930,7 @@
     "url": "https://www.forbes.com/sites/qai/2021/01/29/top-stocks-to-buy-today-as-johnson--johnson-vaccine-underwhelms-markets/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T12:56:05-05:00",
     "date_et": "2021-01-29"
@@ -1594,7 +1946,7 @@
     "url": "https://www.forbes.com/sites/qai/2021/01/29/top-stocks-to-short-today-amid-reddit-mania-and-disappointing-johnson--johnson-data/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T13:08:40-05:00",
     "date_et": "2021-01-29"
@@ -1610,7 +1962,7 @@
     "url": "https://www.etftrends.com/stock-etfs-fall-johnson-johnson-vaccine-news/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T14:01:40-05:00",
     "date_et": "2021-01-29"
@@ -1626,7 +1978,7 @@
     "url": "https://www.businessinsider.com/coronavirus-vaccines-compared-pfizer-moderna-johnson-and-johnson-2021-1",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T14:01:49-05:00",
     "date_et": "2021-01-29"
@@ -1642,7 +1994,7 @@
     "url": "https://www.etftrends.com/equity-etf-channel/u-s-stock-etfs-slide-on-jjs-weak-vaccine-gamestop-volatility/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T15:50:38-05:00",
     "date_et": "2021-01-29"
@@ -1658,7 +2010,7 @@
     "url": "https://www.fool.com/investing/2021/01/29/why-johnson-johnson-fell-today-despite-excellent-c/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T19:00:00-05:00",
     "date_et": "2021-01-29"
@@ -1674,7 +2026,7 @@
     "url": "https://www.cnbc.com/2021/01/29/dr-scott-gottlieb-jj-covid-vaccine-trial-yields-very-good-result.html",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T19:09:48-05:00",
     "date_et": "2021-01-29"
@@ -1690,7 +2042,7 @@
     "url": "https://www.cnbc.com/2021/01/29/there-will-be-enough-covid-vaccines-for-the-entire-us-adult-population-by-june-doctor-says.html",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-29T20:24:06-05:00",
     "date_et": "2021-01-29"
@@ -1706,7 +2058,7 @@
     "url": "https://www.fool.com/investing/2021/01/30/bidens-latest-move-just-handed-the-vaccine-market/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-30T06:55:00-05:00",
     "date_et": "2021-01-30"
@@ -1722,7 +2074,7 @@
     "url": "https://www.businessinsider.com/moderna-scientist-kizzy-johnson-and-johnson-covid-shot-darn-good-2021-1",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-30T11:09:50-05:00",
     "date_et": "2021-01-30"
@@ -1738,7 +2090,7 @@
     "url": "https://www.fool.com/investing/2021/01/31/can-johnson-johnson-beat-pfizer-and-moderna-in-the/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-31T06:10:00-05:00",
     "date_et": "2021-01-31"
@@ -1754,7 +2106,7 @@
     "url": "https://www.cnbc.com/2021/01/31/top-analysts-like-these-stocks-coming-out-of-earnings-season.html",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-01-31T08:44:29-05:00",
     "date_et": "2021-01-31"
@@ -1770,7 +2122,7 @@
     "url": "https://seekingalpha.com/article/4402369-week-5-mda-breakout-stocks-february-2021-short-term-picks-to-give-you-edge",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-01T04:16:53-05:00",
     "date_et": "2021-02-01"
@@ -1786,7 +2138,7 @@
     "url": "https://seekingalpha.com/article/4402139-retirement-strategy-surprise-update-to-pandemic-retirement-income-portfolio",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-01T08:00:00-05:00",
     "date_et": "2021-02-01"
@@ -1802,7 +2154,7 @@
     "url": "https://www.zacks.com/stock/news/1255269/jjs-jnj-coronavirus-vaccine-shows-66-efficacy-in-phase-iii",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-01T11:22:04-05:00",
     "date_et": "2021-02-01"
@@ -1818,7 +2170,7 @@
     "url": "https://investorplace.com/2021/02/7-blue-chip-stocks-help-prepare-your-retirement/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-01T11:40:03-05:00",
     "date_et": "2021-02-01"
@@ -1834,7 +2186,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2021/02/01/johnson--johnson-vaccines-66-efficacy-figure-is-better-than-it-looks/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-01T22:57:26-05:00",
     "date_et": "2021-02-01"
@@ -1850,7 +2202,7 @@
     "url": "https://www.fool.com/investing/2021/02/02/is-moderna-stock-a-buy-or-sell-after-johnson-johns/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-02T05:52:00-05:00",
     "date_et": "2021-02-02"
@@ -1866,7 +2218,7 @@
     "url": "https://www.prnewswire.com/news-releases/johnson--johnson-vision-receives-fda-approval-for-next-generation-monofocal-intraocular-lens---tecnis-eyhance-and-tecnis-eyhance-toric-ii-iols---for-the-treatment-of-cataract-patients-301219587.html",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-02T08:00:00-05:00",
     "date_et": "2021-02-02"
@@ -1882,7 +2234,7 @@
     "url": "https://www.fool.com/investing/2021/02/02/this-one-stock-market-chart-will-make-you-a-smarte/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-02T09:45:00-05:00",
     "date_et": "2021-02-02"
@@ -1898,7 +2250,7 @@
     "url": "https://investorplace.com/2021/02/8-dividend-stocks-decade-dividend-increases/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-02T10:09:53-05:00",
     "date_et": "2021-02-02"
@@ -1914,7 +2266,7 @@
     "url": "https://seekingalpha.com/article/4402758-bolt-biotherapeutics-aims-for-150-million-u-s-ipo",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-02T13:53:38-05:00",
     "date_et": "2021-02-02"
@@ -1930,7 +2282,7 @@
     "url": "https://www.barrons.com/articles/pfizer-increased-vaccine-sales-estimate-after-astrazeneca-and-j-j-stumbles-51612295394",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-02T14:49:00-05:00",
     "date_et": "2021-02-02"
@@ -1946,7 +2298,7 @@
     "url": "https://www.fool.com/investing/2021/02/03/3-stocks-i-cant-wait-to-buy-when-the-stock-market/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-03T06:45:00-05:00",
     "date_et": "2021-02-03"
@@ -1962,7 +2314,7 @@
     "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-submission-of-application-to-the-us-fda-for-emergency-use-authorization-of-its-investigational-single-shot-janssen-covid-19-vaccine-candidate-301222768.html",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-04T17:35:00-05:00",
     "date_et": "2021-02-04"
@@ -1978,7 +2330,7 @@
     "url": "https://www.cnbc.com/2021/02/04/covid-vaccine-jj-requests-fda-emergency-use-authorization.html",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-04T17:52:36-05:00",
     "date_et": "2021-02-04"
@@ -1994,7 +2346,7 @@
     "url": "https://www.marketwatch.com/story/jj-submits-application-for-its-covid-19-shot-to-the-fda-2021-02-04",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-04T17:57:42-05:00",
     "date_et": "2021-02-04"
@@ -2010,7 +2362,7 @@
     "url": "https://www.forbes.com/sites/nicholasreimann/2021/02/04/johnson--johnson-files-for-covid-vaccine-emergency-use-authorization/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-04T18:14:49-05:00",
     "date_et": "2021-02-04"
@@ -2026,7 +2378,7 @@
     "url": "https://www.barrons.com/articles/johnson-johnson-seeks-emergency-authorization-for-covid-vaccine-the-stock-moved-higher-51612483452",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-04T19:04:00-05:00",
     "date_et": "2021-02-04"
@@ -2042,7 +2394,7 @@
     "url": "https://www.benzinga.com/general/biotech/21/02/19504227/johnson-johnson-seeks-us-emergency-approval-for-single-dose-covid-19-vaccine",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-04T22:53:21-05:00",
     "date_et": "2021-02-04"
@@ -2058,7 +2410,7 @@
     "url": "https://www.barrons.com/articles/global-stocks-cheered-by-jnj-vaccine-news-as-investors-wait-for-u-s-payrolls-data-51612522775",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-05T05:59:00-05:00",
     "date_et": "2021-02-05"
@@ -2074,7 +2426,7 @@
     "url": "https://www.fool.com/investing/2021/02/05/is-johnson-johnson-a-great-dividend-stock/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-05T06:25:00-05:00",
     "date_et": "2021-02-05"
@@ -2090,7 +2442,7 @@
     "url": "https://www.marketwatch.com/story/fda-schedules-advisory-committee-for-jjs-covid-19-vaccine-candidate-for-feb-26-2021-02-05",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-05T07:31:31-05:00",
     "date_et": "2021-02-05"
@@ -2106,7 +2458,7 @@
     "url": "https://seekingalpha.com/article/4403797-johnson-johnson-stock-belongs-in-every-portfolio",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-05T10:30:00-05:00",
     "date_et": "2021-02-05"
@@ -2122,7 +2474,7 @@
     "url": "https://www.investors.com/news/technology/vaccine-stock-johnson-johnson-asks-fda-covid-vaccine-nod-branch/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-05T11:43:50-05:00",
     "date_et": "2021-02-05"
@@ -2138,7 +2490,7 @@
     "url": "https://www.zacks.com/stock/news/1258382/jj-jnj-seeks-emergency-approval-for-coronavirus-vaccine",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-05T12:07:07-05:00",
     "date_et": "2021-02-05"
@@ -2154,7 +2506,7 @@
     "url": "https://www.zacks.com/stock/news/1258521/pharma-etfs-in-focus-post-q4-earnings",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-05T13:38:16-05:00",
     "date_et": "2021-02-05"
@@ -2170,7 +2522,7 @@
     "url": "https://www.fool.com/investing/2021/02/05/when-will-johnson-johnsons-coronavirus-vaccine-be/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-05T15:00:00-05:00",
     "date_et": "2021-02-05"
@@ -2186,7 +2538,7 @@
     "url": "https://www.fool.com/investing/2021/02/06/2-green-flags-in-johnson-johnsons-latest-earnings/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-06T05:59:00-05:00",
     "date_et": "2021-02-06"
@@ -2202,7 +2554,7 @@
     "url": "https://www.fool.com/investing/2021/02/06/johnson-johnsons-vaccine-is-less-effective-than-ri/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-06T06:32:00-05:00",
     "date_et": "2021-02-06"
@@ -2218,7 +2570,7 @@
     "url": "https://seekingalpha.com/article/4404108-week-6-mda-breakout-stocks-february-2021-short-term-picks-to-give-you-edge",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-06T13:03:19-05:00",
     "date_et": "2021-02-06"
@@ -2234,7 +2586,7 @@
     "url": "https://www.fool.com/investing/2021/02/07/3-stocks-to-bankroll-your-retirement/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-07T07:07:00-05:00",
     "date_et": "2021-02-07"
@@ -2250,7 +2602,7 @@
     "url": "https://www.fool.com/investing/2021/02/07/1-big-problem-in-johnson-johnsons-latest-earnings/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-07T08:58:00-05:00",
     "date_et": "2021-02-07"
@@ -2266,7 +2618,7 @@
     "url": "https://www.proactiveinvestors.co.uk//companies/news/940519/johnson--johnson-submits-one-shot-coronavirus-vaccine-for-us-approval-940519.html?SNAPI",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-07T14:54:52-05:00",
     "date_et": "2021-02-07"
@@ -2282,7 +2634,7 @@
     "url": "https://www.fool.com/investing/2021/02/08/why-johnson-johnsons-vaccine-data-is-actually-grea/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-08T10:19:00-05:00",
     "date_et": "2021-02-08"
@@ -2298,7 +2650,7 @@
     "url": "https://www.zacks.com/stock/news/1259477/new-all-time-highs-for-dow-nasdaq-sp-and-russell",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-08T18:57:21-05:00",
     "date_et": "2021-02-08"
@@ -2314,7 +2666,7 @@
     "url": "https://www.benzinga.com/general/biotech/21/02/19556352/janssens-erleada-plus-zytiga-plus-prednisone-combo-treatment-shows-clinical-benefit-in-late-stage",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-09T05:43:11-05:00",
     "date_et": "2021-02-09"
@@ -2330,7 +2682,7 @@
     "url": "https://www.fool.com/investing/2021/02/09/how-will-johnson-johnsons-covid-vaccine-affect-its/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-09T06:09:00-05:00",
     "date_et": "2021-02-09"
@@ -2346,7 +2698,7 @@
     "url": "https://www.fool.com/investing/2021/02/09/heres-why-investors-should-remember-these-2-health/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-09T06:11:00-05:00",
     "date_et": "2021-02-09"
@@ -2362,7 +2714,7 @@
     "url": "https://investorplace.com/2021/02/7-safe-stocks-for-reddits-wsb-bull-gang/",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-09T13:27:58-05:00",
     "date_et": "2021-02-09"
@@ -2378,7 +2730,7 @@
     "url": "https://www.cnbc.com/2021/02/09/covid-vaccine-jj-ceo-says-people-may-get-annual-shots-for-the-next-several-years.html",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-09T14:55:29-05:00",
     "date_et": "2021-02-09"
@@ -2394,7 +2746,7 @@
     "url": "https://www.marketwatch.com/story/expect-to-get-covid-19-shots-for-years-to-come-johnson-johnson-ceo-says-11612914428",
     "ticker": "JNJ",
     "event_date": "2021-01-26",
-    "window_start": "2021-01-19",
+    "window_start": "2021-01-12",
     "window_end": "2021-02-09",
     "publishedDateET": "2021-02-09T18:47:00-05:00",
     "date_et": "2021-02-09"

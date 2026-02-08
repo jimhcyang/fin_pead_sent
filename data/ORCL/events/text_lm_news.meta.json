@@ -5,7 +5,7 @@
   "event_long_out": "data/ORCL/events/text_lm_news_event_long.csv",
   "event_wide_out": "data/ORCL/events/text_lm_news_event_wide.csv",
   "min_tokens": 20,
-  "rows_in": 2245,
-  "rows_scored": 1642,
+  "rows_in": 2421,
+  "rows_scored": 1768,
   "events_scored": 20
 }

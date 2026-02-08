@@ -1,6 +1,390 @@
 [
   {
     "symbol": "MSFT",
+    "publishedDate": "2022-04-12 01:18:27",
+    "publisher": "CNBC",
+    "title": "Microsoft bought and shut down this entrepreneur's app. But now he's raised money for an unofficial successor",
+    "image": "https://images.financialmodelingprep.com/news/microsoft-bought-and-shut-down-this-entrepreneurs-app-but-20220412.jpg",
+    "site": "cnbc.com",
+    "text": "Christian Reber sold Wunderlist to Microsoft for a sum that was reported to be between $100 million and $200 million only to watch the company shut it down.",
+    "url": "https://www.cnbc.com/2022/04/12/wunderlist-co-founder-christian-reber-raises-funding-for-superlist.html",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-12T01:18:27-04:00",
+    "date_et": "2022-04-12"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-12 08:30:00",
+    "publisher": "Business Wire",
+    "title": "Eckoh's New Cloud Security Offering in Microsoft Azure Attracts a Fortune 100 Retailer.",
+    "image": "https://images.financialmodelingprep.com/news/eckohs-new-cloud-security-offering-in-microsoft-azure-attracts-20220412.jpg",
+    "site": "businesswire.com",
+    "text": "OMAHA, Neb.--(BUSINESS WIRE)--Eckoh (AIM: ECK), the global provider of customer engagement security solutions, has expanded their cloud offering to include Microsoft Azure. A key part of Eckoh's strategy is their commitment to investing in extending their cloud platforms and security capabilities to provide flexibility and alternative options for clients. Until recently, Eckoh has deployed their global cloud solutions exclusively on Amazon Web Services (AWS), however, it has always been their i",
+    "url": "https://www.businesswire.com/news/home/20220412005246/en/Eckoh%E2%80%99s-New-Cloud-Security-Offering-in-Microsoft-Azure-Attracts-a-Fortune-100-Retailer./",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-12T08:30:00-04:00",
+    "date_et": "2022-04-12"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-12 11:12:54",
+    "publisher": "Seeking Alpha",
+    "title": "Embracer: A Business Growing At Over 90%, Trading At A Discount",
+    "image": "https://images.financialmodelingprep.com/news/embracer-a-business-growing-at-over-90-trading-at-20220412.jpg",
+    "site": "seekingalpha.com",
+    "text": "Embracer: A Business Growing At Over 90%, Trading At A Discount",
+    "url": "https://seekingalpha.com/article/4500984-embracer-a-business-growing-at-over-90-percent-trading-at-a-discount",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-12T11:12:54-04:00",
+    "date_et": "2022-04-12"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-12 13:33:04",
+    "publisher": "Forbes",
+    "title": "Top Trending Investments For This Week",
+    "image": "https://images.financialmodelingprep.com/news/top-trending-investments-for-this-week-20220412.jpg",
+    "site": "forbes.com",
+    "text": "We've crunched the data to bring you the latest top trending investments that stand out in a fast-moving market.",
+    "url": "https://www.forbes.com/sites/qai/2022/04/12/top-trending-investments-for-this-week/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-12T13:33:04-04:00",
+    "date_et": "2022-04-12"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-12 14:05:59",
+    "publisher": "ETF Trends",
+    "title": "Quality Call Merits Consideration Now",
+    "image": "https://images.financialmodelingprep.com/news/quality-call-merits-consideration-now-20220412.jpg",
+    "site": "etftrends.com",
+    "text": "In theory, there's never a bad time to embrace quality stocks and the exchange traded funds that hold those names, but there are times when quality works well and times when it lags. Those are the breaks with any investment factor, but in the current environment, the stars are aligning for quality, and that could [.",
+    "url": "https://www.etftrends.com/model-portfolio-channel/quality-call-merits-consideration-now/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-12T14:05:59-04:00",
+    "date_et": "2022-04-12"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-12 15:53:02",
+    "publisher": "Benzinga",
+    "title": "Why Is Microsoft Stock Off To A Sluggish Start This Week?",
+    "image": "https://images.financialmodelingprep.com/news/why-is-microsoft-stock-off-to-a-sluggish-start-20220412.jpg",
+    "site": "benzinga.com",
+    "text": "Microsoft Corp (NASDAQ: MSFT) shares are down about 10% over a five-day period. The stock continues to slide Tuesday after analysts warned of Office 365 deceleration.",
+    "url": "https://www.benzinga.com/news/22/04/26602553/why-is-microsoft-stock-off-to-a-sluggish-start-this-week",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-12T15:53:02-04:00",
+    "date_et": "2022-04-12"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-13 07:00:03",
+    "publisher": "InvestorPlace",
+    "title": "7 Undervalued Cybersecurity Stocks to Buy Now",
+    "image": "https://images.financialmodelingprep.com/news/7-undervalued-cybersecurity-stocks-to-buy-now-20220413.jpg",
+    "site": "investorplace.com",
+    "text": "Investing in cybersecurity stocks is a great way to diversify your portfolio, especially after the steep price correction from last year. The post 7 Undervalued Cybersecurity Stocks to Buy Now appeared first on InvestorPlace.",
+    "url": "https://investorplace.com/2022/04/7-undervalued-cybersecurity-stocks-to-buy-now-aten-caci-crwd-msft-googl-goog-ftnt-splk/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-13T07:00:03-04:00",
+    "date_et": "2022-04-13"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-13 13:51:49",
+    "publisher": "InvestorPlace",
+    "title": "Will Microsoft Face Antitrust Issues Over Its Cloud Unit?",
+    "image": "https://images.financialmodelingprep.com/news/will-microsoft-face-antitrust-issues-over-its-cloud-unit-20220413.jpg",
+    "site": "investorplace.com",
+    "text": "Will Microsoft come under the antitrust spotlight like some of its mega-cap tech peers? Bulls in MSFT stock hope that's not the case.",
+    "url": "https://investorplace.com/2022/04/msft-stock-will-microsoft-face-antitrust-issues-over-its-cloud-unit/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-13T13:51:49-04:00",
+    "date_et": "2022-04-13"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-13 14:25:01",
+    "publisher": "InvestorPlace",
+    "title": "Microsoft's Expanded Partnership With Finastra Strengthens Its SME Offering",
+    "image": "https://images.financialmodelingprep.com/news/microsofts-expanded-partnership-with-finastra-strengthens-its-sme-offering-20220413.jpg",
+    "site": "investorplace.com",
+    "text": "Microsoft working with Finastra to embed lending solutions within Microsoft Dynamics 365 is excellent news for MSFT stock. The post Microsoft's Expanded Partnership With Finastra Strengthens Its SME Offering appeared first on InvestorPlace.",
+    "url": "https://investorplace.com/2022/04/microsofts-expanded-partnership-with-finastra-strengthens-its-sme-offering/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-13T14:25:01-04:00",
+    "date_et": "2022-04-13"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-13 16:57:05",
+    "publisher": "InvestorPlace",
+    "title": "3 Large-Cap Tech Stocks to Sell Now",
+    "image": "https://images.financialmodelingprep.com/news/3-largecap-tech-stocks-to-sell-now-20220413.jpg",
+    "site": "investorplace.com",
+    "text": "Wall Street is enjoying a breather Wednesday, but the bargain-hunting may set up stronger-looking shorts in these large-cap tech stocks. The post 3 Large-Cap Tech Stocks to Sell Now appeared first on InvestorPlace.",
+    "url": "https://investorplace.com/2022/04/3-large-cap-tech-stocks-to-sell-now/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-13T16:57:05-04:00",
+    "date_et": "2022-04-13"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-14 07:00:20",
+    "publisher": "InvestorPlace",
+    "title": "IPO Spotlight: Four New Stocks to Add to Your Q2 Watchlist",
+    "image": "https://images.financialmodelingprep.com/news/ipo-spotlight-four-new-stocks-to-add-to-your-20220414.jpg",
+    "site": "investorplace.com",
+    "text": "After a banner year the IPO market is cooling off. But that doesn't mean there won't be any.",
+    "url": "https://investorplace.com/2022/04/ipo-spotlight-four-new-watchlist-stocks-to-add-discord-databricks-impossible-foods-instacart/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-14T07:00:20-04:00",
+    "date_et": "2022-04-14"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-14 08:50:51",
+    "publisher": "InvestorPlace",
+    "title": "70% in 12 Months? Wall Street Analysts Think So.",
+    "image": "https://images.financialmodelingprep.com/news/70-in-12-months-wall-street-analysts-think-so-20220414.jpg",
+    "site": "investorplace.com",
+    "text": "We found that Wall Street analysts believe our entire portfolio could rise more than 70% over the next 12 months. Fifteen could more than double, and one could rise more than 5X over the next year alone.",
+    "url": "https://investorplace.com/hypergrowthinvesting/2022/04/70-in-12-months-wall-street-analysts-think-so/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-14T08:50:51-04:00",
+    "date_et": "2022-04-14"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-14 14:42:40",
+    "publisher": "InvestorPlace",
+    "title": "MSFT, GOOG, TSLA, FB, NVDA: Why Are Tech Stocks Down Today?",
+    "image": "https://images.financialmodelingprep.com/news/msft-goog-tsla-fb-nvda-why-are-tech-stocks-down-20220414.jpg",
+    "site": "investorplace.com",
+    "text": "Today, the heat map for most tech stocks is red, as investors price in a series of market headwinds and lower growth moving forward. The post MSFT, GOOG, TSLA, FB, NVDA: Why Are Tech Stocks Down Today?",
+    "url": "https://investorplace.com/2022/04/msft-goog-tsla-fb-nvda-why-are-tech-stocks-down-today/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-14T14:42:40-04:00",
+    "date_et": "2022-04-14"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-15 07:50:00",
+    "publisher": "The Motley Fool",
+    "title": "3 Top Tech Stocks That Could Help Make You Rich by Retirement",
+    "image": "https://images.financialmodelingprep.com/news/3-top-tech-stocks-that-could-help-make-you-20220415.jpg",
+    "site": "fool.com",
+    "text": "These powerhouses have great growth track records -- and plenty of room for further growth.",
+    "url": "https://www.fool.com/investing/2022/04/15/top-tech-stocks-help-make-you-rich-retirement/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-15T07:50:00-04:00",
+    "date_et": "2022-04-15"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-15 08:20:00",
+    "publisher": "The Motley Fool",
+    "title": "2 Leading Tech Stocks to Buy in 2022 and Beyond",
+    "image": "https://images.financialmodelingprep.com/news/2-leading-tech-stocks-to-buy-in-2022-and-20220415.jpg",
+    "site": "fool.com",
+    "text": "Tech stocks have come under pressure in 2022, but these two companies are set to flourish for many years to come.",
+    "url": "https://www.fool.com/investing/2022/04/15/2-leading-tech-stocks-to-buy-in-2022-and-beyond/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-15T08:20:00-04:00",
+    "date_et": "2022-04-15"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-15 08:48:50",
+    "publisher": "The Motley Fool",
+    "title": "3 Worst-Performing Dow Jones Stocks Ready to Bounce Back",
+    "image": "https://images.financialmodelingprep.com/news/3-worstperforming-dow-jones-stocks-ready-to-bounce-back-20220415.jpg",
+    "site": "fool.com",
+    "text": "These tickers were upended for all the wrong reasons that aren't apt to last.",
+    "url": "https://www.fool.com/investing/2022/04/15/worst-performing-dow-jones-stocks-can-bounce-back/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-15T08:48:50-04:00",
+    "date_et": "2022-04-15"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-15 09:11:16",
+    "publisher": "InvestorPlace",
+    "title": "Is Antitrust Risk a Big Concern With Microsoft Stock?",
+    "image": "https://images.financialmodelingprep.com/news/is-antitrust-risk-a-big-concern-with-microsoft-stock-20220415.jpg",
+    "site": "investorplace.com",
+    "text": "Antitrust scrutiny, if it arises, will not derail MSFT stock. Still beaten down by market volatility, keep Microsoft on your watchlist.",
+    "url": "https://investorplace.com/2022/04/msft-stock-is-antitrust-risk-a-big-concern-with-microsoft/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-15T09:11:16-04:00",
+    "date_et": "2022-04-15"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-15 14:41:00",
+    "publisher": "Seeking Alpha",
+    "title": "Apple Vs. Microsoft: Why We Like Apple Better",
+    "image": "https://images.financialmodelingprep.com/news/apple-vs-microsoft-why-we-like-apple-better-20220415.jpg",
+    "site": "seekingalpha.com",
+    "text": "The competition between Apple and Microsoft has shaped the evolution of personal computing. Their competition will continue in many core areas, but both are good candidates to play the world's unstoppable shift toward a digital future.",
+    "url": "https://seekingalpha.com/article/4501666-apple-vs-microsoft-why-we-like-apple-better",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-15T14:41:00-04:00",
+    "date_et": "2022-04-15"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-15 19:39:00",
+    "publisher": "Market Watch",
+    "title": "Activision Blizzard says it will cooperate in investigation into third-party trading surrounding Microsoft's acquisition bid",
+    "image": "https://images.financialmodelingprep.com/news/activision-blizzard-says-it-will-cooperate-in-investigation-into-20220415.jpg",
+    "site": "marketwatch.com",
+    "text": "Activision Blizzard Inc. released new information in a Securities and Exchange Commission filing late Friday meant to address lawsuits alleging its proxy statement regarding its agreement to be bought by Microsoft Corp. is “incomplete and misleading.”",
+    "url": "https://www.marketwatch.com/story/activision-blizzard-says-it-will-cooperate-in-investigation-into-third-party-trading-surrounding-microsofts-acquisition-bid-11650065973",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-15T19:39:00-04:00",
+    "date_et": "2022-04-15"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-16 08:50:00",
+    "publisher": "The Motley Fool",
+    "title": "3 Winning Stocks to Buy No Matter What the Market Is Doing",
+    "image": "https://images.financialmodelingprep.com/news/3-winning-stocks-to-buy-no-matter-what-the-20220416.jpg",
+    "site": "fool.com",
+    "text": "These stocks can provide long-term results, whether it's a bull market or bear market right now.",
+    "url": "https://www.fool.com/investing/2022/04/16/3-winning-stocks-to-buy-no-matter-what-market-do/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-16T08:50:00-04:00",
+    "date_et": "2022-04-16"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-18 06:31:03",
+    "publisher": "InvestorPlace",
+    "title": "Microsoft Stock Is the One to Own in 2022 and Beyond",
+    "image": "https://images.financialmodelingprep.com/news/microsoft-stock-is-the-one-to-own-in-2022-20220418.jpg",
+    "site": "investorplace.com",
+    "text": "Besides a solid product portfolio, Microsoft is making strategic acquisitions to help its business grow. MSFT stock is a buy.",
+    "url": "https://investorplace.com/2022/04/msft-stock-is-the-one-to-own-in-2022-and-beyond/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-18T06:31:03-04:00",
+    "date_et": "2022-04-18"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-18 13:43:42",
+    "publisher": "GeekWire",
+    "title": "Report: Microsoft exploring ways to bring ads to free-to-play Xbox games",
+    "image": "https://images.financialmodelingprep.com/news/report-microsoft-exploring-ways-to-bring-ads-to-freetoplay-20220418.jpg",
+    "site": "geekwire.com",
+    "text": "Microsoft is currently working on a method of bringing ads into various free-to-play games on the Xbox platform, according to a report from Business Insider.",
+    "url": "https://www.geekwire.com/2022/report-microsoft-exploring-ways-to-bring-ads-to-free-to-play-xbox-games/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-18T13:43:42-04:00",
+    "date_et": "2022-04-18"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-18 14:00:57",
+    "publisher": "InvestorPlace",
+    "title": "The Synthetic Biology Space Will Produce the Next Microsoft",
+    "image": "https://images.financialmodelingprep.com/news/the-synthetic-biology-space-will-produce-the-next-microsoft-20220418.jpg",
+    "site": "investorplace.com",
+    "text": "The \"next big thing\" requires the right conditions to thrive, which is why I look to megatrends for investment opportunities. And synthetic biology holds massive potential.",
+    "url": "https://investorplace.com/hypergrowthinvesting/2022/04/the-synthetic-biology-space-will-produce-the-next-microsoft/",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-18T14:00:57-04:00",
+    "date_et": "2022-04-18"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2022-04-18 16:57:02",
+    "publisher": "Benzinga",
+    "title": "Microsoft Could Be Bringing Advertising Billboards To Xbox Games: Here's What Gamers And Investors Should Know",
+    "image": "https://images.financialmodelingprep.com/news/microsoft-could-be-bringing-advertising-billboards-to-xbox-games-20220418.jpg",
+    "site": "benzinga.com",
+    "text": "The owner of the Xbox franchise is bringing advertisements into its games. Here's the latest.",
+    "url": "https://www.benzinga.com/general/gaming/22/04/26673321/microsoft-could-be-bringing-advertising-billboards-to-xbox-games-heres-what-gamers-and-investors-s",
+    "ticker": "MSFT",
+    "event_date": "2022-04-26",
+    "window_start": "2022-04-12",
+    "window_end": "2022-05-10",
+    "publishedDateET": "2022-04-18T16:57:02-04:00",
+    "date_et": "2022-04-18"
+  },
+  {
+    "symbol": "MSFT",
     "publishedDate": "2022-04-19 05:00:50",
     "publisher": "MarketBeat",
     "title": "3 No-Brainer Stocks to Buy with $1000",
@@ -10,7 +394,7 @@
     "url": "https://www.marketbeat.com/originals/3-no-brainer-stocks-to-buy-with-1000/?SNAPI",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-19T05:00:50-04:00",
     "date_et": "2022-04-19"
@@ -26,7 +410,7 @@
     "url": "https://venturebeat.com/2022/04/19/microsoft-launches-azure-managed-grafana-service-in-preview/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-19T05:47:09-04:00",
     "date_et": "2022-04-19"
@@ -42,7 +426,7 @@
     "url": "https://www.fool.com/investing/2022/04/19/3-top-stocks-that-just-went-on-sale/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-19T07:05:00-04:00",
     "date_et": "2022-04-19"
@@ -58,7 +442,7 @@
     "url": "https://investorplace.com/2022/04/7-cheap-stocks-to-buy-before-the-next-breakout/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-19T07:45:34-04:00",
     "date_et": "2022-04-19"
@@ -74,7 +458,7 @@
     "url": "https://www.fool.com/investing/2022/04/19/im-not-buying-digital-real-estate-im-doing-this-in/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-19T08:45:00-04:00",
     "date_et": "2022-04-19"
@@ -90,7 +474,7 @@
     "url": "https://seekingalpha.com/article/4502095-microsoft-delicately-balanced-as-it-approaches-cq1-earnings",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-19T09:49:10-04:00",
     "date_et": "2022-04-19"
@@ -106,7 +490,7 @@
     "url": "https://www.zacks.com/stock/news/1902265/here-is-what-to-know-beyond-why-microsoft-corporation-msft-is-a-trending-stock",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-19T12:02:13-04:00",
     "date_et": "2022-04-19"
@@ -122,7 +506,7 @@
     "url": "https://investorplace.com/2022/04/snowflake-could-have-a-lot-further-to-fall/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-19T15:20:59-04:00",
     "date_et": "2022-04-19"
@@ -138,7 +522,7 @@
     "url": "https://www.zacks.com/stock/news/1902536/microsoft-msft-earnings-expected-to-grow-what-to-know-ahead-of-next-week-s-release",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-19T16:33:51-04:00",
     "date_et": "2022-04-19"
@@ -154,7 +538,7 @@
     "url": "https://www.pymnts.com/news/investment-tracker/2022/microsoft-invests-fintech-startup-udaan-debt-financing-round/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-19T18:22:00-04:00",
     "date_et": "2022-04-19"
@@ -170,7 +554,7 @@
     "url": "https://investorplace.com/2022/04/goog-stock-stays-true-to-its-roots/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-20T06:12:56-04:00",
     "date_et": "2022-04-20"
@@ -186,7 +570,7 @@
     "url": "https://investorplace.com/2022/04/8-semiconductor-stocks-on-sale-as-intel-readies-mobileye-ipo/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-20T06:15:30-04:00",
     "date_et": "2022-04-20"
@@ -202,7 +586,7 @@
     "url": "https://seekingalpha.com/article/4502237-is-microsoft-stock-a-good-choice-for-new-investors",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-20T08:30:00-04:00",
     "date_et": "2022-04-20"
@@ -218,7 +602,7 @@
     "url": "https://www.benzinga.com/trading-ideas/technicals/22/04/26721538/microsoft-bulls-back-after-forming-this-bullish-pattern-heres-how-to-trade-it",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-20T14:47:02-04:00",
     "date_et": "2022-04-20"
@@ -234,7 +618,7 @@
     "url": "https://investorplace.com/2022/04/msft-stock-the-future-is-in-the-game/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-20T20:00:39-04:00",
     "date_et": "2022-04-20"
@@ -250,7 +634,7 @@
     "url": "https://investorplace.com/2022/04/its-not-too-late-to-buy-t-mobile-stock-on-the-upswing/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-21T06:24:17-04:00",
     "date_et": "2022-04-21"
@@ -266,7 +650,7 @@
     "url": "https://investorplace.com/2022/04/7-worlds-greatest-software-stocks-to-buy-on-sale-now/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-21T06:41:56-04:00",
     "date_et": "2022-04-21"
@@ -282,7 +666,7 @@
     "url": "https://www.fool.com/investing/2022/04/21/the-worlds-most-valuable-companies-2000-to-2022/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-21T08:43:00-04:00",
     "date_et": "2022-04-21"
@@ -298,7 +682,7 @@
     "url": "https://www.prnewswire.com/news-releases/kraft-heinz-and-microsoft-join-forces-to-accelerate-supply-chain-innovation-as-part-of-broader-digital-transformation-301530141.html",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-21T09:00:00-04:00",
     "date_et": "2022-04-21"
@@ -314,7 +698,7 @@
     "url": "https://seekingalpha.com/article/4502621-amazon-and-microsoft-better-buy",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-21T12:15:00-04:00",
     "date_et": "2022-04-21"
@@ -330,7 +714,7 @@
     "url": "https://investorplace.com/2022/04/amzn-stock-can-amazon-rally-35-from-current-levels/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-21T12:18:49-04:00",
     "date_et": "2022-04-21"
@@ -346,7 +730,7 @@
     "url": "https://www.marketwatch.com/story/kraft-heinz-partners-with-microsoft-for-supply-chain-upgrade-2022-04-21",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-21T13:53:00-04:00",
     "date_et": "2022-04-21"
@@ -362,7 +746,7 @@
     "url": "https://www.zacks.com/commentary/1904897/heading-into-its-q3-is-microsoft-msft-a-buy",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-21T20:18:03-04:00",
     "date_et": "2022-04-21"
@@ -378,7 +762,7 @@
     "url": "https://investorplace.com/hypergrowthinvesting/2022/04/divergence-is-the-rare-market-phenomenon-that-will-ease-your-recession-fears/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-22T10:15:55-04:00",
     "date_et": "2022-04-22"
@@ -394,7 +778,7 @@
     "url": "https://seekingalpha.com/article/4502959-meta-platforms-vs-microsoft-better-metaverse-stock",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-22T11:06:12-04:00",
     "date_et": "2022-04-22"
@@ -410,7 +794,7 @@
     "url": "https://www.benzinga.com/markets/cryptocurrency/22/04/26764877/whats-going-on-with-microsoft-shares",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-22T12:01:03-04:00",
     "date_et": "2022-04-22"
@@ -426,7 +810,7 @@
     "url": "https://invezz.com/news/2022/04/22/should-you-buy-apple-or-microsoft-stock-ahead-of-earnings/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-22T16:09:02-04:00",
     "date_et": "2022-04-22"
@@ -442,7 +826,7 @@
     "url": "https://www.zacks.com/commentary/1905616/previewing-tech-earnings-after-netflix-s-fiasco",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-22T16:33:29-04:00",
     "date_et": "2022-04-22"
@@ -458,7 +842,7 @@
     "url": "https://seekingalpha.com/article/4503079-microsoft-top-pick-best-inflation-resistant-stock-3300-equities",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-22T17:30:25-04:00",
     "date_et": "2022-04-22"
@@ -474,7 +858,7 @@
     "url": "https://investorplace.com/2022/04/aapl-amzn-goog-msft-fb-why-are-stocks-down-today/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-22T18:00:33-04:00",
     "date_et": "2022-04-22"
@@ -490,7 +874,7 @@
     "url": "https://investorplace.com/2022/04/7-tech-stocks-reporting-earnings-the-week-of-april-25/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-22T18:17:19-04:00",
     "date_et": "2022-04-22"
@@ -506,7 +890,7 @@
     "url": "https://www.fool.com/investing/2022/04/23/are-apple-microsoft-facing-dangerous-regulatory-ri/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-23T06:15:00-04:00",
     "date_et": "2022-04-23"
@@ -522,7 +906,7 @@
     "url": "https://www.marketwatch.com/story/apple-amazon-microsoft-headline-busy-earnings-week-ahead-11650729425",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-23T11:57:00-04:00",
     "date_et": "2022-04-23"
@@ -538,7 +922,7 @@
     "url": "https://www.barrons.com/articles/apple-microsoft-visa-boeing-gm-chipotle-and-other-stocks-for-investors-to-watch-this-week-51650826834",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-24T15:00:00-04:00",
     "date_et": "2022-04-24"
@@ -554,7 +938,7 @@
     "url": "https://finbold.com/major-tech-stocks-lose-2-4-trillion-in-market-cap-from-their-2021-all-time-highs/?SNAPI",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-25T09:50:49-04:00",
     "date_et": "2022-04-25"
@@ -570,7 +954,7 @@
     "url": "https://247wallst.com/investing/2022/04/25/earnings-previews-alphabet-chipotle-mexican-grill-microsoft-visa/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-25T11:02:05-04:00",
     "date_et": "2022-04-25"
@@ -586,7 +970,7 @@
     "url": "https://www.zacks.com/stock/news/1907030/big-week-ahead-for-q1-economic-data-ko-beats-atvi-misses",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-25T12:02:12-04:00",
     "date_et": "2022-04-25"
@@ -602,7 +986,7 @@
     "url": "https://www.zacks.com/stock/news/1907032/what-lies-ahead-for-big-tech-etfs-in-q1-earnings",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-25T12:02:13-04:00",
     "date_et": "2022-04-25"
@@ -618,7 +1002,7 @@
     "url": "https://www.pymnts.com/digital-identity/2022/mastercard-microsoft-debut-next-generation-id-tech-safer-online-shopping/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-25T12:19:51-04:00",
     "date_et": "2022-04-25"
@@ -634,7 +1018,7 @@
     "url": "https://www.zacks.com/stock/news/1907260/can-strength-in-azure-cloud-aid-microsoft-s-msft-q3-earnings",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-25T13:32:22-04:00",
     "date_et": "2022-04-25"
@@ -650,7 +1034,7 @@
     "url": "https://seekingalpha.com/article/4503408-5-great-stocks-for-the-next-10-years",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-25T16:55:47-04:00",
     "date_et": "2022-04-25"
@@ -666,7 +1050,7 @@
     "url": "https://www.cnbc.com/2022/04/26/microsoft-15-billion-security-unit-gives-investors-reason-for-hope.html",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T07:05:35-04:00",
     "date_et": "2022-04-26"
@@ -682,7 +1066,7 @@
     "url": "https://investorplace.com/2022/04/use-this-low-risk-trade-to-buy-msft-stock-in-front-of-earnings/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T10:42:51-04:00",
     "date_et": "2022-04-26"
@@ -698,7 +1082,7 @@
     "url": "https://www.benzinga.com/news/earnings/22/04/26815175/whats-going-on-with-microsoft-stock-today",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T10:52:04-04:00",
     "date_et": "2022-04-26"
@@ -714,7 +1098,7 @@
     "url": "https://www.zacks.com/stock/news/1907924/durable-goods-meet-ests-pep-ups-beat-ge-mixed",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T12:02:31-04:00",
     "date_et": "2022-04-26"
@@ -730,7 +1114,7 @@
     "url": "https://www.zacks.com/stock/news/1907967/durable-goods-orders-increased-in-march",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T12:47:19-04:00",
     "date_et": "2022-04-26"
@@ -746,7 +1130,7 @@
     "url": "https://nypost.com/2022/04/26/us-stocks-fall-as-microsoft-google-kick-off-key-tech-earnings/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T12:57:24-04:00",
     "date_et": "2022-04-26"
@@ -762,7 +1146,7 @@
     "url": "https://invezz.com/news/2022/04/26/sell-microsoft-as-the-stocks-bear-momentum-builds-up/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T14:36:31-04:00",
     "date_et": "2022-04-26"
@@ -778,7 +1162,7 @@
     "url": "https://investorplace.com/2022/04/why-are-stocks-down-today/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T14:54:13-04:00",
     "date_et": "2022-04-26"
@@ -794,7 +1178,7 @@
     "url": "https://www.cnbc.com/2022/04/26/microsoft-msft-earnings-q3-2022.html",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T15:33:10-04:00",
     "date_et": "2022-04-26"
@@ -810,7 +1194,7 @@
     "url": "https://www.benzinga.com/trading-ideas/technicals/22/04/26824396/how-microsofts-stock-looks-heading-into-q3-earnings-print",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T15:39:01-04:00",
     "date_et": "2022-04-26"
@@ -826,7 +1210,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/980620?SNAPI",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T15:54:45-04:00",
     "date_et": "2022-04-26"
@@ -842,7 +1226,7 @@
     "url": "https://www.reuters.com/technology/microsoft-beats-quarterly-revenue-estimates-2022-04-26/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T16:06:00-04:00",
     "date_et": "2022-04-26"
@@ -858,7 +1242,7 @@
     "url": "https://www.marketwatch.com/story/microsoft-beats-on-earnings-after-raising-prices-for-office-11651004053",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T16:16:07-04:00",
     "date_et": "2022-04-26"
@@ -874,7 +1258,7 @@
     "url": "https://www.nytimes.com/2022/04/26/technology/microsoft-earnings-profit.html",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T16:35:08-04:00",
     "date_et": "2022-04-26"
@@ -890,7 +1274,7 @@
     "url": "https://www.benzinga.com/news/earnings/22/04/26827176/microsoft-q1-results-top-estimates",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T16:59:02-04:00",
     "date_et": "2022-04-26"
@@ -906,7 +1290,7 @@
     "url": "https://investorplace.com/2022/04/aapl-amzn-googl-tsla-msft-why-are-tech-stocks-down-today/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T17:04:50-04:00",
     "date_et": "2022-04-26"
@@ -922,7 +1306,7 @@
     "url": "https://invezz.com/news/2022/04/26/microsoft-q3-earnings-report-i-think-its-still-inexpensive/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T17:56:45-04:00",
     "date_et": "2022-04-26"
@@ -938,7 +1322,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/980625?SNAPI",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T18:03:55-04:00",
     "date_et": "2022-04-26"
@@ -954,7 +1338,7 @@
     "url": "https://www.barrons.com/articles/microsoft-stock-price-earnings-51650921904",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T18:42:00-04:00",
     "date_et": "2022-04-26"
@@ -970,7 +1354,7 @@
     "url": "https://www.zacks.com/stock/news/1908341/microsoft-msft-q3-earnings-and-revenues-top-estimates",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T19:34:18-04:00",
     "date_et": "2022-04-26"
@@ -986,7 +1370,7 @@
     "url": "https://seekingalpha.com/article/4503841-microsofts-msft-ceo-satya-nadella-on-q3-2022-results-earnings-call-transcript",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-26T21:20:03-04:00",
     "date_et": "2022-04-26"
@@ -1002,7 +1386,7 @@
     "url": "https://www.foxbusiness.com/markets/tech-earnings",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T02:35:39-04:00",
     "date_et": "2022-04-27"
@@ -1018,7 +1402,7 @@
     "url": "https://www.marketwatch.com/story/u-s-stock-futures-hint-at-rebound-for-wall-street-with-microsoft-alphabet-earnings-in-focus-11651046522",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T04:03:00-04:00",
     "date_et": "2022-04-27"
@@ -1034,7 +1418,7 @@
     "url": "https://www.barrons.com/articles/microsoft-msft-stock-cloud-alphabet-google-youtube-51651047924",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T04:26:00-04:00",
     "date_et": "2022-04-27"
@@ -1050,7 +1434,7 @@
     "url": "https://techxplore.com/news/2022-04-cloud-power-strong-microsoft-quarter.html",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T04:30:01-04:00",
     "date_et": "2022-04-27"
@@ -1066,7 +1450,7 @@
     "url": "https://finbold.com/microsoft-flexes-its-earnings-muscle-on-cloud-growth-as-msft-stock-rises-5-after-hours/?SNAPI",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T04:59:34-04:00",
     "date_et": "2022-04-27"
@@ -1082,7 +1466,7 @@
     "url": "https://www.proactiveinvestors.co.uk/companies/news/980696?SNAPI",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T06:47:55-04:00",
     "date_et": "2022-04-27"
@@ -1098,7 +1482,7 @@
     "url": "https://www.reuters.com/business/futures-rebound-tech-selloff-microsoft-visa-gain-2022-04-27/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T07:32:00-04:00",
     "date_et": "2022-04-27"
@@ -1114,7 +1498,7 @@
     "url": "https://www.marketwatch.com/story/visa-microsoft-stock-gain-would-add-more-than-140-points-to-the-dows-price-2022-04-27",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T08:42:05-04:00",
     "date_et": "2022-04-27"
@@ -1130,7 +1514,7 @@
     "url": "https://www.benzinga.com/news/earnings/22/04/26835738/why-microsoft-shares-are-moving-higher-today",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T08:43:03-04:00",
     "date_et": "2022-04-27"
@@ -1146,7 +1530,7 @@
     "url": "https://www.barrons.com/articles/microsoft-alphabet-google-stock-price-cloud-51651047924",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T08:46:00-04:00",
     "date_et": "2022-04-27"
@@ -1162,7 +1546,7 @@
     "url": "https://www.marketbeat.com/originals/microsoft-nasdaq-msft-saves-the-day-for-now/?SNAPI",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T08:54:45-04:00",
     "date_et": "2022-04-27"
@@ -1178,7 +1562,7 @@
     "url": "https://seekingalpha.com/article/4503934-microsoft-earnings-inflation-proof-business-model-buy-on-weakness",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T09:21:47-04:00",
     "date_et": "2022-04-27"
@@ -1194,7 +1578,7 @@
     "url": "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-q3-earnings-q4-revenue-guidance-cloud-azure-2022-4",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T09:32:04-04:00",
     "date_et": "2022-04-27"
@@ -1210,7 +1594,7 @@
     "url": "https://investorplace.com/smartmoney/2022/04/the-divergence-is-here/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T09:42:40-04:00",
     "date_et": "2022-04-27"
@@ -1226,7 +1610,7 @@
     "url": "https://seekingalpha.com/article/4503946-microsoft-rebounding-after-strong-q3-fy22-results-but-still-cheap",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T09:55:31-04:00",
     "date_et": "2022-04-27"
@@ -1242,7 +1626,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2022/04/27/options-traders-analysts-respond-to-microsofts-earnings",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T10:26:54-04:00",
     "date_et": "2022-04-27"
@@ -1258,7 +1642,7 @@
     "url": "https://www.zacks.com/stock/news/1909069/cloud-drives-microsoft-fiscal-q3-earnings-etfs-to-buy",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T11:33:04-04:00",
     "date_et": "2022-04-27"
@@ -1274,7 +1658,7 @@
     "url": "https://stockmarket.com/featured/best-cloud-computing-stocks-to-buy-right-now-3-to-know-2022-04-27",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T12:30:00-04:00",
     "date_et": "2022-04-27"
@@ -1290,7 +1674,7 @@
     "url": "https://www.fool.com/investing/2022/04/27/why-microsoft-stock-popped-today/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T12:33:23-04:00",
     "date_et": "2022-04-27"
@@ -1306,7 +1690,7 @@
     "url": "https://www.zacks.com/stock/news/1909350/microsoft-s-msft-q3-earnings-revenues-surpass-estimates",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T13:48:20-04:00",
     "date_et": "2022-04-27"
@@ -1322,7 +1706,7 @@
     "url": "https://investorplace.com/hypergrowthinvesting/2022/04/tech-stocks-are-key-to-win-big-in-the-bear-market/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T14:07:51-04:00",
     "date_et": "2022-04-27"
@@ -1338,7 +1722,7 @@
     "url": "https://seekingalpha.com/article/4504133-what-is-behind-the-greatest-deal-in-video-game-history",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T14:55:38-04:00",
     "date_et": "2022-04-27"
@@ -1354,7 +1738,7 @@
     "url": "https://www.marketwatch.com/story/microsoft-stock-heads-toward-best-day-in-two-years-as-earnings-show-absolute-resolute-confidence-11651086725",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T15:12:00-04:00",
     "date_et": "2022-04-27"
@@ -1370,7 +1754,7 @@
     "url": "https://www.kiplinger.com/investing/stocks/604609/stock-market-today-042722",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T16:24:53-04:00",
     "date_et": "2022-04-27"
@@ -1386,7 +1770,7 @@
     "url": "https://www.zacks.com/commentary/1909525/looking-to-snap-downtrend-can-amazon-deliver-results-in-q1",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T18:19:07-04:00",
     "date_et": "2022-04-27"
@@ -1402,7 +1786,7 @@
     "url": "https://www.cnbc.com/2022/04/27/cramer-debuts-new-stock-grading-system-evaluates-6-major-companies.html",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-27T18:42:35-04:00",
     "date_et": "2022-04-27"
@@ -1418,7 +1802,7 @@
     "url": "https://seekingalpha.com/article/4504407-microsoft-stock-contrarian-pick-for-high-inflation-environment",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-28T05:51:16-04:00",
     "date_et": "2022-04-28"
@@ -1434,7 +1818,7 @@
     "url": "https://investorplace.com/hypergrowthinvesting/2022/04/this-new-type-of-battery-could-change-the-world/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-28T09:25:16-04:00",
     "date_et": "2022-04-28"
@@ -1450,7 +1834,7 @@
     "url": "https://www.businesswire.com/news/home/20220428005998/en/Activision-Blizzard-Stockholders-Approve-Proposed-Microsoft-Transaction/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-28T12:35:00-04:00",
     "date_et": "2022-04-28"
@@ -1466,7 +1850,7 @@
     "url": "https://www.geekwire.com/2022/activision-blizzard-shareholders-approve-68-7b-deal-with-microsoft/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-28T13:35:36-04:00",
     "date_et": "2022-04-28"
@@ -1482,7 +1866,7 @@
     "url": "https://investorplace.com/2022/04/msft-stock-microsoft-is-a-long-term-winner-after-earnings-beat/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-28T13:41:30-04:00",
     "date_et": "2022-04-28"
@@ -1498,7 +1882,7 @@
     "url": "https://www.cnet.com/tech/gaming/microsoft-is-one-step-closer-to-owning-activision-blizzard-after-shareholder-approval-vote/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-28T14:52:32-04:00",
     "date_et": "2022-04-28"
@@ -1514,7 +1898,7 @@
     "url": "https://www.foxbusiness.com/markets/activision-blizzard-microsoft-shareholders-acquisition",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-28T15:03:30-04:00",
     "date_et": "2022-04-28"
@@ -1530,7 +1914,7 @@
     "url": "https://www.pymnts.com/acquisitions/2022/fears-mount-about-microsoft-activision-deal-being-finalized/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-28T16:55:21-04:00",
     "date_et": "2022-04-28"
@@ -1546,7 +1930,7 @@
     "url": "https://www.fool.com/investing/2022/04/29/is-microsoft-stock-a-buy-now/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-29T07:15:00-04:00",
     "date_et": "2022-04-29"
@@ -1562,7 +1946,7 @@
     "url": "https://seekingalpha.com/article/4504754-microsoft-stock-buy-sell-hold-after-recent-earnings",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-29T08:35:00-04:00",
     "date_et": "2022-04-29"
@@ -1578,7 +1962,7 @@
     "url": "https://techcrunch.com/2022/04/29/amazon-still-undisputed-king-of-public-cloud-but-microsoft-is-creeping-closer/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-29T10:02:18-04:00",
     "date_et": "2022-04-29"
@@ -1594,7 +1978,7 @@
     "url": "https://techxplore.com/news/2022-04-wall-street-microsoft-activision.html",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-29T11:09:28-04:00",
     "date_et": "2022-04-29"
@@ -1610,7 +1994,7 @@
     "url": "https://www.gurufocus.com/news/1699463/a-trio-of-stocks-beating-the-sp-500",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-29T12:29:33-04:00",
     "date_et": "2022-04-29"
@@ -1626,7 +2010,7 @@
     "url": "https://www.zacks.com/commentary/1911968/these-2-giants-have-a-bullish-catalyst-moving-forward",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-29T12:48:17-04:00",
     "date_et": "2022-04-29"
@@ -1642,7 +2026,7 @@
     "url": "https://investorplace.com/2022/04/plowing-through-earnings-season-with-a-bullish-outlook/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-29T16:37:06-04:00",
     "date_et": "2022-04-29"
@@ -1658,7 +2042,7 @@
     "url": "https://investorplace.com/2022/04/microsoft-beats-estimates-propelling-tech-higher/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-29T16:48:46-04:00",
     "date_et": "2022-04-29"
@@ -1674,7 +2058,7 @@
     "url": "https://www.marketwatch.com/story/faang-stocks-plus-microsoft-lost-1-4-trillion-in-market-value-during-april-11651270575",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-29T18:16:00-04:00",
     "date_et": "2022-04-29"
@@ -1690,7 +2074,7 @@
     "url": "https://www.fool.com/investing/2022/04/29/3-best-big-tech-stocks-to-buy-now/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-29T18:45:00-04:00",
     "date_et": "2022-04-29"
@@ -1706,7 +2090,7 @@
     "url": "https://www.zacks.com/commentary/1912294/making-sense-of-tech-sector-earnings-after-a-big-week-of-results",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-29T18:49:09-04:00",
     "date_et": "2022-04-29"
@@ -1722,7 +2106,7 @@
     "url": "https://www.fool.com/investing/2022/04/30/5-stocks-that-keep-beating-the-sp-500/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-30T06:00:00-04:00",
     "date_et": "2022-04-30"
@@ -1738,7 +2122,7 @@
     "url": "https://www.fool.com/investing/2022/04/30/better-buy-microsoft-stock-or-every-nasdaq-stock/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-30T07:26:00-04:00",
     "date_et": "2022-04-30"
@@ -1754,7 +2138,7 @@
     "url": "https://investorplace.com/hypergrowthinvesting/2022/04/an-incredible-stock-market-money-making-opportunity-is-fast-approaching/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-30T07:30:40-04:00",
     "date_et": "2022-04-30"
@@ -1770,7 +2154,7 @@
     "url": "https://www.fool.com/investing/2022/04/30/how-the-cloud-is-driving-microsoft-stock-higher/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-04-30T08:36:00-04:00",
     "date_et": "2022-04-30"
@@ -1786,7 +2170,7 @@
     "url": "https://investorplace.com/2022/05/msft-stock-is-microsoft-a-buy-after-its-q3-earnings-beat/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-01T06:00:05-04:00",
     "date_et": "2022-05-01"
@@ -1802,7 +2186,7 @@
     "url": "https://www.fool.com/investing/2022/05/01/better-buy-microsoft-vs-alphabet/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-01T08:05:00-04:00",
     "date_et": "2022-05-01"
@@ -1818,7 +2202,7 @@
     "url": "https://seekingalpha.com/article/4505342-microsoft-20-percent-off-highs-but-still-not-a-bargain",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-01T09:00:00-04:00",
     "date_et": "2022-05-01"
@@ -1834,7 +2218,7 @@
     "url": "https://www.cnbc.com/2022/05/01/wall-street-analysts-are-bullish-on-alphabet-microsoft.html",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-01T09:11:13-04:00",
     "date_et": "2022-05-01"
@@ -1850,7 +2234,7 @@
     "url": "https://www.fool.com/investing/2022/05/02/what-investors-missed-in-microsofts-latest-call-wi/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-02T10:00:00-04:00",
     "date_et": "2022-05-02"
@@ -1866,7 +2250,7 @@
     "url": "https://www.zacks.com/stock/news/1913231/investors-heavily-search-microsoft-corporation-msft-here-is-what-you-need-to-know",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-02T10:32:16-04:00",
     "date_et": "2022-05-02"
@@ -1882,7 +2266,7 @@
     "url": "https://www.zacks.com/stock/news/1913500/amd-s-q1-earnings-semi-custom-epyc-demand-to-aid-growth",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-02T12:02:07-04:00",
     "date_et": "2022-05-02"
@@ -1898,7 +2282,7 @@
     "url": "https://www.prnewswire.com/news-releases/microsoft-announces-general-availability-of-microsoft-defender-for-business-designed-to-boost-small-and-medium-business-smb-security-301537499.html",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-02T14:00:00-04:00",
     "date_et": "2022-05-02"
@@ -1914,7 +2298,7 @@
     "url": "https://www.businessinsider.com/linkedin-ceo-how-to-evaluate-company-cultures-values-2022-5",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-02T17:16:03-04:00",
     "date_et": "2022-05-02"
@@ -1930,7 +2314,7 @@
     "url": "https://seekingalpha.com/article/4505946-azure-offers-microsoft-a-generational-opportunity",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-02T19:05:59-04:00",
     "date_et": "2022-05-02"
@@ -1946,7 +2330,7 @@
     "url": "https://seekingalpha.com/article/4506007-is-microsoft-good-dividend-stock",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-03T09:30:00-04:00",
     "date_et": "2022-05-03"
@@ -1962,7 +2346,7 @@
     "url": "https://investorplace.com/2022/05/is-msft-stock-worth-buying-after-surging-higher/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-03T14:03:52-04:00",
     "date_et": "2022-05-03"
@@ -1978,7 +2362,7 @@
     "url": "https://pulse2.com/microsoft-msft-and-apple-aapl-are-the-top-picks-in-tech-says-analyst/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-03T14:19:04-04:00",
     "date_et": "2022-05-03"
@@ -1994,7 +2378,7 @@
     "url": "https://www.gurufocus.com/news/1702208/why-esg-investing-doesnt-actually-work",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-03T18:18:57-04:00",
     "date_et": "2022-05-03"
@@ -2010,7 +2394,7 @@
     "url": "https://www.huffpost.com/entry/linkedin-settles-pay-discrimination_n_6271bb24e4b0cca6755b69a5",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-03T19:36:42-04:00",
     "date_et": "2022-05-03"
@@ -2026,7 +2410,7 @@
     "url": "https://investorplace.com/2022/05/spy-stock-can-repeat-its-march-performance-this-month/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-04T10:05:27-04:00",
     "date_et": "2022-05-04"
@@ -2042,7 +2426,7 @@
     "url": "https://techcrunch.com/2022/05/04/xbox-mobile-app-stories-sharing-game-clips-screenshots/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-04T12:23:12-04:00",
     "date_et": "2022-05-04"
@@ -2058,7 +2442,7 @@
     "url": "https://www.zacks.com/stock/news/1915847/amd-beats-on-q1-earnings-revenues-provides-solid-22-view",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-04T14:17:09-04:00",
     "date_et": "2022-05-04"
@@ -2074,7 +2458,7 @@
     "url": "https://www.cnet.com/news/social-media/linkedin-agrees-to-1-8m-settlement-for-allegedly-paying-women-less-than-men/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-04T14:25:39-04:00",
     "date_et": "2022-05-04"
@@ -2090,7 +2474,7 @@
     "url": "https://www.benzinga.com/markets/cryptocurrency/22/05/27002384/whats-going-on-with-microsoft-shares-today",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-04T15:49:05-04:00",
     "date_et": "2022-05-04"
@@ -2106,7 +2490,7 @@
     "url": "https://www.businessinsider.com/nyc-funds-say-activision-ceo-rushed-microsoft-deal-escape-scandals-2022-5",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-05T02:17:12-04:00",
     "date_et": "2022-05-05"
@@ -2122,7 +2506,7 @@
     "url": "https://www.cnet.com/tech/services-and-software/apple-google-microsoft-back-fido-tech-to-dump-passwords-on-websites-and-apps/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-05T09:48:15-04:00",
     "date_et": "2022-05-05"
@@ -2138,7 +2522,7 @@
     "url": "https://www.pymnts.com/authentication/2022/passwordless-sign-ins-focus-of-joint-initiative-by-apple-google-microsoft/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-05T10:16:26-04:00",
     "date_et": "2022-05-05"
@@ -2154,7 +2538,7 @@
     "url": "https://techcrunch.com/2022/05/05/apple-google-microsoft-passwordless-logins/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-05T10:18:45-04:00",
     "date_et": "2022-05-05"
@@ -2170,7 +2554,7 @@
     "url": "https://www.benzinga.com/trading-ideas/movers/22/05/27026269/why-microsoft-shares-are-diving",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-05T11:59:09-04:00",
     "date_et": "2022-05-05"
@@ -2186,7 +2570,7 @@
     "url": "https://investorplace.com/2022/05/aapl-goog-msft-amzn-tsla-why-are-stocks-down-today/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-05T12:17:56-04:00",
     "date_et": "2022-05-05"
@@ -2202,7 +2586,7 @@
     "url": "https://www.forbes.com/sites/bradadgate/2022/05/05/microsoft-and-sony-are-looking-at-ads-on-free-to-play-video-game/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-05T14:08:14-04:00",
     "date_et": "2022-05-05"
@@ -2218,7 +2602,7 @@
     "url": "https://www.geekwire.com/2022/microsoft-and-epic-partner-to-put-fortnite-on-xbox-cloud-gaming-in-surprising-collaboration/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-05T15:42:56-04:00",
     "date_et": "2022-05-05"
@@ -2234,7 +2618,7 @@
     "url": "https://www.zacks.com/commentary/1917199/3-reasons-investors-shouldn-t-lose-sleep-over-microsoft-s-pullback",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-05T18:48:34-04:00",
     "date_et": "2022-05-05"
@@ -2250,7 +2634,7 @@
     "url": "https://www.zacks.com/stock/news/1917235/negative-sentiment-kills-market-indices-dow-1063-points",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-05T19:34:38-04:00",
     "date_et": "2022-05-05"
@@ -2266,7 +2650,7 @@
     "url": "https://www.fool.com/investing/2022/05/06/mega-caps-struggle-becky-quick-on-berkshire-hathaw/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-06T06:31:50-04:00",
     "date_et": "2022-05-06"
@@ -2282,7 +2666,7 @@
     "url": "https://www.fool.com/investing/2022/05/06/tech-sell-off-semiconductor-growth-stock-buy-hold/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-06T07:10:00-04:00",
     "date_et": "2022-05-06"
@@ -2298,7 +2682,7 @@
     "url": "https://www.zacks.com/stock/news/1917609/4-software-stocks-poised-to-top-estimates-this-earnings-season",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-06T09:03:06-04:00",
     "date_et": "2022-05-06"
@@ -2314,7 +2698,7 @@
     "url": "https://www.fool.com/investing/2022/05/06/3-top-metaverse-stocks-to-buy-in-may/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-06T15:15:00-04:00",
     "date_et": "2022-05-06"
@@ -2330,7 +2714,7 @@
     "url": "https://investorplace.com/smartmoney/2022/05/the-money-making-opportunity-of-the-century-2/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-06T16:44:36-04:00",
     "date_et": "2022-05-06"
@@ -2346,7 +2730,7 @@
     "url": "https://pulse2.com/microsoft-fortnite-comes-to-xbox-cloud-gaming/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-07T03:01:50-04:00",
     "date_et": "2022-05-07"
@@ -2362,7 +2746,7 @@
     "url": "https://www.fool.com/investing/2022/05/07/why-a-successful-microsoft-is-good-for-all-investo/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-07T06:00:00-04:00",
     "date_et": "2022-05-07"
@@ -2378,7 +2762,7 @@
     "url": "https://www.cnbc.com/2022/05/07/in-microsofts-activision-deal-a-future-world-is-at-stake.html",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-07T10:18:17-04:00",
     "date_et": "2022-05-07"
@@ -2394,7 +2778,7 @@
     "url": "https://www.fool.com/investing/2022/05/09/3-dividend-paying-tech-stocks-to-buy-in-may/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-09T07:32:00-04:00",
     "date_et": "2022-05-09"
@@ -2410,7 +2794,7 @@
     "url": "https://www.cnbc.com/2022/05/09/microsoft-launches-security-experts-services-boosting-security-spend.html",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-09T09:00:01-04:00",
     "date_et": "2022-05-09"
@@ -2426,7 +2810,7 @@
     "url": "https://www.businesswire.com/news/home/20220509005209/en/Open-Systems%E2%80%99-Co-innovation-with-Microsoft-Exemplifies-the-Power-of-This-Ecosystem-to-Transform-Security/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-09T09:30:00-04:00",
     "date_et": "2022-05-09"
@@ -2442,7 +2826,7 @@
     "url": "https://www.geekwire.com/2022/microsoft-aims-to-boost-growing-cybersecurity-business-with-new-managed-services/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-09T13:53:21-04:00",
     "date_et": "2022-05-09"
@@ -2458,7 +2842,7 @@
     "url": "https://investorplace.com/2022/05/msft-stock-the-cloud-is-yet-another-reason-to-buy-microsoft-shares/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-09T15:34:10-04:00",
     "date_et": "2022-05-09"
@@ -2474,7 +2858,7 @@
     "url": "https://www.cnbc.com/2022/05/09/tech-giants-lost-over-1-trillion-in-value-in-last-three-trading-days.html",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-09T16:50:43-04:00",
     "date_et": "2022-05-09"
@@ -2490,7 +2874,7 @@
     "url": "https://pulse2.com/avaya-avya-expands-strategic-cloud-partnership-with-microsoft-msft/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-09T18:53:26-04:00",
     "date_et": "2022-05-09"
@@ -2506,7 +2890,7 @@
     "url": "https://www.zacks.com/commentary/1921428/3-tech-stocks-investors-shouldn-t-lose-sleep-over",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-09T19:33:34-04:00",
     "date_et": "2022-05-09"
@@ -2522,7 +2906,7 @@
     "url": "https://www.reuters.com/article/microsoft-abortion/microsoft-to-help-cover-u-s-employees-travel-costs-for-abortion-idUSKCN2MW01S",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-09T20:50:00-04:00",
     "date_et": "2022-05-09"
@@ -2538,7 +2922,7 @@
     "url": "https://www.fool.com/investing/2022/05/10/market-sell-off-4-stocks-with-attractive-growth-an/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-10T10:00:00-04:00",
     "date_et": "2022-05-10"
@@ -2554,7 +2938,7 @@
     "url": "https://247wallst.com/technology-3/2022/05/10/5-dividend-paying-tech-stocks-to-buy-now-as-the-market-free-falls/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-10T10:04:51-04:00",
     "date_et": "2022-05-10"
@@ -2570,7 +2954,7 @@
     "url": "https://www.zacks.com/commentary/1922177/stock-split-mania-nintendo-joins-the-party",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-10T15:48:06-04:00",
     "date_et": "2022-05-10"
@@ -2586,7 +2970,7 @@
     "url": "https://investorplace.com/2022/05/tech-stocks-googl-tsla-amzn-msft-look-to-rebound-after-monday-selloff/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-10T17:34:07-04:00",
     "date_et": "2022-05-10"
@@ -2602,7 +2986,7 @@
     "url": "https://investorplace.com/2022/05/3-gaming-stocks-to-buy-on-activision-blizzard-induced-dip/",
     "ticker": "MSFT",
     "event_date": "2022-04-26",
-    "window_start": "2022-04-19",
+    "window_start": "2022-04-12",
     "window_end": "2022-05-10",
     "publishedDateET": "2022-05-10T18:19:56-04:00",
     "date_et": "2022-05-10"

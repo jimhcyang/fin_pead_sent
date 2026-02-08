@@ -1,6 +1,230 @@
 [
   {
     "symbol": "ORCL",
+    "publishedDate": "2023-08-28 14:42:00",
+    "publisher": "Newsfile Corp",
+    "title": "TheDeep, LLC, an Artificial Intelligence (AI) Product Development Company Announcing Its First Major Product Release Called, Dr. Oracle",
+    "image": "https://images.financialmodelingprep.com/news/thedeep-llc-an-artificial-intelligence-ai-product-development-company-20230828.jpg",
+    "site": "newsfilecorp.com",
+    "text": "Middletown, Delaware--(Newsfile Corp. - August 28, 2023) - TheDeep, LLC is an artificial intelligence (AI) product development company that is announcing the release of its first major product called \"Dr. Oracle\" (https://www.DrOracle.ai) which is now live for use by the general public. Dr. Oracle To view an enhanced version of this graphic, please visit: https://images.newsfilecorp.com/files/8509/178528_e2c4a412f49a5b49_001full.jpg Dr. Oracle is the first ever medical AI designed to assist both researchers and medical professionals (medical students, residents, nurses, PAs, NPs, & physicians) in their field.",
+    "url": "https://www.newsfilecorp.com/release/178528/TheDeep-LLC-an-Artificial-Intelligence-AI-Product-Development-Company-Announcing-Its-First-Major-Product-Release-Called-Dr.-Oracle?utm_source=snapi",
+    "ticker": "ORCL",
+    "event_date": "2023-09-11",
+    "window_start": "2023-08-28",
+    "window_end": "2023-09-25",
+    "publishedDateET": "2023-08-28T14:42:00-04:00",
+    "date_et": "2023-08-28"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2023-08-28 11:17:24",
+    "publisher": "Zacks Investment Research",
+    "title": "Oracle (ORCL) Enables Royal Flying Doctor Service's Record",
+    "image": "https://images.financialmodelingprep.com/news/oracle-orcl-enables-royal-flying-doctor-services-record-20230828.jpg",
+    "site": "zacks.com",
+    "text": "Oracle (ORCL) enables the Royal Flying Doctor Service to unveil a fresh digital health record solution, leveraging the capabilities of Oracle Autonomous Database.",
+    "url": "https://www.zacks.com/stock/news/2141393/oracle-orcl-enables-royal-flying-doctor-service-s-record",
+    "ticker": "ORCL",
+    "event_date": "2023-09-11",
+    "window_start": "2023-08-28",
+    "window_end": "2023-09-25",
+    "publishedDateET": "2023-08-28T11:17:24-04:00",
+    "date_et": "2023-08-28"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2023-08-29 17:19:46",
+    "publisher": "The Motley Fool",
+    "title": "Why Oracle Stock Trounced the Market Today",
+    "image": "https://images.financialmodelingprep.com/news/why-oracle-stock-trounced-the-market-today-20230829.jpg",
+    "site": "fool.com",
+    "text": "An analyst upgraded his recommendation on the storied database software developer. He believes it has great potential as a play on the future of artificial intelligence (AI).",
+    "url": "https://www.fool.com/investing/2023/08/29/why-oracle-stock-trounced-the-market-today/",
+    "ticker": "ORCL",
+    "event_date": "2023-09-11",
+    "window_start": "2023-08-28",
+    "window_end": "2023-09-25",
+    "publishedDateET": "2023-08-29T17:19:46-04:00",
+    "date_et": "2023-08-29"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2023-08-29 13:55:53",
+    "publisher": "Investors Business Daily",
+    "title": "Oracle Stock Rising On Upgrade: AI Story Still Has Plenty Of Room To Play Out",
+    "image": "https://images.financialmodelingprep.com/news/oracle-stock-rising-on-upgrade-ai-story-still-has-plenty-of-20230829.jpg",
+    "site": "investors.com",
+    "text": "Oracle is the IBD Stock Of The Day as it was markedly higher following an upgrade from UBS that focused on the company's AI advantages.",
+    "url": "https://www.investors.com/research/ibd-stock-of-the-day/oracle-stock-rising-on-upgrade-ai-story-still-has-plenty-of-room-to-play-out/",
+    "ticker": "ORCL",
+    "event_date": "2023-09-11",
+    "window_start": "2023-08-28",
+    "window_end": "2023-09-25",
+    "publishedDateET": "2023-08-29T13:55:53-04:00",
+    "date_et": "2023-08-29"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2023-08-29 11:17:00",
+    "publisher": "Market Watch",
+    "title": "Oracle's stock wins an upgrade, as Wall Street may be underestimating its AI advantage",
+    "image": "https://images.financialmodelingprep.com/news/oracles-stock-wins-an-upgrade-as-wall-street-may-20230829.jpg",
+    "site": "marketwatch.com",
+    "text": "Oracle Corp.'s stock is already seen as an artificial-intelligence beneficiary, but UBS analyst Karl Keirstead thinks that Wall Street may be underestimating the company's opportunity there.",
+    "url": "https://www.marketwatch.com/story/oracles-stock-wins-an-upgrade-as-wall-street-may-be-underestimating-its-ai-advantage-402a21b0",
+    "ticker": "ORCL",
+    "event_date": "2023-09-11",
+    "window_start": "2023-08-28",
+    "window_end": "2023-09-25",
+    "publishedDateET": "2023-08-29T11:17:00-04:00",
+    "date_et": "2023-08-29"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2023-08-29 11:00:53",
+    "publisher": "Investors Business Daily",
+    "title": "Oracle Stock Rising On Upgrade: AI Story Still Has Plenty Of Room To Play Out",
+    "image": "https://images.financialmodelingprep.com/news/oracle-stock-rising-on-upgrade-ai-story-still-has-20230829.jpg",
+    "site": "investors.com",
+    "text": "Oracle stock opened trading Tuesday markedly higher following an upgrade from UBS that focused on the company's AI advantages.",
+    "url": "https://www.investors.com/news/technology/oracle-stock-rising-on-upgrade-ai-story-still-has-plenty-of-room-to-play-out/",
+    "ticker": "ORCL",
+    "event_date": "2023-09-11",
+    "window_start": "2023-08-28",
+    "window_end": "2023-09-25",
+    "publishedDateET": "2023-08-29T11:00:53-04:00",
+    "date_et": "2023-08-29"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2023-08-29 10:48:34",
+    "publisher": "Schaeffers Research",
+    "title": "Oracle Stock Upgraded on AI Tailwinds",
+    "image": "https://images.financialmodelingprep.com/news/oracle-stock-upgraded-on-ai-tailwinds-20230829.jpg",
+    "site": "schaeffersresearch.com",
+    "text": "Oracle Corp (NYSE:ORCL) is up 2.2% at $119.36 at last glance, after UBS upgraded the software stock to \"buy\" from \"neutral,\" with a price-target hike to $140 from $120.",
+    "url": "https://www.schaeffersresearch.com/content/news/2023/08/29/oracle-stock-upgraded-on-ai-tailwinds",
+    "ticker": "ORCL",
+    "event_date": "2023-09-11",
+    "window_start": "2023-08-28",
+    "window_end": "2023-09-25",
+    "publishedDateET": "2023-08-29T10:48:34-04:00",
+    "date_et": "2023-08-29"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2023-08-29 10:46:05",
+    "publisher": "Proactive Investors",
+    "title": "Oracle shares rise on UBS's bullish AI outlook; analysts upgrade to Buy",
+    "image": "https://images.financialmodelingprep.com/news/oracle-shares-rise-on-ubss-bullish-ai-outlook-analysts-20230829.jpg",
+    "site": "proactiveinvestors.com",
+    "text": "Oracle Corporation (NYSE:ORCL) shares rose on Tuesday after UBS analysts upgraded their rating on the stock to Buy, citing the software company's “underappreciated edge” with its GPU capacity. Analsyts wrote that they were “increasingly confident” about its GPU capacity as well as its OCI architecture, which will be enough to attract new customers and drive OCI usage, according to UBS.",
+    "url": "https://www.proactiveinvestors.com/companies/news/1024854?SNAPI",
+    "ticker": "ORCL",
+    "event_date": "2023-09-11",
+    "window_start": "2023-08-28",
+    "window_end": "2023-09-25",
+    "publishedDateET": "2023-08-29T10:46:05-04:00",
+    "date_et": "2023-08-29"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2023-08-29 10:17:35",
+    "publisher": "InvestorPlace",
+    "title": "ORCL Stock Alert: Can AI Hype Really Boost Oracle 20%?",
+    "image": "https://images.financialmodelingprep.com/news/orcl-stock-alert-can-ai-hype-really-boost-oracle-20230829.jpg",
+    "site": "investorplace.com",
+    "text": "Oracle (NYSE: ORCL ) stock is in the news Tuesday as UBS analyst Karl Keirstead makes a bull case for the information technology company's shares. Starting off this coverage of ORCL stock is a price target increase from $120 per share to $140 per share.",
+    "url": "https://investorplace.com/2023/08/orcl-stock-alert-can-ai-hype-really-boost-oracle-20/",
+    "ticker": "ORCL",
+    "event_date": "2023-09-11",
+    "window_start": "2023-08-28",
+    "window_end": "2023-09-25",
+    "publishedDateET": "2023-08-29T10:17:35-04:00",
+    "date_et": "2023-08-29"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2023-08-29 06:10:57",
+    "publisher": "InvestorPlace",
+    "title": "7 Stocks to Buy for the Rest of 2023",
+    "image": "https://images.financialmodelingprep.com/news/7-stocks-to-buy-for-the-rest-of-2023-20230829.jpg",
+    "site": "investorplace.com",
+    "text": "The NASDAQ index, which lost one-third of its value last year, has rebounded with vigor in the first half of 2023. It climbed a staggering 32% during the period, channeling the spirit of 1983 when the tech-heavy index shot up 37% in value.",
+    "url": "https://investorplace.com/2023/08/7-stocks-to-buy-for-the-rest-of-2023/",
+    "ticker": "ORCL",
+    "event_date": "2023-09-11",
+    "window_start": "2023-08-28",
+    "window_end": "2023-09-25",
+    "publishedDateET": "2023-08-29T06:10:57-04:00",
+    "date_et": "2023-08-29"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2023-08-30 18:05:03",
+    "publisher": "InvestorPlace",
+    "title": "3 AI Stocks That Every Forward-Thinking Investor Should Own Now",
+    "image": "https://images.financialmodelingprep.com/news/3-ai-stocks-that-every-forwardthinking-investor-should-own-20230830.jpg",
+    "site": "investorplace.com",
+    "text": "The future is artificial intelligence ( AI ) and any industry you name has AI working for it. Whether it is the autonomous driving industry, gaming industry, tech industry or robotics industry, AI is everywhere.",
+    "url": "https://investorplace.com/2023/08/3-ai-stocks-that-every-forward-thinking-investor-should-own-now/",
+    "ticker": "ORCL",
+    "event_date": "2023-09-11",
+    "window_start": "2023-08-28",
+    "window_end": "2023-09-25",
+    "publishedDateET": "2023-08-30T18:05:03-04:00",
+    "date_et": "2023-08-30"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2023-08-31 12:22:13",
+    "publisher": "MarketBeat",
+    "title": "5 Best Artificial Intelligence Penny Stocks on Fire",
+    "image": "https://images.financialmodelingprep.com/news/5-best-artificial-intelligence-penny-stocks-on-fire-20230831.jpg",
+    "site": "marketbeat.com",
+    "text": "While the concept of artificial intelligence has been around for decades, 2023 was indeed the breakout year and tipping point, making it accessible to anyone and everyone with internet access.",
+    "url": "https://www.marketbeat.com/originals/5-best-artificial-intelligence-penny-stocks-on-fire/?utm_source=snapi",
+    "ticker": "ORCL",
+    "event_date": "2023-09-11",
+    "window_start": "2023-08-28",
+    "window_end": "2023-09-25",
+    "publishedDateET": "2023-08-31T12:22:13-04:00",
+    "date_et": "2023-08-31"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2023-08-31 10:40:31",
+    "publisher": "MarketBeat",
+    "title": "Oracle Corp.'s 100% Rally: Refueled",
+    "image": "https://images.financialmodelingprep.com/news/oracle-corps-100-rally-refueled-20230831.jpg",
+    "site": "marketbeat.com",
+    "text": "After bottoming out from the post-pandemic sell-off last October, momentum has only swung one way, and it's up 100%. Along the way, the company has tagged numerous all-time highs, and while shares have been noticeably cool throughout the summer, they're ready to rocket once again.",
+    "url": "https://www.marketbeat.com/originals/oracles-100-rally-refueled/?utm_source=snapi",
+    "ticker": "ORCL",
+    "event_date": "2023-09-11",
+    "window_start": "2023-08-28",
+    "window_end": "2023-09-25",
+    "publishedDateET": "2023-08-31T10:40:31-04:00",
+    "date_et": "2023-08-31"
+  },
+  {
+    "symbol": "ORCL",
+    "publishedDate": "2023-08-31 10:32:06",
+    "publisher": "Zacks Investment Research",
+    "title": "Investors Heavily Search Oracle Corporation (ORCL): Here is What You Need to Know",
+    "image": "https://images.financialmodelingprep.com/news/investors-heavily-search-oracle-corporation-orcl-here-is-what-you-20230831.jpg",
+    "site": "zacks.com",
+    "text": "Oracle (ORCL) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+    "url": "https://www.zacks.com/stock/news/2142876/investors-heavily-search-oracle-corporation-orcl-here-is-what-you-need-to-know",
+    "ticker": "ORCL",
+    "event_date": "2023-09-11",
+    "window_start": "2023-08-28",
+    "window_end": "2023-09-25",
+    "publishedDateET": "2023-08-31T10:32:06-04:00",
+    "date_et": "2023-08-31"
+  },
+  {
+    "symbol": "ORCL",
     "publishedDate": "2023-09-05 16:38:20",
     "publisher": "The Motley Fool",
     "title": "Why Oracle Stock Blasted Higher on Tuesday",
@@ -10,7 +234,7 @@
     "url": "https://www.fool.com/investing/2023/09/05/why-oracle-stock-blasted-higher-on-tuesday/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-05T16:38:20-04:00",
     "date_et": "2023-09-05"
@@ -26,7 +250,7 @@
     "url": "https://www.investors.com/news/technology/oracle-stock-rising-after-ai-driven-upgrade/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-05T13:25:36-04:00",
     "date_et": "2023-09-05"
@@ -42,7 +266,7 @@
     "url": "https://www.barrons.com/articles/oracle-stock-ai-cloud-upgrade-a108f24",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-05T11:42:00-04:00",
     "date_et": "2023-09-05"
@@ -58,7 +282,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2023/09/05/orcale-stock-upgraded-on-ai-tailwinds",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-05T09:23:25-04:00",
     "date_et": "2023-09-05"
@@ -74,7 +298,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-sets-the-date-for-its-first-quarter-fiscal-year-2024-earnings-announcement-301916525.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-05T08:00:00-04:00",
     "date_et": "2023-09-05"
@@ -90,7 +314,7 @@
     "url": "https://www.cnbc.com/2023/09/06/here-are-the-14-stocks-jim-cramer-is-watching-including-oracle-roku-and-southwest.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-06T09:35:48-04:00",
     "date_et": "2023-09-06"
@@ -106,7 +330,7 @@
     "url": "https://www.investors.com/research/earnings-preview/adobe-stock-already-at-years-highs-faces-earnings-test-oracle-lennar-also-on-earnings-calendar/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-07T14:37:45-04:00",
     "date_et": "2023-09-07"
@@ -122,7 +346,7 @@
     "url": "https://www.marketbeat.com/originals/this-is-how-to-get-the-best-exposure-to-ai-app-development/?utm_source=snapi",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-07T08:55:24-04:00",
     "date_et": "2023-09-07"
@@ -138,7 +362,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1025978?SNAPI",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-08T12:21:08-04:00",
     "date_et": "2023-09-08"
@@ -154,7 +378,7 @@
     "url": "https://247wallst.com/technology-3/2023/09/08/earnings-preview-oracle-2/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-08T10:08:40-04:00",
     "date_et": "2023-09-08"
@@ -170,7 +394,7 @@
     "url": "https://seekingalpha.com/article/4634465-oracle-corporation-orcl-q1-2024-earnings-call-transcript",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-11T19:48:09-04:00",
     "date_et": "2023-09-11"
@@ -186,7 +410,7 @@
     "url": "https://www.zacks.com/stock/news/2147436/dow-up-3-straight-sessions-nasdaq-leads-on-tesla-upgrade",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-11T19:32:32-04:00",
     "date_et": "2023-09-11"
@@ -202,7 +426,7 @@
     "url": "https://www.zacks.com/stock/news/2147479/oracle-orcl-q1-earnings-taking-a-look-at-key-metrics-versus-estimates",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-11T19:32:31-04:00",
     "date_et": "2023-09-11"
@@ -218,7 +442,7 @@
     "url": "https://www.zacks.com/stock/news/2147410/oracle-orcl-q1-earnings-top-estimates",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-11T18:47:22-04:00",
     "date_et": "2023-09-11"
@@ -234,7 +458,7 @@
     "url": "https://invezz.com/news/2023/09/11/oracle-q1-earnings-jefferies-brent-thill/?utm_source=snapi",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-11T18:06:30-04:00",
     "date_et": "2023-09-11"
@@ -250,7 +474,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1026140?SNAPI",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-11T16:54:54-04:00",
     "date_et": "2023-09-11"
@@ -266,7 +490,7 @@
     "url": "https://www.investors.com/news/technology/oracle-stock-earnings-report-q1-2024/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-11T16:41:25-04:00",
     "date_et": "2023-09-11"
@@ -282,7 +506,7 @@
     "url": "https://www.marketwatch.com/story/oracle-stock-falls-after-in-line-revenue-report-649f79b3",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-11T16:27:00-04:00",
     "date_et": "2023-09-11"
@@ -298,7 +522,7 @@
     "url": "https://www.cnbc.com/2023/09/11/oracle-orcl-q1-earnings-report-2024.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-11T16:25:09-04:00",
     "date_et": "2023-09-11"
@@ -314,7 +538,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-announces-fiscal-2024-first-quarter-financial-results-301923746.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-11T16:05:00-04:00",
     "date_et": "2023-09-11"
@@ -330,7 +554,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1026124?SNAPI",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-11T13:06:03-04:00",
     "date_et": "2023-09-11"
@@ -346,7 +570,7 @@
     "url": "https://www.zacks.com/stock/news/2147259/market-eagerly-awaits-inflation-numbers",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-11T12:01:22-04:00",
     "date_et": "2023-09-11"
@@ -362,7 +586,7 @@
     "url": "https://www.zacks.com/stock/news/2147244/gearing-up-for-a-busy-trading-week",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-11T11:16:06-04:00",
     "date_et": "2023-09-11"
@@ -378,7 +602,7 @@
     "url": "https://www.schaeffersresearch.com/content/analysis/2023/09/11/oracle-stock-set-to-open-at-record-high-before-earnings",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-11T09:16:40-04:00",
     "date_et": "2023-09-11"
@@ -394,7 +618,7 @@
     "url": "https://www.zacks.com/stock/news/2148022/markets-cool-on-apple-15-news-cpi-tomorrow",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T19:36:31-04:00",
     "date_et": "2023-09-12"
@@ -410,7 +634,7 @@
     "url": "https://www.investors.com/market-trend/the-big-picture/stock-market-fades-late-ahead-of-key-inflation-report-software-stocks-slide-oracle-earnings/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T17:48:09-04:00",
     "date_et": "2023-09-12"
@@ -426,7 +650,7 @@
     "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-oracle-apple-nasdaq-tech-iphone-sp500-investors-2023-9",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T16:17:51-04:00",
     "date_et": "2023-09-12"
@@ -442,7 +666,7 @@
     "url": "https://www.forbes.com/sites/dereksaul/2023/09/12/larry-ellisons-net-worth-nearly-20-billion-as-oracle-stock-has-worst-day-in-decades/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T16:07:34-04:00",
     "date_et": "2023-09-12"
@@ -458,7 +682,7 @@
     "url": "https://www.zacks.com/stock/news/2147971/oracle-orcl-q1-earnings-beat-estimates-revenues-rise-y-y",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T13:35:20-04:00",
     "date_et": "2023-09-12"
@@ -474,7 +698,7 @@
     "url": "https://investorplace.com/2023/09/5-investors-betting-big-on-oracle-orcl-stock/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T13:35:10-04:00",
     "date_et": "2023-09-12"
@@ -490,7 +714,7 @@
     "url": "https://www.cnbc.com/2023/09/12/oracle-stock-poised-for-steepest-drop-since-2002-on-weak-forecast-.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T12:49:51-04:00",
     "date_et": "2023-09-12"
@@ -506,7 +730,7 @@
     "url": "https://www.investopedia.com/oracle-sales-and-guidance-miss-estimates-as-demand-declines-7968463",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T12:45:39-04:00",
     "date_et": "2023-09-12"
@@ -522,7 +746,7 @@
     "url": "https://www.forbes.com/sites/dereksaul/2023/09/12/larry-ellisons-net-worth-dips-17-billion-after-oracle-earnings-underwhelm/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T12:32:43-04:00",
     "date_et": "2023-09-12"
@@ -538,7 +762,7 @@
     "url": "https://www.marketwatch.com/story/oracles-big-stock-selloff-acts-as-a-big-drag-on-both-software-and-cloud-etfs-15a8aa52",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T12:07:00-04:00",
     "date_et": "2023-09-12"
@@ -554,7 +778,7 @@
     "url": "https://www.zacks.com/stock/news/2147849/oracle-sinks-post-lackluster-q1-earnings-etfs-in-focus",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T12:05:17-04:00",
     "date_et": "2023-09-12"
@@ -570,7 +794,7 @@
     "url": "https://www.fool.com/investing/2023/09/12/why-oracle-stock-took-a-dive-today/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T12:04:06-04:00",
     "date_et": "2023-09-12"
@@ -586,7 +810,7 @@
     "url": "https://seekingalpha.com/article/4634631-wall-street-lunch-oil-demand-peak-before-2030",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T11:35:00-04:00",
     "date_et": "2023-09-12"
@@ -602,7 +826,7 @@
     "url": "https://www.marketwatch.com/story/oracle-stock-dives-toward-worst-day-in-2-decades-after-disappointing-earnings-report-d85c72",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T10:23:00-04:00",
     "date_et": "2023-09-12"
@@ -618,7 +842,7 @@
     "url": "https://www.marketwatch.com/story/u-s-stocks-open-lower-as-tech-shares-retreat-after-oracle-earnings-investors-await-apple-event-inflation-data-838f6099",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T09:31:00-04:00",
     "date_et": "2023-09-12"
@@ -634,7 +858,7 @@
     "url": "https://www.marketwatch.com/story/oracles-stock-dives-toward-worst-post-earnings-performance-in-10-years-2d3ecd5a",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T08:48:00-04:00",
     "date_et": "2023-09-12"
@@ -650,7 +874,7 @@
     "url": "https://www.marketbeat.com/originals/buy-the-dip-in-oracle-5-reasons-why-its-a-good-idea/?utm_source=snapi",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T08:20:06-04:00",
     "date_et": "2023-09-12"
@@ -666,7 +890,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-helps-independent-restaurants-thrive-with-comprehensive-affordable-restaurant-management-platform-301923880.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T07:45:00-04:00",
     "date_et": "2023-09-12"
@@ -682,7 +906,7 @@
     "url": "https://www.marketwatch.com/story/oracle-stock-slumps-apple-shares-steady-and-other-stocks-on-the-move-3dc58bb4",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T05:26:00-04:00",
     "date_et": "2023-09-12"
@@ -698,7 +922,7 @@
     "url": "https://www.barrons.com/articles/oracle-stock-buy-ai-earnings-results-4f7616e8",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-12T04:55:00-04:00",
     "date_et": "2023-09-12"
@@ -714,7 +938,7 @@
     "url": "https://www.zacks.com/stock/news/2148289/oracle-orcl-supports-restaurants-with-management-platform",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-13T11:17:17-04:00",
     "date_et": "2023-09-13"
@@ -730,7 +954,7 @@
     "url": "https://www.prnewswire.com/news-releases/batelco-expedites-its-cloud-first-journey-with-oracle-301925497.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-13T08:00:00-04:00",
     "date_et": "2023-09-13"
@@ -746,7 +970,7 @@
     "url": "https://www.cnbc.com/2023/09/14/oracle-founder-larry-ellison-makes-first-trip-to-microsoft-campus.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-14T18:01:54-04:00",
     "date_et": "2023-09-14"
@@ -762,7 +986,7 @@
     "url": "https://techcrunch.com/2023/09/14/oracle-brings-its-database-infrastructure-to-microsoft-azure/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-14T16:56:19-04:00",
     "date_et": "2023-09-14"
@@ -778,7 +1002,7 @@
     "url": "https://www.marketwatch.com/story/rivals-microsoft-oracle-expand-their-cloud-partnership-d9a04ccf",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-14T16:37:00-04:00",
     "date_et": "2023-09-14"
@@ -794,7 +1018,7 @@
     "url": "https://www.geekwire.com/2023/larry-ellison-makes-first-ever-visit-to-redmond-to-announce-oracle-databases-in-microsoft-azure-cloud/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-14T16:33:45-04:00",
     "date_et": "2023-09-14"
@@ -810,7 +1034,7 @@
     "url": "https://www.prnewswire.com/news-releases/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oracle-cloud-infrastructure-in-microsoft-azure-301927274.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-14T16:00:00-04:00",
     "date_et": "2023-09-14"
@@ -826,7 +1050,7 @@
     "url": "https://investorplace.com/2023/09/the-7-most-undervalued-blue-chip-stocks-to-buy-in-september-2023/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-14T14:48:26-04:00",
     "date_et": "2023-09-14"
@@ -842,7 +1066,7 @@
     "url": "https://investorplace.com/2023/09/undervalued-growth-stocks-to-buy/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-14T13:14:44-04:00",
     "date_et": "2023-09-14"
@@ -858,7 +1082,7 @@
     "url": "https://www.fool.com/investing/2023/09/14/where-will-oracle-stock-be-in-1-year/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-14T09:10:30-04:00",
     "date_et": "2023-09-14"
@@ -874,7 +1098,7 @@
     "url": "https://www.prnewswire.com/news-releases/rehab-hospital-of-the-pacific-to-enhance-patient-care-with-oracle-healths-ehr-301927851.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-14T09:04:00-04:00",
     "date_et": "2023-09-14"
@@ -890,7 +1114,7 @@
     "url": "https://www.fool.com/investing/2023/09/14/2-cloud-stocks-betting-big-on-artificial-intellige/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-14T06:45:00-04:00",
     "date_et": "2023-09-14"
@@ -906,7 +1130,7 @@
     "url": "https://www.zacks.com/commentary/2149767/previewing-the-q3-earnings-season",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-15T18:02:03-04:00",
     "date_et": "2023-09-15"
@@ -922,7 +1146,7 @@
     "url": "https://www.gurufocus.com/news/2086762/warren-buffets-unseen-bet",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-15T15:36:37-04:00",
     "date_et": "2023-09-15"
@@ -938,7 +1162,7 @@
     "url": "https://www.zacks.com/stock/news/2149679/oracle-s-orcl-ehr-to-enhance-rehab-hospital-s-patient-care",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-15T12:46:48-04:00",
     "date_et": "2023-09-15"
@@ -954,7 +1178,7 @@
     "url": "https://www.fool.com/investing/2023/09/15/this-ai-stocks-looks-dirt-cheap-is-it-a-bargain-or/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-15T07:00:00-04:00",
     "date_et": "2023-09-15"
@@ -970,7 +1194,7 @@
     "url": "https://www.fool.com/investing/2023/09/15/oracle-stock-fails-nvidia-boost-time-buy-dip/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-15T06:25:00-04:00",
     "date_et": "2023-09-15"
@@ -986,7 +1210,7 @@
     "url": "https://www.fool.com/investing/2023/09/17/better-tech-stock-oracle-vs-hp/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-17T09:15:00-04:00",
     "date_et": "2023-09-17"
@@ -1002,7 +1226,7 @@
     "url": "https://www.prnewswire.com/news-releases/non-profit-valeos-teams-with-oracle-to-advance-the-us-organ-transplant-industry-and-improve-patient-access-and-outcomes-301931137.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T19:30:00-04:00",
     "date_et": "2023-09-18"
@@ -1018,7 +1242,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-transforms-care-delivery-with-next-generation-millennium-ehr-and-generative-ai-capabilities-301929748.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T19:30:00-04:00",
     "date_et": "2023-09-18"
@@ -1034,7 +1258,7 @@
     "url": "https://www.cnbc.com/2023/09/18/oracle-ceo-touts-demand-for-cloud-business-after-stock-tumbled-.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T19:24:55-04:00",
     "date_et": "2023-09-18"
@@ -1050,7 +1274,7 @@
     "url": "https://www.pymnts.com/news/banking/2023/oracle-adds-cash-and-liquidity-management-to-banking-cloud/?utm_source=snapi",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T15:38:25-04:00",
     "date_et": "2023-09-18"
@@ -1066,7 +1290,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-brings-generative-ai-capabilities-to-healthcare-301929747.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T08:18:00-04:00",
     "date_et": "2023-09-18"
@@ -1082,7 +1306,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-helps-healthcare-organizations-solve-financial-planning-and-supply-chain-challenges-301929746.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T08:17:00-04:00",
     "date_et": "2023-09-18"
@@ -1098,7 +1322,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-helps-healthcare-organizations-optimize-workforce-management-301929745.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T08:16:00-04:00",
     "date_et": "2023-09-18"
@@ -1114,7 +1338,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-transforms-payments-and-transaction-banking-in-the-cloud-301929744.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T08:15:00-04:00",
     "date_et": "2023-09-18"
@@ -1130,7 +1354,7 @@
     "url": "https://www.prnewswire.com/news-releases/loblaw-rings-up-oracle-cloud-infrastructure-to-modernize-its-it-infrastructure-301929743.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T08:14:00-04:00",
     "date_et": "2023-09-18"
@@ -1146,7 +1370,7 @@
     "url": "https://www.accesswire.com/viewarticle.aspx?id=784046&lang=en",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T08:13:00-04:00",
     "date_et": "2023-09-18"
@@ -1162,7 +1386,7 @@
     "url": "https://www.prnewswire.com/news-releases/red-bull-ford-powertrains-uses-oracle-cloud-infrastructure-to-build-hybrid-engine-from-the-ground-up-301929742.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T08:11:00-04:00",
     "date_et": "2023-09-18"
@@ -1178,7 +1402,7 @@
     "url": "https://www.prnewswire.com/news-releases/tenet-healthcare-streamlines-hr-and-payroll-processes-with-oracle-301929741.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T08:10:00-04:00",
     "date_et": "2023-09-18"
@@ -1194,7 +1418,7 @@
     "url": "https://www.prnewswire.com/news-releases/providence-boosts-enterprise-operations-with-oracle-fusion-cloud-applications-301929740.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T08:09:00-04:00",
     "date_et": "2023-09-18"
@@ -1210,7 +1434,7 @@
     "url": "https://www.prnewswire.com/news-releases/trueblue-automates-finance-and-hr-with-oracle-fusion-cloud-applications-301929739.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T08:08:00-04:00",
     "date_et": "2023-09-18"
@@ -1226,7 +1450,7 @@
     "url": "https://www.prnewswire.com/news-releases/twenty-nine-palms-band-of-mission-indians-establishes-foundations-for-future-generational-success-with-oracle-fusion-cloud-applications-301929738.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T08:06:00-04:00",
     "date_et": "2023-09-18"
@@ -1242,7 +1466,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-financial-analyst-meeting-to-be-held-september-21-2023-301929610.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T08:00:00-04:00",
     "date_et": "2023-09-18"
@@ -1258,7 +1482,7 @@
     "url": "https://www.prnewswire.com/news-releases/digital-realty-to-provide-seamless-access-to-oracle-eu-sovereign-cloud-301930031.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T08:00:00-04:00",
     "date_et": "2023-09-18"
@@ -1274,7 +1498,7 @@
     "url": "https://www.fool.com/investing/2023/09/18/is-it-too-late-to-buy-oracle-stock/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-18T07:00:00-04:00",
     "date_et": "2023-09-18"
@@ -1290,7 +1514,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-cloud-infrastructure-delivers-enterprise-generative-ai-service-301931170.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T19:33:00-04:00",
     "date_et": "2023-09-19"
@@ -1306,7 +1530,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-introduces-integrated-vector-database-to-augment-generative-ai-and-dramatically-increase-developer-productivity-301930959.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T19:32:00-04:00",
     "date_et": "2023-09-19"
@@ -1322,7 +1546,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-delivers-more-choices-for-ai-infrastructure-and-general-purpose-compute-301932342.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T19:31:00-04:00",
     "date_et": "2023-09-19"
@@ -1338,7 +1562,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-poised-to-revolutionize-network-and-data-security-301930955.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T19:30:00-04:00",
     "date_et": "2023-09-19"
@@ -1354,7 +1578,7 @@
     "url": "https://www.reuters.com/business/finance/oracle-says-it-is-open-banking-ready-cater-canadian-banks-2023-09-19/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T16:52:06-04:00",
     "date_et": "2023-09-19"
@@ -1370,7 +1594,7 @@
     "url": "https://investorplace.com/2023/09/3-tech-stocks-for-dividend-growth-investors/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T15:10:15-04:00",
     "date_et": "2023-09-19"
@@ -1386,7 +1610,7 @@
     "url": "https://investorplace.com/2023/09/analyst-downgrades-3-stocks-that-wall-street-is-having-second-thoughts-about/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T13:25:08-04:00",
     "date_et": "2023-09-19"
@@ -1402,7 +1626,7 @@
     "url": "https://www.zacks.com/stock/news/2152676/oracle-orcl-cloud-red-bull-team-up-to-build-hybrid-engine",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T12:47:20-04:00",
     "date_et": "2023-09-19"
@@ -1418,7 +1642,7 @@
     "url": "https://www.marketwatch.com/story/most-ukrainian-companies-are-fully-operational-after-18-months-of-war-kyiv-based-american-chamber-of-commerce-98f17821",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T11:51:00-04:00",
     "date_et": "2023-09-19"
@@ -1434,7 +1658,7 @@
     "url": "https://www.pymnts.com/news/b2b-payments/2023/mastercard-and-oracle-partner-to-automate-b2b-payments/?utm_source=snapi",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T11:26:17-04:00",
     "date_et": "2023-09-19"
@@ -1450,7 +1674,7 @@
     "url": "https://www.zacks.com/stock/news/2152558/oracle-orcl-brings-generative-ai-capabilities-to-healthcare",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T11:17:08-04:00",
     "date_et": "2023-09-19"
@@ -1466,7 +1690,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-releases-java-21-and-extends-support-roadmap-301930953.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T09:30:00-04:00",
     "date_et": "2023-09-19"
@@ -1482,7 +1706,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-introduces-generative-ai-capabilities-to-help-organizations-improve-customer-service-301930947.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T08:05:00-04:00",
     "date_et": "2023-09-19"
@@ -1498,7 +1722,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-adds-artificial-intelligence-to-marketing-sales-and-service-applications-to-help-customers-grow-revenue-301930946.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T08:04:00-04:00",
     "date_et": "2023-09-19"
@@ -1514,7 +1738,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-enables-marketing-and-sales-teams-to-accelerate-revenue-with-guided-campaigns-301930942.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T08:03:00-04:00",
     "date_et": "2023-09-19"
@@ -1530,7 +1754,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-and-uber-co-innovate-to-transform-last-mile-delivery-in-retail-301930940.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T08:02:00-04:00",
     "date_et": "2023-09-19"
@@ -1546,7 +1770,7 @@
     "url": "https://www.prnewswire.com/news-releases/new-oracle-student-offering-transforms-the-higher-education-experience-301930939.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T08:00:00-04:00",
     "date_et": "2023-09-19"
@@ -1562,7 +1786,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-and-mastercard-enable-customers-to-get-faster-access-to-working-capital-301930938.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-19T07:59:00-04:00",
     "date_et": "2023-09-19"
@@ -1578,7 +1802,7 @@
     "url": "https://www.zacks.com/stock/news/2153299/oracle-orcl-to-restructure-network-and-data-security",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-20T13:32:10-04:00",
     "date_et": "2023-09-20"
@@ -1594,7 +1818,7 @@
     "url": "https://www.zacks.com/stock/news/2153301/oracle-orcl-bets-on-nvidia-ampere-for-oci-compute-instances",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-20T13:32:07-04:00",
     "date_et": "2023-09-20"
@@ -1610,7 +1834,7 @@
     "url": "https://www.zacks.com/stock/news/2153109/why-oracle-orcl-is-a-top-growth-stock-for-the-long-term",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-20T11:17:28-04:00",
     "date_et": "2023-09-20"
@@ -1626,7 +1850,7 @@
     "url": "https://www.zacks.com/stock/news/2152984/oracle-corporation-orcl-is-a-trending-stock-facts-to-know-before-betting-on-it",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-20T10:31:41-04:00",
     "date_et": "2023-09-20"
@@ -1642,7 +1866,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-expands-distributed-cloud-offerings-to-help-organizations-innovate-anywhere-301930969.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-20T08:07:00-04:00",
     "date_et": "2023-09-20"
@@ -1658,7 +1882,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai-capabilities-301930968.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-20T08:06:00-04:00",
     "date_et": "2023-09-20"
@@ -1674,7 +1898,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-announces-new-application-development-capabilities-for-oracle-cloud-infrastructure-301932661.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-20T08:04:00-04:00",
     "date_et": "2023-09-20"
@@ -1690,7 +1914,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-access-governance-helps-organizations-simplify-the-security-of-critical-digital-resources-301930966.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-20T08:03:00-04:00",
     "date_et": "2023-09-20"
@@ -1706,7 +1930,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-helps-organizations-boost-employee-engagement-and-retention-301931255.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-20T08:02:00-04:00",
     "date_et": "2023-09-20"
@@ -1722,7 +1946,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-announces-next-generation-fusion-data-intelligence-platform-301930964.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-20T08:01:00-04:00",
     "date_et": "2023-09-20"
@@ -1738,7 +1962,7 @@
     "url": "https://www.prnewswire.com/news-releases/oracle-adds-ai-capabilities-to-oracle-analytics-cloud-301931094.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-20T08:00:00-04:00",
     "date_et": "2023-09-20"
@@ -1754,7 +1978,7 @@
     "url": "https://www.fool.com/investing/2023/09/20/oracle-stock-buy-sell-or-hold/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-20T07:30:00-04:00",
     "date_et": "2023-09-20"
@@ -1770,7 +1994,7 @@
     "url": "https://www.fool.com/investing/2023/09/20/buffetts-new-bet-on-cloud-computing-what-investors/",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-20T05:46:00-04:00",
     "date_et": "2023-09-20"
@@ -1786,7 +2010,7 @@
     "url": "https://www.marketwatch.com/story/oracle-recommits-to-65-billion-in-revenue-by-fiscal-2026-dc702b5b",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-21T18:04:00-04:00",
     "date_et": "2023-09-21"
@@ -1802,7 +2026,7 @@
     "url": "https://www.zacks.com/stock/news/2153855/oracle-orcl-oci-services-expand-distributed-cloud-offerings",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-21T13:32:04-04:00",
     "date_et": "2023-09-21"
@@ -1818,7 +2042,7 @@
     "url": "https://www.cnbc.com/2023/09/22/here-are-the-13-stocks-jim-cramer-is-watching-including-amazon-oracle-and-nike.html",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-22T09:48:28-04:00",
     "date_et": "2023-09-22"
@@ -1834,7 +2058,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1027417?SNAPI",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-22T08:53:20-04:00",
     "date_et": "2023-09-22"
@@ -1850,7 +2074,7 @@
     "url": "https://www.marketbeat.com/originals/3-reasons-this-sleeping-giant-is-about-to-wake-up/?utm_source=snapi",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-23T07:26:07-04:00",
     "date_et": "2023-09-23"
@@ -1866,7 +2090,7 @@
     "url": "https://seekingalpha.com/article/4636890-oracle-a-growth-inflection-is-coming-into-view",
     "ticker": "ORCL",
     "event_date": "2023-09-11",
-    "window_start": "2023-09-04",
+    "window_start": "2023-08-28",
     "window_end": "2023-09-25",
     "publishedDateET": "2023-09-23T05:21:37-04:00",
     "date_et": "2023-09-23"

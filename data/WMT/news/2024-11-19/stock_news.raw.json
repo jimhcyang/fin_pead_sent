@@ -1,6 +1,358 @@
 [
   {
     "symbol": "WMT",
+    "publishedDate": "2024-11-05 06:02:49",
+    "publisher": "Reuters",
+    "title": "Focus: Walmart, other US retailers import fewer Christmas goods ahead of tepid holiday season",
+    "image": "https://images.financialmodelingprep.com/news/focus-walmart-other-us-retailers-import-fewer-christmas-goods-20241105.jpg",
+    "site": "reuters.com",
+    "text": "Santa Claus is not delivering as many Christmas trees, toys and decorations to the United States this year as in recent years, import data shows, with retailers including Walmart bringing in less holiday product ahead of what is expected to be a so-so holiday season.",
+    "url": "https://www.reuters.com/business/retail-consumer/walmart-other-us-retailers-import-fewer-christmas-goods-ahead-tepid-holiday-2024-11-05/",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-05T06:02:49-05:00",
+    "date_et": "2024-11-05"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-07 09:00:00",
+    "publisher": "PRNewsWire",
+    "title": "Zevia Expands Distribution of its Better-For-You Soda into More than 4,300 Walmart Stores' \"Modern Soda\" Set Nationwide",
+    "image": "https://images.financialmodelingprep.com/news/zevia-expands-distribution-of-its-betterforyou-soda-into-more-20241107.jpg",
+    "site": "prnewswire.com",
+    "text": "Zevia, the First Brand to Offer a Naturally Sweetened Alternative to Mainstream Soda and now the #1 Naturally Sweetened Zero Sugar Soda in the US, Increases Distribution to 5x its Current Retail Locations Nationwide LOS ANGELES , Nov. 7, 2024 /PRNewswire/ -- Today, Zevia PBC, the zero sugar, naturally sweetened beverage company, announced it is expanding its Walmart distribution this month from +800 stores to now being available nationally in more than 4,300 locations, an increase of more than five-times current store distribution.   Zevia® Soda in Walmart has seen substantial growth in existing Walmart stores over the past two years.",
+    "url": "https://www.prnewswire.com/news-releases/zevia-expands-distribution-of-its-better-for-you-soda-into-more-than-4-300-walmart-stores-modern-soda-set-nationwide-302298291.html",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-07T09:00:00-05:00",
+    "date_et": "2024-11-07"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-07 10:00:00",
+    "publisher": "PRNewsWire",
+    "title": "RetailMeNot's Annual Holiday, Cash Back Day, Returns: Unwrap the Season's Deepest Cash Back Offers November 7-9",
+    "image": "https://images.financialmodelingprep.com/news/retailmenots-annual-holiday-cash-back-day-returns-unwrap-the-20241107.jpg",
+    "site": "prnewswire.com",
+    "text": "For the second year in a row, RetailMeNot has extended its Cash Back Day to a full three days of savings where shoppers can score stackable deals and exclusive cash back offers, of up to 20% cash back, from their favorite retailers while getting a head start on their holiday shopping Cash Back Day 2024 features cash back offers from top retailers including Walmart, Macy's, Kate Spade, Viator and more New this year, RetailMeNot will donate a percentage of the cash back earned by its members to Dell Children's Foundation in Austin, TX, supporting local children and families in meeting their holiday gift needs AUSTIN, Texas , Nov. 7, 2024 /PRNewswire/ -- Today, RetailMeNot, a Ziff Davis company, kicks off Cash Back Day , an exclusive shopping event running November 7-9 that empowers RetailMeNot members to kick off the holiday shopping season with thousands of deals and cash back offers of up to 20% from top retailers, including UGG, Tarte Cosmetics, Macy's, Walmart, Viator, Anthropologie, Alo Yoga and more. This three-day savings event makes it easier than ever for shoppers to check off every item on their holiday lists while putting cash back into their wallets at hundreds of their favorite retailers.",
+    "url": "https://www.prnewswire.com/news-releases/retailmenots-annual-holiday-cash-back-day-returns-unwrap-the-seasons-deepest-cash-back-offers-november-7-9-302298895.html",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-07T10:00:00-05:00",
+    "date_et": "2024-11-07"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-07 10:24:18",
+    "publisher": "CNBC Television",
+    "title": "Cramer's Stop Trading: Walmart & Costco",
+    "image": "https://images.financialmodelingprep.com/news/cramers-stop-trading-walmart-costco-20241107.jpg",
+    "site": "youtube.com",
+    "text": "CNBC's Jim Cramer explains why he is keeping an eye on shares of Walmart and Costco.",
+    "url": "https://www.youtube.com/watch?v=6LCFWKirUoY",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-07T10:24:18-05:00",
+    "date_et": "2024-11-07"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-08 04:01:36",
+    "publisher": "PYMNTS",
+    "title": "New Data: Amazon Expands Grocery Reach, but Walmart Maintains Delivery Edge",
+    "image": "https://images.financialmodelingprep.com/news/new-data-amazon-expands-grocery-reach-but-walmart-maintains-20241108.jpg",
+    "site": "pymnts.com",
+    "text": "Amazon's latest move into the grocery sector, through a new partnership with Mexican grocery delivery startup Jüsto, signals its push to expand its food and essentials offerings.",
+    "url": "https://www.pymnts.com/news/retail/2024/new-data-amazon-expands-grocery-reach-but-walmart-maintains-delivery-edge/",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-08T04:01:36-05:00",
+    "date_et": "2024-11-08"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-08 05:00:00",
+    "publisher": "The Motley Fool",
+    "title": "2 Dividend Kings That Would Have Doubled Your Money in 5 Years",
+    "image": "https://images.financialmodelingprep.com/news/2-dividend-kings-that-would-have-doubled-your-money-20241108.jpg",
+    "site": "fool.com",
+    "text": "You can be a little greedy sometimes and find great stocks that possess solid growth prospects and also pay dividends.",
+    "url": "https://www.fool.com/investing/2024/11/08/2-dividend-kings-that-would-have-doubled-your-mone/",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-08T05:00:00-05:00",
+    "date_et": "2024-11-08"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-08 06:05:14",
+    "publisher": "Reuters",
+    "title": "Walmart to offer independent drivers new holiday bonuses in battle with Amazon",
+    "image": "https://images.financialmodelingprep.com/news/walmart-to-offer-independent-drivers-new-holiday-bonuses-in-20241108.jpg",
+    "site": "reuters.com",
+    "text": "Walmart will pay independent delivery drivers new financial incentives to pick up online orders at its U.S. stores and deliver them to shoppers during the holiday season, the retailer told Reuters.",
+    "url": "https://www.reuters.com/business/retail-consumer/walmart-offer-independent-drivers-new-holiday-bonuses-battle-with-amazon-2024-11-08/",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-08T06:05:14-05:00",
+    "date_et": "2024-11-08"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-08 08:50:45",
+    "publisher": "24/7 Wall Street",
+    "title": "COST vs. WMT: Here's the Better Retail Stock for 2025",
+    "image": "https://images.financialmodelingprep.com/news/cost-vs-wmt-heres-the-better-retail-stock-for-20241108.jpg",
+    "site": "247wallst.com",
+    "text": "Costco (NASDAQ:COST) and Walmart (NYSE:WMT) have been standouts in retail over the past several years.",
+    "url": "https://247wallst.com/investing/2024/11/08/cost-vs-wmt-heres-the-better-retail-stock-for-2025/",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-08T08:50:45-05:00",
+    "date_et": "2024-11-08"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-08 10:41:09",
+    "publisher": "Zacks Investment Research",
+    "title": "5 Dividend Growth Stocks to Buy on Trump Win & Fed Rate Cut",
+    "image": "https://images.financialmodelingprep.com/news/5-dividend-growth-stocks-to-buy-on-trump-win-20241108.jpg",
+    "site": "zacks.com",
+    "text": "Trump's re-election and the Fed rate cut bring back the lure for dividend investing. We have highlighted five solid picks that promise growth.",
+    "url": "https://www.zacks.com/stock/news/2367458/5-dividend-growth-stocks-to-buy-on-trump-win-fed-rate-cut?cid=CS-STOCKNEWSAPI-FT-analyst_blog|rw-2367458",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-08T10:41:09-05:00",
+    "date_et": "2024-11-08"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-08 12:45:25",
+    "publisher": "Zacks Investment Research",
+    "title": "KR or WMT: Which Is the Better Value Stock Right Now?",
+    "image": "https://images.financialmodelingprep.com/news/kr-or-wmt-which-is-the-better-value-stock-20241108.jpg",
+    "site": "zacks.com",
+    "text": "Investors looking for stocks in the Retail - Supermarkets sector might want to consider either Kroger (KR) or Walmart (WMT). But which of these two stocks offers value investors a better bang for their buck right now?",
+    "url": "https://www.zacks.com/stock/news/2367633/kr-or-wmt-which-is-the-better-value-stock-right-now?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_3-2367633",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-08T12:45:25-05:00",
+    "date_et": "2024-11-08"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-08 13:10:26",
+    "publisher": "Zacks Investment Research",
+    "title": "Why Walmart (WMT) is Poised to Beat Earnings Estimates Again",
+    "image": "https://images.financialmodelingprep.com/news/why-walmart-wmt-is-poised-to-beat-earnings-estimates-20241108.jpg",
+    "site": "zacks.com",
+    "text": "Walmart (WMT) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+    "url": "https://www.zacks.com/stock/news/2367687/why-walmart-wmt-is-poised-to-beat-earnings-estimates-again?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_7-2367687",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-08T13:10:26-05:00",
+    "date_et": "2024-11-08"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-08 14:38:42",
+    "publisher": "CNBC Television",
+    "title": "Three buys and a bail: Walmart, Goldman Sachs, Energy Transfer, and First Solar",
+    "image": "https://images.financialmodelingprep.com/news/three-buys-and-a-bail-walmart-goldman-sachs-energy-20241108.jpg",
+    "site": "youtube.com",
+    "text": "Victoria Greene, G Squared Private Wealth founding partner and CIO, joins CNBC's 'The Exchange' to discuss four stocks: Walmart, Goldman Sachs, Energy Transfer, and First Solar.",
+    "url": "https://www.youtube.com/watch?v=grWOy0WW8fo",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-08T14:38:42-05:00",
+    "date_et": "2024-11-08"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-09 12:45:49",
+    "publisher": "Finbold",
+    "title": "2 unstoppable non-tech stocks set to join the $1 trillion club",
+    "image": "https://images.financialmodelingprep.com/news/2-unstoppable-nontech-stocks-set-to-join-the-1-20241109.jpg",
+    "site": "finbold.com",
+    "text": "Tesla (NASDAQ: TSLA) is the latest stock to reach the $1 trillion market capitalization status, as other equities show potential for joining this exclusive club.",
+    "url": "https://finbold.com/2-unstoppable-non-tech-stocks-set-to-join-the-1-trillion-club/",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-09T12:45:49-05:00",
+    "date_et": "2024-11-09"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-10 03:00:00",
+    "publisher": "Barrons",
+    "title": "Big Pension Bought Palantir, Dell Stock. It Sold Walmart and T-Mobile.",
+    "image": "https://images.financialmodelingprep.com/news/big-pension-bought-palantir-dell-stock-it-sold-walmart-20241110.jpg",
+    "site": "barrons.com",
+    "text": "The New York State Teachers' Retirement System initiated stakes in Palantir and Dell, and trimmed investments in Walmart and T-Mobile US in the third quarter.",
+    "url": "https://www.barrons.com/articles/palantir-stock-dell-walmart-t-mobile-f6876ef8",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-10T03:00:00-05:00",
+    "date_et": "2024-11-10"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-10 18:12:15",
+    "publisher": "Seeking Alpha",
+    "title": "Think Twice Before Selling Walmart",
+    "image": "https://images.financialmodelingprep.com/news/think-twice-before-selling-walmart-20241110.jpg",
+    "site": "seekingalpha.com",
+    "text": "As I've noticed increased voices recommending selling Walmart, I've decided to take another look at my investment in the company. The company's robust free cash flow supports substantial shareholder rewards, including dividends and stock repurchases, enhancing long-term portfolio performance. Walmart's current valuation appears stretched, suggesting potential stock price volatility, but long-term investors who secured an attractive yield on cost benefit from its consistent shareholder rewards.",
+    "url": "https://seekingalpha.com/article/4735923-think-twice-before-selling-walmart-stock",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-10T18:12:15-05:00",
+    "date_et": "2024-11-10"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-11 09:03:07",
+    "publisher": "The Fly",
+    "title": "Trade Desk price target raised to $145 from $120 at Loop Capital",
+    "image": "https://images.financialmodelingprep.com/news/trade-desk-price-target-raised-to-145-from-120-20241111.jpg",
+    "site": "https://thefly.com",
+    "text": "Loop Capital analyst Rob Sanderson raised the firm's price target on Trade Desk (TTD) to $145 from $120 and keeps a Buy rating on the shares after its Q3 earnings beat. The company's Q3 results were \"strong\" and its Q4 guidance was likely on the more conservative side, the analyst tells investors in a research note. Loop adds that while 2025 will likely be a lower point for growth, comping against the presidential election, 2026 will benefit from recently expanded collaborations with Netflix (NFLX), Spotify (SPOT), Disney (DIS), Walmart (WMT), LG and others. Trade Desk -7.47 (-5.64%) Netflix -1.54 (-0.19%) Spotify +0.73 (+0.18%) Disney +0.08 (+0.08%) Walmart +1.02 (+1.22%)",
+    "url": "https://thefly.com/permalinks/entry.php/id4019061/TTD;NFLX;SPOT;DIS;WMT-Trade-Desk-price-target-raised-by--at-Loop-Capital-heres-why",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-11T09:03:07-05:00",
+    "date_et": "2024-11-11"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-11 10:05:26",
+    "publisher": "Zacks Investment Research",
+    "title": "Investors Heavily Search Walmart Inc. (WMT): Here is What You Need to Know",
+    "image": "https://images.financialmodelingprep.com/news/investors-heavily-search-walmart-inc-wmt-here-is-what-20241111.jpg",
+    "site": "zacks.com",
+    "text": "Zacks.com users have recently been watching Walmart (WMT) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+    "url": "https://www.zacks.com/stock/news/2367993/investors-heavily-search-walmart-inc-wmt-here-is-what-you-need-to-know?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|most_searched_stocks-2367993",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-11T10:05:26-05:00",
+    "date_et": "2024-11-11"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-11 10:30:36",
+    "publisher": "Zacks Investment Research",
+    "title": "Walmart (WMT) Is Considered a Good Investment by Brokers: Is That True?",
+    "image": "https://images.financialmodelingprep.com/news/walmart-wmt-is-considered-a-good-investment-by-brokers-20241111.jpg",
+    "site": "zacks.com",
+    "text": "The recommendations of Wall Street analysts are often relied on by investors when deciding whether to buy, sell, or hold a stock. Media reports about these brokerage-firm-employed (or sell-side) analysts changing their ratings often affect a stock's price.",
+    "url": "https://www.zacks.com/stock/news/2368115/walmart-wmt-is-considered-a-good-investment-by-brokers-is-that-true?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|average_broker_rating-2368115",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-11T10:30:36-05:00",
+    "date_et": "2024-11-11"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-11 10:30:47",
+    "publisher": "Zacks Investment Research",
+    "title": "Earnings Growth & Price Strength Make Walmart (WMT) a Stock to Watch",
+    "image": "https://images.financialmodelingprep.com/news/earnings-growth-price-strength-make-walmart-wmt-a-stock-20241111.jpg",
+    "site": "zacks.com",
+    "text": "Finding strong, market-beating stocks with a positive earnings outlook becomes easier with the Focus List, a top feature of the Zacks Premium portfolio service.",
+    "url": "https://www.zacks.com/stock/news/2368125/earnings-growth-price-strength-make-walmart-wmt-a-stock-to-watch?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|zacks_education_focus_list-2368125",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-11T10:30:47-05:00",
+    "date_et": "2024-11-11"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-11 13:46:07",
+    "publisher": "Zacks Investment Research",
+    "title": "3 Reasons Growth Investors Will Love Walmart (WMT)",
+    "image": "https://images.financialmodelingprep.com/news/3-reasons-growth-investors-will-love-walmart-wmt-20241111.jpg",
+    "site": "zacks.com",
+    "text": "Walmart (WMT) is well positioned to outperform the market, as it exhibits above-average growth in financials.",
+    "url": "https://www.zacks.com/stock/news/2368409/3-reasons-growth-investors-will-love-walmart-wmt?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_11_growth-2368409",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-11T13:46:07-05:00",
+    "date_et": "2024-11-11"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-11 15:01:09",
+    "publisher": "Zacks Investment Research",
+    "title": "Buy 3 Retail Giants Poised to Beat on Earnings This Month",
+    "image": "https://images.financialmodelingprep.com/news/buy-3-retail-giants-poised-to-beat-on-earnings-20241111.jpg",
+    "site": "zacks.com",
+    "text": "We have narrowed our search to three giant retailers that will report earnings results within next week. These are: HD, WMT, TGT.",
+    "url": "https://www.zacks.com/stock/news/2368427/buy-3-retail-giants-poised-to-beat-on-earnings-this-month?cid=CS-STOCKNEWSAPI-FT-earnings_esp-2368427",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-11T15:01:09-05:00",
+    "date_et": "2024-11-11"
+  },
+  {
+    "symbol": "WMT",
+    "publishedDate": "2024-11-11 18:50:24",
+    "publisher": "Zacks Investment Research",
+    "title": "Walmart (WMT) Stock Declines While Market Improves: Some Information for Investors",
+    "image": "https://images.financialmodelingprep.com/news/walmart-wmt-stock-declines-while-market-improves-some-information-20241111.jpg",
+    "site": "zacks.com",
+    "text": "The latest trading day saw Walmart (WMT) settling at $84.21, representing a -0.73% change from its previous close.",
+    "url": "https://www.zacks.com/stock/news/2368468/walmart-wmt-stock-declines-while-market-improves-some-information-for-investors?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6-2368468",
+    "ticker": "WMT",
+    "event_date": "2024-11-19",
+    "window_start": "2024-11-05",
+    "window_end": "2024-12-03",
+    "publishedDateET": "2024-11-11T18:50:24-05:00",
+    "date_et": "2024-11-11"
+  },
+  {
+    "symbol": "WMT",
     "publishedDate": "2024-11-12 04:47:57",
     "publisher": "Seeking Alpha",
     "title": "Walmart Vs. Target: Which Retail Giant Is A Buy At Today's Valuations?",
@@ -10,7 +362,7 @@
     "url": "https://seekingalpha.com/article/4736248-walmart-vs-target-which-retail-giant-is-a-buy-at-todays-valuations",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-12T04:47:57-05:00",
     "date_et": "2024-11-12"
@@ -26,7 +378,7 @@
     "url": "https://www.zacks.com/stock/news/2368789/the-zacks-analyst-blog-the-home-depot-walmart-and-target?cid=CS-STOCKNEWSAPI-FT-press_releases-2368789",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-12T10:25:26-05:00",
     "date_et": "2024-11-12"
@@ -42,7 +394,7 @@
     "url": "https://www.zacks.com/stock/news/2368902/here-s-why-walmart-wmt-is-a-strong-growth-stock?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|zacks_education_growth_score-2368902",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-12T10:51:27-05:00",
     "date_et": "2024-11-12"
@@ -58,7 +410,7 @@
     "url": "https://www.zacks.com/stock/news/2368968/walmart-wmt-reports-next-week-wall-street-expects-earnings-growth?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_9-2368968",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-12T11:00:45-05:00",
     "date_et": "2024-11-12"
@@ -74,7 +426,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1060440",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-12T11:16:40-05:00",
     "date_et": "2024-11-12"
@@ -90,7 +442,7 @@
     "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/11/41913981/what-to-expect-from-walmarts-q3-earnings",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-12T13:18:11-05:00",
     "date_et": "2024-11-12"
@@ -106,7 +458,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2024/11/12/3-stocks-to-watch-ahead-of-earnings-retail-sales",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-12T15:28:41-05:00",
     "date_et": "2024-11-12"
@@ -122,7 +474,7 @@
     "url": "https://www.wsj.com/articles/former-walmart-executives-startup-near-deal-to-buy-grubhub-2e22929f",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-12T16:49:00-05:00",
     "date_et": "2024-11-12"
@@ -138,7 +490,7 @@
     "url": "https://www.youtube.com/watch?v=IPLbzKZQzdA",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-13T13:26:30-05:00",
     "date_et": "2024-11-13"
@@ -154,7 +506,7 @@
     "url": "https://www.fool.com/investing/2024/11/14/stocks-could-create-lasting-generational-wealth/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-14T05:15:00-05:00",
     "date_et": "2024-11-14"
@@ -170,7 +522,7 @@
     "url": "https://www.zacks.com/stock/news/2370297/gear-up-for-walmart-wmt-q3-earnings-wall-street-estimates-for-key-metrics?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|nfm_preview-2370297",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-14T10:15:46-05:00",
     "date_et": "2024-11-14"
@@ -186,7 +538,7 @@
     "url": "https://finbold.com/why-disney-stock-is-lighting-up-wall-street/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-14T11:11:17-05:00",
     "date_et": "2024-11-14"
@@ -202,7 +554,7 @@
     "url": "https://www.youtube.com/watch?v=JKdZ84aYCRg",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-15T09:01:41-05:00",
     "date_et": "2024-11-15"
@@ -218,7 +570,7 @@
     "url": "https://www.youtube.com/watch?v=sCa5Ys0hY7o",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-15T11:30:11-05:00",
     "date_et": "2024-11-15"
@@ -234,7 +586,7 @@
     "url": "https://www.investopedia.com/earnings-walmart-and-target-will-be-key-measures-consumer-health-8745444",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-15T13:55:44-05:00",
     "date_et": "2024-11-15"
@@ -250,7 +602,7 @@
     "url": "https://www.cnbc.com/2024/11/15/jim-cramer-nvidia-tjx-walmart-earnings.html",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-15T18:50:48-05:00",
     "date_et": "2024-11-15"
@@ -266,7 +618,7 @@
     "url": "https://www.zacks.com/commentary/2371253/what-can-investors-expect-from-retail-earnings?cid=CS-STOCKNEWSAPI-FT-earnings_preview-2371253",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-15T18:55:40-05:00",
     "date_et": "2024-11-15"
@@ -282,7 +634,7 @@
     "url": "https://www.businessinsider.com/target-walmart-trump-tariffs-exposure-analysts-2024-11",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-16T04:11:01-05:00",
     "date_et": "2024-11-16"
@@ -298,7 +650,7 @@
     "url": "https://www.investopedia.com/what-analysts-think-of-walmart-s-stock-ahead-of-earnings-8746327",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-16T05:15:41-05:00",
     "date_et": "2024-11-16"
@@ -314,7 +666,7 @@
     "url": "https://www.investors.com/research/investing-action-plan/the-stock-market-beyond-nvidia-walmart-target-earnings-and-bitcoins-march-to-100k/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-16T09:34:16-05:00",
     "date_et": "2024-11-16"
@@ -330,7 +682,7 @@
     "url": "https://www.barrons.com/articles/nvidia-walmart-deere-target-snowflake-stocks-earnings-51c4a2d3",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-17T14:00:00-05:00",
     "date_et": "2024-11-17"
@@ -346,7 +698,7 @@
     "url": "https://seekingalpha.com/article/4738267-sp-500-earnings-nvidia-walmart-this-week-both-matter",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-17T22:25:00-05:00",
     "date_et": "2024-11-17"
@@ -362,7 +714,7 @@
     "url": "https://seekingalpha.com/article/4738279-walmart-earnings-preview-pullback-would-be-great-operating-margin-is-the-story",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-17T23:50:00-05:00",
     "date_et": "2024-11-17"
@@ -378,7 +730,7 @@
     "url": "https://www.fxempire.com/forecasts/article/ai-consumers-and-industrials-collide-nvidia-walmart-and-deere-dominate-earnings-week-1476863",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-18T03:43:46-05:00",
     "date_et": "2024-11-18"
@@ -394,7 +746,7 @@
     "url": "https://www.benzinga.com/24/11/42035375/how-to-earn-500-a-month-from-walmart-stock-ahead-of-q3-earnings",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-18T08:27:56-05:00",
     "date_et": "2024-11-18"
@@ -410,7 +762,7 @@
     "url": "https://www.zacks.com/stock/news/2371419/walmart-s-q3-earnings-on-the-horizon-is-a-beat-expected-for-wmt?cid=CS-STOCKNEWSAPI-FT-analyst_blog|earnings_preview-2371419",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-18T09:56:30-05:00",
     "date_et": "2024-11-18"
@@ -426,7 +778,7 @@
     "url": "https://www.youtube.com/watch?v=ww55F4OmRK8",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-18T12:40:13-05:00",
     "date_et": "2024-11-18"
@@ -442,7 +794,7 @@
     "url": "https://www.zacks.com/stock/news/2371749/etfs-in-focus-as-walmart-gears-up-to-report-q3-earnings?cid=CS-STOCKNEWSAPI-FT-etf_news_and_commentary-2371749",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-18T13:20:33-05:00",
     "date_et": "2024-11-18"
@@ -458,7 +810,7 @@
     "url": "https://www.benzinga.com/24/11/42047989/walmart-q3-earnings-preview-will-eps-beat-streak-continue-analysts-says-retailer-should-remain-a-core-holding",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-18T15:49:06-05:00",
     "date_et": "2024-11-18"
@@ -474,7 +826,7 @@
     "url": "https://www.youtube.com/watch?v=MnXWRLD4a8o",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-18T16:07:41-05:00",
     "date_et": "2024-11-18"
@@ -490,7 +842,7 @@
     "url": "https://www.investopedia.com/earnings-walmart-and-target-will-be-key-measures-consumer-health-update-8745444",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-18T16:10:48-05:00",
     "date_et": "2024-11-18"
@@ -506,7 +858,7 @@
     "url": "https://www.cnbc.com/2024/11/18/tuesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-18T17:23:40-05:00",
     "date_et": "2024-11-18"
@@ -522,7 +874,7 @@
     "url": "https://www.youtube.com/watch?v=81wvaCqmYJA",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-18T18:14:50-05:00",
     "date_et": "2024-11-18"
@@ -538,7 +890,7 @@
     "url": "https://www.zacks.com/stock/news/2371809/time-to-buy-walmart-or-target-stock-as-q3-earnings-approach?cid=CS-STOCKNEWSAPI-FT-stocks_in_the_news-2371809",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-18T19:01:24-05:00",
     "date_et": "2024-11-18"
@@ -554,7 +906,7 @@
     "url": "https://www.cnbc.com/2024/11/19/walmart-wmt-q3-2025-earnings.html",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T00:01:01-05:00",
     "date_et": "2024-11-19"
@@ -570,7 +922,7 @@
     "url": "https://www.fxempire.com/forecasts/article/easing-inflation-holiday-trends-to-shape-walmarts-q3-eps-at-0-53-expected-1477219",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T06:11:32-05:00",
     "date_et": "2024-11-19"
@@ -586,7 +938,7 @@
     "url": "https://www.businesswire.com/news/home/20241118919925/en/Walmart-reports-strong-revenue-growth-of-5.5-with-operating-income-growing-faster-at-8.2/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T07:02:00-05:00",
     "date_et": "2024-11-19"
@@ -602,7 +954,7 @@
     "url": "https://www.reuters.com/business/retail-consumer/walmart-raises-annual-forecasts-betting-strong-holiday-shopping-2024-11-19/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T07:07:39-05:00",
     "date_et": "2024-11-19"
@@ -618,7 +970,7 @@
     "url": "https://www.investopedia.com/walmart-q3-fy2025-earnings-8746984",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T07:30:59-05:00",
     "date_et": "2024-11-19"
@@ -634,7 +986,7 @@
     "url": "https://www.nytimes.com/2024/11/19/business/walmart-sales-holiday-shopping.html",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T07:31:12-05:00",
     "date_et": "2024-11-19"
@@ -650,7 +1002,7 @@
     "url": "https://www.youtube.com/watch?v=CiOMZc80nr0",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T07:36:40-05:00",
     "date_et": "2024-11-19"
@@ -666,7 +1018,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1060977",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T07:56:45-05:00",
     "date_et": "2024-11-19"
@@ -682,7 +1034,7 @@
     "url": "https://www.marketwatch.com/story/walmarts-stock-rallies-toward-a-record-as-earnings-rose-above-expectations-and-the-outlook-was-raised-1f0e17e5",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T08:02:00-05:00",
     "date_et": "2024-11-19"
@@ -698,7 +1050,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1060979",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T08:13:59-05:00",
     "date_et": "2024-11-19"
@@ -714,7 +1066,7 @@
     "url": "https://www.fxempire.com/forecasts/article/dow-jones-geopolitical-tensions-hit-futures-as-walmart-and-nvidia-take-focus-1477281",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T08:22:50-05:00",
     "date_et": "2024-11-19"
@@ -730,7 +1082,7 @@
     "url": "https://www.wsj.com/articles/walmart-wmt-q3-earnings-report-2025-6bde10d3",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T08:25:00-05:00",
     "date_et": "2024-11-19"
@@ -746,7 +1098,7 @@
     "url": "https://www.fool.com/investing/2024/11/19/these-are-the-5-top-performing-stocks-in-the-dow-j/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T08:40:00-05:00",
     "date_et": "2024-11-19"
@@ -762,7 +1114,7 @@
     "url": "https://www.youtube.com/watch?v=fhNmJyYijHQ",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T08:47:32-05:00",
     "date_et": "2024-11-19"
@@ -778,7 +1130,7 @@
     "url": "https://www.zacks.com/stock/news/2371971/walmart-sets-the-stage-for-2024-holiday-shopping-with-big-discounts?cid=CS-STOCKNEWSAPI-FT-analyst_blog|company_news_corporate_actions-2371971",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T09:10:23-05:00",
     "date_et": "2024-11-19"
@@ -794,7 +1146,7 @@
     "url": "https://www.zacks.com/stock/news/2371979/walmart-wmt-q3-earnings-and-revenues-top-estimates?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_4-2371979",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T09:15:22-05:00",
     "date_et": "2024-11-19"
@@ -810,7 +1162,7 @@
     "url": "https://247wallst.com/market-news/2024/11/19/live-markets-today-nasdaq-composite-and-sp-500-deep-in-the-red-smci-wmt/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T09:21:04-05:00",
     "date_et": "2024-11-19"
@@ -826,7 +1178,7 @@
     "url": "https://www.foxbusiness.com/lifestyle/walmart-raises-outlook-consumers-spend-more-nonessentials-order-more-deliveries",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T09:35:52-05:00",
     "date_et": "2024-11-19"
@@ -842,7 +1194,7 @@
     "url": "https://www.cnbc.com/2024/11/19/walmart-says-new-trump-tariffs-could-raise-prices.html",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T09:58:35-05:00",
     "date_et": "2024-11-19"
@@ -858,7 +1210,7 @@
     "url": "https://www.zacks.com/stock/news/2372111/compared-to-estimates-walmart-wmt-q3-earnings-a-look-at-key-metrics?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|nfm-2372111",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T10:30:31-05:00",
     "date_et": "2024-11-19"
@@ -874,7 +1226,7 @@
     "url": "https://www.zacks.com/stock/news/2372241/walmart-ups-view-again-on-q3-earnings-beat-e-commerce-sales-growth?cid=CS-STOCKNEWSAPI-FT-analyst_blog|earnings_article-2372241",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T11:11:09-05:00",
     "date_et": "2024-11-19"
@@ -890,7 +1242,7 @@
     "url": "https://www.youtube.com/watch?v=H_s8E51U7dM",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T11:11:52-05:00",
     "date_et": "2024-11-19"
@@ -906,7 +1258,7 @@
     "url": "https://www.businessinsider.com/walmart-prices-increase-likely-trump-tariffs-cfo-2024-11",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T11:25:25-05:00",
     "date_et": "2024-11-19"
@@ -922,7 +1274,7 @@
     "url": "https://seekingalpha.com/article/4738715-walmart-inc-wmt-q3-2025-earnings-call-transcript",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T11:33:15-05:00",
     "date_et": "2024-11-19"
@@ -938,7 +1290,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1061013",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T12:06:09-05:00",
     "date_et": "2024-11-19"
@@ -954,7 +1306,7 @@
     "url": "https://www.benzinga.com/news/earnings/24/11/42069344/dow-dips-over-300-points-walmart-raises-fy25-forecast",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T12:17:38-05:00",
     "date_et": "2024-11-19"
@@ -970,7 +1322,7 @@
     "url": "https://www.reuters.com/markets/us/walmart-other-us-companies-raise-concerns-over-proposed-trump-tariffs-2024-11-19/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T12:20:06-05:00",
     "date_et": "2024-11-19"
@@ -986,7 +1338,7 @@
     "url": "https://www.investopedia.com/walmart-keeps-picking-up-more-high-income-customers-earnings-8747915",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T12:20:58-05:00",
     "date_et": "2024-11-19"
@@ -1002,7 +1354,7 @@
     "url": "https://www.investopedia.com/two-big-retailers-lifted-outlooks-walmart-lowes-earnings-8747904",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T12:21:03-05:00",
     "date_et": "2024-11-19"
@@ -1018,7 +1370,7 @@
     "url": "https://www.benzinga.com/24/11/42070321/walmarts-q3-triumph-analyst-sees-structural-gains-fueling-future-growth",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T12:52:08-05:00",
     "date_et": "2024-11-19"
@@ -1034,7 +1386,7 @@
     "url": "https://nypost.com/2024/11/19/business/walmart-beats-earnings-expectations-as-cost-conscious-shoppers-seek-out-deals/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T13:12:07-05:00",
     "date_et": "2024-11-19"
@@ -1050,7 +1402,7 @@
     "url": "https://www.pymnts.com/walmart/2024/walmart-growth-expedited-deliveries-resilient-united-states-shoppers/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T13:21:57-05:00",
     "date_et": "2024-11-19"
@@ -1066,7 +1418,7 @@
     "url": "https://www.youtube.com/watch?v=70JAUeQKMkY",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T14:33:50-05:00",
     "date_et": "2024-11-19"
@@ -1082,7 +1434,7 @@
     "url": "https://www.kiplinger.com/investing/stocks/stock-market-today-stocks-rally-despite-rising-geopolitical-tension",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T16:09:25-05:00",
     "date_et": "2024-11-19"
@@ -1098,7 +1450,7 @@
     "url": "https://www.youtube.com/watch?v=VbWlUVBATEI",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T16:24:20-05:00",
     "date_et": "2024-11-19"
@@ -1114,7 +1466,7 @@
     "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-supermicro-roars-back-after-compliance-filing-8748143",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T17:05:39-05:00",
     "date_et": "2024-11-19"
@@ -1130,7 +1482,7 @@
     "url": "https://www.youtube.com/watch?v=j_Uyne4IAqE",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T17:29:05-05:00",
     "date_et": "2024-11-19"
@@ -1146,7 +1498,7 @@
     "url": "https://www.youtube.com/watch?v=w_BGESrrByo",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T17:41:09-05:00",
     "date_et": "2024-11-19"
@@ -1162,7 +1514,7 @@
     "url": "https://www.youtube.com/watch?v=tcEhdDXUn9U",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T18:07:02-05:00",
     "date_et": "2024-11-19"
@@ -1178,7 +1530,7 @@
     "url": "https://www.youtube.com/watch?v=PgCUKIKDsfI",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T19:26:41-05:00",
     "date_et": "2024-11-19"
@@ -1194,7 +1546,7 @@
     "url": "https://www.youtube.com/watch?v=vvXbe80tIY0",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T19:35:44-05:00",
     "date_et": "2024-11-19"
@@ -1210,7 +1562,7 @@
     "url": "https://www.youtube.com/watch?v=px5RF1kU0Bo",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-19T22:07:11-05:00",
     "date_et": "2024-11-19"
@@ -1226,7 +1578,7 @@
     "url": "https://www.fool.com/investing/2024/11/20/buy-walmart-pepsi-dividend-king-stock/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T04:23:00-05:00",
     "date_et": "2024-11-20"
@@ -1242,7 +1594,7 @@
     "url": "https://247wallst.com/investing/2024/11/20/is-surge-in-walmart-customers-with-over-100000-income-good/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T06:40:57-05:00",
     "date_et": "2024-11-20"
@@ -1258,7 +1610,7 @@
     "url": "https://www.youtube.com/watch?v=NbJoVNiwFGA",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T07:54:41-05:00",
     "date_et": "2024-11-20"
@@ -1274,7 +1626,7 @@
     "url": "https://www.benzinga.com/24/11/42087927/these-analysts-increase-their-forecasts-on-walmart-after-strong-earnings",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T08:42:59-05:00",
     "date_et": "2024-11-20"
@@ -1290,7 +1642,7 @@
     "url": "https://www.youtube.com/watch?v=VMEM806KwhE",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T08:54:22-05:00",
     "date_et": "2024-11-20"
@@ -1306,7 +1658,7 @@
     "url": "https://www.reuters.com/business/retail-consumer/uncertainty-clouds-holiday-shopping-season-after-mixed-forecasts-walmart-target-2024-11-20/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T08:55:28-05:00",
     "date_et": "2024-11-20"
@@ -1322,7 +1674,7 @@
     "url": "https://www.fastcompany.com/91231631/walmart-wmt-stock-price-earnings-call-shows-increase-in-wealthier-middle-class-consumers",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T09:02:02-05:00",
     "date_et": "2024-11-20"
@@ -1338,7 +1690,7 @@
     "url": "https://www.wsj.com/articles/walmart-and-target-a-tale-of-two-retailers-a1b0be04",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T10:33:00-05:00",
     "date_et": "2024-11-20"
@@ -1354,7 +1706,7 @@
     "url": "https://www.investopedia.com/walmart-stock-price-levels-to-watch-after-post-earnings-surge-to-record-high-8748474",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T11:40:37-05:00",
     "date_et": "2024-11-20"
@@ -1370,7 +1722,7 @@
     "url": "https://www.zacks.com/stock/news/2372891/walmart-beats-on-q3-earnings-hikes-views-etfs-to-gain?cid=CS-STOCKNEWSAPI-FT-etf_news_and_commentary-2372891",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T12:00:37-05:00",
     "date_et": "2024-11-20"
@@ -1386,7 +1738,7 @@
     "url": "https://www.fastcompany.com/91231831/walmart-companies-trump-tariffs-reactions",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T12:11:07-05:00",
     "date_et": "2024-11-20"
@@ -1402,7 +1754,7 @@
     "url": "https://www.investopedia.com/why-walmart-stock-hit-an-all-time-high-but-target-slumped-on-q3-earnings-8748482",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T13:35:38-05:00",
     "date_et": "2024-11-20"
@@ -1418,7 +1770,7 @@
     "url": "https://www.benzinga.com/news/earnings/earnings-beats/24/11/42097649/walmart-posts-q3-sales-beat-raises-guidance-analysts-expect-strong-earnings-growth-a",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T14:46:50-05:00",
     "date_et": "2024-11-20"
@@ -1434,7 +1786,7 @@
     "url": "https://www.cnbc.com/2024/11/20/walmart-wmt-and-target-tgt-earnings-show-mixed-performance.html",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T16:07:13-05:00",
     "date_et": "2024-11-20"
@@ -1450,7 +1802,7 @@
     "url": "https://www.zacks.com/commentary/2373063/walmart-target-a-closer-look-at-retail-earnings?cid=CS-STOCKNEWSAPI-FT-earnings_outlook-2373063",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T19:50:28-05:00",
     "date_et": "2024-11-20"
@@ -1466,7 +1818,7 @@
     "url": "https://www.zacks.com/commentary/2373061/walmart-target-a-closer-look-at-retail-earnings?cid=CS-STOCKNEWSAPI-FT-earnings_trends-2373061",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-20T19:55:19-05:00",
     "date_et": "2024-11-20"
@@ -1482,7 +1834,7 @@
     "url": "https://thefly.com/permalinks/entry.php/id4026291/WMT-DZ-Bank-gets-more-bearish-on-Walmart-downgrades-shares",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-21T04:45:48-05:00",
     "date_et": "2024-11-21"
@@ -1498,7 +1850,7 @@
     "url": "https://www.marketbeat.com/originals/tailwinds-drive-walmart-higher-uptrend-shows-no-signs-of-slowing/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-21T07:31:27-05:00",
     "date_et": "2024-11-21"
@@ -1514,7 +1866,7 @@
     "url": "https://www.youtube.com/watch?v=8mSZDtFraAE",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-21T08:15:22-05:00",
     "date_et": "2024-11-21"
@@ -1530,7 +1882,7 @@
     "url": "https://seekingalpha.com/article/4739370-walmart-earnings-summary-flywheel-levers-beginning-to-turn",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-21T11:29:00-05:00",
     "date_et": "2024-11-21"
@@ -1546,7 +1898,7 @@
     "url": "https://www.youtube.com/watch?v=85xPNRaG18E",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-21T12:25:59-05:00",
     "date_et": "2024-11-21"
@@ -1562,7 +1914,7 @@
     "url": "https://www.foxbusiness.com/lifestyle/walmart-warns-higher-prices-trump-implements-proposed-tariffs",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-21T14:51:07-05:00",
     "date_et": "2024-11-21"
@@ -1578,7 +1930,7 @@
     "url": "https://www.pymnts.com/news/retail/2024/amazon-vs-walmart-who-will-win-the-holiday-shopping-war/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-21T16:27:25-05:00",
     "date_et": "2024-11-21"
@@ -1594,7 +1946,7 @@
     "url": "https://nypost.com/2024/11/21/business/walmart-warns-of-higher-prices-if-trump-implements-proposed-tariffs/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-21T18:39:22-05:00",
     "date_et": "2024-11-21"
@@ -1610,7 +1962,7 @@
     "url": "https://www.fool.com/investing/2024/11/22/walmart-latest-result-bad-news-dollar-general/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-22T04:30:00-05:00",
     "date_et": "2024-11-22"
@@ -1626,7 +1978,7 @@
     "url": "https://seekingalpha.com/article/4739580-3-dividend-kings-so-you-can-sleep-well-at-night",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-22T07:15:00-05:00",
     "date_et": "2024-11-22"
@@ -1642,7 +1994,7 @@
     "url": "https://www.youtube.com/watch?v=rp7dSH1-tdQ",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-22T08:17:59-05:00",
     "date_et": "2024-11-22"
@@ -1658,7 +2010,7 @@
     "url": "https://www.reuters.com/business/retail-consumer/walmarts-health-wellness-head-departs-memo-says-2024-11-22/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-22T16:36:06-05:00",
     "date_et": "2024-11-22"
@@ -1674,7 +2026,7 @@
     "url": "https://www.fool.com/investing/2024/11/22/walmarts-flywheel-keeps-spinning/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-22T17:50:00-05:00",
     "date_et": "2024-11-22"
@@ -1690,7 +2042,7 @@
     "url": "https://www.fool.com/investing/2024/11/23/can-walmart-win-market-share-from-amazon/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-23T08:41:00-05:00",
     "date_et": "2024-11-23"
@@ -1706,7 +2058,7 @@
     "url": "https://finbold.com/2-retail-stocks-to-buy-ahead-of-the-holiday-season-this-year/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-23T09:42:35-05:00",
     "date_et": "2024-11-23"
@@ -1722,7 +2074,7 @@
     "url": "https://finbold.com/analysts-revise-walmart-wmt-stock-price-target-2/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-23T12:00:03-05:00",
     "date_et": "2024-11-23"
@@ -1738,7 +2090,7 @@
     "url": "https://www.fool.com/investing/2024/11/23/this-dividend-king-is-on-track-to-join-the-1-trill/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-23T18:30:00-05:00",
     "date_et": "2024-11-23"
@@ -1754,7 +2106,7 @@
     "url": "https://www.youtube.com/watch?v=Nt8AoV-BTdQ",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-23T22:00:25-05:00",
     "date_et": "2024-11-23"
@@ -1770,7 +2122,7 @@
     "url": "https://www.cnbc.com/2024/11/24/top-wall-street-analysts-are-bullish-on-these-dividend-stocks.html",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-24T08:43:29-05:00",
     "date_et": "2024-11-24"
@@ -1786,7 +2138,7 @@
     "url": "https://www.fool.com/investing/2024/11/25/3-reasons-to-buy-walmart-stock-like-theres-no-tomo/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-25T05:10:00-05:00",
     "date_et": "2024-11-25"
@@ -1802,7 +2154,7 @@
     "url": "https://www.zacks.com/stock/news/2374574/walmart-inc-wmt-is-a-trending-stock-facts-to-know-before-betting-on-it?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|most_searched_stocks-2374574",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-25T10:05:36-05:00",
     "date_et": "2024-11-25"
@@ -1818,7 +2170,7 @@
     "url": "https://www.foxbusiness.com/lifestyle/walmart-must-pay-nearly-35m-truck-driver-after-accusing-him-fraud-firing-him",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-25T16:01:38-05:00",
     "date_et": "2024-11-25"
@@ -1834,7 +2186,7 @@
     "url": "https://seekingalpha.com/article/4740179-an-important-warning-for-dividend-investors-after-donald-trump-victory",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-25T16:27:11-05:00",
     "date_et": "2024-11-25"
@@ -1850,7 +2202,7 @@
     "url": "https://www.marketwatch.com/story/kohls-to-bring-aboard-veteran-of-michaels-and-walmart-as-new-ceo-shares-are-falling-a1b6fb4c",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-25T17:33:00-05:00",
     "date_et": "2024-11-25"
@@ -1866,7 +2218,7 @@
     "url": "https://www.cnbc.com/2024/11/26/walmart-pulls-back-on-dei-efforts-removes-some-lbgtq-merchandise-.html",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-25T21:57:36-05:00",
     "date_et": "2024-11-25"
@@ -1882,7 +2234,7 @@
     "url": "https://www.reuters.com/business/retail-consumer/walmart-roll-back-some-diversity-policies-amid-pressure-conservatives-2024-11-26/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-26T01:30:13-05:00",
     "date_et": "2024-11-26"
@@ -1898,7 +2250,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1061500",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-26T07:25:13-05:00",
     "date_et": "2024-11-26"
@@ -1914,7 +2266,7 @@
     "url": "https://www.youtube.com/watch?v=p-xbKytk4WY",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-26T07:36:41-05:00",
     "date_et": "2024-11-26"
@@ -1930,7 +2282,7 @@
     "url": "https://www.fool.com/investing/2024/11/26/with-walmart-upbeat-about-holiday-shopping-season/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-26T08:00:00-05:00",
     "date_et": "2024-11-26"
@@ -1946,7 +2298,7 @@
     "url": "https://invezz.com/news/2024/11/26/walmart-updates-dei-policy-what-it-means-for-woke-companies/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-26T08:57:44-05:00",
     "date_et": "2024-11-26"
@@ -1962,7 +2314,7 @@
     "url": "https://www.zacks.com/stock/news/2375466/walmart-stock-reaches-52-week-high-time-to-capitalize-or-wait?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2375466",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-26T11:51:12-05:00",
     "date_et": "2024-11-26"
@@ -1978,7 +2330,7 @@
     "url": "https://www.youtube.com/watch?v=D6CrAYv3uN8",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-26T15:29:15-05:00",
     "date_et": "2024-11-26"
@@ -1994,7 +2346,7 @@
     "url": "https://www.youtube.com/watch?v=tSBfboBPjPw",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-26T15:45:02-05:00",
     "date_et": "2024-11-26"
@@ -2010,7 +2362,7 @@
     "url": "https://www.zacks.com/commentary/2375668/2-stocks-set-to-benefit-from-a-busy-holiday-season-wmt-amzn?cid=CS-STOCKNEWSAPI-FT-investment_ideas-2375668",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-26T18:41:08-05:00",
     "date_et": "2024-11-26"
@@ -2026,7 +2378,7 @@
     "url": "https://invezz.com/news/2024/11/27/walmart-stock-price-is-firing-on-all-cylinders-could-it-hit-1-trillion/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-27T01:40:27-05:00",
     "date_et": "2024-11-27"
@@ -2042,7 +2394,7 @@
     "url": "https://www.fool.com/investing/2024/11/27/walmart-all-time-high-buy-dow-dividend-stock/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-27T04:30:00-05:00",
     "date_et": "2024-11-27"
@@ -2058,7 +2410,7 @@
     "url": "https://www.fool.com/investing/2024/11/27/dividend-king-stock-walmart-target-buy-sell/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-27T07:30:00-05:00",
     "date_et": "2024-11-27"
@@ -2074,7 +2426,7 @@
     "url": "https://www.fool.com/investing/2024/11/27/walmart-stock-analysis-buy-hold-or-sell/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-27T10:18:37-05:00",
     "date_et": "2024-11-27"
@@ -2090,7 +2442,7 @@
     "url": "https://invezz.com/news/2024/11/27/retail-stocks-resilient-to-trump-tariffs-top-picks-for-investors/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-27T14:15:06-05:00",
     "date_et": "2024-11-27"
@@ -2106,7 +2458,7 @@
     "url": "https://www.investopedia.com/walmart-backed-symbotic-stock-plunges-on-accounting-errors-8752747",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-27T14:45:51-05:00",
     "date_et": "2024-11-27"
@@ -2122,7 +2474,7 @@
     "url": "https://247wallst.com/retail/2024/11/27/skip-the-trip-to-walmart-these-8-stores-have-better-deals/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-28T03:37:38-05:00",
     "date_et": "2024-11-28"
@@ -2138,7 +2490,7 @@
     "url": "https://www.fool.com/investing/2024/11/28/walmart-changed-its-strategy-and-its-working-heres/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-28T05:10:00-05:00",
     "date_et": "2024-11-28"
@@ -2154,7 +2506,7 @@
     "url": "https://www.marketbeat.com/stock-ideas/dicks-sporting-goods-the-under-the-radar-buy-and-hold-winner/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-28T07:31:24-05:00",
     "date_et": "2024-11-28"
@@ -2170,7 +2522,7 @@
     "url": "https://www.fool.com/investing/2024/11/29/walmart-says-consumers-are-resilient-but-target-sa/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-29T04:11:00-05:00",
     "date_et": "2024-11-29"
@@ -2186,7 +2538,7 @@
     "url": "https://www.cnbc.com/2024/11/29/holiday-shopping-retail-winners-losers.html",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-29T07:30:01-05:00",
     "date_et": "2024-11-29"
@@ -2202,7 +2554,7 @@
     "url": "https://www.fool.com/investing/2024/11/29/does-billionaire-israel-englander-know-something-w/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-29T08:30:00-05:00",
     "date_et": "2024-11-29"
@@ -2218,7 +2570,7 @@
     "url": "https://www.youtube.com/watch?v=SvgT8VcNgDQ",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-29T09:15:18-05:00",
     "date_et": "2024-11-29"
@@ -2234,7 +2586,7 @@
     "url": "https://www.youtube.com/watch?v=Nn0RKqQNVTs",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-29T12:21:27-05:00",
     "date_et": "2024-11-29"
@@ -2250,7 +2602,7 @@
     "url": "https://www.youtube.com/watch?v=GBK7_f1uBTQ",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-29T13:30:01-05:00",
     "date_et": "2024-11-29"
@@ -2266,7 +2618,7 @@
     "url": "https://www.forbes.com/sites/petercohan/2024/11/30/walmart-stock-may-rise-as-targets-tumbles---despite-taylor-swift-book/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-11-30T14:11:21-05:00",
     "date_et": "2024-11-30"
@@ -2282,7 +2634,7 @@
     "url": "https://seekingalpha.com/article/4741398-walmart-time-to-take-some-profit-wmt-stock",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-12-01T13:00:00-05:00",
     "date_et": "2024-12-01"
@@ -2298,7 +2650,7 @@
     "url": "https://seekingalpha.com/article/4741419-sell-dollar-tree-stock-heading-into-q3-earnings",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-12-01T22:42:17-05:00",
     "date_et": "2024-12-01"
@@ -2314,7 +2666,7 @@
     "url": "https://www.fool.com/investing/2024/12/02/with-a-business-as-large-as-walmart-even-this-smal/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-12-02T05:37:00-05:00",
     "date_et": "2024-12-02"
@@ -2330,7 +2682,7 @@
     "url": "https://www.businesswire.com/news/home/20241202909431/en/Walmart-Leadership-to-Participate-in-Upcoming-Investor-Events/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-12-02T07:00:00-05:00",
     "date_et": "2024-12-02"
@@ -2346,7 +2698,7 @@
     "url": "https://www.marketbeat.com/originals/superstores-to-ecommerce-sales-walmart-parties-like-its-1999/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-12-02T08:16:57-05:00",
     "date_et": "2024-12-02"
@@ -2362,7 +2714,7 @@
     "url": "https://www.youtube.com/watch?v=kymUNygwaIU",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-12-02T09:55:03-05:00",
     "date_et": "2024-12-02"
@@ -2378,7 +2730,7 @@
     "url": "https://www.zacks.com/stock/news/2377575/stocks-etfs-in-focus-on-cyber-monday?cid=CS-STOCKNEWSAPI-FT-etf_news_and_commentary-2377575",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-12-02T10:31:13-05:00",
     "date_et": "2024-12-02"
@@ -2394,7 +2746,7 @@
     "url": "https://www.zacks.com/stock/news/2377701/holiday-shopping-growth-slows-stocks-etfs-to-gain?cid=CS-STOCKNEWSAPI-FT-etf_news_and_commentary-2377701",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-12-02T14:01:10-05:00",
     "date_et": "2024-12-02"
@@ -2410,7 +2762,7 @@
     "url": "https://thefly.com/permalinks/entry.php/id4031143/CART-Instacart-initiated-with-neutral-view-at-Deutsche-Bank-heres-why",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-12-03T05:39:58-05:00",
     "date_et": "2024-12-03"
@@ -2426,7 +2778,7 @@
     "url": "https://www.barrons.com/articles/walmart-dicks-black-friday-winners-retail-2ab16e6d",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-12-03T08:04:00-05:00",
     "date_et": "2024-12-03"
@@ -2442,7 +2794,7 @@
     "url": "https://www.businesswire.com/news/home/20241203633675/en/Walmart-Completes-Acquisition-of-VIZIO/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-12-03T09:05:00-05:00",
     "date_et": "2024-12-03"
@@ -2458,7 +2810,7 @@
     "url": "https://techcrunch.com/2024/12/03/walmart-completes-23b-acquisition-of-vizio-to-help-grow-its-ad-business/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-12-03T13:06:40-05:00",
     "date_et": "2024-12-03"
@@ -2474,7 +2826,7 @@
     "url": "https://www.pymnts.com/walmart/2024/walmart-wraps-2-3-billion-vizio-purchase-to-bolster-retail-media/",
     "ticker": "WMT",
     "event_date": "2024-11-19",
-    "window_start": "2024-11-12",
+    "window_start": "2024-11-05",
     "window_end": "2024-12-03",
     "publishedDateET": "2024-12-03T15:33:17-05:00",
     "date_et": "2024-12-03"

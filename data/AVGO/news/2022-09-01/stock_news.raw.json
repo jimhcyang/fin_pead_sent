@@ -1,6 +1,70 @@
 [
   {
     "symbol": "AVGO",
+    "publishedDate": "2022-08-22 15:21:30",
+    "publisher": "Seeking Alpha",
+    "title": "Broadcom: Attractively Valued Stock With Multiple Growth Catalysts",
+    "image": "https://images.financialmodelingprep.com/news/broadcom-attractively-valued-stock-with-multiple-growth-catalysts-20220822.jpg",
+    "site": "seekingalpha.com",
+    "text": "Broadcom is poised to benefit from the CHIPS and Science Act, which is not yet fully priced into the stock. The VMWare acquisition is another potential positive catalyst for Broadcom.",
+    "url": "https://seekingalpha.com/article/4536206-broadcom-attractively-valued-stock-multiple-growth-catalysts",
+    "ticker": "AVGO",
+    "event_date": "2022-09-01",
+    "window_start": "2022-08-18",
+    "window_end": "2022-09-15",
+    "publishedDateET": "2022-08-22T15:21:30-04:00",
+    "date_et": "2022-08-22"
+  },
+  {
+    "symbol": "AVGO",
+    "publishedDate": "2022-08-22 09:00:00",
+    "publisher": "GlobeNewsWire",
+    "title": "Broadcom and Tencent Partner to Accelerate Commercialization of Co-Packaged Optics Network Switch",
+    "image": "https://images.financialmodelingprep.com/news/broadcom-and-tencent-partner-to-accelerate-commercialization-of-copackaged-optics-20220822.jpg",
+    "site": "globenewswire.com",
+    "text": "Industry's first 25.6-Tbps CPO switch delivers unprecedented bandwidth density and power efficiency Industry's first 25.6-Tbps CPO switch delivers unprecedented bandwidth density and power efficiency",
+    "url": "https://www.globenewswire.com/news-release/2022/08/22/2502256/19933/en/Broadcom-and-Tencent-Partner-to-Accelerate-Commercialization-of-Co-Packaged-Optics-Network-Switch.html",
+    "ticker": "AVGO",
+    "event_date": "2022-09-01",
+    "window_start": "2022-08-18",
+    "window_end": "2022-09-15",
+    "publishedDateET": "2022-08-22T09:00:00-04:00",
+    "date_et": "2022-08-22"
+  },
+  {
+    "symbol": "AVGO",
+    "publishedDate": "2022-08-23 10:45:32",
+    "publisher": "Seeking Alpha",
+    "title": "Broadcom: Consumer Weakness Spills Into Data Center And Enterprise; Wait For A Better Entry Point",
+    "image": "https://images.financialmodelingprep.com/news/broadcom-consumer-weakness-spills-into-data-center-and-enterprise-20220823.jpg",
+    "site": "seekingalpha.com",
+    "text": "AVGO's data center and enterprise networking business will likely face increased headwinds in the coming quarters, and we expect the stock to pull back from these levels. We, however, expect its software business to remain stable, partially offsetting the weaker demand in the data center and enterprise networking markets.",
+    "url": "https://seekingalpha.com/article/4536401-broadcom-consumer-weakness-data-center-enterprise-wait-better-entry",
+    "ticker": "AVGO",
+    "event_date": "2022-09-01",
+    "window_start": "2022-08-18",
+    "window_end": "2022-09-15",
+    "publishedDateET": "2022-08-23T10:45:32-04:00",
+    "date_et": "2022-08-23"
+  },
+  {
+    "symbol": "AVGO",
+    "publishedDate": "2022-08-24 16:33:08",
+    "publisher": "Zacks Investment Research",
+    "title": "Broadcom (AVGO) Partners With Tencent to Develop CPO Switches",
+    "image": "https://images.financialmodelingprep.com/news/broadcom-avgo-partners-with-tencent-to-develop-cpo-switches-20220824.jpg",
+    "site": "zacks.com",
+    "text": "Broadcom (AVGO) forms a strategic partnership with Tencent and has built the world's first 25.6-Tbps CPO system for hyperscale data center field deployment.",
+    "url": "https://www.zacks.com/stock/news/1972122/broadcom-avgo-partners-with-tencent-to-develop-cpo-switches",
+    "ticker": "AVGO",
+    "event_date": "2022-09-01",
+    "window_start": "2022-08-18",
+    "window_end": "2022-09-15",
+    "publishedDateET": "2022-08-24T16:33:08-04:00",
+    "date_et": "2022-08-24"
+  },
+  {
+    "symbol": "AVGO",
     "publishedDate": "2022-08-25 20:19:25",
     "publisher": "24/7 Wall Street",
     "title": "These Are The 10 Biggest Companies Releasing Earnings Next Week",
@@ -10,7 +74,7 @@
     "url": "https://247wallst.com/investing/2022/08/25/these-are-the-10-biggest-companies-releasing-earnings-next-week/",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-08-25T20:19:25-04:00",
     "date_et": "2022-08-25"
@@ -26,7 +90,7 @@
     "url": "https://www.marketwatch.com/story/vmware-beats-on-earnings-as-it-awaits-broadcom-acquisition-approval-11661458835",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-08-25T16:20:00-04:00",
     "date_et": "2022-08-25"
@@ -42,7 +106,7 @@
     "url": "https://www.fool.com/investing/2022/08/25/3-dividend-paying-tech-stocks-to-buy-right-now/",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-08-25T05:20:00-04:00",
     "date_et": "2022-08-25"
@@ -58,7 +122,7 @@
     "url": "https://www.investors.com/news/technology/semiconductor-stocks-picking-winners-amid-rising-chip-inventories/",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-08-29T14:48:46-04:00",
     "date_et": "2022-08-29"
@@ -74,7 +138,7 @@
     "url": "https://www.zacks.com/stock/news/1974269/broadcom-q3-preview-can-the-earnings-streak-continue",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-08-30T18:48:14-04:00",
     "date_et": "2022-08-30"
@@ -90,7 +154,7 @@
     "url": "https://investorplace.com/earnings-reports/",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-08-30T15:03:38-04:00",
     "date_et": "2022-08-30"
@@ -106,7 +170,7 @@
     "url": "https://investorplace.com/2022/08/7-no-brainer-dividend-stocks-to-buy-if-you-have-money-to-invest/",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-08-30T06:00:06-04:00",
     "date_et": "2022-08-30"
@@ -122,7 +186,7 @@
     "url": "https://www.zacks.com/commentary/1974919/3-s-p-500-companies-with-insider-buys-in-2022",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-08-31T16:33:07-04:00",
     "date_et": "2022-08-31"
@@ -138,7 +202,7 @@
     "url": "https://seekingalpha.com/article/4538566-broadcom-inc-avgo-q3-2022-earnings-call-transcript",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-01T21:04:09-04:00",
     "date_et": "2022-09-01"
@@ -154,7 +218,7 @@
     "url": "https://seekingalpha.com/article/4538559-broadcom-jumps-after-q3-earnings",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-01T19:59:26-04:00",
     "date_et": "2022-09-01"
@@ -170,7 +234,7 @@
     "url": "https://www.zacks.com/stock/news/1975519/broadcom-inc-avgo-q3-earnings-and-revenues-beat-estimates",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-01T19:08:35-04:00",
     "date_et": "2022-09-01"
@@ -186,7 +250,7 @@
     "url": "https://invezz.com/news/2022/09/01/broadcom-stock-has-more-upside-after-strong-q3/",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-01T18:23:08-04:00",
     "date_et": "2022-09-01"
@@ -202,7 +266,7 @@
     "url": "https://www.marketwatch.com/story/broadcom-results-outlook-breeze-past-wall-street-expectations-stock-ticks-higher-11662064541",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-01T16:35:00-04:00",
     "date_et": "2022-09-01"
@@ -218,7 +282,7 @@
     "url": "https://www.investors.com/news/technology/avgo-stock-broadcom-rises-on-beat-and-raise-report/",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-01T16:26:29-04:00",
     "date_et": "2022-09-01"
@@ -234,7 +298,7 @@
     "url": "https://www.prnewswire.com/news-releases/broadcom-inc-announces-third-quarter-fiscal-year-2022-financial-results-and-quarterly-dividends-301616753.html",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-01T16:15:00-04:00",
     "date_et": "2022-09-01"
@@ -250,7 +314,7 @@
     "url": "https://www.gurufocus.com/news/1862329/3-promising-stocks-with-high-gf-scores",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-01T14:24:04-04:00",
     "date_et": "2022-09-01"
@@ -266,7 +330,7 @@
     "url": "https://www.zacks.com/stock/news/1976053/broadcom-avgo-beats-q3-earnings-estimates-revenues-up-y-y",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-02T14:17:11-04:00",
     "date_et": "2022-09-02"
@@ -282,7 +346,7 @@
     "url": "https://www.fool.com/investing/2022/09/02/why-broadcom-stock-popped-on-friday/",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-02T13:28:25-04:00",
     "date_et": "2022-09-02"
@@ -298,7 +362,7 @@
     "url": "https://investorplace.com/2022/09/broadcom-avgo-stock-pops-on-q3-earnings-beat/",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-02T11:03:32-04:00",
     "date_et": "2022-09-02"
@@ -314,7 +378,7 @@
     "url": "https://www.barrons.com/articles/chip-stocks-nvidia-micron-amd-broadcom-forecast-51662108070",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-02T04:41:00-04:00",
     "date_et": "2022-09-02"
@@ -330,7 +394,7 @@
     "url": "https://www.fool.com/investing/2022/09/03/10-best-dividend-stocks-to-buy-now-in-september/",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-03T11:22:18-04:00",
     "date_et": "2022-09-03"
@@ -346,7 +410,7 @@
     "url": "https://seekingalpha.com/article/4538931-broadcom-q3-earnings-reinforce-positive-outlook",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-04T19:09:30-04:00",
     "date_et": "2022-09-04"
@@ -362,7 +426,7 @@
     "url": "https://www.zacks.com/stock/news/1976388/broadcom-inc-avgo-is-attracting-investor-attention-here-is-what-you-should-know",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-05T10:32:14-04:00",
     "date_et": "2022-09-05"
@@ -378,7 +442,7 @@
     "url": "https://www.insidertrades.com/education/broadcom-bounces-from-institutional-bottom/?SNAPI",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-06T10:16:13-04:00",
     "date_et": "2022-09-06"
@@ -394,7 +458,7 @@
     "url": "https://www.fool.com/investing/2022/09/06/lesser-known-cloud-stock-primed-turnaround-buy/",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-06T06:37:00-04:00",
     "date_et": "2022-09-06"
@@ -410,7 +474,7 @@
     "url": "https://www.businessinsider.com/vmware-chaos-broadcom-acquisition-layoffs-conference-employees-customers-2022-8",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-07T07:00:00-04:00",
     "date_et": "2022-09-07"
@@ -426,7 +490,7 @@
     "url": "https://www.zacks.com/stock/news/1978391/broadcom-avgo-ships-trident-4c-ethernet-switch-asic-for-safety",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-08T18:03:06-04:00",
     "date_et": "2022-09-08"
@@ -442,7 +506,7 @@
     "url": "https://www.businesswire.com/news/home/20220908005373/en/Intel-and-Broadcom-Achieve-Major-Wi-Fi-7-Industry-Milestone/",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-08T12:00:00-04:00",
     "date_et": "2022-09-08"
@@ -458,7 +522,7 @@
     "url": "https://www.fool.com/investing/2022/09/08/broadcom-stock-buy-shaking-off-chip-demand/",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-08T05:20:00-04:00",
     "date_et": "2022-09-08"
@@ -474,7 +538,7 @@
     "url": "https://www.zacks.com/stock/news/1978940/3-acquisitions-in-2022-with-major-upside",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-09T18:48:21-04:00",
     "date_et": "2022-09-09"
@@ -490,7 +554,7 @@
     "url": "https://seekingalpha.com/article/4540475-broadcom-networking-segment-driving-double-digit-revenue-growth",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-12T16:52:54-04:00",
     "date_et": "2022-09-12"
@@ -506,7 +570,7 @@
     "url": "https://seekingalpha.com/article/4540476-broadcom-has-compelling-semiconductor-strength-during-these-trying-times",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-13T09:35:00-04:00",
     "date_et": "2022-09-13"
@@ -522,7 +586,7 @@
     "url": "https://seekingalpha.com/article/4540987-broadcom-semiconductor-downturn-and-its-delayed-effects",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-14T13:34:21-04:00",
     "date_et": "2022-09-14"
@@ -538,7 +602,7 @@
     "url": "https://seekingalpha.com/article/4540868-super-powered-high-yield-blue-chip-bargains",
     "ticker": "AVGO",
     "event_date": "2022-09-01",
-    "window_start": "2022-08-25",
+    "window_start": "2022-08-18",
     "window_end": "2022-09-15",
     "publishedDateET": "2022-09-14T07:00:00-04:00",
     "date_et": "2022-09-14"

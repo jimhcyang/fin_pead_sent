@@ -1,7 +1,7 @@
 {
   "ticker": "AVGO",
   "source_prices": "Yahoo Finance (via yfinance)",
-  "generated_at_et": "2026-02-07T18:23:19.452345-05:00",
+  "generated_at_et": "2026-02-07T19:25:18.662961-05:00",
   "rows": 1592,
   "analysis_window_start": "2019-10-01",
   "analysis_window_end": "2026-01-30",

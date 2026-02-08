@@ -1,6 +1,118 @@
 [
   {
     "symbol": "HD",
+    "publishedDate": "2023-05-02 07:02:00",
+    "publisher": "Barron's",
+    "title": "Home Depot Now Stocks SpaceX's Starlink Terminal. It's Not Having A Stellar Impact.",
+    "image": "https://images.financialmodelingprep.com/news/home-depot-now-stocks-spacexs-starlink-terminal-its-not-20230502.jpg",
+    "site": "barrons.com",
+    "text": "Space-based Wi-Fi hardware now sits alongside Duct tape, hand tools, and gardening implements at the retailer.",
+    "url": "https://www.barrons.com/articles/home-depot-spacex-starlink-terminal-stock-market-price-elon-musk-efbee486",
+    "ticker": "HD",
+    "event_date": "2023-05-16",
+    "window_start": "2023-05-02",
+    "window_end": "2023-05-30",
+    "publishedDateET": "2023-05-02T07:02:00-04:00",
+    "date_et": "2023-05-02"
+  },
+  {
+    "symbol": "HD",
+    "publishedDate": "2023-05-02 17:45:46",
+    "publisher": "GuruFocus",
+    "title": "Introducing GuruGPT: Your AI-Powered Stock Analysis Assistant",
+    "image": "https://images.financialmodelingprep.com/news/introducing-gurugpt-your-aipowered-stock-analysis-assistant-20230502.jpg",
+    "site": "gurufocus.com",
+    "text": "Introduction",
+    "url": "https://www.gurufocus.com/news/1990516/introducing-gurugpt-your-aipowered-stock-analysis-assistant",
+    "ticker": "HD",
+    "event_date": "2023-05-16",
+    "window_start": "2023-05-02",
+    "window_end": "2023-05-30",
+    "publishedDateET": "2023-05-02T17:45:46-04:00",
+    "date_et": "2023-05-02"
+  },
+  {
+    "symbol": "HD",
+    "publishedDate": "2023-05-05 12:29:00",
+    "publisher": "Market Watch",
+    "title": "Bunk beds sold by Walmart, Home Depot, Amazon and others recalled over faulty slats",
+    "image": "https://images.financialmodelingprep.com/news/bunk-beds-sold-by-walmart-home-depot-amazon-and-others-20230505.jpg",
+    "site": "marketwatch.com",
+    "text": "Walker Edison is voluntarily recalling 121,000 twin bunk beds that may have slats that break and pose falling and impact hazards.",
+    "url": "https://www.marketwatch.com/story/bunk-beds-sold-by-walmart-home-depot-amazon-and-others-recalled-over-faulty-slats-f98c8f75",
+    "ticker": "HD",
+    "event_date": "2023-05-16",
+    "window_start": "2023-05-02",
+    "window_end": "2023-05-30",
+    "publishedDateET": "2023-05-05T12:29:00-04:00",
+    "date_et": "2023-05-05"
+  },
+  {
+    "symbol": "HD",
+    "publishedDate": "2023-05-05 14:29:00",
+    "publisher": "Barron's",
+    "title": "Forget Home Depot and Lowe's. Here's the Home Improvement Stock to Buy.",
+    "image": "https://images.financialmodelingprep.com/news/forget-home-depot-and-lowes-heres-the-home-improvement-stock-20230505.jpg",
+    "site": "barrons.com",
+    "text": "The home improvement market's traditionally strong spring season has been a lackluster one.",
+    "url": "https://www.barrons.com/articles/home-depot-lowes-tractor-supply-stock-1ddb25b9",
+    "ticker": "HD",
+    "event_date": "2023-05-16",
+    "window_start": "2023-05-02",
+    "window_end": "2023-05-30",
+    "publishedDateET": "2023-05-05T14:29:00-04:00",
+    "date_et": "2023-05-05"
+  },
+  {
+    "symbol": "HD",
+    "publishedDate": "2023-05-06 07:11:00",
+    "publisher": "The Motley Fool",
+    "title": "Better Dividend Stock: Coca-Cola vs. Home Depot",
+    "image": "https://images.financialmodelingprep.com/news/better-dividend-stock-cocacola-vs-home-depot-20230506.jpg",
+    "site": "fool.com",
+    "text": "Coke has a longer track record of consistent dividend raises. Home Depot's slowing sales will pressure cash flow this year.",
+    "url": "https://www.fool.com/investing/2023/05/06/better-dividend-stock-coca-cola-vs-home-depot/",
+    "ticker": "HD",
+    "event_date": "2023-05-16",
+    "window_start": "2023-05-02",
+    "window_end": "2023-05-30",
+    "publishedDateET": "2023-05-06T07:11:00-04:00",
+    "date_et": "2023-05-06"
+  },
+  {
+    "symbol": "HD",
+    "publishedDate": "2023-05-07 13:00:31",
+    "publisher": "InvestorPlace",
+    "title": "7 Must-Buy Stocks to Create a Crash-Proof Portfolio",
+    "image": "https://images.financialmodelingprep.com/news/7-mustbuy-stocks-to-create-a-crashproof-portfolio-20230507.jpg",
+    "site": "investorplace.com",
+    "text": "Although I'm not trying to alarm anyone, investors may want to consider so-called crash-proof stocks. These are enterprises that enjoy both analyst support and command reliable, predictable businesses.",
+    "url": "https://investorplace.com/2023/05/7-must-buy-stocks-to-create-a-crash-proof-portfolio/",
+    "ticker": "HD",
+    "event_date": "2023-05-16",
+    "window_start": "2023-05-02",
+    "window_end": "2023-05-30",
+    "publishedDateET": "2023-05-07T13:00:31-04:00",
+    "date_et": "2023-05-07"
+  },
+  {
+    "symbol": "HD",
+    "publishedDate": "2023-05-08 12:30:00",
+    "publisher": "Stockmarket.com",
+    "title": "3 Cyclical Stocks To Watch In May 2023",
+    "image": "https://images.financialmodelingprep.com/news/3-cyclical-stocks-to-watch-in-may-2023-20230508.jpg",
+    "site": "stockmarket.com",
+    "text": "Cyclical stocks to check out in the stock market right now.",
+    "url": "https://stockmarket.com/featured/3-cyclical-stocks-to-watch-in-may-2023-2023-05-08",
+    "ticker": "HD",
+    "event_date": "2023-05-16",
+    "window_start": "2023-05-02",
+    "window_end": "2023-05-30",
+    "publishedDateET": "2023-05-08T12:30:00-04:00",
+    "date_et": "2023-05-08"
+  },
+  {
+    "symbol": "HD",
     "publishedDate": "2023-05-09 08:00:53",
     "publisher": "Investor's Business Daily",
     "title": "16 Stocks Run Circles Around Warren Buffett Over The Long Haul",
@@ -10,7 +122,7 @@
     "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-stocks-run-circles-around-warren-buffett-over-the-long-haul/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-09T08:00:53-04:00",
     "date_et": "2023-05-09"
@@ -26,7 +138,7 @@
     "url": "https://www.zacks.com/stock/news/2092378/earnings-preview-home-depot-hd-q1-earnings-expected-to-decline",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-09T11:27:32-04:00",
     "date_et": "2023-05-09"
@@ -42,7 +154,7 @@
     "url": "https://www.schaeffersresearch.com/content/analysis/2023/05/11/a-pre-earnings-look-at-home-depot-stock",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-11T12:49:57-04:00",
     "date_et": "2023-05-11"
@@ -58,7 +170,7 @@
     "url": "https://www.fool.com/investing/2023/05/12/better-buy-costco-vs-home-depot/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-12T09:30:00-04:00",
     "date_et": "2023-05-12"
@@ -74,7 +186,7 @@
     "url": "https://247wallst.com/investing/2023/05/12/earnings-previews-home-depot-iqiyi-sea-limited-tencent-music/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-12T11:41:29-04:00",
     "date_et": "2023-05-12"
@@ -90,7 +202,7 @@
     "url": "https://www.barrons.com/articles/why-everyone-is-worried-about-lowes-and-home-depot-ahead-of-earnings-eb7c4b3f",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-12T12:01:00-04:00",
     "date_et": "2023-05-12"
@@ -106,7 +218,7 @@
     "url": "https://www.zacks.com/stock/news/2094851/factors-to-decide-the-fate-of-home-depot-hd-in-q1-earnings",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-12T12:11:08-04:00",
     "date_et": "2023-05-12"
@@ -122,7 +234,7 @@
     "url": "https://www.marketwatch.com/story/with-major-retail-earnings-on-deck-this-is-what-to-look-out-for-say-analysts-ca8f1324",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-12T14:06:00-04:00",
     "date_et": "2023-05-12"
@@ -138,7 +250,7 @@
     "url": "https://www.investors.com/research/investing-action-plan/stock-market-action-plan-may-15-19-walmart-target-deere/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-12T17:37:44-04:00",
     "date_et": "2023-05-12"
@@ -154,7 +266,7 @@
     "url": "https://www.fool.com/investing/2023/05/12/the-3-key-dow-stocks-to-watch-next-week/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-12T18:37:00-04:00",
     "date_et": "2023-05-12"
@@ -170,7 +282,7 @@
     "url": "https://investorplace.com/2023/05/3-super-safe-stocks-to-protect-your-2023-portfolio/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-13T09:09:09-04:00",
     "date_et": "2023-05-13"
@@ -186,7 +298,7 @@
     "url": "https://seekingalpha.com/article/4604327-may-mda-breakout-stocksetfs-week-20-2023-high-frequency-gainers-to-give-you-an-edge",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-14T07:47:41-04:00",
     "date_et": "2023-05-14"
@@ -202,7 +314,7 @@
     "url": "https://www.fool.com/investing/2023/05/14/where-will-home-depot-stock-be-in-3-years/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-14T10:23:00-04:00",
     "date_et": "2023-05-14"
@@ -218,7 +330,7 @@
     "url": "https://www.forbes.com/sites/adamsarhan/2023/05/15/earnings-preview-what-to-expect-from-home-depot-on-tuesday/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-15T07:30:00-04:00",
     "date_et": "2023-05-15"
@@ -234,7 +346,7 @@
     "url": "https://www.investors.com/news/home-depot-earnings-dow-jones-hd-stock/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-15T11:14:45-04:00",
     "date_et": "2023-05-15"
@@ -250,7 +362,7 @@
     "url": "https://www.zacks.com/stock/news/2095331/retail-earnings-in-focus",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-15T12:09:05-04:00",
     "date_et": "2023-05-15"
@@ -266,7 +378,7 @@
     "url": "https://www.zacks.com/stock/news/2095325/big-week-for-retail-housing-fed-members",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-15T12:09:12-04:00",
     "date_et": "2023-05-15"
@@ -282,7 +394,7 @@
     "url": "https://www.zacks.com/stock/news/2095312/what-in-store-for-retail-etfs-in-big-box-q1-earnings",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-15T13:41:16-04:00",
     "date_et": "2023-05-15"
@@ -298,7 +410,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1015053?SNAPI",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-15T15:33:47-04:00",
     "date_et": "2023-05-15"
@@ -314,7 +426,7 @@
     "url": "https://www.zacks.com/commentary/2095459/4-quarterly-reports-worth-watching-this-week",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-15T15:59:05-04:00",
     "date_et": "2023-05-15"
@@ -330,7 +442,7 @@
     "url": "https://www.zacks.com/stock/news/2095537/on-breaking-losing-streaks-debt-ceiling-defaults-more",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-15T19:45:07-04:00",
     "date_et": "2023-05-15"
@@ -346,7 +458,7 @@
     "url": "https://www.fool.com/investing/2023/05/16/3-incredibly-cheap-dividend-stocks-any-25/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T05:35:00-04:00",
     "date_et": "2023-05-16"
@@ -362,7 +474,7 @@
     "url": "https://www.cnbc.com/2023/05/16/home-depot-hd-earnings-q1-2023.html",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T06:01:52-04:00",
     "date_et": "2023-05-16"
@@ -378,7 +490,7 @@
     "url": "https://www.cnbc.com/2023/05/16/what-home-depots-poor-outlook-means-for-the-stock-market-and-economy.html",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T07:09:48-04:00",
     "date_et": "2023-05-16"
@@ -394,7 +506,7 @@
     "url": "https://www.cnn.com/2023/05/16/business/home-depot-shoppers-pulling-back/index.html",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T08:15:59-04:00",
     "date_et": "2023-05-16"
@@ -410,7 +522,7 @@
     "url": "https://www.zacks.com/stock/news/2095623/home-depot-hd-tops-q1-earnings-estimates",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T08:24:05-04:00",
     "date_et": "2023-05-16"
@@ -426,7 +538,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1015159?SNAPI",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T08:30:04-04:00",
     "date_et": "2023-05-16"
@@ -442,7 +554,7 @@
     "url": "https://www.marketbeat.com/originals/the-home-depot-returns-to-the-bargain-basement-yay/?SNAPI",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T09:32:52-04:00",
     "date_et": "2023-05-16"
@@ -458,7 +570,7 @@
     "url": "https://www.zacks.com/stock/news/2095806/home-depot-hd-stock-falls-as-q1-earnings-sales-decline-y-y",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T09:53:22-04:00",
     "date_et": "2023-05-16"
@@ -474,7 +586,7 @@
     "url": "https://invezz.com/news/2023/05/16/buy-home-depot-stock-despite-weak-guidance-2/?SNAPI",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T11:39:02-04:00",
     "date_et": "2023-05-16"
@@ -490,7 +602,7 @@
     "url": "https://www.zacks.com/stock/news/2095892/retail-sales-fail-to-meet-expectations-in-april",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T12:57:48-04:00",
     "date_et": "2023-05-16"
@@ -506,7 +618,7 @@
     "url": "https://stockmarket.com/featured/good-stocks-to-invest-in-today-3-consumer-stocks-to-watch-2023-05-16",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T13:00:00-04:00",
     "date_et": "2023-05-16"
@@ -522,7 +634,7 @@
     "url": "https://www.fool.com/investing/2023/05/16/why-home-depot-stock-sank-today/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T13:32:53-04:00",
     "date_et": "2023-05-16"
@@ -538,7 +650,7 @@
     "url": "https://www.barrons.com/articles/home-depot-lowes-earnings-stock-price-91f0ce34",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T14:13:00-04:00",
     "date_et": "2023-05-16"
@@ -554,7 +666,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2023/05/16/lowes-home-depot-drawing-frenzied-put-traders",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T15:13:16-04:00",
     "date_et": "2023-05-16"
@@ -570,7 +682,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1015205?SNAPI",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T15:37:48-04:00",
     "date_et": "2023-05-16"
@@ -586,7 +698,7 @@
     "url": "https://www.fool.com/investing/2023/05/16/these-2-home-products-stocks-could-be-signaling-a/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T18:09:00-04:00",
     "date_et": "2023-05-16"
@@ -602,7 +714,7 @@
     "url": "https://www.forbes.com/sites/adamsarhan/2023/05/16/the-great-housing-riddle-home-depots-earnings-vs-housing-stocks/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-16T18:16:35-04:00",
     "date_et": "2023-05-16"
@@ -618,7 +730,7 @@
     "url": "https://www.fool.com/investing/2023/05/17/home-depots-sales-trends-are-deteriorating-heres-w/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-17T06:17:00-04:00",
     "date_et": "2023-05-17"
@@ -634,7 +746,7 @@
     "url": "https://www.investopedia.com/dow-jones-today-may-16-7499092",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-17T10:31:02-04:00",
     "date_et": "2023-05-17"
@@ -650,7 +762,7 @@
     "url": "https://www.investopedia.com/markets-fall-on-home-depot-warning-debt-talks-7499112",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-17T10:31:06-04:00",
     "date_et": "2023-05-17"
@@ -666,7 +778,7 @@
     "url": "https://www.investopedia.com/5-things-to-know-before-markets-open-may-16-2023-7498659",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-17T10:31:12-04:00",
     "date_et": "2023-05-17"
@@ -682,7 +794,7 @@
     "url": "https://www.investopedia.com/home-depot-reports-biggest-quarterly-sales-miss-in-over-20-years-7498963",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-17T10:35:44-04:00",
     "date_et": "2023-05-17"
@@ -698,7 +810,7 @@
     "url": "https://seekingalpha.com/article/4605398-10-dividend-growth-stocks-may-2022",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-17T11:47:50-04:00",
     "date_et": "2023-05-17"
@@ -714,7 +826,7 @@
     "url": "https://www.marketwatch.com/story/retailers-say-theft-cost-nearly-100-billion-last-year-but-are-stores-using-crime-stats-to-cover-up-other-problems-5822f45f",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-17T14:33:00-04:00",
     "date_et": "2023-05-17"
@@ -730,7 +842,7 @@
     "url": "https://www.fool.com/investing/2023/05/17/i-update-my-buy-recommendation-on-home-depot-stock/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-17T16:33:14-04:00",
     "date_et": "2023-05-17"
@@ -746,7 +858,7 @@
     "url": "https://www.zacks.com/commentary/2096500/home-depot-earnings-review-buy-homebuilders-instead",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-17T16:37:06-04:00",
     "date_et": "2023-05-17"
@@ -762,7 +874,7 @@
     "url": "https://www.fool.com/investing/2023/05/18/home-depot-buy-sell-or-hold/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-18T10:15:00-04:00",
     "date_et": "2023-05-18"
@@ -778,7 +890,7 @@
     "url": "https://www.fool.com/investing/2023/05/19/home-depot-stock-buy-sell-or-hold/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-19T06:38:00-04:00",
     "date_et": "2023-05-19"
@@ -794,7 +906,7 @@
     "url": "https://www.fool.com/investing/2023/05/19/these-2-retail-stocks-are-screaming-buys-this-week/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-19T11:15:00-04:00",
     "date_et": "2023-05-19"
@@ -810,7 +922,7 @@
     "url": "https://www.barrons.com/articles/walmart-stock-retail-earnings-f7c609ef",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-19T12:19:00-04:00",
     "date_et": "2023-05-19"
@@ -826,7 +938,7 @@
     "url": "https://www.cnbc.com/2023/05/19/us-economy-consumer-takeaways-from-wmt-tgt-hd-retail-earnings.html",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-19T12:32:37-04:00",
     "date_et": "2023-05-19"
@@ -842,7 +954,7 @@
     "url": "https://www.fool.com/investing/2023/05/19/home-depot-selloff-stop-freaking-out-and-watch-thi/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-19T13:30:00-04:00",
     "date_et": "2023-05-19"
@@ -858,7 +970,7 @@
     "url": "https://www.zacks.com/stock/news/2097651/should-investors-buy-lowe-s-or-home-depot-stock-this-earnings-season",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-19T21:22:05-04:00",
     "date_et": "2023-05-19"
@@ -874,7 +986,7 @@
     "url": "https://www.fool.com/investing/2023/05/20/is-it-time-to-buy-golf-stocks/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-20T07:00:00-04:00",
     "date_et": "2023-05-20"
@@ -890,7 +1002,7 @@
     "url": "https://www.fool.com/investing/2023/05/20/bull-market-is-coming-3-reasons-to-buy-home-depot/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-20T09:00:00-04:00",
     "date_et": "2023-05-20"
@@ -906,7 +1018,7 @@
     "url": "https://www.fool.com/investing/2023/05/21/lumber-prices-are-crashing-heres-what-it-means-for/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-21T05:30:00-04:00",
     "date_et": "2023-05-21"
@@ -922,7 +1034,7 @@
     "url": "https://www.fool.com/investing/2023/05/21/this-underrated-growth-stock-is-a-no-brainer-buy/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-21T13:01:00-04:00",
     "date_et": "2023-05-21"
@@ -938,7 +1050,7 @@
     "url": "https://investorplace.com/2023/05/5-ev-stocks-to-buy-to-make-you-the-millionaire-next-door/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-22T11:53:23-04:00",
     "date_et": "2023-05-22"
@@ -954,7 +1066,7 @@
     "url": "https://www.investors.com/news/lowes-stock-first-quarter-profits-expected-to-fall-after-rival-home-depots-dour-2023-warning/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-22T12:15:24-04:00",
     "date_et": "2023-05-22"
@@ -970,7 +1082,7 @@
     "url": "https://www.fool.com/investing/2023/05/23/better-buy-target-or-home-depot/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-23T13:52:15-04:00",
     "date_et": "2023-05-23"
@@ -986,7 +1098,7 @@
     "url": "https://www.forbes.com/sites/jasongoldberg/2023/05/23/retail-giants-vs-us-economy-walmart-amazon-triumph-as-target-home-depot-and-lowes-stumble/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-23T19:48:35-04:00",
     "date_et": "2023-05-23"
@@ -1002,7 +1114,7 @@
     "url": "https://www.fool.com/investing/2023/05/24/4-top-dividend-stocks-to-buy-in-may-and-put-away/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-24T10:15:00-04:00",
     "date_et": "2023-05-24"
@@ -1018,7 +1130,7 @@
     "url": "https://www.fool.com/investing/2023/05/25/home-depot-lower-guidance-shouldnt-worry-investors/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-25T09:45:00-04:00",
     "date_et": "2023-05-25"
@@ -1034,7 +1146,7 @@
     "url": "https://www.fool.com/investing/2023/05/25/is-this-stock-a-buy-for-dividend-growth-investors/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-25T11:55:09-04:00",
     "date_et": "2023-05-25"
@@ -1050,7 +1162,7 @@
     "url": "https://www.investors.com/news/economy/debt-ceiling-fight-is-just-the-start-these-big-fiscal-drags-could-derail-u-s-economy-stock-market/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-25T14:00:03-04:00",
     "date_et": "2023-05-25"
@@ -1066,7 +1178,7 @@
     "url": "https://www.fool.com/investing/2023/05/26/1-red-flag-for-home-depot-stock-in-2023/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-26T05:13:00-04:00",
     "date_et": "2023-05-26"
@@ -1082,7 +1194,7 @@
     "url": "https://www.fool.com/investing/2023/05/26/2-dividend-stocks-for-the-next-decade/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-26T07:47:00-04:00",
     "date_et": "2023-05-26"
@@ -1098,7 +1210,7 @@
     "url": "https://www.zacks.com/stock/news/2100198/home-depot-hd-q1-earnings-taking-a-look-at-key-metrics-versus-estimates",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-26T10:35:15-04:00",
     "date_et": "2023-05-26"
@@ -1114,7 +1226,7 @@
     "url": "https://seekingalpha.com/article/4607661-home-depot-vs-lowes-interest-rates-important-effects",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-26T11:46:12-04:00",
     "date_et": "2023-05-26"
@@ -1130,7 +1242,7 @@
     "url": "https://www.fool.com/investing/2023/05/27/a-pending-restaurant-ipo-and-ai-buzz/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-27T06:00:00-04:00",
     "date_et": "2023-05-27"
@@ -1146,7 +1258,7 @@
     "url": "https://www.fool.com/investing/2023/05/27/you-ai-and-the-brands-you-love/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-27T10:19:00-04:00",
     "date_et": "2023-05-27"
@@ -1162,7 +1274,7 @@
     "url": "https://seekingalpha.com/article/4607896-june-mda-breakout-stocksetfs-week-22",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-28T10:10:25-04:00",
     "date_et": "2023-05-28"
@@ -1178,7 +1290,7 @@
     "url": "https://invezz.com/news/2023/05/30/3-overbought-us-sectors-to-watch-in-the-months-ahead/?SNAPI",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-30T06:24:19-04:00",
     "date_et": "2023-05-30"
@@ -1194,7 +1306,7 @@
     "url": "https://investorplace.com/2023/05/7-consumer-stocks-to-avoid-like-the-plague-right-now/",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-30T07:00:26-04:00",
     "date_et": "2023-05-30"
@@ -1210,7 +1322,7 @@
     "url": "https://seekingalpha.com/article/4608176-2-dividend-stocks-buy-hold-next-decade",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-30T10:05:00-04:00",
     "date_et": "2023-05-30"
@@ -1226,7 +1338,7 @@
     "url": "https://www.zacks.com/stock/news/2101476/slew-of-q1-earnings-beat-fails-to-impress-retail-etfs",
     "ticker": "HD",
     "event_date": "2023-05-16",
-    "window_start": "2023-05-09",
+    "window_start": "2023-05-02",
     "window_end": "2023-05-30",
     "publishedDateET": "2023-05-30T12:40:13-04:00",
     "date_et": "2023-05-30"

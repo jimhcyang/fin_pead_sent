@@ -4,11 +4,39 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2021-01-26",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2021-01-19",
+  "start": "2021-01-12",
   "end": "2021-02-09",
   "chunks": [
+    {
+      "start": "2021-01-12",
+      "end": "2021-01-12"
+    },
+    {
+      "start": "2021-01-13",
+      "end": "2021-01-13"
+    },
+    {
+      "start": "2021-01-14",
+      "end": "2021-01-14"
+    },
+    {
+      "start": "2021-01-15",
+      "end": "2021-01-15"
+    },
+    {
+      "start": "2021-01-16",
+      "end": "2021-01-16"
+    },
+    {
+      "start": "2021-01-17",
+      "end": "2021-01-17"
+    },
+    {
+      "start": "2021-01-18",
+      "end": "2021-01-18"
+    },
     {
       "start": "2021-01-19",
       "end": "2021-01-19"
@@ -105,16 +133,16 @@
   "chunk_days": 0,
   "pad_days": 0,
   "sleep": 0.05,
-  "fetched_total": 57,
-  "kept_total": 57,
+  "fetched_total": 83,
+  "kept_total": 83,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2021-01-19T10:33:15-05:00",
+  "min_publishedDateET": "2021-01-12T18:48:16-05:00",
   "max_publishedDateET": "2021-02-08T11:58:58-05:00",
   "outputs": {
     "raw_json": "data/AMD/news/2021-01-26/stock_news.raw.json",
     "jsonl": "data/AMD/news/2021-01-26/stock_news.jsonl",
     "csv": "data/AMD/news/2021-01-26/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:33:20.683643-05:00",
+  "generated_at": "2026-02-07T19:39:35.842087-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

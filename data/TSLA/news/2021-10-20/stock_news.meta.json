@@ -4,13 +4,13 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2021-10-20",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2021-10-13",
+  "start": "2021-10-06",
   "end": "2021-11-03",
   "chunks": [
     {
-      "start": "2021-10-13",
+      "start": "2021-10-06",
       "end": "2021-11-03"
     }
   ],
@@ -21,16 +21,16 @@
   "chunk_days": 0,
   "pad_days": 1,
   "sleep": 0.05,
-  "fetched_total": 405,
-  "kept_total": 376,
+  "fetched_total": 495,
+  "kept_total": 473,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2021-10-13T02:31:01-04:00",
+  "min_publishedDateET": "2021-10-06T08:30:01-04:00",
   "max_publishedDateET": "2021-11-03T18:21:00-04:00",
   "outputs": {
     "raw_json": "data/TSLA/news/2021-10-20/stock_news.raw.json",
     "jsonl": "data/TSLA/news/2021-10-20/stock_news.jsonl",
     "csv": "data/TSLA/news/2021-10-20/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:24:25.813558-05:00",
+  "generated_at": "2026-02-07T19:27:19.628777-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

@@ -1,6 +1,182 @@
 [
   {
     "symbol": "NVDA",
+    "publishedDate": "2021-02-10 11:41:11",
+    "publisher": "Zacks Investment Research",
+    "title": "Household Inflation Remains Benign in January",
+    "image": "https://images.financialmodelingprep.com/news/household-inflation-remains-benign-in-january-20210210.jpg",
+    "site": "zacks.com",
+    "text": "Household Inflation Remains Benign in January.",
+    "url": "https://www.zacks.com/stock/news/1260775/household-inflation-remains-benign-in-january",
+    "ticker": "NVDA",
+    "event_date": "2021-02-24",
+    "window_start": "2021-02-10",
+    "window_end": "2021-03-10",
+    "publishedDateET": "2021-02-10T11:41:11-05:00",
+    "date_et": "2021-02-10"
+  },
+  {
+    "symbol": "NVDA",
+    "publishedDate": "2021-02-10 19:15:03",
+    "publisher": "Zacks Investment Research",
+    "title": "5 Best ETFs for Young Investors",
+    "image": "https://images.financialmodelingprep.com/news/5-best-etfs-for-young-investors-20210210.jpg",
+    "site": "zacks.com",
+    "text": "As more young investors take up day trading, I have an important recipe for long-term wealth creation.",
+    "url": "https://www.zacks.com/stock/news/1261291/5-best-etfs-for-young-investors",
+    "ticker": "NVDA",
+    "event_date": "2021-02-24",
+    "window_start": "2021-02-10",
+    "window_end": "2021-03-10",
+    "publishedDateET": "2021-02-10T19:15:03-05:00",
+    "date_et": "2021-02-10"
+  },
+  {
+    "symbol": "NVDA",
+    "publishedDate": "2021-02-10 20:46:03",
+    "publisher": "Zacks Investment Research",
+    "title": "Top Tech Stocks to Buy Amid Strong Earnings and Bullish Outlook",
+    "image": "https://images.financialmodelingprep.com/news/top-tech-stocks-to-buy-amid-strong-earnings-and-20210210.jpg",
+    "site": "zacks.com",
+    "text": "Technology impacts nearly every aspect of our lives and the economy, and with a bullish setup for 2021, investors might want to add a few tech names to their portfolios.",
+    "url": "https://www.zacks.com/stock/news/1261316/top-tech-stocks-to-buy-amid-strong-earnings-and-bullish-outlook",
+    "ticker": "NVDA",
+    "event_date": "2021-02-24",
+    "window_start": "2021-02-10",
+    "window_end": "2021-03-10",
+    "publishedDateET": "2021-02-10T20:46:03-05:00",
+    "date_et": "2021-02-10"
+  },
+  {
+    "symbol": "NVDA",
+    "publishedDate": "2021-02-11 15:52:21",
+    "publisher": "Zacks Investment Research",
+    "title": "GameStop Lessons: Becoming a Savvy Investor with ETFs",
+    "image": "https://images.financialmodelingprep.com/news/gamestop-lessons-becoming-a-savvy-investor-with-etfs-20210211.jpg",
+    "site": "zacks.com",
+    "text": "As more young investors take up day trading, I have a recipe for long-term wealth creation",
+    "url": "https://www.zacks.com/stock/news/1261952/gamestop-lessons-becoming-a-savvy-investor-with-etfs",
+    "ticker": "NVDA",
+    "event_date": "2021-02-24",
+    "window_start": "2021-02-10",
+    "window_end": "2021-03-10",
+    "publishedDateET": "2021-02-11T15:52:21-05:00",
+    "date_et": "2021-02-11"
+  },
+  {
+    "symbol": "NVDA",
+    "publishedDate": "2021-02-11 17:21:44",
+    "publisher": "Fox Business",
+    "title": "Biden administration on semiconductor chip shortage, promises help",
+    "image": "https://images.financialmodelingprep.com/news/biden-administration-on-semiconductor-chip-shortage-promises-help-20210211.jpg",
+    "site": "foxbusiness.com",
+    "text": "The Biden administration is vowing to help with global semiconductor shortage.",
+    "url": "https://www.foxbusiness.com/markets/biden-administration-on-semiconductor-chip-shortage-promises-help",
+    "ticker": "NVDA",
+    "event_date": "2021-02-24",
+    "window_start": "2021-02-10",
+    "window_end": "2021-03-10",
+    "publishedDateET": "2021-02-11T17:21:44-05:00",
+    "date_et": "2021-02-11"
+  },
+  {
+    "symbol": "NVDA",
+    "publishedDate": "2021-02-11 17:30:27",
+    "publisher": "InvestorPlace",
+    "title": "4 Top Stock Trades for Friday: NVDA, UBER, ZNGA, DIS",
+    "image": "https://images.financialmodelingprep.com/news/4-top-stock-trades-for-friday-nvda-uber-znga-20210211.jpg",
+    "site": "investorplace.com",
+    "text": "Nvidia, Uber, Zynga and Disney were our top stock trades for Friday. Now, let's look at the charts to see how these names are setting up.",
+    "url": "https://investorplace.com/2021/02/4-top-stock-trades-for-friday-nvda-uber-znga-dis/",
+    "ticker": "NVDA",
+    "event_date": "2021-02-24",
+    "window_start": "2021-02-10",
+    "window_end": "2021-03-10",
+    "publishedDateET": "2021-02-11T17:30:27-05:00",
+    "date_et": "2021-02-11"
+  },
+  {
+    "symbol": "NVDA",
+    "publishedDate": "2021-02-12 13:06:01",
+    "publisher": "Forbes",
+    "title": "NVIDIA Chips Away At The Competition To Earn Top Buy Rating",
+    "image": "https://images.financialmodelingprep.com/news/nvidia-chips-away-at-the-competition-to-earn-top-20210212.jpg",
+    "site": "forbes.com",
+    "text": "NVIDIA Corp (NVDA) has had a stellar year overall. Here's why Q.ai thinks NVIDIA is worth the price.",
+    "url": "https://www.forbes.com/sites/qai/2021/02/12/nvidia-chips-away-at-the-competition-to-earn-top-buy-rating/",
+    "ticker": "NVDA",
+    "event_date": "2021-02-24",
+    "window_start": "2021-02-10",
+    "window_end": "2021-03-10",
+    "publishedDateET": "2021-02-12T13:06:01-05:00",
+    "date_et": "2021-02-12"
+  },
+  {
+    "symbol": "NVDA",
+    "publishedDate": "2021-02-13 09:00:00",
+    "publisher": "The Motley Fool",
+    "title": "3 Cheap Stocks to Buy in February",
+    "image": "https://images.financialmodelingprep.com/news/3-cheap-stocks-to-buy-in-february-20210213.jpg",
+    "site": "fool.com",
+    "text": "The long-term potential of these tech stocks makes them look cheap right now.",
+    "url": "https://www.fool.com/investing/2021/02/13/3-cheap-stocks-to-buy-in-february/",
+    "ticker": "NVDA",
+    "event_date": "2021-02-24",
+    "window_start": "2021-02-10",
+    "window_end": "2021-03-10",
+    "publishedDateET": "2021-02-13T09:00:00-05:00",
+    "date_et": "2021-02-13"
+  },
+  {
+    "symbol": "NVDA",
+    "publishedDate": "2021-02-14 11:02:21",
+    "publisher": "Benzinga",
+    "title": "Green With Envy For Nvidia Stock: How Much $1,000 Invested 5 Years Ago Would Be Worth Today",
+    "image": "https://images.financialmodelingprep.com/news/green-with-envy-for-nvidia-stock-how-much-1000-20210214.jpg",
+    "site": "benzinga.com",
+    "text": "Investors who have owned stocks since 2016 generally have experienced some big gains. In fact, the SPDR S&P 500 (NYSE: SPY) total return in the past five years is 131.9%.",
+    "url": "https://www.benzinga.com/general/education/21/02/19596942/green-with-envy-for-nvidia-stock-how-much-1-000-invested-5-years-ago-would-be-worth-today",
+    "ticker": "NVDA",
+    "event_date": "2021-02-24",
+    "window_start": "2021-02-10",
+    "window_end": "2021-03-10",
+    "publishedDateET": "2021-02-14T11:02:21-05:00",
+    "date_et": "2021-02-14"
+  },
+  {
+    "symbol": "NVDA",
+    "publishedDate": "2021-02-16 10:41:35",
+    "publisher": "InvestorPlace",
+    "title": "7 Semiconductor Stocks Surging From the Chip Shortage",
+    "image": "https://images.financialmodelingprep.com/news/7-semiconductor-stocks-surging-from-the-chip-shortage-20210216.jpg",
+    "site": "investorplace.com",
+    "text": "Chips are a must-have commodity for virtually every industry. Now, with demand causing a shortage, semiconductor stocks are surging in value.",
+    "url": "https://investorplace.com/2021/02/7-semiconductor-stocks-surging-from-the-chip-shortage/",
+    "ticker": "NVDA",
+    "event_date": "2021-02-24",
+    "window_start": "2021-02-10",
+    "window_end": "2021-03-10",
+    "publishedDateET": "2021-02-16T10:41:35-05:00",
+    "date_et": "2021-02-16"
+  },
+  {
+    "symbol": "NVDA",
+    "publishedDate": "2021-02-16 15:06:00",
+    "publisher": "The Motley Fool",
+    "title": "Federal Trade Commission Probes NVIDIA's Acquisition of Chipmaker Arm Holding",
+    "image": "https://images.financialmodelingprep.com/news/federal-trade-commission-probes-nvidias-acquisition-of-chipmaker-arm-holding-20210216.jpg",
+    "site": "fool.com",
+    "text": "The move comes after backlash from other big tech companies.",
+    "url": "https://www.fool.com/investing/2021/02/16/federal-trade-commission-probes-nvidias-acquisitio/",
+    "ticker": "NVDA",
+    "event_date": "2021-02-24",
+    "window_start": "2021-02-10",
+    "window_end": "2021-03-10",
+    "publishedDateET": "2021-02-16T15:06:00-05:00",
+    "date_et": "2021-02-16"
+  },
+  {
+    "symbol": "NVDA",
     "publishedDate": "2021-02-17 01:00:59",
     "publisher": "Seeking Alpha",
     "title": "BOTZ: The Future Is Autonomous",
@@ -10,7 +186,7 @@
     "url": "https://seekingalpha.com/article/4406548-botz-globalx-robotics-artificial-intelligence-etf-future-is-autonomous",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-17T01:00:59-05:00",
     "date_et": "2021-02-17"
@@ -26,7 +202,7 @@
     "url": "https://247wallst.com/investing/2021/02/17/why-the-best-gdp-growth-in-40-years-could-drive-these-5-stocks-much-higher/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-17T07:58:31-05:00",
     "date_et": "2021-02-17"
@@ -42,7 +218,7 @@
     "url": "https://www.zacks.com/stock/news/1264719/nvidia-nvda-reports-next-week-wall-street-expects-earnings-growth",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-17T13:40:42-05:00",
     "date_et": "2021-02-17"
@@ -58,7 +234,7 @@
     "url": "https://www.globenewswire.com/news-release/2021/02/17/2177523/0/en/NVIDIA-Announces-Upcoming-Events-for-Financial-Community.html",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-17T16:30:00-05:00",
     "date_et": "2021-02-17"
@@ -74,7 +250,7 @@
     "url": "https://www.zacks.com/stock/news/1265011/3-great-blue-chip-dividend-stocks-to-buy-now-with-dow-at-records",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-17T21:13:03-05:00",
     "date_et": "2021-02-17"
@@ -90,7 +266,7 @@
     "url": "https://www.zacks.com/stock/news/1265808/nvidia-nvda-dips-more-than-broader-markets-what-you-should-know",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-18T18:57:06-05:00",
     "date_et": "2021-02-18"
@@ -106,7 +282,7 @@
     "url": "https://www.fool.com/investing/2021/02/19/why-nvidia-stock-can-zoom-higher-earnings-season/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-19T07:45:00-05:00",
     "date_et": "2021-02-19"
@@ -122,7 +298,7 @@
     "url": "https://www.fool.com/investing/2021/02/19/why-qualcomm-cant-afford-to-let-nvidia-acquire-arm/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-19T09:39:28-05:00",
     "date_et": "2021-02-19"
@@ -138,7 +314,7 @@
     "url": "https://www.zacks.com/stock/news/1266107/nvidia-nvda-to-report-q4-earnings-whats-in-store",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-19T09:50:23-05:00",
     "date_et": "2021-02-19"
@@ -154,7 +330,7 @@
     "url": "https://investorplace.com/2021/02/7-growth-stocks-to-plant-in-your-portfolio-this-year/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-19T12:14:01-05:00",
     "date_et": "2021-02-19"
@@ -170,7 +346,7 @@
     "url": "https://www.zacks.com/commentary/1266463/earnings-start-growing-again",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-19T18:09:03-05:00",
     "date_et": "2021-02-19"
@@ -186,7 +362,7 @@
     "url": "https://247wallst.com/investing/2021/02/21/airbnb-doordash-draftkings-home-depot-nvidia-and-more-major-earnings-coming-this-week/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-21T06:15:30-05:00",
     "date_et": "2021-02-21"
@@ -202,7 +378,7 @@
     "url": "https://www.fool.com/investing/2021/02/21/5-stocks-that-could-make-you-rich/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-21T12:00:00-05:00",
     "date_et": "2021-02-21"
@@ -218,7 +394,7 @@
     "url": "https://www.barrons.com/articles/airbnb-nvidia-etsy-dominos-draftkings-and-other-stocks-to-watch-this-week-51613937602",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-21T15:00:00-05:00",
     "date_et": "2021-02-21"
@@ -234,7 +410,7 @@
     "url": "https://www.proactiveinvestors.co.uk//companies/news/941883/nvidia-and-salesforce-to-report-earnings-941883.html?SNAPI",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-22T05:02:49-05:00",
     "date_et": "2021-02-22"
@@ -250,7 +426,7 @@
     "url": "https://www.zacks.com/stock/news/1267160/solid-data-center-demand-to-boost-nvidias-nvda-q4-earnings",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-22T09:52:19-05:00",
     "date_et": "2021-02-22"
@@ -266,7 +442,7 @@
     "url": "https://www.zacks.com/stock/news/1267361/markets-await-economic-and-earnings-data",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-22T11:22:26-05:00",
     "date_et": "2021-02-22"
@@ -282,7 +458,7 @@
     "url": "https://247wallst.com/investing/2021/02/22/delta-air-foot-locker-nvidia-petrobras-and-more-monday-afternoon-analyst-calls/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-22T12:46:35-05:00",
     "date_et": "2021-02-22"
@@ -298,7 +474,7 @@
     "url": "https://www.benzinga.com/markets/options/21/02/19779626/what-you-need-to-know-in-options-this-week-nvidia-beyond-meat-salesforce-square-workday-and-more",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-22T13:09:09-05:00",
     "date_et": "2021-02-22"
@@ -314,7 +490,7 @@
     "url": "https://www.marketwatch.com/story/nvidia-earnings-expected-to-show-record-gaming-sales-despite-shortage-11614023371",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-22T14:49:00-05:00",
     "date_et": "2021-02-22"
@@ -330,7 +506,7 @@
     "url": "https://www.zacks.com/stock/news/1267626/q4-earnings-previews-time-to-buy-nvidia-and-etsy-stock",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-22T17:26:06-05:00",
     "date_et": "2021-02-22"
@@ -346,7 +522,7 @@
     "url": "https://seekingalpha.com/article/4408049-nvidia-post-covid-outlook",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-22T18:50:37-05:00",
     "date_et": "2021-02-22"
@@ -362,7 +538,7 @@
     "url": "https://www.fool.com/investing/2021/02/23/this-etf-could-help-grow-any-retirement-nest-egg/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-23T08:34:00-05:00",
     "date_et": "2021-02-23"
@@ -378,7 +554,7 @@
     "url": "https://www.zacks.com/stock/news/1267931/tech-stocks-feb-24-earnings-lineup-anss-nvda-ntap-more",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-23T09:52:56-05:00",
     "date_et": "2021-02-23"
@@ -394,7 +570,7 @@
     "url": "https://www.zacks.com/stock/news/1268207/will-nvidia-beat-or-miss-q4-earnings-etfs-to-watch",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-23T12:53:30-05:00",
     "date_et": "2021-02-23"
@@ -410,7 +586,7 @@
     "url": "https://247wallst.com/investing/2021/02/23/earnings-previews-3d-systems-nvidia-best-buy-li-auto-moderna-plug-power/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-23T13:45:40-05:00",
     "date_et": "2021-02-23"
@@ -426,7 +602,7 @@
     "url": "https://www.benzinga.com/news/earnings/21/02/19805807/square-and-nvidia-earnings-moves-and-spread-trading",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-23T14:41:59-05:00",
     "date_et": "2021-02-23"
@@ -442,7 +618,7 @@
     "url": "https://www.zacks.com/stock/news/1268344/5-pandemic-winner-earnings-charts",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-23T17:25:02-05:00",
     "date_et": "2021-02-23"
@@ -458,7 +634,7 @@
     "url": "https://www.barrons.com/articles/nvidia-stock-earnings-report-preview-51614190911",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-24T13:23:00-05:00",
     "date_et": "2021-02-24"
@@ -474,7 +650,7 @@
     "url": "https://invezz.com/news/2021/02/24/pros-list-their-top-tech-stocks-to-buy-amid-the-nasdaq-selloff/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-24T14:43:30-05:00",
     "date_et": "2021-02-24"
@@ -490,7 +666,7 @@
     "url": "https://www.globenewswire.com/news-release/2021/02/24/2181882/0/en/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2021.html",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-24T16:20:00-05:00",
     "date_et": "2021-02-24"
@@ -506,7 +682,7 @@
     "url": "https://www.marketwatch.com/investing/stock/NVDA",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-24T16:27:09-05:00",
     "date_et": "2021-02-24"
@@ -522,7 +698,7 @@
     "url": "https://www.marketwatch.com/story/nvidia-quarterly-sales-top-5-billion-for-first-time-11614202574",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-24T16:36:00-05:00",
     "date_et": "2021-02-24"
@@ -538,7 +714,7 @@
     "url": "https://www.benzinga.com/news/earnings/21/02/19839873/nvidia-q4-earnings-insights",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-24T16:36:18-05:00",
     "date_et": "2021-02-24"
@@ -554,7 +730,7 @@
     "url": "https://www.cnbc.com/2021/02/24/nvidia-nvda-earnings-q4-2021.html",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-24T16:36:42-05:00",
     "date_et": "2021-02-24"
@@ -570,7 +746,7 @@
     "url": "https://venturebeat.com/2021/02/24/nvidias-q4-revenues-rise-61-to-5-billion-as-gaming-and-datacenters-stay-strong/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-24T16:37:22-05:00",
     "date_et": "2021-02-24"
@@ -586,7 +762,7 @@
     "url": "https://www.businessinsider.com/heres-how-much-nvidias-executives-made-in-2020-compensation-2021-2",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-24T16:42:21-05:00",
     "date_et": "2021-02-24"
@@ -602,7 +778,7 @@
     "url": "https://invezz.com/news/2021/02/24/nvidia-says-its-quarterly-sales-topped-3-5-billion-for-the-first-time/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-24T17:22:16-05:00",
     "date_et": "2021-02-24"
@@ -618,7 +794,7 @@
     "url": "https://www.fool.com/investing/2021/02/24/nvidias-revenue-surge-61-year-over-year-on-record/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-24T18:32:44-05:00",
     "date_et": "2021-02-24"
@@ -634,7 +810,7 @@
     "url": "https://www.zacks.com/stock/news/1269041/markets-break-higher-nvidia-beats-q4-expectations",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-24T18:57:41-05:00",
     "date_et": "2021-02-24"
@@ -650,7 +826,7 @@
     "url": "https://www.zacks.com/stock/news/1269110/buy-this-great-semiconductor-stock-before-earnings-for-tech-growth",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-24T21:58:15-05:00",
     "date_et": "2021-02-24"
@@ -666,7 +842,7 @@
     "url": "https://seekingalpha.com/article/4408822-nvidia-corporations-nvda-ceo-jensen-huang-on-q4-2021-results-earnings-call-transcript",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-24T23:44:02-05:00",
     "date_et": "2021-02-24"
@@ -682,7 +858,7 @@
     "url": "https://www.fool.com/investing/2021/02/25/nvidia-no-cryptocurrency-miners-buy-gaming-gpu/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-25T07:45:00-05:00",
     "date_et": "2021-02-25"
@@ -698,7 +874,7 @@
     "url": "https://www.barrons.com/articles/nvidia-drops-moderna-pops-and-stocks-are-dented-by-higher-rates-51614260991",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-25T08:49:00-05:00",
     "date_et": "2021-02-25"
@@ -714,7 +890,7 @@
     "url": "https://seekingalpha.com/article/4408898-nvidia-growth-challenging",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-25T09:18:20-05:00",
     "date_et": "2021-02-25"
@@ -730,7 +906,7 @@
     "url": "https://www.fool.com/investing/2021/02/25/nvidias-earnings-report-was-stellar-again-but-not/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-25T09:37:00-05:00",
     "date_et": "2021-02-25"
@@ -746,7 +922,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2021/02/25/analysts-blast-nvda-with-bull-notes-after-earnings",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-25T09:37:32-05:00",
     "date_et": "2021-02-25"
@@ -762,7 +938,7 @@
     "url": "https://www.zacks.com/stock/news/1269509/nvidia-nvda-q4-earnings-revenues-beat-estimates-up-y-y",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-25T10:38:17-05:00",
     "date_et": "2021-02-25"
@@ -778,7 +954,7 @@
     "url": "https://www.zacks.com/stock/news/1269597/5-etfs-to-watch-as-nvidia-tops-q4-earnings-guides-higher",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-25T12:10:19-05:00",
     "date_et": "2021-02-25"
@@ -794,7 +970,7 @@
     "url": "https://www.marketwatch.com/story/nvidia-stock-falls-as-analysts-nitpick-data-center-results-in-record-earnings-report-11614274123",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-25T12:28:00-05:00",
     "date_et": "2021-02-25"
@@ -810,7 +986,7 @@
     "url": "https://www.freightwaves.com/news/self-driving-truck-technology-startup-tusimple-nears-stock-offering",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-25T14:27:28-05:00",
     "date_et": "2021-02-25"
@@ -826,7 +1002,7 @@
     "url": "https://www.fool.com/investing/2021/02/25/why-nvidia-shares-stumbled-today-after-an-impressi/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-25T15:40:52-05:00",
     "date_et": "2021-02-25"
@@ -842,7 +1018,7 @@
     "url": "https://www.barrons.com/articles/nvidia-stock-is-slumping-after-earnings-bitcoin-is-partly-to-blame-51614288521",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-25T16:28:00-05:00",
     "date_et": "2021-02-25"
@@ -858,7 +1034,7 @@
     "url": "https://www.benzinga.com/analyst-ratings/analyst-color/21/02/19859114/nvidia-investors-are-pulling-back-on-q4-results-but-these-analysts-still-like-chipm",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-25T17:52:39-05:00",
     "date_et": "2021-02-25"
@@ -874,7 +1050,7 @@
     "url": "https://www.cnbc.com/2021/02/25/nvidia-ceo-jensen-huang-discusses-potential-acquisition-of-arm.html",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-25T19:38:03-05:00",
     "date_et": "2021-02-25"
@@ -890,7 +1066,7 @@
     "url": "https://www.zacks.com/stock/news/1269804/3-cheap-tech-stocks-to-buy-on-the-dip-as-the-nasdaq-sinks",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-25T19:44:09-05:00",
     "date_et": "2021-02-25"
@@ -906,7 +1082,7 @@
     "url": "https://www.marketwatch.com/story/nvidias-future-is-bright-as-its-many-bets-are-paying-off-11614288114",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-26T07:23:00-05:00",
     "date_et": "2021-02-26"
@@ -922,7 +1098,7 @@
     "url": "https://www.investors.com/news/stock-market-rally-under-pressure-as-tesla-nvidia-square-growth-stocks-sell-off/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-26T12:07:23-05:00",
     "date_et": "2021-02-26"
@@ -938,7 +1114,7 @@
     "url": "https://www.zacks.com/stock/news/1270494/inflation-perfect-storm-the-feds-dual-conundrum",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-26T17:26:03-05:00",
     "date_et": "2021-02-26"
@@ -954,7 +1130,7 @@
     "url": "https://www.fool.com/investing/2021/02/28/should-you-buy-stocks-right-now-heres-warren-buffe/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-28T09:45:00-05:00",
     "date_et": "2021-02-28"
@@ -970,7 +1146,7 @@
     "url": "https://www.gurufocus.com/news/1372314/3-stocks-growing-free-cash-flow-fast-",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-28T13:02:25-05:00",
     "date_et": "2021-02-28"
@@ -986,7 +1162,7 @@
     "url": "https://pulse2.com/nvda-stock-price-nasdaq-nvidia-800-target-up-from-700-by-needham/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-02-28T22:04:33-05:00",
     "date_et": "2021-02-28"
@@ -1002,7 +1178,7 @@
     "url": "https://www.investors.com/research/nvidia-stock-buy-now-branch/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-01T12:32:50-05:00",
     "date_et": "2021-03-01"
@@ -1018,7 +1194,7 @@
     "url": "https://seekingalpha.com/article/4410526-nvidia-corp-nvda-presents-raymond-james-institutional-investors-broker-conference-call",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-01T17:58:06-05:00",
     "date_et": "2021-03-01"
@@ -1034,7 +1210,7 @@
     "url": "https://www.fool.com/investing/2021/03/02/cryptocurrency-autonomous-vehicles-nvidia-growth/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-02T11:22:56-05:00",
     "date_et": "2021-03-02"
@@ -1050,7 +1226,7 @@
     "url": "https://seekingalpha.com/article/4410703-nvidia-in-demand-and-in-charge",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-02T11:45:47-05:00",
     "date_et": "2021-03-02"
@@ -1066,7 +1242,7 @@
     "url": "https://seekingalpha.com/article/4410989-chip-shortage-may-end-semis-perfect-storm-prematurely",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-03T08:44:51-05:00",
     "date_et": "2021-03-03"
@@ -1082,7 +1258,7 @@
     "url": "https://seekingalpha.com/article/4411190-nvidia-corp-nvda-presents-morgan-stanley-technology-media-and-telecom-broker-conference-call",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-03T15:25:38-05:00",
     "date_et": "2021-03-03"
@@ -1098,7 +1274,7 @@
     "url": "https://seekingalpha.com/article/4411214-driv-etf-less-volatile-way-to-get-electric-vehicle-exposure",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-03T17:33:34-05:00",
     "date_et": "2021-03-03"
@@ -1114,7 +1290,7 @@
     "url": "https://seekingalpha.com/article/4411253-nvidia-corporation-nvda-management-presents-arete-tech-conference-transcript",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-03T20:24:06-05:00",
     "date_et": "2021-03-03"
@@ -1130,7 +1306,7 @@
     "url": "https://www.zacks.com/stock/news/1273126/semiconductor-industry-continues-to-thrive-5-stocks-to-buy",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-04T09:08:13-05:00",
     "date_et": "2021-03-04"
@@ -1146,7 +1322,7 @@
     "url": "https://www.zacks.com/stock/news/1273313/steady-rise-in-esg-investing-to-boost-these-5-stocks",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-04T11:24:21-05:00",
     "date_et": "2021-03-04"
@@ -1162,7 +1338,7 @@
     "url": "https://www.zacks.com/stock/news/1273667/what-lies-ahead-for-semiconductor-stocks-etfs",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-04T17:27:03-05:00",
     "date_et": "2021-03-04"
@@ -1178,7 +1354,7 @@
     "url": "https://www.zacks.com/stock/news/1273896/pc-sales-well-poised-for-a-robust-2021-5-stocks-to-track",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-05T07:38:18-05:00",
     "date_et": "2021-03-05"
@@ -1194,7 +1370,7 @@
     "url": "https://www.fool.com/investing/2021/03/05/my-top-tech-ipo-to-buy-in-march/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-05T08:42:00-05:00",
     "date_et": "2021-03-05"
@@ -1210,7 +1386,7 @@
     "url": "https://www.forbes.com/sites/qai/2021/03/05/top-stocks-to-buy-in-march/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-05T13:18:55-05:00",
     "date_et": "2021-03-05"
@@ -1226,7 +1402,7 @@
     "url": "https://www.fool.com/investing/2021/03/05/these-2-tech-giants-pulled-the-nasdaq-back-from-th/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-05T15:27:14-05:00",
     "date_et": "2021-03-05"
@@ -1242,7 +1418,7 @@
     "url": "https://www.fool.com/investing/2021/03/06/3-top-artificial-intelligence-stocks-buy-march/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-06T08:30:00-05:00",
     "date_et": "2021-03-06"
@@ -1258,7 +1434,7 @@
     "url": "https://investorplace.com/2021/03/4-stocks-hampered-by-this-continued-shortage-of-semiconductors/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-08T08:03:27-05:00",
     "date_et": "2021-03-08"
@@ -1274,7 +1450,7 @@
     "url": "https://www.zacks.com/stock/news/1275688/microchip-sales-poised-to-grow-on-soaring-demand-5-winners",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-09T06:50:04-05:00",
     "date_et": "2021-03-09"
@@ -1290,7 +1466,7 @@
     "url": "https://www.globenewswire.com/news-release/2021/03/09/2189632/0/en/NVIDIA-CEO-Jensen-Huang-to-Host-AI-Pioneers-Yoshua-Bengio-Geoffrey-Hinton-and-Yann-LeCun-and-Others-at-GTC21.html",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-09T09:00:00-05:00",
     "date_et": "2021-03-09"
@@ -1306,7 +1482,7 @@
     "url": "https://www.marketwatch.com/story/nvidia-stock-leads-chip-rally-as-tech-shares-bounce-back-11615324124",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-09T16:08:00-05:00",
     "date_et": "2021-03-09"
@@ -1322,7 +1498,7 @@
     "url": "https://www.fool.com/investing/2021/03/09/why-nvidia-and-amd-stocks-jumped-today/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-09T20:04:00-05:00",
     "date_et": "2021-03-09"
@@ -1338,7 +1514,7 @@
     "url": "https://247wallst.com/technology-3/2021/03/10/6-sizzling-semiconductor-stocks-to-buy-after-massive-sell-off/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-10T07:42:08-05:00",
     "date_et": "2021-03-10"
@@ -1354,7 +1530,7 @@
     "url": "https://www.zacks.com/stock/news/1276646/5-top-ranked-semiconductor-stocks-to-buy-for-better-returns",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-10T09:06:07-05:00",
     "date_et": "2021-03-10"
@@ -1370,7 +1546,7 @@
     "url": "https://investorplace.com/2021/03/bft-stock-has-great-upside-potential-despite-short-term-turbulence/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-10T10:18:50-05:00",
     "date_et": "2021-03-10"
@@ -1386,7 +1562,7 @@
     "url": "https://investorplace.com/2021/03/nvda-stock-slides-further-offers-a-buying-opportunity/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-10T13:36:36-05:00",
     "date_et": "2021-03-10"
@@ -1402,7 +1578,7 @@
     "url": "https://investorplace.com/2021/03/reddit-army-gme-amc-bb-bonnie-and-clyde-wall-street-wsb/",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-10T17:07:43-05:00",
     "date_et": "2021-03-10"
@@ -1418,7 +1594,7 @@
     "url": "https://www.gurufocus.com/news/1383125/5-fast-growers-that-gurus-are-buying",
     "ticker": "NVDA",
     "event_date": "2021-02-24",
-    "window_start": "2021-02-17",
+    "window_start": "2021-02-10",
     "window_end": "2021-03-10",
     "publishedDateET": "2021-03-10T17:53:55-05:00",
     "date_et": "2021-03-10"

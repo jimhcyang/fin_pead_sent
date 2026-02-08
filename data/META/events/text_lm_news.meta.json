@@ -5,7 +5,7 @@
   "event_long_out": "data/META/events/text_lm_news_event_long.csv",
   "event_wide_out": "data/META/events/text_lm_news_event_wide.csv",
   "min_tokens": 20,
-  "rows_in": 5801,
-  "rows_scored": 3627,
+  "rows_in": 6912,
+  "rows_scored": 4344,
   "events_scored": 20
 }

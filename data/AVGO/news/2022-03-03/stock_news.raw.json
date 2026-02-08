@@ -1,6 +1,54 @@
 [
   {
     "symbol": "AVGO",
+    "publishedDate": "2022-02-18 08:34:02",
+    "publisher": "Zacks Investment Research",
+    "title": "5 Dividend Growth Stocks to Buy Amid Market Volatility",
+    "image": "https://images.financialmodelingprep.com/news/5-dividend-growth-stocks-to-buy-amid-market-volatility-20220218.jpg",
+    "site": "zacks.com",
+    "text": "Five dividend growth stocks - Boise Cascade (BCC), Archer-Daniels-Midland (ADM), Broadcom (AVGO), Apple (AAPL) and J.B. Hunt (JBHT) - could be compelling picks amid market volatility.",
+    "url": "https://www.zacks.com/stock/news/1869709/5-dividend-growth-stocks-to-buy-amid-market-volatility",
+    "ticker": "AVGO",
+    "event_date": "2022-03-03",
+    "window_start": "2022-02-17",
+    "window_end": "2022-03-17",
+    "publishedDateET": "2022-02-18T08:34:02-05:00",
+    "date_et": "2022-02-18"
+  },
+  {
+    "symbol": "AVGO",
+    "publishedDate": "2022-02-19 04:57:02",
+    "publisher": "Seeking Alpha",
+    "title": "GlobalFoundries: Aggressive Expansion Paves Path To Double-Digit Growth",
+    "image": "https://images.financialmodelingprep.com/news/globalfoundries-aggressive-expansion-paves-path-to-doubledigit-growth-20220219.jpg",
+    "site": "seekingalpha.com",
+    "text": "We analysed GlobalFoundries' business and expansion plans to increase wafer capacity across its Singapore, US and Germany facilities.",
+    "url": "https://seekingalpha.com/article/4488555-globalfoundries-expansion-double-digit-growth",
+    "ticker": "AVGO",
+    "event_date": "2022-03-03",
+    "window_start": "2022-02-17",
+    "window_end": "2022-03-17",
+    "publishedDateET": "2022-02-19T04:57:02-05:00",
+    "date_et": "2022-02-19"
+  },
+  {
+    "symbol": "AVGO",
+    "publishedDate": "2022-02-22 17:16:43",
+    "publisher": "Seeking Alpha",
+    "title": "Broadcom Still Looking At Robust Demand Even As Tech Investor Enthusiasm Cools",
+    "image": "https://images.financialmodelingprep.com/news/broadcom-still-looking-at-robust-demand-even-as-tech-20220222.jpg",
+    "site": "seekingalpha.com",
+    "text": "Looking at other players in end-markets like networking, broadband, wireless, and storage, Broadcom is looking at very strong end-market demand conditions. Broadcom continues to develop products to extend its leadership in key markets, and opportunities like custom ASIC for AI/machine learning and photonics seem underappreciated.",
+    "url": "https://seekingalpha.com/article/4489153-broadcom-robust-demand-despite-lower-investor-enthusiasm",
+    "ticker": "AVGO",
+    "event_date": "2022-03-03",
+    "window_start": "2022-02-17",
+    "window_end": "2022-03-17",
+    "publishedDateET": "2022-02-22T17:16:43-05:00",
+    "date_et": "2022-02-22"
+  },
+  {
+    "symbol": "AVGO",
     "publishedDate": "2022-02-24 09:00:00",
     "publisher": "GlobeNewsWire",
     "title": "Broadcom Drives Ecosystem Transition with Industry-Leading PCIe Gen 5.0 Product Portfolio",
@@ -10,7 +58,7 @@
     "url": "https://www.globenewswire.com/news-release/2022/02/24/2391519/19933/en/Broadcom-Drives-Ecosystem-Transition-with-Industry-Leading-PCIe-Gen-5-0-Product-Portfolio.html",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-02-24T09:00:00-05:00",
     "date_et": "2022-02-24"
@@ -26,7 +74,7 @@
     "url": "https://247wallst.com/technology-3/2022/02/24/top-wall-street-strategist-says-buy-these-5-safe-dividend-paying-tech-stocks-now/",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-02-24T06:37:48-05:00",
     "date_et": "2022-02-24"
@@ -42,7 +90,7 @@
     "url": "https://www.zacks.com/stock/news/1873812/broadcom-inc-avgo-gains-but-lags-market-what-you-should-know",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-02-25T19:13:19-05:00",
     "date_et": "2022-02-25"
@@ -58,7 +106,7 @@
     "url": "https://www.zacks.com/stock/news/1874646/umc-vs-avgo-which-stock-is-the-better-value-option",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-02-28T13:02:18-05:00",
     "date_et": "2022-02-28"
@@ -74,7 +122,7 @@
     "url": "https://www.zacks.com/stock/news/1874666/what-makes-broadcom-inc-avgo-a-strong-momentum-stock-buy-now",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-02-28T13:02:07-05:00",
     "date_et": "2022-02-28"
@@ -90,7 +138,7 @@
     "url": "https://247wallst.com/investing/2022/03/02/earnings-previews-broadcom-costco-gap-marvell-technologies/",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-02T10:57:37-05:00",
     "date_et": "2022-03-02"
@@ -106,7 +154,7 @@
     "url": "https://seekingalpha.com/article/4492803-broadcoms-avgo-ceo-hock-tan-on-q1-2022-results-earnings-call-transcript",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-03T20:49:10-05:00",
     "date_et": "2022-03-03"
@@ -122,7 +170,7 @@
     "url": "https://www.zacks.com/stock/news/1877139/broadcom-inc-avgo-q1-earnings-and-revenues-beat-estimates",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-03T19:10:09-05:00",
     "date_et": "2022-03-03"
@@ -138,7 +186,7 @@
     "url": "https://www.zacks.com/stock/news/1877128/volatility-re-enters-on-oil-prices-russia-etc",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-03T19:10:07-05:00",
     "date_et": "2022-03-03"
@@ -154,7 +202,7 @@
     "url": "https://invezz.com/news/2022/03/03/broadcom-q1-results-margins-look-really-good/",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-03T17:54:08-05:00",
     "date_et": "2022-03-03"
@@ -170,7 +218,7 @@
     "url": "https://www.marketwatch.com/story/broadcom-stock-rises-as-earnings-outlook-top-street-estimates-11646343058",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-03T16:31:00-05:00",
     "date_et": "2022-03-03"
@@ -186,7 +234,7 @@
     "url": "https://www.reuters.com/technology/broadcom-forecasts-current-quarter-revenue-above-estimates-2022-03-03/",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-03T16:30:00-05:00",
     "date_et": "2022-03-03"
@@ -202,7 +250,7 @@
     "url": "https://www.prnewswire.com/news-releases/broadcom-inc-announces-first-quarter-fiscal-year-2022-financial-results-and-quarterly-dividends-301495400.html",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-03T16:15:00-05:00",
     "date_et": "2022-03-03"
@@ -218,7 +266,7 @@
     "url": "https://stockmarket.com/featured/4-semiconductor-stocks-for-your-march-2022-watchlist-2022-03-03",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-03T15:15:00-05:00",
     "date_et": "2022-03-03"
@@ -234,7 +282,7 @@
     "url": "https://invezz.com/news/2022/03/03/broadcom-to-announce-robust-q1-results-should-you-buy-the-share/",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-03T15:01:06-05:00",
     "date_et": "2022-03-03"
@@ -250,7 +298,7 @@
     "url": "https://www.forbes.com/sites/adamsarhan/2022/03/03/earnings-preview-what-to-expect-from-broadcom-today/",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-03T08:30:42-05:00",
     "date_et": "2022-03-03"
@@ -266,7 +314,7 @@
     "url": "https://www.zacks.com/stock/news/1877646/broadcom-avgo-q1-earnings-and-revenues-surpass-estimates",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-04T12:18:03-05:00",
     "date_et": "2022-03-04"
@@ -282,7 +330,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2022/03/04/broadcom-stock-nabs-bullish-attention-after-beat-and-raise",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-04T10:22:40-05:00",
     "date_et": "2022-03-04"
@@ -298,7 +346,7 @@
     "url": "https://www.benzinga.com/analyst-ratings/analyst-color/22/03/25987692/read-how-analysts-reacted-to-broadcoms-q1-results",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-04T09:24:00-05:00",
     "date_et": "2022-03-04"
@@ -314,7 +362,7 @@
     "url": "https://www.barrons.com/articles/broadcom-earnings-nvidia-stock-51646403391",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-04T09:17:00-05:00",
     "date_et": "2022-03-04"
@@ -330,7 +378,7 @@
     "url": "https://www.fool.com/investing/2022/03/04/how-these-2-nasdaq-giants-moved-the-market-friday/",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-04T08:27:08-05:00",
     "date_et": "2022-03-04"
@@ -346,7 +394,7 @@
     "url": "https://seekingalpha.com/article/4492916-broadcom-why-semiconductor-leader-buy-while-you-can",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-04T08:11:42-05:00",
     "date_et": "2022-03-04"
@@ -362,7 +410,7 @@
     "url": "https://seekingalpha.com/article/4493127-fdrr-dividends-for-rising-rates",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-05T06:00:00-05:00",
     "date_et": "2022-03-05"
@@ -378,7 +426,7 @@
     "url": "https://seekingalpha.com/article/4493136-broadcom-stock-trading-high-valuation-battling-well-uncertainties",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-05T03:07:39-05:00",
     "date_et": "2022-03-05"
@@ -394,7 +442,7 @@
     "url": "https://www.fool.com/investing/2022/03/06/love-dividends-and-tech-stocks-3-tech-stocks-that/",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-06T07:45:00-05:00",
     "date_et": "2022-03-06"
@@ -410,7 +458,7 @@
     "url": "https://www.zacks.com/stock/news/1878743/2-top-stocks-to-buy-now-for-dividends-and-value-amid-market-turmoil",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-07T20:16:10-05:00",
     "date_et": "2022-03-07"
@@ -426,7 +474,7 @@
     "url": "https://seekingalpha.com/article/4493375-what-i-target-in-a-market-crash-how-to-safely-get-20-percent-plus-yields",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-07T09:51:18-05:00",
     "date_et": "2022-03-07"
@@ -442,7 +490,7 @@
     "url": "https://www.globenewswire.com/news-release/2022/03/09/2400424/19933/en/Broadcom-s-100G-lane-Optical-PAM-4-DSP-PHY-Achieves-Record-Breaking-Efficiency-for-Pluggable-Transceiver-Modules.html",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-09T17:45:00-05:00",
     "date_et": "2022-03-09"
@@ -458,7 +506,7 @@
     "url": "https://invezz.com/news/2022/03/09/broadcom-share-price-forecast-after-q1-results/",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-09T16:46:56-05:00",
     "date_et": "2022-03-09"
@@ -474,7 +522,7 @@
     "url": "https://www.zacks.com/stock/news/1879581/how-broadcom-avgo-stock-stands-out-in-a-strong-industry",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-09T10:32:04-05:00",
     "date_et": "2022-03-09"
@@ -490,7 +538,7 @@
     "url": "https://www.fool.com/investing/2022/03/10/these-high-yield-dividend-stocks-are-growing-fast/",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-10T11:20:08-05:00",
     "date_et": "2022-03-10"
@@ -506,7 +554,7 @@
     "url": "https://247wallst.com/investing/2022/03/11/broadcom-costco-wholesale-crowdstrike-and-more-stocks-wall-street-loves-this-week/",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-11T10:20:31-05:00",
     "date_et": "2022-03-11"
@@ -522,7 +570,7 @@
     "url": "https://www.fool.com/investing/2022/03/13/alphabet-amazon-stock-split-3-stocks-split-next/",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-13T05:06:00-04:00",
     "date_et": "2022-03-13"
@@ -538,7 +586,7 @@
     "url": "https://www.fool.com/investing/2022/03/15/why-broadcom-stock-just-popped/",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-15T14:08:00-04:00",
     "date_et": "2022-03-15"
@@ -554,7 +602,7 @@
     "url": "https://www.etftrends.com/core-strategies-channel/consider-qcon-as-rates-rise/",
     "ticker": "AVGO",
     "event_date": "2022-03-03",
-    "window_start": "2022-02-24",
+    "window_start": "2022-02-17",
     "window_end": "2022-03-17",
     "publishedDateET": "2022-03-16T12:35:46-04:00",
     "date_et": "2022-03-16"

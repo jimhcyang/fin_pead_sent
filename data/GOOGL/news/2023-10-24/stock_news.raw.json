@@ -1,6 +1,806 @@
 [
   {
     "symbol": "GOOGL",
+    "publishedDate": "2023-10-10 06:34:10",
+    "publisher": "The Guardian",
+    "title": "Can big tech grab a chunk of the billions earned by mobile operators?",
+    "image": "https://images.financialmodelingprep.com/news/can-big-tech-grab-a-chunk-of-the-billions-20231010.jpg",
+    "site": "theguardian.com",
+    "text": "The e-sim is gaining traction as smartphone connectivity shoots for the stars, but it's not without risk – as I found when I fired up my new iPhone 15",
+    "url": "https://www.theguardian.com/technology/2023/oct/10/techscape-esim-mobile-connectivity-apple-iphone-15",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-10T06:34:10-04:00",
+    "date_et": "2023-10-10"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-10 07:20:00",
+    "publisher": "The Motley Fool",
+    "title": "3 Things About Alphabet That Smart Investors Know",
+    "image": "https://images.financialmodelingprep.com/news/3-things-about-alphabet-that-smart-investors-know-20231010.jpg",
+    "site": "fool.com",
+    "text": "Alphabet's revenue and earnings growth has been impressive. With a full suite of incredibly popular internet products, Alphabet is in a position to be a leader in AI.",
+    "url": "https://www.fool.com/investing/2023/10/10/3-things-about-alphabet-that-smart-investors-know/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-10T07:20:00-04:00",
+    "date_et": "2023-10-10"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-10 11:19:15",
+    "publisher": "CNBC",
+    "title": "Google continues move toward future without passwords",
+    "image": "https://images.financialmodelingprep.com/news/google-continues-move-toward-future-without-passwords-20231010.jpeg",
+    "site": "cnbc.com",
+    "text": "Google is making passkeys the default option on personal Google accounts",
+    "url": "https://www.cnbc.com/2023/10/10/google-passkeys-now-default-login-option-for-google-accounts.html",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-10T11:19:15-04:00",
+    "date_et": "2023-10-10"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-10 11:25:27",
+    "publisher": "The Motley Fool",
+    "title": "2 Trillion-Dollar Stocks You'll Want to Buy in October Like They're Going Out of Style",
+    "image": "https://images.financialmodelingprep.com/news/2-trilliondollar-stocks-youll-want-to-buy-in-october-20231010.jpg",
+    "site": "fool.com",
+    "text": "America is home to five companies worth $1 trillion or more, and they all operate in the tech sector. Alphabet and Amazon both experienced a slowdown in growth last year on the back of macroeconomic challenges.",
+    "url": "https://www.fool.com/investing/2023/10/10/2-trillion-dollar-stocks-youll-want-to-buy-october/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-10T11:25:27-04:00",
+    "date_et": "2023-10-10"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-10 16:32:05",
+    "publisher": "Zacks Investment Research",
+    "title": "Cloud Services Stocks: The Key to Outperformance in 2024?",
+    "image": "https://images.financialmodelingprep.com/news/cloud-services-stocks-the-key-to-outperformance-in-2024-20231010.jpg",
+    "site": "zacks.com",
+    "text": "Prepare for a Strong Q4",
+    "url": "https://www.zacks.com/commentary/2163779/cloud-services-stocks-the-key-to-outperformance-in-2024",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-10T16:32:05-04:00",
+    "date_et": "2023-10-10"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-10 16:37:26",
+    "publisher": "TechCrunch",
+    "title": "Federal judge throws out $32.5 million win for Sonos against Google",
+    "image": "https://images.financialmodelingprep.com/news/federal-judge-throws-out-325-million-win-for-sonos-20231010.jpg",
+    "site": "techcrunch.com",
+    "text": "A California judge has thrown out a $32.5 million verdict win for Sonos against Google after two of Sonos' patents were deemed unenforceable and invalid. As a result, Google has started to re-introduce software features it had removed due to Sonos' lawsuit.",
+    "url": "https://techcrunch.com/2023/10/10/federal-judge-throws-out-32-5-million-win-for-sonos-against-google/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-10T16:37:26-04:00",
+    "date_et": "2023-10-10"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-10 16:38:18",
+    "publisher": "Benzinga",
+    "title": "Dan Niles Expects 'Beat And Raise Quarters' From Nvidia, Google, But He's Short Apple, Tesla: Here's Why - NVIDIA (NASDAQ:NVDA)",
+    "image": "https://images.financialmodelingprep.com/news/dan-niles-expects-beat-and-raise-quarters-from-nvidia-20231010.jpg",
+    "site": "benzinga.com",
+    "text": "Satori Fund founder and portfolio manager Dan Niles is long two mega-cap tech stocks into earnings and short another two.",
+    "url": "https://www.benzinga.com/trading-ideas/long-ideas/23/10/35169588/dan-niles-expects-beat-and-raise-quarters-from-nvidia-google-but-hes-short-apple-tesla-h?utm_source=snapi",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-10T16:38:18-04:00",
+    "date_et": "2023-10-10"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-10 16:55:35",
+    "publisher": "Investopedia",
+    "title": "Microsoft and Alphabet's Google Introduce New AI Initiatives for the Health Care Industry",
+    "image": "https://images.financialmodelingprep.com/news/microsoft-and-alphabets-google-introduce-new-ai-initiatives-for-20231010.jpg",
+    "site": "investopedia.com",
+    "text": "Microsoft (MSFT) and Alphabet's (GOOG) Google announced new artificial intelligence (AI) initiatives aimed at helping give health care workers easier access to important information.",
+    "url": "https://www.investopedia.com/microsoft-and-google-introduce-new-ai-initiatives-for-the-health-care-industry-8349760",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-10T16:55:35-04:00",
+    "date_et": "2023-10-10"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-10 19:22:35",
+    "publisher": "InvestorPlace",
+    "title": "3 AI Stocks To Make You The Millionaire Next Door: October Edition",
+    "image": "https://images.financialmodelingprep.com/news/3-ai-stocks-to-make-you-the-millionaire-next-20231010.png",
+    "site": "investorplace.com",
+    "text": "The artificial intelligence trend isn't a fad. Companies have been investing in AI for several years.",
+    "url": "https://investorplace.com/2023/10/3-ai-stocks-to-make-you-the-millionaire-next-door-october-edition/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-10T19:22:35-04:00",
+    "date_et": "2023-10-10"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-11 06:02:14",
+    "publisher": "CNBC",
+    "title": "Klarna takes aim at Google and Amazon with AI image recognition tool for shopping",
+    "image": "https://images.financialmodelingprep.com/news/klarna-takes-aim-at-google-and-amazon-with-ai-20231011.jpg",
+    "site": "cnbc.com",
+    "text": "A new feature in the Klarna app will let users point their phone at an item of clothing or electronics gadget and find results for similar products.",
+    "url": "https://www.cnbc.com/2023/10/11/klarna-launches-ai-image-recognition-tool-for-shopping.html",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-11T06:02:14-04:00",
+    "date_et": "2023-10-11"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-11 10:05:14",
+    "publisher": "Proactive Investors",
+    "title": "Wondering what the point of Google Bard is? You're not alone",
+    "image": "https://images.financialmodelingprep.com/news/wondering-what-the-point-of-google-bard-is-youre-20231011.jpg",
+    "site": "proactiveinvestors.com",
+    "text": "Google parent Alphabet Inc (NASDAQ:GOOG) found itself on the backfoot this year following the tremendous success of Microsoft-backed OpenAI's landmark ChatGPT large-language model. Sensing a ChatGPT-powered Bing renaissance (Bing is Microsoft's search engine, by the way), Google unveiled its ChatGPT killer 'Bard' this February.",
+    "url": "https://www.proactiveinvestors.co.uk/companies/news/1029430?SNAPI",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-11T10:05:14-04:00",
+    "date_et": "2023-10-11"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-11 12:00:10",
+    "publisher": "New York Post",
+    "title": "Google CEO Sundar Pichai warned in emails of bad ‘optics' from Apple search engine tie-up",
+    "image": "https://images.financialmodelingprep.com/news/google-ceo-sundar-pichai-warned-in-emails-of-bad-20231011.jpg",
+    "site": "nypost.com",
+    "text": "Pichai outlined his concerns in emails sent in 2007 to Google co-founders Larry Page and Sergey Brin as well as other company leaders.",
+    "url": "https://nypost.com/2023/10/11/google-ceo-sundar-pichai-once-warned-of-bad-optics-from-apple-default-search-deal/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-11T12:00:10-04:00",
+    "date_et": "2023-10-11"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-11 12:16:00",
+    "publisher": "Barrons",
+    "title": "Meta and Alphabet Stocks Are Leaving Apple in Their Dust",
+    "image": "https://images.financialmodelingprep.com/news/meta-and-alphabet-stocks-are-leaving-apple-in-their-20231011.jpg",
+    "site": "barrons.com",
+    "text": "The Magnificent Seven Big Tech stocks have been largely responsible for 2023's market rally. Yet some of those are more spectacular than others.",
+    "url": "https://www.barrons.com/articles/meta-alphabet-apple-tech-stocks-gains-ea980f87",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-11T12:16:00-04:00",
+    "date_et": "2023-10-11"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-11 12:59:47",
+    "publisher": "CNBC",
+    "title": "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit",
+    "image": "https://images.financialmodelingprep.com/news/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-20231011.jpg",
+    "site": "cnbc.com",
+    "text": "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, according to a recent filing with a UK government agency.",
+    "url": "https://www.cnbc.com/2023/10/11/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40percent-in-2022.html",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-11T12:59:47-04:00",
+    "date_et": "2023-10-11"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-11 14:52:00",
+    "publisher": "Market Watch",
+    "title": "Meta and Alphabet stocks on track to close at highest levels since early 2022",
+    "image": "https://images.financialmodelingprep.com/news/meta-and-alphabet-stocks-on-track-to-close-at-20231011.jpg",
+    "site": "marketwatch.com",
+    "text": "Internet stocks Meta Platforms Inc. and Alphabet Inc. were headed for their highest closes in more than a year as they continued their October rally.",
+    "url": "https://www.marketwatch.com/story/meta-and-alphabet-stocks-on-track-to-close-at-highest-levels-since-early-2022-159b7200",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-11T14:52:00-04:00",
+    "date_et": "2023-10-11"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-11 16:07:16",
+    "publisher": "CNBC",
+    "title": "YouTube passes Netflix as top video source for teens",
+    "image": "https://images.financialmodelingprep.com/news/youtube-passes-netflix-as-top-video-source-for-teens-20231011.jpg",
+    "site": "cnbc.com",
+    "text": "The data point shows that the streaming business is getting more competitive.",
+    "url": "https://www.cnbc.com/2023/10/11/youtube-passes-netflix-as-top-video-source-for-teens.html",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-11T16:07:16-04:00",
+    "date_et": "2023-10-11"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-11 16:30:50",
+    "publisher": "TechCrunch",
+    "title": "Google turns up the heat on AWS, claims Cloud Spanner is half the cost of DynamoDB",
+    "image": "https://images.financialmodelingprep.com/news/google-turns-up-the-heat-on-aws-claims-cloud-20231011.jpg",
+    "site": "techcrunch.com",
+    "text": "Google's Cloud Spanner is now half the cost of Amazon's DynamoDB “for most workloads,” Google says. And Google doesn't want you to forget it.",
+    "url": "https://techcrunch.com/2023/10/11/google-turns-up-the-heat-on-aws-claims-cloud-spanner-is-half-the-cost-of-dynamodb/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-11T16:30:50-04:00",
+    "date_et": "2023-10-11"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-11 17:35:48",
+    "publisher": "Fox Business",
+    "title": "Meta, Alphabet shares near 52-week highs",
+    "image": "https://images.financialmodelingprep.com/news/meta-alphabet-shares-near-52week-highs-20231011.jpg",
+    "site": "foxbusiness.com",
+    "text": "The stock values of Facebook parent Meta and Google parent Alphabet are on pace for their best sessions of the year Wednesday helping the Nasdaq Composite lead the broader U.S. stock averages.",
+    "url": "https://www.foxbusiness.com/markets/meta-alphabet-52-week-highs-tech-nasdaq",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-11T17:35:48-04:00",
+    "date_et": "2023-10-11"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-11 18:18:48",
+    "publisher": "Proactive Investors",
+    "title": "Alphabet's AI-focused DeepMind division saw a 40% cut in employee costs lats year",
+    "image": "https://images.financialmodelingprep.com/news/alphabets-aifocused-deepmind-division-saw-a-40-cut-in-20231011.jpg",
+    "site": "proactiveinvestors.com",
+    "text": "DeepMind, the AI lab owned by Google-parent Alphabet Inc (NASDAQ:GOOG), cut its employee costs by nearly 40% last year, according to a recent filing with a UK government agency.  In the company's 2022 fiscal year, staff costs and related expenses were roughly $731 million, compared to nearly $1.2 billion in 2021, according to the filing.",
+    "url": "https://www.proactiveinvestors.com/companies/news/1029472?SNAPI",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-11T18:18:48-04:00",
+    "date_et": "2023-10-11"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-12 05:03:12",
+    "publisher": "InvestorPlace",
+    "title": "Is GOOGL Stock a Buy, Sell or Hold in October 2023?",
+    "image": "https://images.financialmodelingprep.com/news/is-googl-stock-a-buy-sell-or-hold-in-20231012.png",
+    "site": "investorplace.com",
+    "text": "With Alphabet (NASDAQ: GOOG , NASDAQ: GOOGL ) stock poised to benefit tremendously from the rapidly rebounding digital advertising market and the proliferation of artificial intelligence (AI), Alphabet's shares are definitely worth buying at this point. What's more, the company is growing rapidly, while the valuation of GOOG stock remains attractive.",
+    "url": "https://investorplace.com/2023/10/is-googl-stock-a-buy-sell-or-hold-in-october-2023/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-12T05:03:12-04:00",
+    "date_et": "2023-10-12"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-12 05:40:00",
+    "publisher": "Barrons",
+    "title": "Google and Amazon Hit by Fresh Cyberattacks. These Stocks Could Benefit.",
+    "image": "https://images.financialmodelingprep.com/news/google-and-amazon-hit-by-fresh-cyberattacks-these-stocks-20231012.jpg",
+    "site": "barrons.com",
+    "text": "Google, Amazon and Cloudflare have all recently been victims of attacks just weeks just weeks after casino operators MGM Resorts (MGM) and Caesars Entertainment (CZR) were targeted.",
+    "url": "https://www.barrons.com/articles/google-amazon-stocks-cyberattack-45e4d191",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-12T05:40:00-04:00",
+    "date_et": "2023-10-12"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-12 07:00:00",
+    "publisher": "The Motley Fool",
+    "title": "Here's Why I'm Buying This Trillion-Dollar Stock Hand Over Fist",
+    "image": "https://images.financialmodelingprep.com/news/heres-why-im-buying-this-trilliondollar-stock-hand-over-20231012.jpg",
+    "site": "fool.com",
+    "text": "Alphabet is a dominant player in the advertising industry. Investments in AI and cloud computing are finally starting to pay off.",
+    "url": "https://www.fool.com/investing/2023/10/12/heres-why-im-buying-this-trillion-dollar-stock-han/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-12T07:00:00-04:00",
+    "date_et": "2023-10-12"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-12 08:02:00",
+    "publisher": "Proactive Investors",
+    "title": "Meta and Alphabet stock notch highest closes for 21 months",
+    "image": "https://images.financialmodelingprep.com/news/meta-and-alphabet-stock-notch-highest-closes-for-21-20231012.jpg",
+    "site": "proactiveinvestors.com",
+    "text": "Shares in Meta Platforms Inc (NASDAQ:FB) and Alphabet Inc (NASDAQ:GOOG) finished at their highest closing levels in over 21 months last night ahead of an important third-quarter earnings season and as equity and bond markets recalibrate expectations for the US economy.   Facebook and Instagram owner Meta finished up 1.85% at US$327.79, while Google parent Alphabet closed 1.8% higher at US$140.55.",
+    "url": "https://www.proactiveinvestors.co.uk/companies/news/1029551?SNAPI",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-12T08:02:00-04:00",
+    "date_et": "2023-10-12"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-12 09:52:59",
+    "publisher": "The Motley Fool",
+    "title": "Up 57% in 2023, This Trillion-Dollar Tech Stock Still Looks Like a Smart Long-Term Buy",
+    "image": "https://images.financialmodelingprep.com/news/up-57-in-2023-this-trilliondollar-tech-stock-still-20231012.jpg",
+    "site": "fool.com",
+    "text": "Even amid shifting industry conditions, Alphabet continues to post a strong free-cash-flow yield. The software leader looks reasonably valued and stands a good chance of delivering market-beating returns.",
+    "url": "https://www.fool.com/investing/2023/10/12/up-57-in-2023-buy-this-trillion-dollar-tech-stock/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-12T09:52:59-04:00",
+    "date_et": "2023-10-12"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-12 13:07:33",
+    "publisher": "Reuters",
+    "title": "Five things to know about the Google antitrust trial as it hits halfway mark",
+    "image": "https://images.financialmodelingprep.com/news/five-things-to-know-about-the-google-antitrust-trial-20231012.jpg",
+    "site": "reuters.com",
+    "text": "The U.S. government is near the halfway mark in its court battle with Alphabet's Google, which it has accused of breaking antitrust law with the tactics it used to dominate online search and some aspects of advertising.",
+    "url": "https://www.reuters.com/technology/five-things-know-about-google-antitrust-trial-it-hits-halfway-mark-2023-10-12/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-12T13:07:33-04:00",
+    "date_et": "2023-10-12"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-12 16:36:48",
+    "publisher": "Reuters",
+    "title": "Canada news industry body backs Google's concerns about online news law",
+    "image": "https://images.financialmodelingprep.com/news/canada-news-industry-body-backs-googles-concerns-about-online-20231012.jpg",
+    "site": "reuters.com",
+    "text": "A Canadian news industry body on Thursday lent support to some of Google's concerns about a new law that aims to make large internet companies share advertising revenue with news publishers in the country.",
+    "url": "https://www.reuters.com/technology/canada-news-industry-body-backs-googles-concerns-about-online-news-law-2023-10-12/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-12T16:36:48-04:00",
+    "date_et": "2023-10-12"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-12 17:15:43",
+    "publisher": "PYMNTS",
+    "title": "Report: Google to Challenge EU's Attempt to Break Up Ad Business",
+    "image": "https://images.financialmodelingprep.com/news/report-google-to-challenge-eus-attempt-to-break-up-20231012.jpg",
+    "site": "pymnts.com",
+    "text": "Google reportedly intends to challenge the European Union's (EU) threat to break up its ad business.",
+    "url": "https://www.pymnts.com/google/2023/report-google-to-challenge-eus-attempt-to-break-up-ad-business/?utm_source=snapi",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-12T17:15:43-04:00",
+    "date_et": "2023-10-12"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-12 17:28:06",
+    "publisher": "CNBC",
+    "title": "Google is opening a cafe, store and event space to the general public near its headquarters",
+    "image": "https://images.financialmodelingprep.com/news/google-is-opening-a-cafe-store-and-event-space-20231012.jpg",
+    "site": "cnbc.com",
+    "text": "Google executives told CNBC they hope it's \"a blueprint\" for future real estate projects.",
+    "url": "https://www.cnbc.com/2023/10/12/google-opening-visitor-experience-cafe-retail-store-event-space.html",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-12T17:28:06-04:00",
+    "date_et": "2023-10-12"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-12 19:34:00",
+    "publisher": "Market Watch",
+    "title": "Canadian publishers ready to work with Google on proposed changes to online news law",
+    "image": "https://images.financialmodelingprep.com/news/canadian-publishers-ready-to-work-with-google-on-proposed-20231012.jpg",
+    "site": "marketwatch.com",
+    "text": "OTTAWA — Canada's news publishers commended Google on Thursday for recommending “good faith” changes to the country's law compelling digital platforms to compensate media outlets.",
+    "url": "https://www.marketwatch.com/story/canada-publishers-ready-to-work-with-google-on-proposed-changes-to-online-news-law-429c8051",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-12T19:34:00-04:00",
+    "date_et": "2023-10-12"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-13 05:40:00",
+    "publisher": "The Motley Fool",
+    "title": "Here Are 3 Top AI Start-Ups That Trillion-Dollar Tech Giants Like Microsoft, Amazon, and Alphabet Are Betting On",
+    "image": "https://images.financialmodelingprep.com/news/here-are-3-top-ai-startups-that-trilliondollar-tech-20231013.jpg",
+    "site": "fool.com",
+    "text": "Start-ups are making some of the greatest breakthroughs in artificial intelligence (AI). These AI start-ups attract billions of dollars in investment from some of America's tech giants.",
+    "url": "https://www.fool.com/investing/2023/10/13/top-ai-start-ups-trillion-tech-giant-amzn-msft/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-13T05:40:00-04:00",
+    "date_et": "2023-10-13"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-13 05:52:00",
+    "publisher": "The Motley Fool",
+    "title": "How Nvidia Is Trouncing Amazon, Google, and Microsoft on 1 Critical Investing Metric",
+    "image": "https://images.financialmodelingprep.com/news/how-nvidia-is-trouncing-amazon-google-and-microsoft-on-1-20231013.jpg",
+    "site": "fool.com",
+    "text": "Nvidia's ROIC stands well above the levels of Amazon, Google, and Microsoft. The chipmaker has had similarly high ROIC levels in the past but couldn't keep the momentum going.",
+    "url": "https://www.fool.com/investing/2023/10/13/how-nvidia-trouncing-amazon-google-microsoft/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-13T05:52:00-04:00",
+    "date_et": "2023-10-13"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-13 07:30:00",
+    "publisher": "The Motley Fool",
+    "title": "3 Unstoppable Stocks to Buy With $400 Right Now",
+    "image": "https://images.financialmodelingprep.com/news/3-unstoppable-stocks-to-buy-with-400-right-now-20231013.jpg",
+    "site": "fool.com",
+    "text": "Alphabet's margins have recently improved. Taiwan Semiconuductor's rough year is about to conclude.",
+    "url": "https://www.fool.com/investing/2023/10/13/3-unstoppbale-stocks-to-buy-with-400-right-now/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-13T07:30:00-04:00",
+    "date_et": "2023-10-13"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-13 08:05:00",
+    "publisher": "The Motley Fool",
+    "title": "Wait, Is the DOJ Lawsuit Actually Bullish For Alphabet?",
+    "image": "https://images.financialmodelingprep.com/news/wait-is-the-doj-lawsuit-actually-bullish-for-alphabet-20231013.jpg",
+    "site": "fool.com",
+    "text": "The DOJ is suing Apple and Google to stop its default search engine distribution agreement. If the DOJ wins, Google could stop paying $20 billion a year to Apple.",
+    "url": "https://www.fool.com/investing/2023/10/13/wait-is-the-ftc-lawsuit-actually-bullish-for-alpha/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-13T08:05:00-04:00",
+    "date_et": "2023-10-13"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-13 12:01:10",
+    "publisher": "Zacks Investment Research",
+    "title": "Alphabet (GOOGL) Boosts Search Experience With New AI Updates",
+    "image": "https://images.financialmodelingprep.com/news/alphabet-googl-boosts-search-experience-with-new-ai-updates-20231013.jpg",
+    "site": "zacks.com",
+    "text": "Alphabet's (GOOGL) Google adds new features to its Search Generative Experience, enabling users to write drafts and create images using generative AI.",
+    "url": "https://www.zacks.com/stock/news/2165656/alphabet-googl-boosts-search-experience-with-new-ai-updates",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-13T12:01:10-04:00",
+    "date_et": "2023-10-13"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-13 12:54:58",
+    "publisher": "Reuters",
+    "title": "EU industry chief warns Alphabet CEO on tech rules compliance after Hamas attack",
+    "image": "https://images.financialmodelingprep.com/news/eu-industry-chief-warns-alphabet-ceo-on-tech-rules-20231013.jpg",
+    "site": "reuters.com",
+    "text": "EU industry chief Thierry Breton on Friday warned Alphabet Chief Executive Officer Sundar Pichai to be very vigilant on the company's compliance with EU tech rules after the spread of disinformation on YouTube following Hamas' attacks in Israel.",
+    "url": "https://www.reuters.com/technology/eu-industry-chief-warns-alphabet-ceo-tech-rules-compliance-after-hamas-attack-2023-10-13/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-13T12:54:58-04:00",
+    "date_et": "2023-10-13"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-13 13:39:25",
+    "publisher": "TechXplore",
+    "title": "EU warns Google over YouTube disinfo in wake of Hamas attack",
+    "image": "https://images.financialmodelingprep.com/news/eu-warns-google-over-youtube-disinfo-in-wake-of-20231013.jpg",
+    "site": "techxplore.com",
+    "text": "The EU's top tech enforcer, Commissioner Thierry Breton, warned Google parent Alphabet on Friday to be wary of potential \"illegal content and disinformation\" on its YouTube platform.",
+    "url": "https://techxplore.com/news/2023-10-eu-google-youtube-disinfo-hamas.html",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-13T13:39:25-04:00",
+    "date_et": "2023-10-13"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-13 16:30:00",
+    "publisher": "The Motley Fool",
+    "title": "Is Alphabet Stock a Buy Now?",
+    "image": "https://images.financialmodelingprep.com/news/is-alphabet-stock-a-buy-now-20231013.jpg",
+    "site": "fool.com",
+    "text": "Alphabet's leading internet properties provide ample opportunities to introduce AI capabilities. Key to the company's success is its ability to collect data that can be used to improve its products.",
+    "url": "https://www.fool.com/investing/2023/10/13/is-alphabet-stock-a-buy-now/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-13T16:30:00-04:00",
+    "date_et": "2023-10-13"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-14 09:07:00",
+    "publisher": "The Motley Fool",
+    "title": "2 AI Stocks That Are Safer Options for Retirees",
+    "image": "https://images.financialmodelingprep.com/news/2-ai-stocks-that-are-safer-options-for-retirees-20231014.jpg",
+    "site": "fool.com",
+    "text": "Microsoft and Alphabet are among the safest tech stocks to buy. These companies generate tens of billions in free cash flow and earnings every year.",
+    "url": "https://www.fool.com/investing/2023/10/14/2-ai-stocks-that-are-safer-options-for-retirees/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-14T09:07:00-04:00",
+    "date_et": "2023-10-14"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-14 19:55:43",
+    "publisher": "Fox Business",
+    "title": "EU official warns Google, YouTube about Hamas-Israel disinformation and graphic content for minors",
+    "image": "https://images.financialmodelingprep.com/news/eu-official-warns-google-youtube-about-hamasisrael-disinformation-and-20231014.jpg",
+    "site": "foxbusiness.com",
+    "text": "The European Commission sent a warning letter Friday to Alphabet Inc. and its subsidiaries over disinformation and graphic content during the Hamas and Israel war.",
+    "url": "https://www.foxbusiness.com/technology/eu-official-warns-google-youtube-about-hamas-israel-disinformation-and-graphic-content-for-minors",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-14T19:55:43-04:00",
+    "date_et": "2023-10-14"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-15 06:45:00",
+    "publisher": "The Motley Fool",
+    "title": "3 Leading Tech Stocks to Buy in 2023 and Beyond",
+    "image": "https://images.financialmodelingprep.com/news/3-leading-tech-stocks-to-buy-in-2023-and-20231015.jpg",
+    "site": "fool.com",
+    "text": "E-commerce, cloud computing, digital advertising, and streaming entertainment are secular trends benefiting these companies. Amazon, Alphabet, and Meta Platforms all have wide economic moats that protect their industry positions.",
+    "url": "https://www.fool.com/investing/2023/10/15/3-leading-tech-stocks-to-buy-in-2023-and-beyond/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-15T06:45:00-04:00",
+    "date_et": "2023-10-15"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-15 07:45:00",
+    "publisher": "The Motley Fool",
+    "title": "Alphabet Stock Is Rocketing Close to All-Time Highs: Time to Buy or Sell?",
+    "image": "https://images.financialmodelingprep.com/news/alphabet-stock-is-rocketing-close-to-alltime-highs-time-20231015.jpg",
+    "site": "fool.com",
+    "text": "Alphabet shares have soared this year due to an AI narrative, better margins, and durable revenue growth. The stock looks fairly expensive at these prices, meaning it is likely not the best time to buy the stock.",
+    "url": "https://www.fool.com/investing/2023/10/15/alphabet-stock-is-rocketing-close-to-all-time-high/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-15T07:45:00-04:00",
+    "date_et": "2023-10-15"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-15 13:45:00",
+    "publisher": "The Motley Fool",
+    "title": "Better AI Stock: Tesla vs. Alphabet",
+    "image": "https://images.financialmodelingprep.com/news/better-ai-stock-tesla-vs-alphabet-20231015.jpg",
+    "site": "fool.com",
+    "text": "Alphabet and Tesla are both leaders in AI and have embraced the technology for a long time. Alphabet has deployed AI across its product range.",
+    "url": "https://www.fool.com/investing/2023/10/15/better-ai-stock-tesla-vs-alphabet/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-15T13:45:00-04:00",
+    "date_et": "2023-10-15"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-16 05:15:00",
+    "publisher": "The Motley Fool",
+    "title": "2 Growth Stocks to Buy and Hold Forever",
+    "image": "https://images.financialmodelingprep.com/news/2-growth-stocks-to-buy-and-hold-forever-20231016.jpg",
+    "site": "fool.com",
+    "text": "Alphabet's YouTube will be a valuable property in the burgeoning digital advertising market. Microsoft is winning in several areas that point to a bright future.",
+    "url": "https://www.fool.com/investing/2023/10/16/2-growth-stocks-to-buy-and-hold-forever/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-16T05:15:00-04:00",
+    "date_et": "2023-10-16"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-16 07:00:00",
+    "publisher": "Business Wire",
+    "title": "Refreshed 2024 Rogue Is First Nissan to Come With Google Built-In",
+    "image": "https://images.financialmodelingprep.com/news/refreshed-2024-rogue-is-first-nissan-to-come-with-20231016.jpg",
+    "site": "businesswire.com",
+    "text": "NASHVILLE, Tenn.--(BUSINESS WIRE)--Nissan continues to enhance its best-selling crossover and reinforce the company's commitment to bringing the latest technology to its most popular vehicles. The 2024 Nissan Rogue receives a bold exterior refresh and significant available technology upgrades to make every trip more convenient and better connected. Building on its strong core of family-friendly design, flexible storage space and an efficient turbocharged powertrain, the 2024 Rogue becomes even.",
+    "url": "https://www.businesswire.com/news/home/20231016367604/en/Refreshed-2024-Rogue-Is-First-Nissan-to-Come-With-Google-Built-In/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-16T07:00:00-04:00",
+    "date_et": "2023-10-16"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-16 11:38:00",
+    "publisher": "InvestorPlace",
+    "title": "These 7 Stocks Could Be Your Ticket to Retiring Early",
+    "image": "https://images.financialmodelingprep.com/news/these-7-stocks-could-be-your-ticket-to-retiring-20231016.png",
+    "site": "investorplace.com",
+    "text": "Every investor should look for stocks for early retirement. Investing in the stock market is a great way to build wealth for the long term and lead to a large sum of capital in retirement.",
+    "url": "https://investorplace.com/2023/10/these-7-stocks-could-be-your-ticket-to-retiring-early/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-16T11:38:00-04:00",
+    "date_et": "2023-10-16"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-16 13:11:24",
+    "publisher": "InvestorPlace",
+    "title": "GOOG Stock: Will Alphabet Be the First Quadrillion-Dollar Company?",
+    "image": "https://images.financialmodelingprep.com/news/goog-stock-will-alphabet-be-the-first-quadrilliondollar-company-20231016.jpg",
+    "site": "investorplace.com",
+    "text": "Don't look now, but Alphabet's (NASDAQ: GOOG ,NASDAQ: GOOGL ) shares are nearing 52-week highs. That's good news for owners of GOOG stock and technology stocks in general.",
+    "url": "https://investorplace.com/2023/10/goog-stock-is-alphabet-the-first-quadrillion-dollar-company/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-16T13:11:24-04:00",
+    "date_et": "2023-10-16"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-16 15:25:43",
+    "publisher": "New York Post",
+    "title": "Media outlets demand more access to secretive Google antitrust trial",
+    "image": "https://images.financialmodelingprep.com/news/media-outlets-demand-more-access-to-secretive-google-antitrust-20231016.jpg",
+    "site": "nypost.com",
+    "text": "The New York Times filed a motion seeking access to trial exhibits and notice before closed sessions.",
+    "url": "https://nypost.com/2023/10/16/media-outlets-demand-more-access-to-secretive-google-antitrust-trial/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-16T15:25:43-04:00",
+    "date_et": "2023-10-16"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-16 17:39:05",
+    "publisher": "TechCrunch",
+    "title": "Google lobbies against legally mandated age verification for minors",
+    "image": "https://images.financialmodelingprep.com/news/google-lobbies-against-legally-mandated-age-verification-for-minors-20231016.jpg",
+    "site": "techcrunch.com",
+    "text": "Google is challenging proposed laws that would require online services to implement age checks in a new framework that theorizes how technology companies should approach children's safety online. The framework, titled the “Legislative Framework for Protecting Children and Teen Online,” is the tech giant's response to congressional child online safety proposals.",
+    "url": "https://techcrunch.com/2023/10/16/google-lobbies-against-legally-mandated-age-verification-for-minors/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-16T17:39:05-04:00",
+    "date_et": "2023-10-16"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-16 18:16:41",
+    "publisher": "InvestorPlace",
+    "title": "7 Cutting-Edge Stocks That Could Change Humanity as We Know It",
+    "image": "https://images.financialmodelingprep.com/news/7-cuttingedge-stocks-that-could-change-humanity-as-we-20231016.png",
+    "site": "investorplace.com",
+    "text": "They say we're now living in an “age of acceleration” when technological advances are coming at us at breakneck speed. Not long ago, science fiction films and novels depicted a future when we would speak to computers and they would speak back, people would take a pill each day to remain thin and private companies would shuttle astronauts and supplies into space.",
+    "url": "https://investorplace.com/2023/10/7-cutting-edge-stocks-that-could-change-humanity-as-we-know-it/",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-16T18:16:41-04:00",
+    "date_et": "2023-10-16"
+  },
+  {
+    "symbol": "GOOGL",
+    "publishedDate": "2023-10-16 20:22:59",
+    "publisher": "CNBC",
+    "title": "Google, Amazon, Apple could see antitrust bills put on hold if Jim Jordan is House speaker",
+    "image": "https://images.financialmodelingprep.com/news/google-amazon-apple-could-see-antitrust-bills-put-on-20231016.jpeg",
+    "site": "cnbc.com",
+    "text": "As the House prepares to vote on Rep. Jim Jordan for speaker, experts see a potential upside for big tech if the Ohio Republican wins.",
+    "url": "https://www.cnbc.com/2023/10/16/house-speaker-vote-google-amazon-could-benefit-from-jim-jordan-win.html",
+    "ticker": "GOOGL",
+    "event_date": "2023-10-24",
+    "window_start": "2023-10-10",
+    "window_end": "2023-11-07",
+    "publishedDateET": "2023-10-16T20:22:59-04:00",
+    "date_et": "2023-10-16"
+  },
+  {
+    "symbol": "GOOGL",
     "publishedDate": "2023-10-17 05:55:00",
     "publisher": "The Motley Fool",
     "title": "You Don't Have to Pick a Winner in Digital Advertising. Here's Why",
@@ -10,7 +810,7 @@
     "url": "https://www.fool.com/investing/2023/10/17/why-you-dont-have-to-pick-a-winner-in-digital-ads/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-17T05:55:00-04:00",
     "date_et": "2023-10-17"
@@ -26,7 +826,7 @@
     "url": "https://www.fool.com/investing/2023/10/17/better-buy-meta-platforms-vs-alphabet/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-17T06:20:00-04:00",
     "date_et": "2023-10-17"
@@ -42,7 +842,7 @@
     "url": "https://www.fool.com/investing/2023/10/17/4-growth-stocks-to-buy-and-hold-forever/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-17T07:10:00-04:00",
     "date_et": "2023-10-17"
@@ -58,7 +858,7 @@
     "url": "https://www.zacks.com/stock/news/2167259/5-technology-stocks-poised-to-beat-earnings-estimates-in-q3",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-17T11:16:46-04:00",
     "date_et": "2023-10-17"
@@ -74,7 +874,7 @@
     "url": "https://www.zacks.com/stock/news/2167237/alphabet-googl-to-report-q3-results-wall-street-expects-earnings-growth",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-17T11:17:50-04:00",
     "date_et": "2023-10-17"
@@ -90,7 +890,7 @@
     "url": "https://www.reuters.com/world/africa/south-africa-probe-meta-google-competition-with-news-publishers-2023-10-17/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-17T12:11:42-04:00",
     "date_et": "2023-10-17"
@@ -106,7 +906,7 @@
     "url": "https://investorplace.com/2023/10/7-hidden-gems-that-are-headed-towards-all-time-highs/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-17T16:58:42-04:00",
     "date_et": "2023-10-17"
@@ -122,7 +922,7 @@
     "url": "https://www.gurufocus.com/news/2106986/test-subject",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-17T17:08:32-04:00",
     "date_et": "2023-10-17"
@@ -138,7 +938,7 @@
     "url": "https://www.marketwatch.com/story/unprecedented-ai-server-buildout-may-be-happening-too-quickly-this-analyst-warns-26fc7465",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-17T18:12:00-04:00",
     "date_et": "2023-10-17"
@@ -154,7 +954,7 @@
     "url": "https://www.zacks.com/stock/news/2167829/why-investors-need-to-take-advantage-of-these-2-computer-and-technology-stocks-now",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-18T10:32:23-04:00",
     "date_et": "2023-10-18"
@@ -170,7 +970,7 @@
     "url": "https://www.zacks.com/commentary/2168137/buy-this-institutional-quality-oil-stock-ahead-of-eps",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-18T12:03:06-04:00",
     "date_et": "2023-10-18"
@@ -186,7 +986,7 @@
     "url": "https://www.zacks.com/stock/news/2168105/alphabet-googl-aids-advertisers-with-ai-powered-feature",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-18T12:03:36-04:00",
     "date_et": "2023-10-18"
@@ -202,7 +1002,7 @@
     "url": "https://techxplore.com/news/2023-10-google-antitrust-trial.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-18T12:12:07-04:00",
     "date_et": "2023-10-18"
@@ -218,7 +1018,7 @@
     "url": "https://www.nytimes.com/2023/10/18/business/google-antitrust-pandu-nayak.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-18T15:49:28-04:00",
     "date_et": "2023-10-18"
@@ -234,7 +1034,7 @@
     "url": "https://www.marketwatch.com/story/israel-hamas-war-threatens-the-global-tech-sectors-growth-and-innovation-24f20887",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-18T16:36:00-04:00",
     "date_et": "2023-10-18"
@@ -250,7 +1050,7 @@
     "url": "https://investorplace.com/2023/10/warning-what-a-magnificent-seven-stocks-meltdown-would-mean-for-the-market/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-18T17:00:42-04:00",
     "date_et": "2023-10-18"
@@ -266,7 +1066,7 @@
     "url": "https://nypost.com/2023/10/18/google-executive-defends-search-quality-in-us-antitrust-trial-knocks-bing/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-18T17:02:42-04:00",
     "date_et": "2023-10-18"
@@ -282,7 +1082,7 @@
     "url": "https://www.cnbc.com/2023/10/18/google-cuts-dozens-of-jobs-in-news-division-.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-18T17:21:58-04:00",
     "date_et": "2023-10-18"
@@ -298,7 +1098,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1030254?SNAPI",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-18T18:11:52-04:00",
     "date_et": "2023-10-18"
@@ -314,7 +1114,7 @@
     "url": "https://investorplace.com/2023/10/7-ai-stocks-that-will-change-the-world-and-create-many-millionaires/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-18T18:34:25-04:00",
     "date_et": "2023-10-18"
@@ -330,7 +1130,7 @@
     "url": "https://www.fool.com/investing/2023/10/19/fortinet-is-building-a-new-cybersecurity-service-w/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-19T05:15:00-04:00",
     "date_et": "2023-10-19"
@@ -346,7 +1146,7 @@
     "url": "https://www.forbes.com/sites/siladityaray/2023/10/19/google-will-make-its-pixel-8-phones-in-india-expanding-from-china-and-vietnam-following-apples-iphone-15/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-19T06:49:14-04:00",
     "date_et": "2023-10-19"
@@ -362,7 +1162,7 @@
     "url": "https://techxplore.com/news/2023-10-google-flagship-smartphones-india.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-19T08:07:18-04:00",
     "date_et": "2023-10-19"
@@ -378,7 +1178,7 @@
     "url": "https://nypost.com/2023/10/19/google-lays-off-dozens-in-its-news-division-report/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-19T10:16:40-04:00",
     "date_et": "2023-10-19"
@@ -394,7 +1194,7 @@
     "url": "https://www.reuters.com/markets/us/wall-streets-magnificent-seven-face-moment-truth-earnings-season-arrives-2023-10-19/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-19T10:27:34-04:00",
     "date_et": "2023-10-19"
@@ -410,7 +1210,7 @@
     "url": "https://investorplace.com/2023/10/google-layoffs-2023-what-to-know-about-the-latest-googl-job-cuts/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-19T10:35:32-04:00",
     "date_et": "2023-10-19"
@@ -426,7 +1226,7 @@
     "url": "https://www.investopedia.com/google-to-manufacture-pixel-smartphones-in-india-following-moves-by-apple-samsung-8363692",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-19T12:10:38-04:00",
     "date_et": "2023-10-19"
@@ -442,7 +1242,7 @@
     "url": "https://www.marketwatch.com/story/google-earnings-preview-ad-spending-is-accelerating-despite-a-battle-with-the-federal-government-10f8a9c0",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-19T13:19:00-04:00",
     "date_et": "2023-10-19"
@@ -458,7 +1258,7 @@
     "url": "https://techcrunch.com/2023/10/19/google-takes-aim-at-duolingo-with-new-english-tutoring-tool/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-19T14:00:58-04:00",
     "date_et": "2023-10-19"
@@ -474,7 +1274,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1030397?SNAPI",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-19T16:16:11-04:00",
     "date_et": "2023-10-19"
@@ -490,7 +1290,7 @@
     "url": "https://www.cnbc.com/2023/10/19/meta-apple-google-cheer-fcc-ruling-that-could-spur-new-vr-ar-apps.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-19T16:19:41-04:00",
     "date_et": "2023-10-19"
@@ -506,7 +1306,7 @@
     "url": "https://www.pymnts.com/big-tech/2023/google-meta-apple-receive-fcc-approval-to-tap-into-airwaves-for-vr-and-ar/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-19T21:12:28-04:00",
     "date_et": "2023-10-19"
@@ -522,7 +1322,7 @@
     "url": "https://techxplore.com/news/2023-10-thierry-breton-frenchman-big-tech.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-20T06:20:51-04:00",
     "date_et": "2023-10-20"
@@ -538,7 +1338,7 @@
     "url": "https://www.investors.com/research/the-new-america/gtlb-stock-how-google-alliance-challenge-microsoft-artificial-intelligence/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-20T08:00:18-04:00",
     "date_et": "2023-10-20"
@@ -554,7 +1354,7 @@
     "url": "https://www.zacks.com/stock/news/2169414/earnings-preview-of-magnificent-seven-etfs-in-focus",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-20T09:01:08-04:00",
     "date_et": "2023-10-20"
@@ -570,7 +1370,7 @@
     "url": "https://www.forbes.com/sites/emilywashburn/2023/10/20/2023-media-layoffs-google-cuts-at-least-40-jobs-from-news-division-report-says/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-20T09:18:30-04:00",
     "date_et": "2023-10-20"
@@ -586,7 +1386,7 @@
     "url": "https://www.zacks.com/stock/news/2169506/alphabet-inc-googl-is-a-trending-stock-facts-to-know-before-betting-on-it",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-20T10:32:47-04:00",
     "date_et": "2023-10-20"
@@ -602,7 +1402,7 @@
     "url": "https://www.zacks.com/stock/news/2169704/magnificent-seven-earnings-underway-etfs-in-spotlight",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-20T11:17:13-04:00",
     "date_et": "2023-10-20"
@@ -618,7 +1418,7 @@
     "url": "https://www.zacks.com/stock/news/2169723/market-breaking-up-with-tina",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-20T12:02:11-04:00",
     "date_et": "2023-10-20"
@@ -634,7 +1434,7 @@
     "url": "https://invezz.com/news/2023/10/20/multiversxs-egld-token-surges-on-google-cloud-partnership/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-20T12:46:55-04:00",
     "date_et": "2023-10-20"
@@ -650,7 +1450,7 @@
     "url": "https://www.zacks.com/commentary/2169757/communication-services-etf-nears-breakout-alphabet-meta-on-deck",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-20T12:47:15-04:00",
     "date_et": "2023-10-20"
@@ -666,7 +1466,7 @@
     "url": "https://www.investors.com/research/investing-action-plan/middle-east-house-leadership-cloud-stock-market-outlook-with-amazon-microsoft-meta-and-alphabet-to-report/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-20T18:22:41-04:00",
     "date_et": "2023-10-20"
@@ -682,7 +1482,7 @@
     "url": "https://www.zacks.com/commentary/2169871/previewing-big-tech-earnings-what-can-investors-expect",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-20T18:47:29-04:00",
     "date_et": "2023-10-20"
@@ -698,7 +1498,7 @@
     "url": "https://www.zacks.com/stock/news/2169957/meta-alphabet-earnings-ad-revenue-in-focus",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-20T20:18:04-04:00",
     "date_et": "2023-10-20"
@@ -714,7 +1514,7 @@
     "url": "https://seekingalpha.com/article/4642355-alphabet-in-the-best-of-cases-it-can-pop-up-20-percent",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-21T06:10:24-04:00",
     "date_et": "2023-10-21"
@@ -730,7 +1530,7 @@
     "url": "https://www.businessinsider.com/google-job-cuts-targeted-director-decapitations-report-2023-10",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-21T12:06:49-04:00",
     "date_et": "2023-10-21"
@@ -746,7 +1546,7 @@
     "url": "https://www.fool.com/investing/2023/10/22/3-top-artificial-intelligence-ai-stocks-to-buy-and/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-22T08:45:00-04:00",
     "date_et": "2023-10-22"
@@ -762,7 +1562,7 @@
     "url": "https://seekingalpha.com/article/4642465-google-shares-likely-to-pop-strong-earnings",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-22T09:34:33-04:00",
     "date_et": "2023-10-22"
@@ -778,7 +1578,7 @@
     "url": "https://www.fool.com/investing/2023/10/22/prediction-2-magnificent-artificial-intelligence-a/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-22T12:45:00-04:00",
     "date_et": "2023-10-22"
@@ -794,7 +1594,7 @@
     "url": "https://www.reuters.com/technology/japan-launches-antimonopoly-probe-into-googles-search-dominance-2023-10-23/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T02:20:10-04:00",
     "date_et": "2023-10-23"
@@ -810,7 +1610,7 @@
     "url": "https://investorplace.com/2023/10/the-last-chance-to-buy-these-7-millionaire-maker-stocks/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T04:32:21-04:00",
     "date_et": "2023-10-23"
@@ -826,7 +1626,7 @@
     "url": "https://www.fool.com/investing/2023/10/23/alphabet-stock-bear-vs-bull/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T05:10:00-04:00",
     "date_et": "2023-10-23"
@@ -842,7 +1642,7 @@
     "url": "https://investorplace.com/2023/10/the-goog-gold-rush-why-analysts-are-betting-big-on-alphabet/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T05:15:01-04:00",
     "date_et": "2023-10-23"
@@ -858,7 +1658,7 @@
     "url": "https://www.cnbc.com/2023/10/23/japan-investigates-google-for-alleged-antitrust-violations-in-search.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T05:31:30-04:00",
     "date_et": "2023-10-23"
@@ -874,7 +1674,7 @@
     "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-magnificent-7-aapl-tsla-nvda-bearish-signal-2023-10",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T09:00:45-04:00",
     "date_et": "2023-10-23"
@@ -890,7 +1690,7 @@
     "url": "https://www.zacks.com/stock/news/2170124/earnings-preview-of-alphabet-etfs-in-focus",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T09:01:06-04:00",
     "date_et": "2023-10-23"
@@ -906,7 +1706,7 @@
     "url": "https://www.zacks.com/stock/news/2170112/will-google-cloud-strength-aid-alphabet-s-googl-q3-earnings",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T09:01:19-04:00",
     "date_et": "2023-10-23"
@@ -922,7 +1722,7 @@
     "url": "https://seekingalpha.com/article/4642574-downgrading-google-to-hold-buy-microsoft-more-upside",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T09:05:22-04:00",
     "date_et": "2023-10-23"
@@ -938,7 +1738,7 @@
     "url": "https://www.fool.com/investing/2023/10/23/what-to-expect-from-faang-stock-earnings-this-week/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T09:42:23-04:00",
     "date_et": "2023-10-23"
@@ -954,7 +1754,7 @@
     "url": "https://www.zacks.com/stock/news/2170151/guide-to-the-magnificent-seven-stocks-etfs-investing",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T10:33:57-04:00",
     "date_et": "2023-10-23"
@@ -970,7 +1770,7 @@
     "url": "https://techxplore.com/news/2023-10-google-bing-embrace-generative-ai.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T11:36:41-04:00",
     "date_et": "2023-10-23"
@@ -986,7 +1786,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1030663?SNAPI",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T11:37:51-04:00",
     "date_et": "2023-10-23"
@@ -1002,7 +1802,7 @@
     "url": "https://www.zacks.com/stock/news/2170346/inversion-of-yield-curve-tight-at-14-bps",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T12:01:09-04:00",
     "date_et": "2023-10-23"
@@ -1018,7 +1818,7 @@
     "url": "https://www.zacks.com/stock/news/2170338/busy-week-for-q3-economic-reports-starts-slowly",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T12:01:15-04:00",
     "date_et": "2023-10-23"
@@ -1034,7 +1834,7 @@
     "url": "https://nypost.com/2023/10/23/business/japan-probes-google-over-alleged-antitrust-violations-as-global-scrutiny-mounts/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T12:32:46-04:00",
     "date_et": "2023-10-23"
@@ -1050,7 +1850,7 @@
     "url": "https://www.fool.com/investing/2023/10/23/2-hypergrowth-tech-stocks-to-buy-in-2023-and-beyon/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T13:00:00-04:00",
     "date_et": "2023-10-23"
@@ -1066,7 +1866,7 @@
     "url": "https://www.investopedia.com/google-faces-antitrust-investigation-in-japan-over-search-practices-8365085",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T13:20:36-04:00",
     "date_et": "2023-10-23"
@@ -1082,7 +1882,7 @@
     "url": "https://www.investors.com/news/technology/googl-stock-google-earnings-september-quarter-2023/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T13:55:13-04:00",
     "date_et": "2023-10-23"
@@ -1098,7 +1898,7 @@
     "url": "https://www.zacks.com/stock/news/2170397/guide-to-the-magnificent-seven-stocks-etfs-investing",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T14:16:06-04:00",
     "date_et": "2023-10-23"
@@ -1114,7 +1914,7 @@
     "url": "https://investorplace.com/2023/10/the-magnificent-7-stocks-are-a-pre-earnings-buy-despite-the-tesla-miss/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T15:28:16-04:00",
     "date_et": "2023-10-23"
@@ -1130,7 +1930,7 @@
     "url": "https://www.zacks.com/commentary/2170408/microsoft-alphabet-earnings-what-key-metrics-say",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T17:17:05-04:00",
     "date_et": "2023-10-23"
@@ -1146,7 +1946,7 @@
     "url": "https://www.zacks.com/commentary/2170416/alphabet-earnings-preview-the-best-mega-cap-tech-stock-in-the-market",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-23T18:02:04-04:00",
     "date_et": "2023-10-23"
@@ -1162,7 +1962,7 @@
     "url": "https://www.barrons.com/articles/alphabet-earnings-are-coming-expect-strength-in-ads-and-cloud-computing-4890483f",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T02:00:00-04:00",
     "date_et": "2023-10-24"
@@ -1178,7 +1978,7 @@
     "url": "https://www.marketwatch.com/story/s-p-500-futures-gain-as-treasury-yields-fall-further-microsoft-and-alphabet-earnings-loom-d99eb7f1",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T04:39:00-04:00",
     "date_et": "2023-10-24"
@@ -1194,7 +1994,7 @@
     "url": "https://investorplace.com/2023/10/the-best-mega-cap-stock-heres-whats-ahead-for-goog/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T05:30:50-04:00",
     "date_et": "2023-10-24"
@@ -1210,7 +2010,7 @@
     "url": "https://www.barrons.com/articles/apple-stock-ai-investment-nvidia-google-microsoft-d1f424b4",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T06:06:00-04:00",
     "date_et": "2023-10-24"
@@ -1226,7 +2026,7 @@
     "url": "https://www.marketbeat.com/originals/3-tech-titans-report-this-week-heres-how-to-play-them/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T06:13:07-04:00",
     "date_et": "2023-10-24"
@@ -1242,7 +2042,7 @@
     "url": "https://www.marketbeat.com/originals/2-robust-technology-infrastructure-stocks-to-pounce-on-now/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T06:20:09-04:00",
     "date_et": "2023-10-24"
@@ -1258,7 +2058,7 @@
     "url": "https://investorplace.com/2023/10/its-time-to-double-down-on-goog-stock-ahead-of-alphabet-earnings/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T06:55:15-04:00",
     "date_et": "2023-10-24"
@@ -1274,7 +2074,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1030759?SNAPI",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T06:59:53-04:00",
     "date_et": "2023-10-24"
@@ -1290,7 +2090,7 @@
     "url": "https://www.marketwatch.com/story/fiction-writers-demanding-money-from-ai-chatbots-are-lost-in-fantasy-6d151ba6",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T07:05:00-04:00",
     "date_et": "2023-10-24"
@@ -1306,7 +2106,7 @@
     "url": "https://investorplace.com/2023/10/time-to-cash-in-3-stocks-to-sell-at-52-week-highs-2/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T07:20:03-04:00",
     "date_et": "2023-10-24"
@@ -1322,7 +2122,7 @@
     "url": "https://www.forbes.com/sites/jjkinahan/2023/10/24/alphabet-and-microsoft-lead-off-the-heart-of-earnings-season/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T08:57:43-04:00",
     "date_et": "2023-10-24"
@@ -1338,7 +2138,7 @@
     "url": "https://www.cnbc.com/2023/10/24/alphabet-googl-earnings-q3-2023.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T09:00:01-04:00",
     "date_et": "2023-10-24"
@@ -1354,7 +2154,7 @@
     "url": "https://www.fool.com/investing/2023/10/24/2-stock-split-artificial-intelligence-ai-stocks-to/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T09:20:00-04:00",
     "date_et": "2023-10-24"
@@ -1370,7 +2170,7 @@
     "url": "https://www.marketwatch.com/story/alphabet-earnings-what-to-expect-from-the-google-parent-627710c8",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T09:49:00-04:00",
     "date_et": "2023-10-24"
@@ -1386,7 +2186,7 @@
     "url": "https://investorplace.com/2023/10/why-are-stocks-up-today-oct-24th/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T12:26:46-04:00",
     "date_et": "2023-10-24"
@@ -1402,7 +2202,7 @@
     "url": "https://www.forbes.com/sites/adamsarhan/2023/10/24/what-to-expect-from-alphabets-earnings-today/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T15:38:43-04:00",
     "date_et": "2023-10-24"
@@ -1418,7 +2218,7 @@
     "url": "https://www.reuters.com/technology/google-parent-alphabet-reports-quarterly-revenue-above-estimates-2023-10-24/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T16:08:31-04:00",
     "date_et": "2023-10-24"
@@ -1434,7 +2234,7 @@
     "url": "https://www.forbes.com/sites/dereksaul/2023/10/24/alphabet-earnings-google-parent-stock-slides-despite-profit-sales-beats/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T16:17:06-04:00",
     "date_et": "2023-10-24"
@@ -1450,7 +2250,7 @@
     "url": "https://investorplace.com/2023/10/this-bank-may-be-the-first-trillion-dollar-financial-stock/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T16:19:15-04:00",
     "date_et": "2023-10-24"
@@ -1466,7 +2266,7 @@
     "url": "https://deadline.com/2023/10/youtube-ad-rebound-alphabet-earnings-1235581728/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T16:27:01-04:00",
     "date_et": "2023-10-24"
@@ -1482,7 +2282,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1030844?SNAPI",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T16:27:57-04:00",
     "date_et": "2023-10-24"
@@ -1498,7 +2298,7 @@
     "url": "https://www.theguardian.com/technology/2023/oct/24/alphabet-q3-earnings-google-ai",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T16:40:44-04:00",
     "date_et": "2023-10-24"
@@ -1514,7 +2314,7 @@
     "url": "https://www.nytimes.com/2023/10/24/technology/alphabet-google-earnings.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T16:44:12-04:00",
     "date_et": "2023-10-24"
@@ -1530,7 +2330,7 @@
     "url": "https://www.investopedia.com/alphabet-posts-strong-q3-earnings-on-robust-search-youtube-ad-spend-8365004",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T17:10:39-04:00",
     "date_et": "2023-10-24"
@@ -1546,7 +2346,7 @@
     "url": "https://www.investors.com/news/technology/google-earnings-beat-shares-fall-as-cloud-computing-growth-misses/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T17:11:01-04:00",
     "date_et": "2023-10-24"
@@ -1562,7 +2362,7 @@
     "url": "https://www.zacks.com/commentary/2171002/amazon-is-growing-earnings-at-a-freakish-pace",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T17:17:07-04:00",
     "date_et": "2023-10-24"
@@ -1578,7 +2378,7 @@
     "url": "https://www.cnn.com/2023/10/24/tech/microsoft-google-snap-tech-earnings/index.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T17:18:50-04:00",
     "date_et": "2023-10-24"
@@ -1594,7 +2394,7 @@
     "url": "https://nypost.com/2023/10/24/business/alphabet-shares-tank-as-google-cloud-revenue-weakens/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T17:20:39-04:00",
     "date_et": "2023-10-24"
@@ -1610,7 +2410,7 @@
     "url": "https://news.sky.com/story/revenue-up-at-microsoft-and-alphabet-but-disappointment-over-google-cloud-12991641",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T17:48:35-04:00",
     "date_et": "2023-10-24"
@@ -1626,7 +2426,7 @@
     "url": "https://invezz.com/news/2023/10/24/google-q3-earnings-cfra-analyst-angelo-zino/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T18:12:34-04:00",
     "date_et": "2023-10-24"
@@ -1642,7 +2442,7 @@
     "url": "https://www.zacks.com/stock/news/2171020/alphabet-inc-goog-tops-q3-earnings-and-revenue-estimates",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T18:47:47-04:00",
     "date_et": "2023-10-24"
@@ -1658,7 +2458,7 @@
     "url": "https://www.zacks.com/stock/news/2171024/alphabet-googl-beats-q3-earnings-and-revenue-estimates",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T18:47:51-04:00",
     "date_et": "2023-10-24"
@@ -1674,7 +2474,7 @@
     "url": "https://www.zacks.com/stock/news/2171149/big-earnings-beats-for-microsoft-visa-snap-others",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T19:32:24-04:00",
     "date_et": "2023-10-24"
@@ -1690,7 +2490,7 @@
     "url": "https://www.zacks.com/stock/news/2171119/alphabet-googl-q3-earnings-taking-a-look-at-key-metrics-versus-estimates",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T19:33:23-04:00",
     "date_et": "2023-10-24"
@@ -1706,7 +2506,7 @@
     "url": "https://www.pymnts.com/google/2023/google-reports-ad-revenue-recovery-in-q3-after-rare-drop/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T19:45:42-04:00",
     "date_et": "2023-10-24"
@@ -1722,7 +2522,7 @@
     "url": "https://seekingalpha.com/article/4643107-alphabet-inc-goog-q3-2023-earnings-call-transcript",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T19:54:15-04:00",
     "date_et": "2023-10-24"
@@ -1738,7 +2538,7 @@
     "url": "https://www.cnbc.com/2023/10/24/wall-street-wants-to-know-how-googles-going-to-profit-from-ai.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T19:55:48-04:00",
     "date_et": "2023-10-24"
@@ -1754,7 +2554,7 @@
     "url": "https://www.pymnts.com/google/2023/google-reports-7x-growth-in-ai-projects-built-on-its-platforms/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T21:00:54-04:00",
     "date_et": "2023-10-24"
@@ -1770,7 +2570,7 @@
     "url": "https://www.marketwatch.com/story/microsoft-and-alphabet-results-show-wall-street-only-cares-about-ai-65202238",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T21:38:00-04:00",
     "date_et": "2023-10-24"
@@ -1786,7 +2586,7 @@
     "url": "https://www.foxbusiness.com/markets/googles-ad-business-beat-expectations-cloud-miss-knocks-stock-after-hours-trading",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-24T21:58:14-04:00",
     "date_et": "2023-10-24"
@@ -1802,7 +2602,7 @@
     "url": "https://seekingalpha.com/article/4643148-alphabet-staying-the-course-as-bard-is-set-to-usurp-chatgpt",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T00:47:28-04:00",
     "date_et": "2023-10-25"
@@ -1818,7 +2618,7 @@
     "url": "https://www.proactiveinvestors.co.uk/companies/news/1030844?SNAPI",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T03:51:17-04:00",
     "date_et": "2023-10-25"
@@ -1834,7 +2634,7 @@
     "url": "https://techxplore.com/news/2023-10-google-ad-sales-growth-3q.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T04:07:03-04:00",
     "date_et": "2023-10-25"
@@ -1850,7 +2650,7 @@
     "url": "https://www.marketwatch.com/story/s-p-500-futures-slip-as-google-parents-slump-offsets-microsoft-advance-509a7498",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T04:58:00-04:00",
     "date_et": "2023-10-25"
@@ -1866,7 +2666,7 @@
     "url": "https://www.marketwatch.com/story/microsoft-shares-surge-on-bumper-growth-in-cloud-computing-unit-as-alphabet-stock-drops-on-weak-google-cloud-results-a767853a",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T05:27:00-04:00",
     "date_et": "2023-10-25"
@@ -1882,7 +2682,7 @@
     "url": "https://www.barrons.com/articles/microsoft-google-cloud-ai-stock-fe71f44f",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T05:27:00-04:00",
     "date_et": "2023-10-25"
@@ -1898,7 +2698,7 @@
     "url": "https://www.wsj.com/articles/microsoft-gets-another-leg-up-on-google-in-ai-race-67013c43",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T06:00:00-04:00",
     "date_et": "2023-10-25"
@@ -1914,7 +2714,7 @@
     "url": "https://www.fool.com/investing/2023/10/25/generative-ai-is-exploding-2-stocks-to-snag-now/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T06:07:00-04:00",
     "date_et": "2023-10-25"
@@ -1930,7 +2730,7 @@
     "url": "https://www.reuters.com/technology/microsoft-surpasses-alphabet-cloud-race-with-openai-bet-enterprise-focus-2023-10-25/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T06:45:14-04:00",
     "date_et": "2023-10-25"
@@ -1946,7 +2746,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1030922?SNAPI",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T07:06:36-04:00",
     "date_et": "2023-10-25"
@@ -1962,7 +2762,7 @@
     "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-ai-chatgpt-bard-microsoft-google-alphabet-shares-2023-10",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T07:22:32-04:00",
     "date_et": "2023-10-25"
@@ -1978,7 +2778,7 @@
     "url": "https://www.marketwatch.com/story/microsoft-has-taken-the-ai-mantel-from-googleand-now-its-coming-for-amazon-in-the-cloud-551dbb97",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T08:14:00-04:00",
     "date_et": "2023-10-25"
@@ -1994,7 +2794,7 @@
     "url": "https://www.forbes.com/sites/jjkinahan/2023/10/25/google-and-microsoft-earnings-impress-with-meta-scheduled-to-report-tonight/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T08:40:47-04:00",
     "date_et": "2023-10-25"
@@ -2010,7 +2810,7 @@
     "url": "https://www.cnn.com/2023/10/25/investing/premarket-stocks-trading/index.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T08:51:14-04:00",
     "date_et": "2023-10-25"
@@ -2026,7 +2826,7 @@
     "url": "https://www.fool.com/investing/2023/10/25/2-falling-stocks-to-keep-your-eyes-on-wednesday/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T09:36:33-04:00",
     "date_et": "2023-10-25"
@@ -2042,7 +2842,7 @@
     "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-tech-q3-earnings-microsoft-alphabet-msft-2023-10",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T09:37:07-04:00",
     "date_et": "2023-10-25"
@@ -2058,7 +2858,7 @@
     "url": "https://www.forbes.com/sites/dereksaul/2023/10/25/alphabet-stock-set-for-worst-day-in-12-months-as-microsoft-again-asserts-ai-lead/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T09:41:39-04:00",
     "date_et": "2023-10-25"
@@ -2074,7 +2874,7 @@
     "url": "https://www.marketwatch.com/story/google-earnings-just-crushed-two-big-bullish-hopes-for-alphabets-stock-9c387328",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T09:47:00-04:00",
     "date_et": "2023-10-25"
@@ -2090,7 +2890,7 @@
     "url": "https://www.fool.com/investing/2023/10/25/goog-stock-earnings-q3-cloud-growth-slowing/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T10:00:00-04:00",
     "date_et": "2023-10-25"
@@ -2106,7 +2906,7 @@
     "url": "https://www.cnbc.com/2023/10/25/alphabet-stock-down-8percent-on-cloud-miss-as-investors-praise-microsoft.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T10:00:47-04:00",
     "date_et": "2023-10-25"
@@ -2122,7 +2922,7 @@
     "url": "https://www.marketwatch.com/story/alphabets-stock-sinks-toward-worst-day-in-a-year-after-evasive-earnings-call-4d3aca7f",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T10:07:00-04:00",
     "date_et": "2023-10-25"
@@ -2138,7 +2938,7 @@
     "url": "https://investorplace.com/2023/10/goog-stock-price-predictions-whats-next-for-alphabet-after-mixed-bag-earnings/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T10:30:23-04:00",
     "date_et": "2023-10-25"
@@ -2154,7 +2954,7 @@
     "url": "https://www.reuters.com/technology/strong-ad-show-alphabet-snap-puts-spotlight-meta-2023-10-25/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T10:42:32-04:00",
     "date_et": "2023-10-25"
@@ -2170,7 +2970,7 @@
     "url": "https://www.pymnts.com/news/ecommerce/2023/google-expands-augmented-reality-beauty-features-mobile-browsers/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T10:54:52-04:00",
     "date_et": "2023-10-25"
@@ -2186,7 +2986,7 @@
     "url": "https://www.proactiveinvestors.co.uk/companies/news/1030971?SNAPI",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T10:56:24-04:00",
     "date_et": "2023-10-25"
@@ -2202,7 +3002,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1030980?SNAPI",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T11:51:21-04:00",
     "date_et": "2023-10-25"
@@ -2218,7 +3018,7 @@
     "url": "https://www.investopedia.com/alphabet-shares-tank-on-cloud-earnings-miss-but-analysts-say-investors-neednt-worry-8380210",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T12:25:48-04:00",
     "date_et": "2023-10-25"
@@ -2234,7 +3034,7 @@
     "url": "https://www.fool.com/investing/2023/10/25/why-alphabet-stock-crashed-wednesday-morning/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T12:26:19-04:00",
     "date_et": "2023-10-25"
@@ -2250,7 +3050,7 @@
     "url": "https://www.investopedia.com/markets-mixed-at-midday-as-google-parent-alphabet-drags-down-tech-sector-8380398",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T12:30:38-04:00",
     "date_et": "2023-10-25"
@@ -2266,7 +3066,7 @@
     "url": "https://www.zacks.com/stock/news/2171947/alphabet-googl-q3-earnings-revenues-beat-increase-y-y",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T12:47:34-04:00",
     "date_et": "2023-10-25"
@@ -2282,7 +3082,7 @@
     "url": "https://www.fool.com/investing/2023/10/25/why-amazon-stock-was-down-alphabets-news/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T12:58:51-04:00",
     "date_et": "2023-10-25"
@@ -2298,7 +3098,7 @@
     "url": "https://www.barrons.com/articles/alphabet-earnings-stock-price-downgrade-cloud-3c44f005",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T13:10:00-04:00",
     "date_et": "2023-10-25"
@@ -2314,7 +3114,7 @@
     "url": "https://stockmarket.com/featured/top-stocks-to-buy-now-2-tech-stocks-for-your-late-october-2023-watchlist-2023-10-25",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T13:40:33-04:00",
     "date_et": "2023-10-25"
@@ -2330,7 +3130,7 @@
     "url": "https://www.marketwatch.com/story/mike-johnson-elected-speaker-ending-rudderless-period-for-house-3dbdcb36",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T13:54:00-04:00",
     "date_et": "2023-10-25"
@@ -2346,7 +3146,7 @@
     "url": "https://invezz.com/news/2023/10/25/google-nvidia-invest-ai-startup-centml/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T14:02:31-04:00",
     "date_et": "2023-10-25"
@@ -2362,7 +3162,7 @@
     "url": "https://www.investors.com/news/technology/amzn-stock-q3-2023-earnings-preview-msft-goog/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T14:27:54-04:00",
     "date_et": "2023-10-25"
@@ -2378,7 +3178,7 @@
     "url": "https://investorplace.com/2023/10/why-are-fintech-stocks-down-today/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T14:55:14-04:00",
     "date_et": "2023-10-25"
@@ -2394,7 +3194,7 @@
     "url": "https://markets.businessinsider.com/news/stocks/google-alphabet-stock-price-earnings-market-cap-q3-cloud-tech-2023-10",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T15:30:38-04:00",
     "date_et": "2023-10-25"
@@ -2410,7 +3210,7 @@
     "url": "https://www.marketwatch.com/story/googles-stock-sheds-market-cap-the-size-of-nike-in-one-of-wall-streets-five-worst-drops-ever-734be4d5",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T16:58:00-04:00",
     "date_et": "2023-10-25"
@@ -2426,7 +3226,7 @@
     "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-tech-stocks-tumble-after-alphabet-earnings-report-8382592",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T17:00:57-04:00",
     "date_et": "2023-10-25"
@@ -2442,7 +3242,7 @@
     "url": "https://investorplace.com/2023/10/googles-latest-layoffs-are-a-huge-red-flag-for-goog-stock/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T19:15:00-04:00",
     "date_et": "2023-10-25"
@@ -2458,7 +3258,7 @@
     "url": "https://www.zacks.com/commentary/2172179/the-earnings-picture-continues-to-improve",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T20:17:18-04:00",
     "date_et": "2023-10-25"
@@ -2474,7 +3274,7 @@
     "url": "https://www.zacks.com/commentary/2172187/the-earnings-picture-continues-to-improve",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-25T20:17:25-04:00",
     "date_et": "2023-10-25"
@@ -2490,7 +3290,7 @@
     "url": "https://www.fool.com/investing/2023/10/26/2-faang-stocks-with-up-to-79-upside-wall-street/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T05:21:00-04:00",
     "date_et": "2023-10-26"
@@ -2506,7 +3306,7 @@
     "url": "https://www.fool.com/investing/2023/10/26/3-reasons-buy-alphabet-stock-and-3-reasons-sell/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T05:35:00-04:00",
     "date_et": "2023-10-26"
@@ -2522,7 +3322,7 @@
     "url": "https://www.fool.com/investing/2023/10/26/what-sundar-pichai-said-google-alphabet-stock/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T05:49:00-04:00",
     "date_et": "2023-10-26"
@@ -2538,7 +3338,7 @@
     "url": "https://www.fool.com/investing/2023/10/26/3-no-brainer-stocks-id-buy-right-now-without-hesit/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T05:57:00-04:00",
     "date_et": "2023-10-26"
@@ -2554,7 +3354,7 @@
     "url": "https://www.zacks.com/stock/news/2172416/alphabet-etfs-should-you-buy-the-dip",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T09:01:16-04:00",
     "date_et": "2023-10-26"
@@ -2570,7 +3370,7 @@
     "url": "https://www.barrons.com/articles/tech-stock-drop-apple-amazon-alphabet-a5dd5cfe",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T12:00:00-04:00",
     "date_et": "2023-10-26"
@@ -2586,7 +3386,7 @@
     "url": "https://www.reuters.com/technology/google-executive-testifies-innovation-key-avoid-becoming-next-road-kill-2023-10-26/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T13:39:55-04:00",
     "date_et": "2023-10-26"
@@ -2602,7 +3402,7 @@
     "url": "https://www.fool.com/investing/2023/10/26/why-alphabet-stock-lost-10-this-week/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T14:25:51-04:00",
     "date_et": "2023-10-26"
@@ -2618,7 +3418,7 @@
     "url": "https://nypost.com/2023/10/26/business/google-exec-testifies-innovation-is-key-to-avoid-becoming-road-kill/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T15:06:53-04:00",
     "date_et": "2023-10-26"
@@ -2634,7 +3434,7 @@
     "url": "https://nypost.com/2023/10/26/business/google-ceo-sundar-pichai-to-testify-over-private-messages/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T15:18:56-04:00",
     "date_et": "2023-10-26"
@@ -2650,7 +3450,7 @@
     "url": "https://www.cnbc.com/2023/10/26/tech-stocks-suffer-steep-two-day-drop-after-google-meta-earnings.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T15:21:13-04:00",
     "date_et": "2023-10-26"
@@ -2666,7 +3466,7 @@
     "url": "https://www.nytimes.com/2023/10/26/technology/google-prabhakar-raghavan-search-antitrust.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T15:40:52-04:00",
     "date_et": "2023-10-26"
@@ -2682,7 +3482,7 @@
     "url": "https://www.cnbc.com/2023/10/26/grandpa-google-search-head-testifies-about-how-young-users-see-it.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T15:49:03-04:00",
     "date_et": "2023-10-26"
@@ -2698,7 +3498,7 @@
     "url": "https://www.pymnts.com/antitrust/2023/google-emphasizes-importance-innovation-antitrust-trial/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T17:35:09-04:00",
     "date_et": "2023-10-26"
@@ -2714,7 +3514,7 @@
     "url": "https://www.reuters.com/technology/google-ceo-sundar-pichai-testify-monday-us-google-antitrust-trial-2023-10-26/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T18:28:30-04:00",
     "date_et": "2023-10-26"
@@ -2730,7 +3530,7 @@
     "url": "https://investorplace.com/2023/10/the-magnificent-7-stocks-for-october-4-to-buy-and-3-to-skip/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T20:11:54-04:00",
     "date_et": "2023-10-26"
@@ -2746,7 +3546,7 @@
     "url": "https://www.zacks.com/stock/news/2173331/should-investors-buy-the-dip-in-meta-platforms-or-alphabet-stock-after-earnings",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-26T20:18:11-04:00",
     "date_et": "2023-10-26"
@@ -2762,7 +3562,7 @@
     "url": "https://investorplace.com/2023/10/the-3-most-undervalued-semiconductor-stocks-to-buy-october-2023/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T06:00:00-04:00",
     "date_et": "2023-10-27"
@@ -2778,7 +3578,7 @@
     "url": "https://investorplace.com/2023/10/buy-and-hold-goog-stock-if-you-can/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T06:10:00-04:00",
     "date_et": "2023-10-27"
@@ -2794,7 +3594,7 @@
     "url": "https://finbold.com/heres-why-the-sp-500-is-getting-destroyed/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T06:20:09-04:00",
     "date_et": "2023-10-27"
@@ -2810,7 +3610,7 @@
     "url": "https://www.fool.com/investing/2023/10/27/microsoft-just-beat-google-on-this-1-important-met/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T07:30:00-04:00",
     "date_et": "2023-10-27"
@@ -2826,7 +3626,7 @@
     "url": "https://www.benzinga.com/trading-ideas/23/10/35465630/market-clubhouse-morning-memo-october-27th-2023-trade-strategy-for-spy-qqq-aapl-msft-amzn-tsla-and?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T10:33:31-04:00",
     "date_et": "2023-10-27"
@@ -2842,7 +3642,7 @@
     "url": "https://investorplace.com/2023/10/3-stocks-chatgpt-says-will-make-you-rich-in-20-years/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T11:46:14-04:00",
     "date_et": "2023-10-27"
@@ -2858,7 +3658,7 @@
     "url": "https://www.benzinga.com/trading-ideas/23/10/35467827/google-shines-in-q3-earnings-beating-expectations-but-falls-11-amid-stock-volatility?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T11:51:08-04:00",
     "date_et": "2023-10-27"
@@ -2874,7 +3674,7 @@
     "url": "https://www.zacks.com/stock/news/2173845/what-lies-ahead-of-alphabet-heavy-etfs-after-q3-earnings",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T12:02:10-04:00",
     "date_et": "2023-10-27"
@@ -2890,7 +3690,7 @@
     "url": "https://investorplace.com/2023/10/3-very-oversold-stocks-to-buy-in-q4/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T13:21:53-04:00",
     "date_et": "2023-10-27"
@@ -2906,7 +3706,7 @@
     "url": "https://www.businessinsider.com/google-apple-default-search-engine-iphone-deal-value-18-billion-2023-10",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T14:09:45-04:00",
     "date_et": "2023-10-27"
@@ -2922,7 +3722,7 @@
     "url": "https://www.cnbc.com/2023/10/27/microsoft-azure-outpaced-aws-and-google-cloud-in-latest-quarter.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T14:34:50-04:00",
     "date_et": "2023-10-27"
@@ -2938,7 +3738,7 @@
     "url": "https://www.fool.com/investing/2023/10/27/should-investors-buy-the-dip-in-alphabet-stock/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T14:44:42-04:00",
     "date_et": "2023-10-27"
@@ -2954,7 +3754,7 @@
     "url": "https://www.cnbc.com/2023/10/27/google-paid-26-billion-in-2021-to-become-a-default-search-engine.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T15:07:28-04:00",
     "date_et": "2023-10-27"
@@ -2970,7 +3770,7 @@
     "url": "https://www.marketwatch.com/story/google-to-invest-2-billion-in-ai-startup-anthropic-report-cc4342b6",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T15:47:00-04:00",
     "date_et": "2023-10-27"
@@ -2986,7 +3786,7 @@
     "url": "https://www.reuters.com/technology/google-paid-26-bln-be-default-search-engine-2021-bloomberg-news-2023-10-27/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T16:15:15-04:00",
     "date_et": "2023-10-27"
@@ -3002,7 +3802,7 @@
     "url": "https://nypost.com/2023/10/27/business/google-paid-26b-to-be-default-search-engine-exec-testifies/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T16:51:40-04:00",
     "date_et": "2023-10-27"
@@ -3018,7 +3818,7 @@
     "url": "https://www.zacks.com/commentary/2174029/q3-earnings-tech-sector-in-focus",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T19:33:22-04:00",
     "date_et": "2023-10-27"
@@ -3034,7 +3834,7 @@
     "url": "https://www.cnbc.com/2023/10/27/google-commits-to-invest-2-billion-in-openai-competitor-anthropic.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T19:47:55-04:00",
     "date_et": "2023-10-27"
@@ -3050,7 +3850,7 @@
     "url": "https://www.pymnts.com/google/2023/antitrust-trial-reveals-google-spends-26-3-billion-on-default-search-engine-agreements/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-27T20:12:16-04:00",
     "date_et": "2023-10-27"
@@ -3066,7 +3866,7 @@
     "url": "https://finbold.com/short-squeeze-alert-2-stocks-that-could-rocket-next-month/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-28T06:26:32-04:00",
     "date_et": "2023-10-28"
@@ -3082,7 +3882,7 @@
     "url": "https://www.fool.com/investing/2023/10/28/3-things-investors-miss-about-google-cloud/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-28T07:08:00-04:00",
     "date_et": "2023-10-28"
@@ -3098,7 +3898,7 @@
     "url": "https://www.fool.com/investing/2023/10/28/2-incredible-growth-stocks-to-buy-for-the-dawning/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-28T07:37:00-04:00",
     "date_et": "2023-10-28"
@@ -3114,7 +3914,7 @@
     "url": "https://www.cnbc.com/2023/10/28/how-to-delete-private-information-from-google-search-results.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-28T09:00:01-04:00",
     "date_et": "2023-10-28"
@@ -3130,7 +3930,7 @@
     "url": "https://247wallst.com/investing/2023/10/28/amazon-amzn-stock-price-prediction-in-2030-bull-base-bear-forecasts/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-28T09:43:58-04:00",
     "date_et": "2023-10-28"
@@ -3146,7 +3946,7 @@
     "url": "https://thedogofwallstreet.com/meta/big-tech-earnings-are-in-what-did-we-think?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-28T11:30:00-04:00",
     "date_et": "2023-10-28"
@@ -3162,7 +3962,7 @@
     "url": "https://www.marketwatch.com/story/robo-taxies-remain-a-pipe-dream-and-greedy-companies-have-only-themselves-to-blame-1c0914ca",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-28T11:38:00-04:00",
     "date_et": "2023-10-28"
@@ -3178,7 +3978,7 @@
     "url": "https://www.fool.com/investing/2023/10/29/stock-warren-buffett-bill-ackman-cathie-wood-own/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-29T05:50:00-04:00",
     "date_et": "2023-10-29"
@@ -3194,7 +3994,7 @@
     "url": "https://www.fool.com/investing/2023/10/29/microsoft-is-crushing-google-in-massive-market-and/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-29T07:00:00-04:00",
     "date_et": "2023-10-29"
@@ -3210,7 +4010,7 @@
     "url": "https://investorplace.com/2023/10/7-blue-chip-stocks-to-buy-on-every-single-dip/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-29T09:26:00-04:00",
     "date_et": "2023-10-29"
@@ -3226,7 +4026,7 @@
     "url": "https://seekingalpha.com/article/4644871-xlc-etf-communication-services-getting-stronger-despite-alphabets-fall",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-29T09:56:07-04:00",
     "date_et": "2023-10-29"
@@ -3242,7 +4042,7 @@
     "url": "https://www.cnbc.com/2023/10/29/how-bill-nye-educated-google-bard-on-how-ai-can-help-save-the-world.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-29T11:10:26-04:00",
     "date_et": "2023-10-29"
@@ -3258,7 +4058,7 @@
     "url": "https://www.fool.com/investing/2023/10/29/1-green-flag-for-alphabet-in-2023-and-1-red-flag/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-29T13:00:00-04:00",
     "date_et": "2023-10-29"
@@ -3274,7 +4074,7 @@
     "url": "https://www.pymnts.com/artificial-intelligence-2/2023/google-strengthens-anthropic-ties-with-2-billion-investment/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-29T16:48:59-04:00",
     "date_et": "2023-10-29"
@@ -3290,7 +4090,7 @@
     "url": "https://seekingalpha.com/article/4644959-google-stock-q3-earnings-year-over-year-improvements-despite-cloud-disappointments-maintain-buy",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T05:52:41-04:00",
     "date_et": "2023-10-30"
@@ -3306,7 +4106,7 @@
     "url": "https://www.marketbeat.com/originals/2-fallen-cybersecurity-stocks-for-patient-bargain-hunters/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T06:16:01-04:00",
     "date_et": "2023-10-30"
@@ -3322,7 +4122,7 @@
     "url": "https://www.reuters.com/legal/google-ceo-sundar-pichai-testify-us-antitrust-trial-2023-10-30/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T06:18:20-04:00",
     "date_et": "2023-10-30"
@@ -3338,7 +4138,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1031368?SNAPI",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T08:08:56-04:00",
     "date_et": "2023-10-30"
@@ -3354,7 +4154,7 @@
     "url": "https://www.fool.com/investing/2023/10/30/alphabets-earnings-teaches-investors-lesson/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T08:15:00-04:00",
     "date_et": "2023-10-30"
@@ -3370,7 +4170,7 @@
     "url": "https://www.zacks.com/stock/news/2174300/4-internet-stocks-poised-to-top-estimates-this-earnings-season",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T09:46:06-04:00",
     "date_et": "2023-10-30"
@@ -3386,7 +4186,7 @@
     "url": "https://www.marketwatch.com/story/bidens-executive-order-on-ai-could-reshape-the-technologys-impact-on-economy-national-security-840cbedb",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T11:47:00-04:00",
     "date_et": "2023-10-30"
@@ -3402,7 +4202,7 @@
     "url": "https://www.nytimes.com/2023/10/30/technology/google-sundar-pichai-antitrust-trial.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T12:35:24-04:00",
     "date_et": "2023-10-30"
@@ -3418,7 +4218,7 @@
     "url": "https://www.zacks.com/stock/news/2174630/5-inverse-tech-etfs-that-rose-on-nasdaq-entry-into-correction",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T12:47:33-04:00",
     "date_et": "2023-10-30"
@@ -3434,7 +4234,7 @@
     "url": "https://seekingalpha.com/article/4645062-google-most-attractive-mega-cap-stock-after-q3",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T13:07:07-04:00",
     "date_et": "2023-10-30"
@@ -3450,7 +4250,7 @@
     "url": "https://www.fool.com/investing/2023/10/30/why-artificial-intelligence-ai-stocks-meta-platfor/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T14:02:02-04:00",
     "date_et": "2023-10-30"
@@ -3466,7 +4266,7 @@
     "url": "https://techxplore.com/news/2023-10-google-ceo-defends-paying-apple.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T14:29:00-04:00",
     "date_et": "2023-10-30"
@@ -3482,7 +4282,7 @@
     "url": "https://www.cnbc.com/2023/10/30/google-ceo-sundar-pichai-testifies-in-us-antitrust-trial.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T14:51:13-04:00",
     "date_et": "2023-10-30"
@@ -3498,7 +4298,7 @@
     "url": "https://www.forbes.com/sites/tylerroush/2023/10/30/google-ceo-defends-deals-making-google-the-default-search-engine/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T16:00:19-04:00",
     "date_et": "2023-10-30"
@@ -3514,7 +4314,7 @@
     "url": "https://www.zacks.com/commentary/2174801/a-deep-dive-into-2023-s-surprising-trends-8-extreme-charts",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T16:32:11-04:00",
     "date_et": "2023-10-30"
@@ -3530,7 +4330,7 @@
     "url": "https://www.zacks.com/stock/news/2174818/time-to-buy-amazon-s-stock-on-upbeat-ai-commentary-and-strong-q3-results",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T18:03:04-04:00",
     "date_et": "2023-10-30"
@@ -3546,7 +4346,7 @@
     "url": "https://techcrunch.com/2023/10/30/5-things-we-learned-so-far-about-the-google-antitrust-case/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-30T22:30:32-04:00",
     "date_et": "2023-10-30"
@@ -3562,7 +4362,7 @@
     "url": "https://www.fool.com/investing/2023/10/31/2-smartest-tech-stocks-to-buy-in-2023-and-beyond/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-31T05:03:00-04:00",
     "date_et": "2023-10-31"
@@ -3578,7 +4378,7 @@
     "url": "https://www.fool.com/investing/2023/10/31/2-stock-split-stocks-could-soar-in-bull-market/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-31T06:00:00-04:00",
     "date_et": "2023-10-31"
@@ -3594,7 +4394,7 @@
     "url": "https://www.fool.com/investing/2023/10/31/google-cloud-hit-a-snag-but-heres-why-alphabet-sto/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-31T06:03:00-04:00",
     "date_et": "2023-10-31"
@@ -3610,7 +4410,7 @@
     "url": "https://www.marketbeat.com/originals/could-7-tech-giants-drag-down-the-broader-market/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-31T06:11:11-04:00",
     "date_et": "2023-10-31"
@@ -3626,7 +4426,7 @@
     "url": "https://www.fool.com/investing/2023/10/31/2-reasons-12-drop-trillion-dollar-stock-overdone/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-31T06:15:00-04:00",
     "date_et": "2023-10-31"
@@ -3642,7 +4442,7 @@
     "url": "https://www.fool.com/investing/2023/10/31/alphabet-stock-is-sinking-heres-why-now-could-be-a/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-31T07:05:00-04:00",
     "date_et": "2023-10-31"
@@ -3658,7 +4458,7 @@
     "url": "https://www.fool.com/investing/2023/10/31/investing-1000-in-these-2-top-stocks-would-be-a/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-31T09:53:00-04:00",
     "date_et": "2023-10-31"
@@ -3674,7 +4474,7 @@
     "url": "https://www.zacks.com/stock/news/2175266/alphabet-inc-googl-is-attracting-investor-attention-here-is-what-you-should-know",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-31T10:32:25-04:00",
     "date_et": "2023-10-31"
@@ -3690,7 +4490,7 @@
     "url": "https://www.cnbc.com/2023/10/31/google-deepmind-boss-hits-back-at-meta-ai-chief-over-fearmongering-claim.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-31T12:44:55-04:00",
     "date_et": "2023-10-31"
@@ -3706,7 +4506,7 @@
     "url": "https://seekingalpha.com/article/4645427-google-stock-upgrade-dont-miss-the-bigger-picture",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-31T12:53:15-04:00",
     "date_et": "2023-10-31"
@@ -3722,7 +4522,7 @@
     "url": "https://techcrunch.com/2023/10/31/google-and-match-group-reach-settlement-in-app-store-antitrust-case/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-31T17:02:07-04:00",
     "date_et": "2023-10-31"
@@ -3738,7 +4538,7 @@
     "url": "https://seekingalpha.com/article/4645567-its-time-to-consider-buying-google",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-10-31T17:03:26-04:00",
     "date_et": "2023-10-31"
@@ -3754,7 +4554,7 @@
     "url": "https://www.fool.com/investing/2023/11/01/meta-platforms-alphabet-results-roku-ttd-stock/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-01T05:20:00-04:00",
     "date_et": "2023-11-01"
@@ -3770,7 +4570,7 @@
     "url": "https://investorplace.com/2023/11/skip-the-cloud-noise-the-reason-goog-stock-is-a-screaming-buy-now/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-01T07:09:24-04:00",
     "date_et": "2023-11-01"
@@ -3786,7 +4586,7 @@
     "url": "https://www.fool.com/investing/2023/11/01/heres-why-im-buying-the-dip-on-alphabets-stock-han/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-01T07:15:00-04:00",
     "date_et": "2023-11-01"
@@ -3802,7 +4602,7 @@
     "url": "https://www.marketwatch.com/story/this-one-stock-could-potentially-undo-the-2023-rebound-if-it-falls-another-10-as-one-analyst-expects-19cda4c9",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-01T10:20:00-04:00",
     "date_et": "2023-11-01"
@@ -3818,7 +4618,7 @@
     "url": "https://seekingalpha.com/article/4645818-google-alphabet-advertising-revenue-starts-to-normalize-initiates-with-buy",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-01T10:40:12-04:00",
     "date_et": "2023-11-01"
@@ -3834,7 +4634,7 @@
     "url": "https://www.pymnts.com/news/retail/2023/google-aims-new-shopping-tools-at-boosting-small-business-sales/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-01T11:00:28-04:00",
     "date_et": "2023-11-01"
@@ -3850,7 +4650,7 @@
     "url": "https://techxplore.com/news/2023-11-google-trims-bay-area-jobs.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-01T11:24:05-04:00",
     "date_et": "2023-11-01"
@@ -3866,7 +4666,7 @@
     "url": "https://techxplore.com/news/2023-11-google-code-yellow-blurred-line.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-01T11:30:01-04:00",
     "date_et": "2023-11-01"
@@ -3882,7 +4682,7 @@
     "url": "https://www.zacks.com/commentary/2176495/eps-season-unveiling-the-3-biggest-winners",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-01T12:02:11-04:00",
     "date_et": "2023-11-01"
@@ -3898,7 +4698,7 @@
     "url": "https://www.zacks.com/commentary/2176681/earnings-season-top-performer-a-must-own-cloud-solutions-stock",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-01T15:02:07-04:00",
     "date_et": "2023-11-01"
@@ -3914,7 +4714,7 @@
     "url": "https://www.pymnts.com/news/artificial-intelligence/2023/google-begins-rollout-ai-tools-creating-product-imagery/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-01T15:49:24-04:00",
     "date_et": "2023-11-01"
@@ -3930,7 +4730,7 @@
     "url": "https://www.zacks.com/commentary/2176717/ignore-the-noise-and-buy-these-2-stocks-for-long-term-wealth-building",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-01T18:02:04-04:00",
     "date_et": "2023-11-01"
@@ -3946,7 +4746,7 @@
     "url": "https://www.fool.com/investing/2023/11/02/has-microsoft-proved-its-a-better-growth-stock-tha/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-02T06:20:00-04:00",
     "date_et": "2023-11-02"
@@ -3962,7 +4762,7 @@
     "url": "https://investorplace.com/2023/11/roadkill-alert-why-goog-stock-is-about-to-get-run-over/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-02T06:25:00-04:00",
     "date_et": "2023-11-02"
@@ -3978,7 +4778,7 @@
     "url": "https://www.fool.com/investing/2023/11/02/will-alphabet-2-trillion-dollar-stock-again-2025/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-02T09:08:00-04:00",
     "date_et": "2023-11-02"
@@ -3994,7 +4794,7 @@
     "url": "https://www.fool.com/investing/2023/11/02/is-alphabet-a-buy/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-02T09:20:00-04:00",
     "date_et": "2023-11-02"
@@ -4010,7 +4810,7 @@
     "url": "https://www.forbes.com/sites/britneynguyen/2023/11/02/youtube-announces-limits-on-recommended-videos-to-teens-amid-mental-health-crisis/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-02T12:02:11-04:00",
     "date_et": "2023-11-02"
@@ -4026,7 +4826,7 @@
     "url": "https://investorplace.com/2023/11/3-ai-stocks-to-buy-in-the-green-zone/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-02T16:51:02-04:00",
     "date_et": "2023-11-02"
@@ -4042,7 +4842,7 @@
     "url": "https://www.marketwatch.com/story/this-market-pro-likes-the-magnificent-seven-but-thinks-stocks-are-on-thin-ice-fba7d1df",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-02T18:09:00-04:00",
     "date_et": "2023-11-02"
@@ -4058,7 +4858,7 @@
     "url": "https://www.cnbc.com/2023/11/02/google-ends-agreement-with-lead-developer-of-four-california-campuses.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-02T21:24:36-04:00",
     "date_et": "2023-11-02"
@@ -4074,7 +4874,7 @@
     "url": "https://seekingalpha.com/article/4645907-the-most-important-thing-google-investors-will-ever-read",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-03T07:30:00-04:00",
     "date_et": "2023-11-03"
@@ -4090,7 +4890,7 @@
     "url": "https://www.marketwatch.com/story/epic-games-is-the-latest-to-take-on-google-in-court-over-antitrust-charges-7e386ccb",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-03T08:02:00-04:00",
     "date_et": "2023-11-03"
@@ -4106,7 +4906,7 @@
     "url": "https://www.zacks.com/commentary/2178427/q3-results-reflect-positivity-but-outlook-uncertain",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-03T18:03:06-04:00",
     "date_et": "2023-11-03"
@@ -4122,7 +4922,7 @@
     "url": "https://www.barrons.com/articles/microsoft-meta-and-alphabet-struggle-to-limit-ais-demand-for-water-a70f13cd",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-03T20:08:00-04:00",
     "date_et": "2023-11-03"
@@ -4138,7 +4938,7 @@
     "url": "https://www.fool.com/investing/2023/11/04/nasdaq-bear-market-4-growth-stocks-regret-not-buy/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-04T05:06:00-04:00",
     "date_et": "2023-11-04"
@@ -4154,7 +4954,7 @@
     "url": "https://www.fool.com/investing/2023/11/04/should-you-buy-alphabet-stock-after-q3-earnings/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-04T07:30:00-04:00",
     "date_et": "2023-11-04"
@@ -4170,7 +4970,7 @@
     "url": "https://investorplace.com/2023/11/3-stocks-to-buy-for-under-1000-that-could-skyrocket-by-2024/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-04T08:00:00-04:00",
     "date_et": "2023-11-04"
@@ -4186,7 +4986,7 @@
     "url": "https://www.fool.com/investing/2023/11/04/is-microsoft-amazon-or-alphabet-the-best-stock-in/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-04T13:00:00-04:00",
     "date_et": "2023-11-04"
@@ -4202,7 +5002,7 @@
     "url": "https://investorplace.com/2023/11/dont-underestimate-these-3-ai-stocks-right-now/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-05T07:45:00-05:00",
     "date_et": "2023-11-05"
@@ -4218,7 +5018,7 @@
     "url": "https://www.fool.com/investing/2023/11/05/3-high-performing-artificial-intelligence-ai-stock/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-05T08:00:00-05:00",
     "date_et": "2023-11-05"
@@ -4234,7 +5034,7 @@
     "url": "https://www.fool.com/investing/2023/11/05/ai-executive-order-affect-amazon-microsoft-alphabe/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-05T11:00:00-05:00",
     "date_et": "2023-11-05"
@@ -4250,7 +5050,7 @@
     "url": "https://www.pymnts.com/artificial-intelligence-2/2023/google-amazon-and-microsoft-pour-43-billion-into-cloud-computing-to-meet-ai-demand/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-05T16:21:26-05:00",
     "date_et": "2023-11-05"
@@ -4266,7 +5066,7 @@
     "url": "https://www.fool.com/investing/2023/11/06/3-hot-stocks-youll-regret-not-buying-on-the-dip/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-06T05:00:00-05:00",
     "date_et": "2023-11-06"
@@ -4282,7 +5082,7 @@
     "url": "https://www.fool.com/investing/2023/11/06/2-artificial-intelligence-ai-stocks-that-are-solid/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-06T06:45:00-05:00",
     "date_et": "2023-11-06"
@@ -4298,7 +5098,7 @@
     "url": "https://investorplace.com/2023/11/trustworthy-giants-7-blue-chip-stocks-to-buy-on-the-dip/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-06T07:40:00-05:00",
     "date_et": "2023-11-06"
@@ -4314,7 +5114,7 @@
     "url": "https://www.cnbc.com/2023/11/06/google-set-for-second-antitrust-trial-in-two-months-as-it-faces-epic.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-06T08:00:01-05:00",
     "date_et": "2023-11-06"
@@ -4330,7 +5130,7 @@
     "url": "https://www.marketbeat.com/originals/alphabet-slays-its-earnings-but-falls-on-its-sword-with-cloud/?utm_source=snapi",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-06T11:30:05-05:00",
     "date_et": "2023-11-06"
@@ -4346,7 +5146,7 @@
     "url": "https://techcrunch.com/2023/11/06/what-to-know-about-fortnite-maker-epic-games-antitrust-battle-with-google-starting-today/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-06T11:47:11-05:00",
     "date_et": "2023-11-06"
@@ -4362,7 +5162,7 @@
     "url": "https://www.zacks.com/commentary/2179531/bear-market-rally-or-bull-market-resumption-5-clues",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-06T15:02:04-05:00",
     "date_et": "2023-11-06"
@@ -4378,7 +5178,7 @@
     "url": "https://techxplore.com/news/2023-11-epic-games-google-court-app.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-06T15:45:34-05:00",
     "date_et": "2023-11-06"
@@ -4394,7 +5194,7 @@
     "url": "https://www.marketwatch.com/story/epic-games-accuses-google-of-bullying-bribery-to-block-competition-to-its-android-app-store-fbfb367a",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-06T16:52:00-05:00",
     "date_et": "2023-11-06"
@@ -4410,7 +5210,7 @@
     "url": "https://seekingalpha.com/article/4648156-look-at-google-strong-financial-prowess",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-06T18:09:31-05:00",
     "date_et": "2023-11-06"
@@ -4426,7 +5226,7 @@
     "url": "https://www.fool.com/investing/2023/11/07/is-this-artificial-intelligence-ai-stock-about-to/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-07T06:00:00-05:00",
     "date_et": "2023-11-07"
@@ -4442,7 +5242,7 @@
     "url": "https://www.reuters.com/technology/big-tech-face-tougher-rules-targeted-political-ads-eu-2023-11-07/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-07T07:15:37-05:00",
     "date_et": "2023-11-07"
@@ -4458,7 +5258,7 @@
     "url": "https://www.cnbc.com/2023/11/07/how-to-switch-from-passwords-to-passkeys.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-07T08:00:01-05:00",
     "date_et": "2023-11-07"
@@ -4474,7 +5274,7 @@
     "url": "https://investorplace.com/2023/11/3-dependable-ai-stocks-to-buy-for-2024/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-07T11:51:51-05:00",
     "date_et": "2023-11-07"
@@ -4490,7 +5290,7 @@
     "url": "https://www.marketwatch.com/story/cfpb-wants-to-treat-apple-pay-google-pay-and-other-tech-payment-products-like-banks-265da69a",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-07T12:00:00-05:00",
     "date_et": "2023-11-07"
@@ -4506,7 +5306,7 @@
     "url": "https://www.reuters.com/technology/us-consumer-watchdog-proposes-rules-big-tech-payments-digital-wallets-2023-11-07/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-07T12:07:39-05:00",
     "date_et": "2023-11-07"
@@ -4522,7 +5322,7 @@
     "url": "https://nypost.com/2023/11/07/business/google-slammed-for-bribe-and-block-tactics-as-app-store-antitrust-trial-kicks-off/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-07T12:54:33-05:00",
     "date_et": "2023-11-07"
@@ -4538,7 +5338,7 @@
     "url": "https://investorplace.com/2023/11/predicting-the-7-top-performing-stocks-for-2024-with-ai-technology/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-07T14:16:03-05:00",
     "date_et": "2023-11-07"
@@ -4554,7 +5354,7 @@
     "url": "https://www.cnbc.com/2023/11/07/googles-waze-will-now-warn-you-about-roads-prone-to-car-accidents.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-07T15:05:56-05:00",
     "date_et": "2023-11-07"
@@ -4570,7 +5370,7 @@
     "url": "https://www.investors.com/research/warren-buffett-stocks-investing-strategy-stock-screen/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-07T15:29:46-05:00",
     "date_et": "2023-11-07"
@@ -4586,7 +5386,7 @@
     "url": "https://www.cnbc.com/2023/11/07/group-of-google-contractors-who-work-on-win-union-vote.html",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-07T16:06:16-05:00",
     "date_et": "2023-11-07"
@@ -4602,7 +5402,7 @@
     "url": "https://investorplace.com/2023/11/the-next-big-stream-3-media-stocks-ready-to-challenge-netflixs-throne/",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-07T17:36:14-05:00",
     "date_et": "2023-11-07"
@@ -4618,7 +5418,7 @@
     "url": "https://seekingalpha.com/article/4648797-strong-large-cap-insider-buys-q3-2023",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-07T20:17:43-05:00",
     "date_et": "2023-11-07"
@@ -4634,7 +5434,7 @@
     "url": "https://seekingalpha.com/article/4648894-google-strong-re-rating-opportunity-following-q3-selloff",
     "ticker": "GOOGL",
     "event_date": "2023-10-24",
-    "window_start": "2023-10-17",
+    "window_start": "2023-10-10",
     "window_end": "2023-11-07",
     "publishedDateET": "2023-11-07T22:51:41-05:00",
     "date_et": "2023-11-07"

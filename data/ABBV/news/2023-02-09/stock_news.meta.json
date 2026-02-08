@@ -4,11 +4,39 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2023-02-09",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2023-02-02",
+  "start": "2023-01-26",
   "end": "2023-02-23",
   "chunks": [
+    {
+      "start": "2023-01-26",
+      "end": "2023-01-26"
+    },
+    {
+      "start": "2023-01-27",
+      "end": "2023-01-27"
+    },
+    {
+      "start": "2023-01-28",
+      "end": "2023-01-28"
+    },
+    {
+      "start": "2023-01-29",
+      "end": "2023-01-29"
+    },
+    {
+      "start": "2023-01-30",
+      "end": "2023-01-30"
+    },
+    {
+      "start": "2023-01-31",
+      "end": "2023-01-31"
+    },
+    {
+      "start": "2023-02-01",
+      "end": "2023-02-01"
+    },
     {
       "start": "2023-02-02",
       "end": "2023-02-02"
@@ -105,16 +133,16 @@
   "chunk_days": 0,
   "pad_days": 0,
   "sleep": 0.05,
-  "fetched_total": 48,
-  "kept_total": 48,
+  "fetched_total": 56,
+  "kept_total": 56,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2023-02-03T22:53:10-05:00",
+  "min_publishedDateET": "2023-01-27T15:13:01-05:00",
   "max_publishedDateET": "2023-02-23T02:35:03-05:00",
   "outputs": {
     "raw_json": "data/ABBV/news/2023-02-09/stock_news.raw.json",
     "jsonl": "data/ABBV/news/2023-02-09/stock_news.jsonl",
     "csv": "data/ABBV/news/2023-02-09/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:34:13.925166-05:00",
+  "generated_at": "2026-02-07T19:40:49.794574-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

@@ -1,6 +1,102 @@
 [
   {
     "symbol": "HD",
+    "publishedDate": "2021-02-09 18:56:33",
+    "publisher": "Zacks Investment Research",
+    "title": "Home Depot (HD) Dips More Than Broader Markets: What You Should Know",
+    "image": "https://images.financialmodelingprep.com/news/home-depot-hd-dips-more-than-broader-markets-what-20210209.jpg",
+    "site": "zacks.com",
+    "text": "In the latest trading session, Home Depot (HD) closed at $276.77, marking a -1.16% move from the previous day.",
+    "url": "https://www.zacks.com/stock/news/1260283/home-depot-hd-dips-more-than-broader-markets-what-you-should-know",
+    "ticker": "HD",
+    "event_date": "2021-02-23",
+    "window_start": "2021-02-09",
+    "window_end": "2021-03-09",
+    "publishedDateET": "2021-02-09T18:56:33-05:00",
+    "date_et": "2021-02-09"
+  },
+  {
+    "symbol": "HD",
+    "publishedDate": "2021-02-10 05:31:47",
+    "publisher": "InvestorPlace",
+    "title": "4 Stocks To Avoid Until the Economy's Hot Again",
+    "image": "https://images.financialmodelingprep.com/news/4-stocks-to-avoid-until-the-economys-hot-again-20210210.jpg",
+    "site": "investorplace.com",
+    "text": "There's light at the end of the pandemic tunnel but it'll be months until full recovery takes hold. Here are four stocks to avoid until the economy's hot again.",
+    "url": "https://investorplace.com/2021/02/4-stocks-to-avoid-until-the-economys-hot-again/",
+    "ticker": "HD",
+    "event_date": "2021-02-23",
+    "window_start": "2021-02-09",
+    "window_end": "2021-03-09",
+    "publishedDateET": "2021-02-10T05:31:47-05:00",
+    "date_et": "2021-02-10"
+  },
+  {
+    "symbol": "HD",
+    "publishedDate": "2021-02-11 09:51:31",
+    "publisher": "Seeking Alpha",
+    "title": "Retail Series: Home Depot Is A Buy And Hold Forever Stock",
+    "image": "https://images.financialmodelingprep.com/news/retail-series-home-depot-is-a-buy-and-hold-20210211.jpg",
+    "site": "seekingalpha.com",
+    "text": "Retail Series: Home Depot Is A Buy And Hold Forever Stock",
+    "url": "https://seekingalpha.com/article/4405225-home-depot-is-buy-and-hold-forever-stock",
+    "ticker": "HD",
+    "event_date": "2021-02-23",
+    "window_start": "2021-02-09",
+    "window_end": "2021-03-09",
+    "publishedDateET": "2021-02-11T09:51:31-05:00",
+    "date_et": "2021-02-11"
+  },
+  {
+    "symbol": "HD",
+    "publishedDate": "2021-02-14 07:26:21",
+    "publisher": "Seeking Alpha",
+    "title": "Week 7 MDA Breakout Stocks - February 2021: Short-Term Picks To Give You An Edge",
+    "image": "https://images.financialmodelingprep.com/news/week-7-mda-breakout-stocks-february-2021-shortterm-picks-20210214.jpg",
+    "site": "seekingalpha.com",
+    "text": "Week 7 MDA Breakout Stocks - February 2021: Short-Term Picks To Give You An Edge",
+    "url": "https://seekingalpha.com/article/4406009-week-7-mda-breakout-stocks-february-2021-short-term-picks-to-give-you-edge",
+    "ticker": "HD",
+    "event_date": "2021-02-23",
+    "window_start": "2021-02-09",
+    "window_end": "2021-03-09",
+    "publishedDateET": "2021-02-14T07:26:21-05:00",
+    "date_et": "2021-02-14"
+  },
+  {
+    "symbol": "HD",
+    "publishedDate": "2021-02-15 08:03:28",
+    "publisher": "Seeking Alpha",
+    "title": "Second Half Of February Brings Dividend Increases From Many Companies, Including Coca-Cola, Home Depot",
+    "image": "https://images.financialmodelingprep.com/news/second-half-of-february-brings-dividend-increases-from-many-20210215.jpg",
+    "site": "seekingalpha.com",
+    "text": "Dividend growth continues to be a mixed bag as some companies outshine expectations while others - like UPS and 3M - do the minimum to keep their streaks going. Popular companies like Coca-Cola and Home Depot will announce increases in the latter half of February.",
+    "url": "https://seekingalpha.com/article/4406148-second-half-february-brings-dividend-increases-from-many-companies",
+    "ticker": "HD",
+    "event_date": "2021-02-23",
+    "window_start": "2021-02-09",
+    "window_end": "2021-03-09",
+    "publishedDateET": "2021-02-15T08:03:28-05:00",
+    "date_et": "2021-02-15"
+  },
+  {
+    "symbol": "HD",
+    "publishedDate": "2021-02-15 09:00:00",
+    "publisher": "Seeking Alpha",
+    "title": "Why Growth Matters - In Plain English",
+    "image": "https://images.financialmodelingprep.com/news/why-growth-matters-in-plain-english-20210215.jpg",
+    "site": "seekingalpha.com",
+    "text": "We explain why growth is important, with visually appealing demonstrations.",
+    "url": "https://seekingalpha.com/article/4406084-why-growth-matters-in-plain-english",
+    "ticker": "HD",
+    "event_date": "2021-02-23",
+    "window_start": "2021-02-09",
+    "window_end": "2021-03-09",
+    "publishedDateET": "2021-02-15T09:00:00-05:00",
+    "date_et": "2021-02-15"
+  },
+  {
+    "symbol": "HD",
     "publishedDate": "2021-02-16 11:25:55",
     "publisher": "Zacks Investment Research",
     "title": "4 Retail Building Products Stocks to Watch Amid Rising Demand",
@@ -10,7 +106,7 @@
     "url": "https://www.zacks.com/commentary/1263630/4-retail-building-products-stocks-to-watch-amid-rising-demand",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-16T11:25:55-05:00",
     "date_et": "2021-02-16"
@@ -26,7 +122,7 @@
     "url": "https://www.barrons.com/articles/home-depot-lowes-stock-buy-home-improvement-51613508645",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-17T07:30:00-05:00",
     "date_et": "2021-02-17"
@@ -42,7 +138,7 @@
     "url": "https://www.foxbusiness.com/markets/gamestop-stock-investors-burned-badly-home-deport-ken-langone",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-18T10:59:56-05:00",
     "date_et": "2021-02-18"
@@ -58,7 +154,7 @@
     "url": "https://investorplace.com/2021/02/invest-in-low-stock-build-a-sector-fund-to-profit-from-stay-at-home-trend/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-18T15:14:22-05:00",
     "date_et": "2021-02-18"
@@ -74,7 +170,7 @@
     "url": "https://www.zacks.com/stock/news/1265815/home-depot-hd-gains-as-market-dips-what-you-should-know",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-18T18:56:55-05:00",
     "date_et": "2021-02-18"
@@ -90,7 +186,7 @@
     "url": "https://www.fool.com/investing/2021/02/19/home-depot-earnings-3-trends-to-watch/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-19T09:12:00-05:00",
     "date_et": "2021-02-19"
@@ -106,7 +202,7 @@
     "url": "https://www.fool.com/investing/2021/02/19/better-buy-amazon-vs-home-depot/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-19T10:38:18-05:00",
     "date_et": "2021-02-19"
@@ -122,7 +218,7 @@
     "url": "https://www.zacks.com/stock/news/1266221/know-why-home-depot-hd-is-poised-for-an-earnings-beat-in-q4",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-19T11:20:28-05:00",
     "date_et": "2021-02-19"
@@ -138,7 +234,7 @@
     "url": "https://247wallst.com/investing/2021/02/19/earnings-previews-air-lease-occidental-home-depot-macys-palo-alto-networks/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-19T13:44:17-05:00",
     "date_et": "2021-02-19"
@@ -154,7 +250,7 @@
     "url": "https://www.zacks.com/commentary/1266463/earnings-start-growing-again",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-19T18:09:03-05:00",
     "date_et": "2021-02-19"
@@ -170,7 +266,7 @@
     "url": "https://seekingalpha.com/article/4407695-week-8-mda-breakout-stocks-february-2021-short-term-picks-to-give-you-edge",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-20T15:49:16-05:00",
     "date_et": "2021-02-20"
@@ -186,7 +282,7 @@
     "url": "https://247wallst.com/investing/2021/02/21/airbnb-doordash-draftkings-home-depot-nvidia-and-more-major-earnings-coming-this-week/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-21T06:15:30-05:00",
     "date_et": "2021-02-21"
@@ -202,7 +298,7 @@
     "url": "https://www.forbes.com/sites/greatspeculations/2021/02/22/is-home-depot-stock-a-buy-ahead-of-q4-release/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-22T06:30:00-05:00",
     "date_et": "2021-02-22"
@@ -218,7 +314,7 @@
     "url": "https://www.zacks.com/stock/news/1267215/should-you-buy-the-home-depot-hd-ahead-of-earnings",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-22T10:40:58-05:00",
     "date_et": "2021-02-22"
@@ -234,7 +330,7 @@
     "url": "https://www.zacks.com/stock/news/1267361/markets-await-economic-and-earnings-data",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-22T11:22:26-05:00",
     "date_et": "2021-02-22"
@@ -250,7 +346,7 @@
     "url": "https://investorplace.com/2021/02/7-blue-chip-stocks-to-buy-investors-are-overlooking/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-22T14:23:01-05:00",
     "date_et": "2021-02-22"
@@ -266,7 +362,7 @@
     "url": "https://www.cnbc.com/2021/02/23/home-depot-hd-earnings-q4-2020.html",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T05:30:19-05:00",
     "date_et": "2021-02-23"
@@ -282,7 +378,7 @@
     "url": "https://www.prnewswire.com/news-releases/the-home-depot-announces-fourth-quarter-and-fiscal-2020-results-increases-quarterly-dividend-by-10-percent-301232920.html",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T06:00:00-05:00",
     "date_et": "2021-02-23"
@@ -298,7 +394,7 @@
     "url": "https://www.reuters.com/article/us-home-depot-results/home-depot-beats-quarterly-same-store-sales-estimates-idUSKBN2AN0ZH",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T06:07:00-05:00",
     "date_et": "2021-02-23"
@@ -314,7 +410,7 @@
     "url": "https://www.marketwatch.com/story/home-depot-beats-profit-sales-expectations-and-boosts-dividend-but-stock-slips-2021-02-23",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T06:11:09-05:00",
     "date_et": "2021-02-23"
@@ -330,7 +426,7 @@
     "url": "https://invezz.com/news/2021/02/23/home-depot-beats-wall-street-estimates-in-the-fiscal-fourth-quarter/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T07:04:49-05:00",
     "date_et": "2021-02-23"
@@ -346,7 +442,7 @@
     "url": "https://www.benzinga.com/news/earnings/21/02/19793019/home-depot-q4-earnings-insights",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T07:07:07-05:00",
     "date_et": "2021-02-23"
@@ -362,7 +458,7 @@
     "url": "https://www.fool.com/investing/2021/02/23/this-etf-could-help-grow-any-retirement-nest-egg/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T08:34:00-05:00",
     "date_et": "2021-02-23"
@@ -378,7 +474,7 @@
     "url": "https://www.barrons.com/articles/home-depot-stock-slides-shopify-sinks-as-tech-stocks-get-crushed-again-51614088509",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T08:55:00-05:00",
     "date_et": "2021-02-23"
@@ -394,7 +490,7 @@
     "url": "https://www.gurufocus.com/news/1366975/home-depot-reports-good-4thquarter-and-2020-numbers",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T10:16:14-05:00",
     "date_et": "2021-02-23"
@@ -410,7 +506,7 @@
     "url": "https://www.schaeffersresearch.com/content/news/2021/02/23/home-depot-stock-plummets-as-company-withholds-2021-guidance",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T10:34:54-05:00",
     "date_et": "2021-02-23"
@@ -426,7 +522,7 @@
     "url": "https://www.zacks.com/stock/news/1268020/the-home-depot-hd-beats-on-q4-earnings-dips-on-soft-view",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T10:37:06-05:00",
     "date_et": "2021-02-23"
@@ -442,7 +538,7 @@
     "url": "https://www.investors.com/news/home-depot-stock-home-depot-earnings-q4-2020/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T10:42:35-05:00",
     "date_et": "2021-02-23"
@@ -458,7 +554,7 @@
     "url": "https://247wallst.com/retail/2021/02/23/home-depot-hammered-despite-solid-q4-earnings/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T11:01:55-05:00",
     "date_et": "2021-02-23"
@@ -474,7 +570,7 @@
     "url": "https://www.zacks.com/stock/news/1268054/nasdaq-still-down-as-rotation-continues-home-depot-beats",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T11:22:46-05:00",
     "date_et": "2021-02-23"
@@ -490,7 +586,7 @@
     "url": "https://www.zacks.com/stock/news/1268098/case-shiller-home-prices-rose-better-than-expected-in-december",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T12:09:05-05:00",
     "date_et": "2021-02-23"
@@ -506,7 +602,7 @@
     "url": "https://www.marketwatch.com/story/home-depot-is-focused-on-eco-friendly-cordless-power-tools-for-spring-11614101607",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T12:33:00-05:00",
     "date_et": "2021-02-23"
@@ -522,7 +618,7 @@
     "url": "https://www.fool.com/investing/2021/02/23/why-home-depot-dropped-5-today/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T13:10:00-05:00",
     "date_et": "2021-02-23"
@@ -538,7 +634,7 @@
     "url": "https://seekingalpha.com/article/4408269-home-depot-inc-hd-ceo-craig-menear-on-q4-2020-results-earnings-call-transcript",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T13:29:11-05:00",
     "date_et": "2021-02-23"
@@ -554,7 +650,7 @@
     "url": "https://www.reuters.com/article/us-global-trade-home-depot-analysis/analysis-prices-lurch-higher-as-home-depot-other-importers-battle-surging-cargo-commodity-costs-idUSKBN2AN2D1",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-23T16:23:00-05:00",
     "date_et": "2021-02-23"
@@ -570,7 +666,7 @@
     "url": "https://www.zacks.com/stock/news/1268622/5-retailers-poised-to-trump-estimates-this-earnings-season",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-24T09:06:40-05:00",
     "date_et": "2021-02-24"
@@ -586,7 +682,7 @@
     "url": "https://www.zacks.com/stock/news/1268791/consumer-confidence-for-february-came-in-better-than-expected",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-24T11:23:25-05:00",
     "date_et": "2021-02-24"
@@ -602,7 +698,7 @@
     "url": "https://www.fool.com/investing/2021/02/24/why-home-depot-stock-is-still-dropping/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-24T12:58:00-05:00",
     "date_et": "2021-02-24"
@@ -618,7 +714,7 @@
     "url": "https://www.zacks.com/commentary/1269040/a-closer-look-at-retail-sector-earnings",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-25T01:37:05-05:00",
     "date_et": "2021-02-25"
@@ -634,7 +730,7 @@
     "url": "https://www.zacks.com/commentary/1269062/a-closer-look-at-retail-sector-earnings",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-25T01:37:08-05:00",
     "date_et": "2021-02-25"
@@ -650,7 +746,7 @@
     "url": "https://investorplace.com/2021/02/9-stocks-to-buy-for-natural-disasters/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-25T09:05:42-05:00",
     "date_et": "2021-02-25"
@@ -666,7 +762,7 @@
     "url": "https://www.fool.com/investing/2021/02/25/home-depots-warning-for-investors/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-25T11:00:28-05:00",
     "date_et": "2021-02-25"
@@ -682,7 +778,7 @@
     "url": "https://www.gurufocus.com/news/1369973/home-depot-and-lowes-will-thrive-beyond-covid19",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-25T14:15:40-05:00",
     "date_et": "2021-02-25"
@@ -698,7 +794,7 @@
     "url": "https://www.gurufocus.com/news/1370396/jana-partners-top-4-trades-of-the-4th-quarter",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-25T14:35:03-05:00",
     "date_et": "2021-02-25"
@@ -714,7 +810,7 @@
     "url": "https://www.forbes.com/sites/warrenshoulberg/2021/02/26/how-long-will-home-run-last-for-lowes-and-home-depot/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-26T11:21:43-05:00",
     "date_et": "2021-02-26"
@@ -730,7 +826,7 @@
     "url": "https://www.barrons.com/articles/home-depot-best-buy-stock-dividends-51614380699",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-27T07:30:00-05:00",
     "date_et": "2021-02-27"
@@ -746,7 +842,7 @@
     "url": "https://seekingalpha.com/article/4410083-week-9-mda-breakout-stocks-march-2021-short-term-picks-to-give-you-edge",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-28T07:20:10-05:00",
     "date_et": "2021-02-28"
@@ -762,7 +858,7 @@
     "url": "https://seekingalpha.com/article/4410154-dividend-increases-february-20minus-26-2021",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-02-28T14:40:56-05:00",
     "date_et": "2021-02-28"
@@ -778,7 +874,7 @@
     "url": "https://www.fool.com/investing/2021/03/01/is-home-depot-a-great-dividend-stock/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-03-01T10:30:00-05:00",
     "date_et": "2021-03-01"
@@ -794,7 +890,7 @@
     "url": "https://www.gurufocus.com/news/1372990/a-trio-of-stocks-with-a-record-of-operating-income-margin-growth",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-03-01T12:16:05-05:00",
     "date_et": "2021-03-01"
@@ -810,7 +906,7 @@
     "url": "https://investorplace.com/2021/03/7-blue-chip-stocks-that-look-a-little-pale/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-03-02T05:01:13-05:00",
     "date_et": "2021-03-02"
@@ -826,7 +922,7 @@
     "url": "https://www.fool.com/investing/2021/03/02/2-stock-picks-for-2021/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-03-02T07:46:00-05:00",
     "date_et": "2021-03-02"
@@ -842,7 +938,7 @@
     "url": "https://seekingalpha.com/article/4410952-home-depot-inc-hd-management-presents-raymond-james-associates-42nd-annual-institutional",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-03-03T00:30:37-05:00",
     "date_et": "2021-03-03"
@@ -858,7 +954,7 @@
     "url": "https://www.fool.com/investing/2021/03/03/will-home-depots-earnings-fall-in-2021/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-03-03T09:19:00-05:00",
     "date_et": "2021-03-03"
@@ -874,7 +970,7 @@
     "url": "https://www.fool.com/investing/2021/03/03/a-look-at-home-depots-and-macys-recent-earnings-re/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-03-03T14:00:00-05:00",
     "date_et": "2021-03-03"
@@ -890,7 +986,7 @@
     "url": "https://www.zacks.com/commentary/1272846/an-all-around-improving-earnings-picture",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-03-04T01:32:02-05:00",
     "date_et": "2021-03-04"
@@ -906,7 +1002,7 @@
     "url": "https://www.fool.com/investing/2021/03/04/is-home-depot-a-great-dividend-stock/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-03-04T07:00:00-05:00",
     "date_et": "2021-03-04"
@@ -922,7 +1018,7 @@
     "url": "https://www.gurufocus.com/news/1376562/5-predictable-stocks-with-a-margin-of-safety",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-03-04T10:50:02-05:00",
     "date_et": "2021-03-04"
@@ -938,7 +1034,7 @@
     "url": "https://www.zacks.com/commentary/1273668/when-do-earnings-get-back-to-pre-pandemic-levels",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-03-05T01:35:04-05:00",
     "date_et": "2021-03-05"
@@ -954,7 +1050,7 @@
     "url": "https://investorplace.com/2021/03/7-mega-cap-stocks-standing-above-the-fray/",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-03-05T11:50:37-05:00",
     "date_et": "2021-03-05"
@@ -970,7 +1066,7 @@
     "url": "https://seekingalpha.com/article/4411950-recent-purchase-home-depot",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-03-06T02:37:54-05:00",
     "date_et": "2021-03-06"
@@ -986,7 +1082,7 @@
     "url": "https://seekingalpha.com/article/4412399-upcoming-ex-dividend-dates-march-9-22-2021",
     "ticker": "HD",
     "event_date": "2021-02-23",
-    "window_start": "2021-02-16",
+    "window_start": "2021-02-09",
     "window_end": "2021-03-09",
     "publishedDateET": "2021-03-09T02:43:46-05:00",
     "date_et": "2021-03-09"

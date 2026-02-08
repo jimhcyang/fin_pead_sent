@@ -136,6 +136,8 @@ def _is_text_feature_col(c: str) -> bool:
         return True
     if cl.startswith(("tr__", "news__")) and ("lm_" in cl or "tone" in cl or "sent" in cl):
         return True
+    if cl.startswith(("trfb__", "newsfb__", "troa__", "newsoa__")):
+        return True
 
     # counts emitted by scoring scripts
     if cl in ("n_units", "n_tokens", "n_units_pre", "n_units_post", "n_units_prepared", "n_units_qa"):
@@ -287,6 +289,8 @@ def main() -> None:
     ap.add_argument("--skip-extract", action="store_true")
     ap.add_argument("--skip-score", action="store_true")
     ap.add_argument("--out-dir", type=str, default="data/_derived/text")
+    ap.add_argument("--with-finbert", action="store_true", help="Also score FinBERT (transcripts + news).")
+    ap.add_argument("--with-openai", action="store_true", help="Also score OpenAI (transcripts + news).")
     ap.add_argument(
         "--return-files",
         nargs="*",
@@ -348,6 +352,44 @@ def main() -> None:
             cmd_news.append("--overwrite")
         run(cmd_news, cwd=root)
 
+        if args.with_finbert:
+            cmd_fb_tr = [
+                sys.executable, "-u", str(root / "scripts" / "34_score_text_FinBERT_transcripts.py"),
+                "--data-dir", str(data_dir),
+                "--tickers", *args.tickers,
+            ]
+            if args.overwrite:
+                cmd_fb_tr.append("--overwrite")
+            run(cmd_fb_tr, cwd=root)
+
+            cmd_fb_news = [
+                sys.executable, "-u", str(root / "scripts" / "35_score_text_FinBERT_news.py"),
+                "--data-dir", str(data_dir),
+                "--tickers", *args.tickers,
+            ]
+            if args.overwrite:
+                cmd_fb_news.append("--overwrite")
+            run(cmd_fb_news, cwd=root)
+
+        if args.with_openai:
+            cmd_oa_tr = [
+                sys.executable, "-u", str(root / "scripts" / "36_score_text_OpenAI_transcripts.py"),
+                "--data-dir", str(data_dir),
+                "--tickers", *args.tickers,
+            ]
+            if args.overwrite:
+                cmd_oa_tr.append("--overwrite")
+            run(cmd_oa_tr, cwd=root)
+
+            cmd_oa_news = [
+                sys.executable, "-u", str(root / "scripts" / "37_score_text_OpenAI_news.py"),
+                "--data-dir", str(data_dir),
+                "--tickers", *args.tickers,
+            ]
+            if args.overwrite:
+                cmd_oa_news.append("--overwrite")
+            run(cmd_oa_news, cwd=root)
+
     # Step 4: merge to panel
     all_rows: List[pd.DataFrame] = []
     metas: List[TickerMeta] = []
@@ -362,6 +404,10 @@ def main() -> None:
         ev_path = tdir / "event_windows.csv"
         tr_path = tdir / "text_lm_transcripts_event_wide.csv"
         nw_path = tdir / "text_lm_news_event_wide.csv"
+        fb_tr_path = tdir / "text_finbert_transcripts_event_wide.csv"
+        fb_nw_path = tdir / "text_finbert_news_event_wide.csv"
+        oa_tr_path = tdir / "text_oa_transcripts_event_wide.csv"
+        oa_nw_path = tdir / "text_oa_news_event_wide.csv"
 
         ev = _read_csv_maybe(ev_path)
         if ev is None:
@@ -370,6 +416,10 @@ def main() -> None:
 
         tr = _read_csv_maybe(tr_path)
         nw = _read_csv_maybe(nw_path)
+        fb_tr = _read_csv_maybe(fb_tr_path)
+        fb_nw = _read_csv_maybe(fb_nw_path)
+        oa_tr = _read_csv_maybe(oa_tr_path)
+        oa_nw = _read_csv_maybe(oa_nw_path)
 
         # determine join keys available across tables
         keys = None
@@ -389,13 +439,28 @@ def main() -> None:
 
         if tr is not None:
             tr = _ensure_str_cols(tr, keys)
-            # prefix transcript columns to avoid collisions
             tr = tr.rename(columns={c: f"tr__{c}" for c in tr.columns if c not in keys})
             out = out.merge(tr, on=list(keys), how="left")
         if nw is not None:
             nw = _ensure_str_cols(nw, keys)
             nw = nw.rename(columns={c: f"news__{c}" for c in nw.columns if c not in keys})
             out = out.merge(nw, on=list(keys), how="left")
+        if fb_tr is not None:
+            fb_tr = _ensure_str_cols(fb_tr, keys)
+            fb_tr = fb_tr.rename(columns={c: f"trfb__{c}" for c in fb_tr.columns if c not in keys})
+            out = out.merge(fb_tr, on=list(keys), how="left")
+        if fb_nw is not None:
+            fb_nw = _ensure_str_cols(fb_nw, keys)
+            fb_nw = fb_nw.rename(columns={c: f"newsfb__{c}" for c in fb_nw.columns if c not in keys})
+            out = out.merge(fb_nw, on=list(keys), how="left")
+        if oa_tr is not None:
+            oa_tr = _ensure_str_cols(oa_tr, keys)
+            oa_tr = oa_tr.rename(columns={c: f"troa__{c}" for c in oa_tr.columns if c not in keys})
+            out = out.merge(oa_tr, on=list(keys), how="left")
+        if oa_nw is not None:
+            oa_nw = _ensure_str_cols(oa_nw, keys)
+            oa_nw = oa_nw.rename(columns={c: f"newsoa__{c}" for c in oa_nw.columns if c not in keys})
+            out = out.merge(oa_nw, on=list(keys), how="left")
 
         merged_ret_files: List[str] = []
         # Return/abnormal-return files often omit day0_date; pick the most specific join keys available.

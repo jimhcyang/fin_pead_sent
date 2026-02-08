@@ -1,6 +1,246 @@
 [
   {
     "symbol": "AMD",
+    "publishedDate": "2022-04-19 10:00:00",
+    "publisher": "The Motley Fool",
+    "title": "I Can't Believe the Semiconductor Market Grew This Much",
+    "image": "https://images.financialmodelingprep.com/news/i-cant-believe-the-semiconductor-market-grew-this-much-20220419.jpg",
+    "site": "fool.com",
+    "text": "Should AMD and Nvidia investors be worried about graphics card prices decreasing?",
+    "url": "https://www.fool.com/investing/2022/04/19/i-cant-believe-the-semiconductor-market-grew-this/",
+    "ticker": "AMD",
+    "event_date": "2022-05-03",
+    "window_start": "2022-04-19",
+    "window_end": "2022-05-17",
+    "publishedDateET": "2022-04-19T10:00:00-04:00",
+    "date_et": "2022-04-19"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2022-04-19 12:02:08",
+    "publisher": "Zacks Investment Research",
+    "title": "Here is What to Know Beyond Why Advanced Micro Devices, Inc. (AMD) is a Trending Stock",
+    "image": "https://images.financialmodelingprep.com/news/here-is-what-to-know-beyond-why-advanced-micro-20220419.jpg",
+    "site": "zacks.com",
+    "text": "Advanced Micro (AMD) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+    "url": "https://www.zacks.com/stock/news/1902271/here-is-what-to-know-beyond-why-advanced-micro-devices-inc-amd-is-a-trending-stock",
+    "ticker": "AMD",
+    "event_date": "2022-05-03",
+    "window_start": "2022-04-19",
+    "window_end": "2022-05-17",
+    "publishedDateET": "2022-04-19T12:02:08-04:00",
+    "date_et": "2022-04-19"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2022-04-19 14:49:02",
+    "publisher": "Benzinga",
+    "title": "What's Going On With AMD Shares?",
+    "image": "https://images.financialmodelingprep.com/news/whats-going-on-with-amd-shares-20220419.jpg",
+    "site": "benzinga.com",
+    "text": "Shares of companies in the broader technology sector, including Advanced Micro Devices, Inc. (NASDAQ: AMD) are trading higher on continued volatility as traders assess Fed policy outlook, rising Treasury yields and quarterly earnings reports. Shares of several companies in the broader.",
+    "url": "https://www.benzinga.com/markets/cryptocurrency/22/04/26698148/whats-going-on-with-amd-shares",
+    "ticker": "AMD",
+    "event_date": "2022-05-03",
+    "window_start": "2022-04-19",
+    "window_end": "2022-05-17",
+    "publishedDateET": "2022-04-19T14:49:02-04:00",
+    "date_et": "2022-04-19"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2022-04-20 06:15:30",
+    "publisher": "InvestorPlace",
+    "title": "8 Semiconductor Stocks on Sale as Intel Readies Mobileye IPO",
+    "image": "https://images.financialmodelingprep.com/news/8-semiconductor-stocks-on-sale-as-intel-readies-mobileye-20220420.jpg",
+    "site": "investorplace.com",
+    "text": "Intel filed for the IPO of its self-driving car unit Mobileye, opening the doors for semiconductor stocks to see a significant jump in value. The post 8 Semiconductor Stocks on Sale as Intel Readies Mobileye IPO appeared first on InvestorPlace.",
+    "url": "https://investorplace.com/2022/04/8-semiconductor-stocks-on-sale-as-intel-readies-mobileye-ipo/",
+    "ticker": "AMD",
+    "event_date": "2022-05-03",
+    "window_start": "2022-04-19",
+    "window_end": "2022-05-17",
+    "publishedDateET": "2022-04-20T06:15:30-04:00",
+    "date_et": "2022-04-20"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2022-04-20 08:05:00",
+    "publisher": "GlobeNewsWire",
+    "title": "AMD EPYC™ Processors Power New Oracle Cloud Infrastructure Compute Instances and Enable Hybrid Cloud Environment",
+    "image": "https://images.financialmodelingprep.com/news/amd-epyc-processors-power-new-oracle-cloud-infrastructure-compute-20220420.jpg",
+    "site": "globenewswire.com",
+    "text": "— New Oracle Cloud Infrastructure E4 Dense compute instances, combined with VMware ® Cloud solutions, expands AMD EPYC processor footprint into hybrid cloud environments —",
+    "url": "https://www.globenewswire.com/news-release/2022/04/20/2425455/0/en/AMD-EPYC-Processors-Power-New-Oracle-Cloud-Infrastructure-Compute-Instances-and-Enable-Hybrid-Cloud-Environment.html",
+    "ticker": "AMD",
+    "event_date": "2022-05-03",
+    "window_start": "2022-04-19",
+    "window_end": "2022-05-17",
+    "publishedDateET": "2022-04-20T08:05:00-04:00",
+    "date_et": "2022-04-20"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2022-04-20 09:31:02",
+    "publisher": "CNBC",
+    "title": "What Cramer is watching Wednesday — Netflix stumbles, P&G beats, AMD's 'purgatory stage'",
+    "image": "https://images.financialmodelingprep.com/news/what-cramer-is-watching-wednesday-netflix-stumbles-pg-beats-20220420.jpeg",
+    "site": "cnbc.com",
+    "text": "Despite Netflix's big disappointment, stocks were up early Wednesday.",
+    "url": "https://www.cnbc.com/2022/04/20/cramer-is-watching-netflix-stumbles-pg-beats-amds-purgatory-stage.html",
+    "ticker": "AMD",
+    "event_date": "2022-05-03",
+    "window_start": "2022-04-19",
+    "window_end": "2022-05-17",
+    "publishedDateET": "2022-04-20T09:31:02-04:00",
+    "date_et": "2022-04-20"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2022-04-21 08:50:13",
+    "publisher": "InvestorPlace",
+    "title": "Buy Advanced Micro Devices Stock Despite Recent Price Cuts and Downturn",
+    "image": "https://images.financialmodelingprep.com/news/buy-advanced-micro-devices-stock-despite-recent-price-cuts-20220421.jpg",
+    "site": "investorplace.com",
+    "text": "Acquisitions by the chipmaker put AMD stock in prime position moving forward. Disregard bearish sentiment that has come of late.",
+    "url": "https://investorplace.com/2022/04/buy-advanced-micro-devices-stock-despite-recent-price-cuts-and-downturn/",
+    "ticker": "AMD",
+    "event_date": "2022-05-03",
+    "window_start": "2022-04-19",
+    "window_end": "2022-05-17",
+    "publishedDateET": "2022-04-21T08:50:13-04:00",
+    "date_et": "2022-04-21"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2022-04-21 12:37:00",
+    "publisher": "24/7 Wall Street",
+    "title": "Here Are 7 Solid Buys in Semiconductor Stocks Says Jefferies",
+    "image": "https://images.financialmodelingprep.com/news/here-are-7-solid-buys-in-semiconductor-stocks-says-20220421.jpg",
+    "site": "247wallst.com",
+    "text": "Tightness in the supply of semiconductors and recurring coronavirus outbreaks in China have affected the supply of everything from automobiles to smartphones.",
+    "url": "https://247wallst.com/technology-3/2022/04/21/7-outstanding-semiconductor-stocks-from-jefferies-amd-marvell-technology-nvidia-and-more/",
+    "ticker": "AMD",
+    "event_date": "2022-05-03",
+    "window_start": "2022-04-19",
+    "window_end": "2022-05-17",
+    "publishedDateET": "2022-04-21T12:37:00-04:00",
+    "date_et": "2022-04-21"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2022-04-22 07:10:00",
+    "publisher": "The Motley Fool",
+    "title": "Price Targets Were Just Cut in These 2 Stocks -- Is It Time to Sell?",
+    "image": "https://images.financialmodelingprep.com/news/price-targets-were-just-cut-in-these-2-stocks-20220422.jpg",
+    "site": "fool.com",
+    "text": "Nvidia and AMD were recently given price-target reductions by Wall Street analysts.",
+    "url": "https://www.fool.com/investing/2022/04/22/price-targets-cut-2-stocks-time-to-sell/",
+    "ticker": "AMD",
+    "event_date": "2022-05-03",
+    "window_start": "2022-04-19",
+    "window_end": "2022-05-17",
+    "publishedDateET": "2022-04-22T07:10:00-04:00",
+    "date_et": "2022-04-22"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2022-04-23 07:35:00",
+    "publisher": "The Motley Fool",
+    "title": "3 Things About AMD That Smart Investors Know",
+    "image": "https://images.financialmodelingprep.com/news/3-things-about-amd-that-smart-investors-know-20220423.jpg",
+    "site": "fool.com",
+    "text": "AMD isn't just the underdog of the CPU and GPU markets.",
+    "url": "https://www.fool.com/investing/2022/04/23/3-things-about-amd-that-smart-investors-know/",
+    "ticker": "AMD",
+    "event_date": "2022-05-03",
+    "window_start": "2022-04-19",
+    "window_end": "2022-05-17",
+    "publishedDateET": "2022-04-23T07:35:00-04:00",
+    "date_et": "2022-04-23"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2022-04-25 09:53:04",
+    "publisher": "Finbold",
+    "title": "With tech earnings reports to roll in this week what to expect from chipmakers?",
+    "image": "https://images.financialmodelingprep.com/news/with-tech-earnings-reports-to-roll-in-this-week-20220425.jpg",
+    "site": "finbold.com",
+    "text": "After a shaky start to the year, it's possible that semiconductor stocks could be the focus of this week's tech.",
+    "url": "https://finbold.com/with-tech-earnings-reports-to-roll-in-this-week-what-to-expect-from-chipmakers/?SNAPI",
+    "ticker": "AMD",
+    "event_date": "2022-05-03",
+    "window_start": "2022-04-19",
+    "window_end": "2022-05-17",
+    "publishedDateET": "2022-04-25T09:53:04-04:00",
+    "date_et": "2022-04-25"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2022-04-25 10:00:00",
+    "publisher": "The Motley Fool",
+    "title": "These 4 Semiconductor Stocks Are Looking Very Attractive Right Now",
+    "image": "https://images.financialmodelingprep.com/news/these-4-semiconductor-stocks-are-looking-very-attractive-right-20220425.jpg",
+    "site": "fool.com",
+    "text": "The four companies can be grouped into either high-growth or high-dividend players.",
+    "url": "https://www.fool.com/investing/2022/04/25/these-4-semiconductor-stocks-are-looking-very-attr/",
+    "ticker": "AMD",
+    "event_date": "2022-05-03",
+    "window_start": "2022-04-19",
+    "window_end": "2022-05-17",
+    "publishedDateET": "2022-04-25T10:00:00-04:00",
+    "date_et": "2022-04-25"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2022-04-25 10:57:02",
+    "publisher": "Benzinga",
+    "title": "Why AMD Shares Are Trading Higher Today",
+    "image": "https://images.financialmodelingprep.com/news/why-amd-shares-are-trading-higher-today-20220425.jpg",
+    "site": "benzinga.com",
+    "text": "Advanced Micro Devices, Inc. (NASDAQ: AMD) shares are trading higher Monday following positive analyst coverage from Raymond James. Raymond James analyst Chris Caso upgraded the stock from Outperform to Strong Buy and announced a $160 price target.",
+    "url": "https://www.benzinga.com/analyst-ratings/analyst-color/22/04/26789593/why-amd-shares-are-trading-higher-today",
+    "ticker": "AMD",
+    "event_date": "2022-05-03",
+    "window_start": "2022-04-19",
+    "window_end": "2022-05-17",
+    "publishedDateET": "2022-04-25T10:57:02-04:00",
+    "date_et": "2022-04-25"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2022-04-25 14:33:23",
+    "publisher": "Schaeffers Research",
+    "title": "Analyst Sees Upside for Popular Semiconductor Stock",
+    "image": "https://images.financialmodelingprep.com/news/analyst-sees-upside-for-popular-semiconductor-stock-20220425.jpg",
+    "site": "schaeffersresearch.com",
+    "text": "Advanced Micro Devices Inc (NASDAQ:AMD) has been sliding on the charts this month, after it was rejected by familiar pressure at the $125 level, as well as its 80-day moving average.",
+    "url": "https://www.schaeffersresearch.com/content/options/2022/04/25/analyst-sees-upside-for-popular-semiconductor-stock",
+    "ticker": "AMD",
+    "event_date": "2022-05-03",
+    "window_start": "2022-04-19",
+    "window_end": "2022-05-17",
+    "publishedDateET": "2022-04-25T14:33:23-04:00",
+    "date_et": "2022-04-25"
+  },
+  {
+    "symbol": "AMD",
+    "publishedDate": "2022-04-25 16:00:08",
+    "publisher": "Seeking Alpha",
+    "title": "Buy Advanced Micro Devices For The Long Term",
+    "image": "https://images.financialmodelingprep.com/news/buy-advanced-micro-devices-for-the-long-term-20220425.jpg",
+    "site": "seekingalpha.com",
+    "text": "I am bullish on AMD as global semiconductor demand is strong. Based on real market data, I estimate a fair value of $97 for AMD. However, in the long-term, the stock is worth more than that.",
+    "url": "https://seekingalpha.com/article/4503399-buy-advanced-micro-devices-for-the-long-term",
+    "ticker": "AMD",
+    "event_date": "2022-05-03",
+    "window_start": "2022-04-19",
+    "window_end": "2022-05-17",
+    "publishedDateET": "2022-04-25T16:00:08-04:00",
+    "date_et": "2022-04-25"
+  },
+  {
+    "symbol": "AMD",
     "publishedDate": "2022-04-26 16:27:01",
     "publisher": "Benzinga",
     "title": "Nasdaq Falls 4% As Tesla, AMD Take A Big Slide",
@@ -10,7 +250,7 @@
     "url": "https://www.benzinga.com/after-hours-center/22/04/26825681/tesla-amd-lead-the-nasdaq-4-lower",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-26T16:27:01-04:00",
     "date_et": "2022-04-26"
@@ -26,7 +266,7 @@
     "url": "https://www.fool.com/investing/2022/04/26/why-amd-stock-dropped-today/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-26T18:50:09-04:00",
     "date_et": "2022-04-26"
@@ -42,7 +282,7 @@
     "url": "https://stockmarket.com/featured/top-semiconductor-stocks-to-watch-right-now-2022-04-26",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-26T20:45:41-04:00",
     "date_et": "2022-04-26"
@@ -58,7 +298,7 @@
     "url": "https://investorplace.com/2022/04/the-pullback-in-amd-stock-is-a-near-term-overreaction/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-27T06:40:23-04:00",
     "date_et": "2022-04-27"
@@ -74,7 +314,7 @@
     "url": "https://investorplace.com/2022/04/the-aggressive-investor-is-buying-amd-stock-ahead-of-earnings/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-27T11:56:27-04:00",
     "date_et": "2022-04-27"
@@ -90,7 +330,7 @@
     "url": "https://www.benzinga.com/markets/cryptocurrency/22/04/26876280/why-amd-shares-are-rising",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-28T13:36:05-04:00",
     "date_et": "2022-04-28"
@@ -106,7 +346,7 @@
     "url": "https://www.zacks.com/commentary/1910722/have-microchip-stocks-declined-into-an-attractive-buying-level",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-28T17:18:04-04:00",
     "date_et": "2022-04-28"
@@ -122,7 +362,7 @@
     "url": "https://www.fool.com/investing/2022/04/28/amd-skyworks-and-micron-bounced-back-today/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-28T18:39:00-04:00",
     "date_et": "2022-04-28"
@@ -138,7 +378,7 @@
     "url": "https://www.barrons.com/articles/amd-nvidia-and-qualcomm-intel-chip-problems-51651220603",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-29T04:24:00-04:00",
     "date_et": "2022-04-29"
@@ -154,7 +394,7 @@
     "url": "https://www.barrons.com/articles/amd-nvidia-qualcomm-intel-stock-price-chip-problems-51651220603",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-29T08:19:00-04:00",
     "date_et": "2022-04-29"
@@ -170,7 +410,7 @@
     "url": "https://investorplace.com/2022/04/7-large-cap-growth-stocks-to-go-gaga-for/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-29T08:48:43-04:00",
     "date_et": "2022-04-29"
@@ -186,7 +426,7 @@
     "url": "https://seekingalpha.com/article/4505035-amd-be-greedy-when-others-are-fearful",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-29T09:54:17-04:00",
     "date_et": "2022-04-29"
@@ -202,7 +442,7 @@
     "url": "https://www.zacks.com/stock/news/1912172/advanced-micro-devices-amd-to-post-q1-earnings-what-to-expect",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-29T13:33:20-04:00",
     "date_et": "2022-04-29"
@@ -218,7 +458,7 @@
     "url": "https://www.gurufocus.com/news/1699712/3-semiconductor-stocks-providing-better-value-than-intel",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-29T17:53:31-04:00",
     "date_et": "2022-04-29"
@@ -234,7 +474,7 @@
     "url": "https://www.marketwatch.com/story/amds-earnings-outlook-expected-to-give-a-clearer-picture-of-where-the-chip-sector-is-headed-11651271321",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-29T18:28:00-04:00",
     "date_et": "2022-04-29"
@@ -250,7 +490,7 @@
     "url": "https://www.fool.com/investing/2022/04/30/the-semiconductor-shortage-is-far-from-over/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-04-30T08:13:00-04:00",
     "date_et": "2022-04-30"
@@ -266,7 +506,7 @@
     "url": "https://investorplace.com/2022/05/https-investorplace-com-p2223938previewtrue/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-01T07:01:13-04:00",
     "date_et": "2022-05-01"
@@ -282,7 +522,7 @@
     "url": "https://247wallst.com/investing/2022/05/02/earnings-previews-airbnb-amd-livent/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-02T09:13:29-04:00",
     "date_et": "2022-05-02"
@@ -298,7 +538,7 @@
     "url": "https://www.zacks.com/stock/news/1913500/amd-s-q1-earnings-semi-custom-epyc-demand-to-aid-growth",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-02T12:02:07-04:00",
     "date_et": "2022-05-02"
@@ -314,7 +554,7 @@
     "url": "https://www.zacks.com/commentary/1913653/advanced-micro-devices-amd-q1-preview-can-shares-return-to-former-glory",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-02T15:48:03-04:00",
     "date_et": "2022-05-02"
@@ -330,7 +570,7 @@
     "url": "https://www.proactiveinvestors.co.uk/companies/news/981180?SNAPI",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-03T08:46:59-04:00",
     "date_et": "2022-05-03"
@@ -346,7 +586,7 @@
     "url": "https://seekingalpha.com/article/4506031-amd-already-baked-in",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-03T09:15:00-04:00",
     "date_et": "2022-05-03"
@@ -362,7 +602,7 @@
     "url": "https://www.zacks.com/stock/news/1914373/fed-s-crucial-fomc-meeting-in-focus",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-03T12:02:55-04:00",
     "date_et": "2022-05-03"
@@ -378,7 +618,7 @@
     "url": "https://investorplace.com/2022/05/how-to-trade-advanced-micro-devices-stock-after-the-print/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-03T12:34:04-04:00",
     "date_et": "2022-05-03"
@@ -394,7 +634,7 @@
     "url": "https://investorplace.com/2022/05/3-high-beta-stocks-that-could-rocket-when-the-market-rallies/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-03T13:00:05-04:00",
     "date_et": "2022-05-03"
@@ -410,7 +650,7 @@
     "url": "https://www.benzinga.com/trading-ideas/technicals/22/05/26974345/how-to-trade-advanced-micro-devices-amd-stock-heading-into-q4-earnings",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-03T15:57:04-04:00",
     "date_et": "2022-05-03"
@@ -426,7 +666,7 @@
     "url": "https://www.globenewswire.com/news-release/2022/05/03/2435070/0/en/AMD-Reports-First-Quarter-2022-Financial-Results.html",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-03T16:10:00-04:00",
     "date_et": "2022-05-03"
@@ -442,7 +682,7 @@
     "url": "https://www.reuters.com/technology/amd-forecasts-current-quarter-revenue-above-estimates-2022-05-03/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-03T16:19:00-04:00",
     "date_et": "2022-05-03"
@@ -458,7 +698,7 @@
     "url": "https://www.cnbc.com/2022/05/03/amd-earnings-q1-2022.html",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-03T16:21:10-04:00",
     "date_et": "2022-05-03"
@@ -474,7 +714,7 @@
     "url": "https://www.zacks.com/stock/news/1914827/advanced-micro-devices-amd-q1-earnings-and-revenues-beat-estimates",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-03T18:49:36-04:00",
     "date_et": "2022-05-03"
@@ -490,7 +730,7 @@
     "url": "https://www.marketwatch.com/story/amd-will-finally-give-investors-its-data-center-data-as-business-soars-11651623801",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-03T20:23:00-04:00",
     "date_et": "2022-05-03"
@@ -506,7 +746,7 @@
     "url": "https://invezz.com/news/2022/05/04/amd-reports-a-pretty-good-q1-pro-says-stock-is-reasonably-valued/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-03T21:30:24-04:00",
     "date_et": "2022-05-03"
@@ -522,7 +762,7 @@
     "url": "https://seekingalpha.com/article/4506537-advanced-micro-devices-inc-s-amd-ceo-dr-lisa-su-on-q1-2022-results-earnings-call-transcript",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-03T21:40:24-04:00",
     "date_et": "2022-05-03"
@@ -538,7 +778,7 @@
     "url": "https://www.fool.com/investing/2022/05/04/3-breakout-growth-stocks-you-can-buy-and-hold-for/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-04T08:05:00-04:00",
     "date_et": "2022-05-04"
@@ -554,7 +794,7 @@
     "url": "https://www.fool.com/investing/2022/05/04/amd-crushes-earnings-is-amd-stock-a-buy-now/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-04T09:26:04-04:00",
     "date_et": "2022-05-04"
@@ -570,7 +810,7 @@
     "url": "https://www.benzinga.com/markets/cryptocurrency/22/05/26989965/why-amd-shares-are-rising",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-04T09:28:04-04:00",
     "date_et": "2022-05-04"
@@ -586,7 +826,7 @@
     "url": "https://www.fool.com/investing/2022/05/04/why-advanced-micro-devices-fell-218-in-april/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-04T09:51:00-04:00",
     "date_et": "2022-05-04"
@@ -602,7 +842,7 @@
     "url": "https://stockmarket.com/featured/stock-market-today-dow-jones-s-amd-stock-up-on-solid-earnings-2022-05-04",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-04T09:55:56-04:00",
     "date_et": "2022-05-04"
@@ -618,7 +858,7 @@
     "url": "https://investorplace.com/2022/05/spy-stock-can-repeat-its-march-performance-this-month/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-04T10:05:27-04:00",
     "date_et": "2022-05-04"
@@ -634,7 +874,7 @@
     "url": "https://stockmarket.com/featured/good-stocks-to-buy-right-now-3-consumer-tech-stocks-in-focus-2022-05-04",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-04T12:00:00-04:00",
     "date_et": "2022-05-04"
@@ -650,7 +890,7 @@
     "url": "https://www.marketwatch.com/story/amd-is-just-a-different-company-now-and-wall-street-is-cheering-11651684142",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-04T13:09:00-04:00",
     "date_et": "2022-05-04"
@@ -666,7 +906,7 @@
     "url": "https://www.zacks.com/stock/news/1915847/amd-beats-on-q1-earnings-revenues-provides-solid-22-view",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-04T14:17:09-04:00",
     "date_et": "2022-05-04"
@@ -682,7 +922,7 @@
     "url": "https://www.fool.com/investing/2022/05/04/is-amd-stock-a-buy-now/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-04T16:20:00-04:00",
     "date_et": "2022-05-04"
@@ -698,7 +938,7 @@
     "url": "https://www.marketwatch.com/story/these-10-stock-in-the-s-p-500-soared-at-least-8-after-the-fed-made-its-big-move-but-only-3-have-gains-for-2022-11651699501",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-04T17:25:00-04:00",
     "date_et": "2022-05-04"
@@ -714,7 +954,7 @@
     "url": "https://seekingalpha.com/article/4507105-amd-reason-werent-done",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-04T23:58:07-04:00",
     "date_et": "2022-05-04"
@@ -730,7 +970,7 @@
     "url": "https://www.globenewswire.com/news-release/2022/05/05/2436898/0/en/New-AMD-Ryzen-5000-C-Series-Processors-Bring-Leadership-Performance-and-All-Day-Battery-Life-to-Chrome-OS.html",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-05T09:00:00-04:00",
     "date_et": "2022-05-05"
@@ -746,7 +986,7 @@
     "url": "https://seekingalpha.com/article/4507240-amd-simply-unstoppable",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-05T10:09:08-04:00",
     "date_et": "2022-05-05"
@@ -762,7 +1002,7 @@
     "url": "https://www.benzinga.com/trading-ideas/movers/22/05/27026730/why-amd-shares-are-falling",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-05T12:15:09-04:00",
     "date_et": "2022-05-05"
@@ -778,7 +1018,7 @@
     "url": "https://investorplace.com/2022/05/the-smart-way-to-buy-amd-stock-after-earnings/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-05T13:14:19-04:00",
     "date_et": "2022-05-05"
@@ -794,7 +1034,7 @@
     "url": "https://investorplace.com/2022/05/amd-stock-is-a-buy-on-any-pullback/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-05T13:21:52-04:00",
     "date_et": "2022-05-05"
@@ -810,7 +1050,7 @@
     "url": "https://www.fool.com/investing/2022/05/05/why-amd-qualcomm-and-skyworks-solutions-stocks-jus/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-05T13:40:56-04:00",
     "date_et": "2022-05-05"
@@ -826,7 +1066,7 @@
     "url": "https://www.benzinga.com/news/22/05/27013270/largest-u-s-pension-fund-sold-faang-stocks-in-q1-bought-this-chip-stock-instead",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-05T14:08:09-04:00",
     "date_et": "2022-05-05"
@@ -842,7 +1082,7 @@
     "url": "https://www.zacks.com/stock/news/1917235/negative-sentiment-kills-market-indices-dow-1063-points",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-05T19:34:38-04:00",
     "date_et": "2022-05-05"
@@ -858,7 +1098,7 @@
     "url": "https://www.fool.com/investing/2022/05/06/tech-sell-off-semiconductor-growth-stock-buy-hold/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-06T07:10:00-04:00",
     "date_et": "2022-05-06"
@@ -874,7 +1114,7 @@
     "url": "https://www.fool.com/investing/2022/05/06/amd-is-a-top-tech-stock-buy-after-q1-2022/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-06T07:50:00-04:00",
     "date_et": "2022-05-06"
@@ -890,7 +1130,7 @@
     "url": "https://seekingalpha.com/article/4507815-amd-q1-earnings-consolidating-its-way-to-the-top",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-06T07:51:43-04:00",
     "date_et": "2022-05-06"
@@ -906,7 +1146,7 @@
     "url": "https://investorplace.com/2022/05/amd-stock-still-belongs-on-investors-growth-and-value-shopping-lists/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-06T09:23:47-04:00",
     "date_et": "2022-05-06"
@@ -922,7 +1162,7 @@
     "url": "https://www.marketbeat.com/originals/amd-nasdaq-amd-shines-green-in-a-sea-of-red/?SNAPI",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-06T09:59:49-04:00",
     "date_et": "2022-05-06"
@@ -938,7 +1178,7 @@
     "url": "https://www.zacks.com/commentary/1918095/amd-vs-nvidia-which-chip-giant-should-investors-buy",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-06T18:48:09-04:00",
     "date_et": "2022-05-06"
@@ -954,7 +1194,7 @@
     "url": "https://www.fool.com/investing/2022/05/07/better-buy-amd-vs-intel/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-07T07:42:00-04:00",
     "date_et": "2022-05-07"
@@ -970,7 +1210,7 @@
     "url": "https://thedogofwallstreet.com/amd/why-you-should-do-dca-dollar-cost-averaging-on-amd?SNAPI",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-07T11:30:00-04:00",
     "date_et": "2022-05-07"
@@ -986,7 +1226,7 @@
     "url": "https://www.fool.com/investing/2022/05/07/why-amd-stock-surged-this-week/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-07T19:41:36-04:00",
     "date_et": "2022-05-07"
@@ -1002,7 +1242,7 @@
     "url": "https://www.barrons.com/articles/amd-stock-tilray-uber-petrobras-51651858042",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-08T07:00:00-04:00",
     "date_et": "2022-05-08"
@@ -1018,7 +1258,7 @@
     "url": "https://investorplace.com/2022/05/3-companies-jumping-on-the-web-3-0-train-nvda-amd-u/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-09T06:00:48-04:00",
     "date_et": "2022-05-09"
@@ -1034,7 +1274,7 @@
     "url": "https://investorplace.com/2022/05/amd-stock-could-still-rise-despite-a-coming-slump-in-demand-for-chips-in-the-pc-market/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-09T09:55:14-04:00",
     "date_et": "2022-05-09"
@@ -1050,7 +1290,7 @@
     "url": "https://www.zacks.com/stock/news/1918482/investors-heavily-search-advanced-micro-devices-inc-amd-here-is-what-you-need-to-know",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-09T10:32:24-04:00",
     "date_et": "2022-05-09"
@@ -1066,7 +1306,7 @@
     "url": "https://www.benzinga.com/trading-ideas/movers/22/05/27078962/why-amd-shares-are-diving-today",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-09T11:30:04-04:00",
     "date_et": "2022-05-09"
@@ -1082,7 +1322,7 @@
     "url": "https://www.zacks.com/commentary/1921428/3-tech-stocks-investors-shouldn-t-lose-sleep-over",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-09T19:33:34-04:00",
     "date_et": "2022-05-09"
@@ -1098,7 +1338,7 @@
     "url": "https://seekingalpha.com/article/4509414-amd-growth-priced-as-value",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-10T01:59:41-04:00",
     "date_et": "2022-05-10"
@@ -1114,7 +1354,7 @@
     "url": "https://www.fool.com/investing/2022/05/10/65-billion-reasons-to-buy-amd-stock/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-10T09:55:36-04:00",
     "date_et": "2022-05-10"
@@ -1130,7 +1370,7 @@
     "url": "https://www.fool.com/investing/2022/05/10/market-sell-off-4-stocks-with-attractive-growth-an/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-10T10:00:00-04:00",
     "date_et": "2022-05-10"
@@ -1146,7 +1386,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/981885?SNAPI",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-10T10:08:50-04:00",
     "date_et": "2022-05-10"
@@ -1162,7 +1402,7 @@
     "url": "https://www.fool.com/investing/2022/05/11/3-beaten-down-growth-stocks-worth-buying/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-11T07:10:00-04:00",
     "date_et": "2022-05-11"
@@ -1178,7 +1418,7 @@
     "url": "https://www.globenewswire.com/news-release/2022/05/11/2440928/0/en/AMD-Enables-4G-5G-Radio-Access-Network-Solutions-to-Support-Meta-Connectivity-Evenstar-Program.html",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-11T09:01:00-04:00",
     "date_et": "2022-05-11"
@@ -1194,7 +1434,7 @@
     "url": "https://www.reuters.com/technology/facebook-parent-meta-partners-with-amd-mobile-infrastructure-program-2022-05-11/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-11T09:13:00-04:00",
     "date_et": "2022-05-11"
@@ -1210,7 +1450,7 @@
     "url": "https://investorplace.com/2022/05/3-diamond-in-the-rough-stocks-to-buy/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-11T10:56:19-04:00",
     "date_et": "2022-05-11"
@@ -1226,7 +1466,7 @@
     "url": "https://seekingalpha.com/article/4510318-amd-stock-buy-no-plateau-in-sight",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-11T18:07:23-04:00",
     "date_et": "2022-05-11"
@@ -1242,7 +1482,7 @@
     "url": "https://www.cnbc.com/2022/05/12/retail-investors-continue-to-buy-dip-despite-turmoil-td-ameritrade.html",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-11T21:31:40-04:00",
     "date_et": "2022-05-11"
@@ -1258,7 +1498,7 @@
     "url": "https://investorplace.com/2022/05/how-to-invest-in-web-3-long-term-winners-amd-coin-nvda/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-12T07:08:28-04:00",
     "date_et": "2022-05-12"
@@ -1274,7 +1514,7 @@
     "url": "https://www.fool.com/investing/2022/05/12/why-advanced-micro-devices-stock-cheap-rigght-now/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-12T10:36:58-04:00",
     "date_et": "2022-05-12"
@@ -1290,7 +1530,7 @@
     "url": "https://www.fool.com/investing/2022/05/13/3-growth-stocks-for-the-next-10-years-and-beyond/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-13T08:20:00-04:00",
     "date_et": "2022-05-13"
@@ -1306,7 +1546,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/982231?SNAPI",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-13T10:26:16-04:00",
     "date_et": "2022-05-13"
@@ -1322,7 +1562,7 @@
     "url": "https://seekingalpha.com/article/4511305-is-amd-stock-buy-sell-hold-now",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-13T13:39:38-04:00",
     "date_et": "2022-05-13"
@@ -1338,7 +1578,7 @@
     "url": "https://investorplace.com/2022/05/best-7-long-term-stocks-to-buy-now/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-15T06:00:54-04:00",
     "date_et": "2022-05-15"
@@ -1354,7 +1594,7 @@
     "url": "https://www.barrons.com/articles/amc-stock-amd-block-netflix-51652216679",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-15T08:00:00-04:00",
     "date_et": "2022-05-15"
@@ -1370,7 +1610,7 @@
     "url": "https://www.fool.com/investing/2022/05/16/stocks-on-sale-is-amd-a-buy/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-16T08:45:00-04:00",
     "date_et": "2022-05-16"
@@ -1386,7 +1626,7 @@
     "url": "https://www.barrons.com/articles/amd-stock-down-slowing-pc-market-51652791925",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-17T08:54:00-04:00",
     "date_et": "2022-05-17"
@@ -1402,7 +1642,7 @@
     "url": "https://www.globenewswire.com/news-release/2022/05/17/2445131/0/en/AMD-Robotics-Starter-Kit-Kick-Starts-the-Intelligent-Factory-of-the-Future.html",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-17T09:01:00-04:00",
     "date_et": "2022-05-17"
@@ -1418,7 +1658,7 @@
     "url": "https://investorplace.com/2022/05/7-growth-stocks-that-analysts-love-right-now/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-17T09:49:20-04:00",
     "date_et": "2022-05-17"
@@ -1434,7 +1674,7 @@
     "url": "https://investorplace.com/2022/05/7-cheap-semiconductor-stocks-to-buy-now-2/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-17T10:55:06-04:00",
     "date_et": "2022-05-17"
@@ -1450,7 +1690,7 @@
     "url": "https://www.gurufocus.com/news/1714823/advanced-micro-devices-stock-is-in-neutral-territory",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-17T11:29:03-04:00",
     "date_et": "2022-05-17"
@@ -1466,7 +1706,7 @@
     "url": "https://www.marketwatch.com/story/amd-stock-shoots-higher-after-upgrade-buy-good-companies-when-they-are-down-11652802298",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-17T11:44:00-04:00",
     "date_et": "2022-05-17"
@@ -1482,7 +1722,7 @@
     "url": "https://investorplace.com/2022/05/why-is-advanced-micro-devices-amd-stock-up-today/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-17T12:29:29-04:00",
     "date_et": "2022-05-17"
@@ -1498,7 +1738,7 @@
     "url": "https://investorplace.com/2022/05/be-bullish-on-amd-stock-after-across-the-board-earnings-beats/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-17T12:41:37-04:00",
     "date_et": "2022-05-17"
@@ -1514,7 +1754,7 @@
     "url": "https://seekingalpha.com/article/4512558-my-top-three-stocks-for-the-overdue-countertrend-rally",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-17T13:37:35-04:00",
     "date_et": "2022-05-17"
@@ -1530,7 +1770,7 @@
     "url": "https://www.fool.com/investing/2022/05/17/why-advanced-micro-devices-stock-advanced-8-today/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-17T13:52:04-04:00",
     "date_et": "2022-05-17"
@@ -1546,7 +1786,7 @@
     "url": "https://www.fool.com/investing/2022/05/17/investors-are-jumping-on-the-bandwagon-with-these/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-17T14:01:06-04:00",
     "date_et": "2022-05-17"
@@ -1562,7 +1802,7 @@
     "url": "https://investorplace.com/2022/05/advanced-micro-devices-stock-offers-more-than-36-50-upside-for-buyers/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-17T15:26:38-04:00",
     "date_et": "2022-05-17"
@@ -1578,7 +1818,7 @@
     "url": "https://invezz.com/news/2022/05/17/piper-sandler-amd-shares-could-jump-40/",
     "ticker": "AMD",
     "event_date": "2022-05-03",
-    "window_start": "2022-04-26",
+    "window_start": "2022-04-19",
     "window_end": "2022-05-17",
     "publishedDateET": "2022-05-17T18:10:09-04:00",
     "date_et": "2022-05-17"

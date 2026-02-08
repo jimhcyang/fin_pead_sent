@@ -1,6 +1,774 @@
 [
   {
     "symbol": "MSFT",
+    "publishedDate": "2025-04-16 09:35:06",
+    "publisher": "Benzinga",
+    "title": "How To Trade SPY And Top Tech Stocks Ahead Of Powell's Speech",
+    "image": "https://images.financialmodelingprep.com/news/how-to-trade-spy-and-top-tech-stocks-ahead-20250416.jpg",
+    "site": "benzinga.com",
+    "text": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.",
+    "url": "https://www.benzinga.com/markets/equities/25/04/44838457/how-to-trade-spy-and-top-tech-stocks-ahead-of-powells-speech",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-16T09:35:06-04:00",
+    "date_et": "2025-04-16"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-16 09:49:33",
+    "publisher": "CNBC Television",
+    "title": "Cramer's Mad Dash: Microsoft",
+    "image": "https://images.financialmodelingprep.com/news/cramers-mad-dash-microsoft-20250416.jpg",
+    "site": "youtube.com",
+    "text": "CNBC's Jim Cramer breaks down why he's keeping an eye on shares of Microsoft.",
+    "url": "https://www.youtube.com/watch?v=ytrUcrYo7SI",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-16T09:49:33-04:00",
+    "date_et": "2025-04-16"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-16 09:59:21",
+    "publisher": "24/7 Wall Street",
+    "title": "3 Magnificent Seven Stocks To Load Up on with the Nasdaq Composite in a Correction",
+    "image": "https://images.financialmodelingprep.com/news/3-magnificent-seven-stocks-to-load-up-on-with-the-20250416.jpg",
+    "site": "247wallst.com",
+    "text": "The temporary tariff pause has had a positive impact on the market, but investors must remember that this is not going to last long.",
+    "url": "https://247wallst.com/investing/2025/04/16/3-magnificent-seven-stocks-to-load-up-on-with-the-nasdaq-composite-in-a-correction/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-16T09:59:21-04:00",
+    "date_et": "2025-04-16"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-16 10:55:43",
+    "publisher": "Zacks Investment Research",
+    "title": "IBM vs. Microsoft: Which Cloud Computing Stock is a Better Bet?",
+    "image": "https://images.financialmodelingprep.com/news/ibm-vs-microsoft-which-cloud-computing-stock-is-a-20250416.jpg",
+    "site": "zacks.com",
+    "text": "With a better price performance and attractive valuation metrics, IBM is relatively better placed than MSFT at the moment.",
+    "url": "https://www.zacks.com/stock/news/2450021/ibm-vs-microsoft-which-cloud-computing-stock-is-a-better-bet?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2450021",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-16T10:55:43-04:00",
+    "date_et": "2025-04-16"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-16 13:00:00",
+    "publisher": "Accesswire",
+    "title": "Activision and Call of Duty VPPA Violation - Levi & Korsinsky, LLP Launches Investigation",
+    "image": "https://images.financialmodelingprep.com/news/activision-and-call-of-duty-vppa-violation-levi-korsinsky-20250416.jpg",
+    "site": "accessnewswire.com",
+    "text": "NEW YORK, NY / ACCESS Newswire / April 16, 2025 / Levi & Korsinsky, LLP is investigating potential claims on behalf of individuals who purchased video games through Call of Duty's Website (https://www.callofduty.com/). Levi & Korsinsky, LLP's investigation indicates that legally protected data may have been unlawfully intercepted during transactions with the Call of Duty Website, particularly affecting customers who purchased video games on the Call of Duty Website.",
+    "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/activision-and-call-of-duty-vppa-violation--levi-and-korsinsky-l-1015781",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-16T13:00:00-04:00",
+    "date_et": "2025-04-16"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-16 15:27:00",
+    "publisher": "Barrons",
+    "title": "Software Stocks Are Way Down, But Shouldn't Be. Microsoft and 2 More to Buy.",
+    "image": "https://images.financialmodelingprep.com/news/software-stocks-are-way-down-but-shouldnt-be-microsoft-20250416.jpg",
+    "site": "barrons.com",
+    "text": "A software sector ETF is down to a key level for buyers.",
+    "url": "https://www.barrons.com/articles/software-microsoft-salesforce-stock-1383bca7",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-16T15:27:00-04:00",
+    "date_et": "2025-04-16"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-16 16:00:42",
+    "publisher": "Zacks Investment Research",
+    "title": "Microsoft vs. Oracle: Which Cloud Stock Has More Fuel for Growth?",
+    "image": "https://images.financialmodelingprep.com/news/microsoft-vs-oracle-which-cloud-stock-has-more-fuel-20250416.jpg",
+    "site": "zacks.com",
+    "text": "MSFT outpaces ORCL with stronger cloud growth, AI innovation, and financial resilience, thus offering superior long-term investment potential.",
+    "url": "https://www.zacks.com/stock/news/2450210/microsoft-vs-oracle-which-cloud-stock-has-more-fuel-for-growth?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2450210",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-16T16:00:42-04:00",
+    "date_et": "2025-04-16"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-16 16:26:00",
+    "publisher": "The Motley Fool",
+    "title": "Why Microsoft Stock Tumbled 3.7% Today",
+    "image": "https://images.financialmodelingprep.com/news/why-microsoft-stock-tumbled-37-today-20250416.jpg",
+    "site": "fool.com",
+    "text": "Microsoft (MSFT -3.67%) had one of its more forgettable sessions on the stock market Wednesday, with its share price melting by 3.7% at closing time. Yet this had less to do with its own operations, and more to do with a move by a business in which it's invested.",
+    "url": "https://www.fool.com/investing/2025/04/16/why-microsoft-stock-tumbled-37-today/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-16T16:26:00-04:00",
+    "date_et": "2025-04-16"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-17 08:00:15",
+    "publisher": "247 Wallst",
+    "title": "Stock Market Live: Tech Stocks Hammered as VanEck Semiconductor ETF (SMH) Down 3.75%",
+    "image": "https://images.financialmodelingprep.com/news/stock-market-live-tech-stocks-hammered-as-vaneck-semiconductor-20250417.jpg",
+    "site": "https://247wallst.com",
+    "text": "Live Updates Live Coverage Updates appear automatically as they are published. U.S. to Isolate China 12:53 pm U.S. authorities are preparing to engage in talks with over 70 countries, urging them to block Chinese goods from passing through their territories, according to the WSJ. The U.S. aims to economically &#8220;cut off&#8221; China. This aligns with President Trump&#8217;s recent statement suggesting nations might need to choose between aligning with the U.S. or China. The approach seems to focus on fully isolating China, while China has pledged to stand firm. Technology Stocks Upgrades and Downgrades 11:00 am MSFT (Microsoft) Downgrade Details: BMO Capital reduced price target from $490 to $470, maintains Outperform rating. Reason: Slower growth in Azure&#8217;s legacy cloud business due to weaker economy, leading to reduced Azure growth estimates for next few quarters and FY26. Insight: Experts indicate slowdown in core legacy cloud businesses. BMO suggests lower capex intensity in FY26 could be a positive catalyst for shares. NVDA (Nvidia) Issue: U.S. Government now requires licenses to ship H20/equivalent AI chips to China and arms-embargoed countries. Nvidia announced $5.5B charge in fiscal Q1 for inventory, purchase commitments, and reserves. Impact: Charge suggests high likelihood of H20 restrictions and low chance of future licenses. Q1 GAAP EPS may take a 20% hit, but non-GAAP sales/EPS less affected. Analyst View: BofA calls restriction &#8220;unwelcome but somewhat expected,&#8221; deems risk &#8220;manageable.&#8221; Maintains Buy rating, but lowered price target from $200 to $160. MRVL (Marvell) Downgrade Details: BofA cut price target from $120 to $72, retains Buy rating. Context: Expects Q1 results to beat due to conservative outlooks and tariff-related demand pull-ins. However, tariffs pose risks: Modest tariffs: 4%-6% sales hit, 12%-13% EPS hit. Deeper tariffs: 9% and 12% sales decline in 2025 and 2026, respectively. Reason: Lowered targets across semis coverage due to growing tariff uncertainty. TSLA (Tesla) Downgrade Details: Piper Sandler reduced price target from $450 to $400, maintains Overweight rating. Reason: Q1 deliveries (337,000 units) missed consensus, likely pushing gross margins to multi-year lows. Lack of clarity on Model 2 specs/pricing hinders reliance on new products for growth. Outlook: Short-term bearish due to weak Q1 financials, but &#8220;big picture&#8221; catalysts could drive sharp rallies. Estimates cut to reflect challenging near-term outlook. The semiconductor sector’s woes are hammering tech ETFs, with funds heavy in Nvidia and other chipmakers leading the market’s slide. The VanEck Semiconductor ETF (SMH), packed with names like Nvidia, AMD, and ASML, cratered over 3.75% after the U.S. tightened export controls on AI chips to China. Nvidia, the ETF’s top holding, warned of a $5.5 billion charge as its H20 processors now require export licenses. The restrictions also hit AMD as the company export controls to apply to MI308 products, resulting in $800 million. Both stocks plunging close to 6% so far today. ASML, a key supplier of chip-making equipment, sank 5.75% after dismal order numbers and tariff warnings. Nasdaq Composite: -1.76% S&amp;P 500: -1.00% Dow Jones Industrial Average: -0.42% Today&#8217;s selling pressure raised the CBOE VIX index 3% after market fear dissipated the past two days. The post Stock Market Live: Tech Stocks Hammered as VanEck Semiconductor ETF (SMH) Down 3.75% appeared first on 24/7 Wall St..",
+    "url": "https://247wallst.com/investing/2025/04/16/stock-market-live-tech-stocks-hammered-as-vaneck-semiconductor-etf-smh-down-3-75/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-17T08:00:15-04:00",
+    "date_et": "2025-04-17"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-17 08:00:15",
+    "publisher": "247 Wallst",
+    "title": "I have $3,000 to invest: Should I go all in on SCHD or mix it with VOO?",
+    "image": "https://images.financialmodelingprep.com/news/i-have-3000-to-invest-should-i-go-all-20250417.jpg",
+    "site": "https://247wallst.com",
+    "text": "The market climate at the time of this writing can be described in a number of ways, but “boring” is certainly not one of them. Ever since President Donald Trump announced his policy of reciprocal tariffs to level the international trade playing field, the stock and bond markets have both become cyclonic in their volatility. 2,000+ point intraday swings in either direction on the Dow Jones Average and a 50 basis point swing for the 10-year Treasury Bond yield in less than a month have given even veteran investors bouts of nausea. As a result, investors from all levels of experience are looking at their portfolios and considering reassessment of their holdings, at least to better handle the current volatility and to reduce the sleepless nights of worry. Key Points The current turbulence in the stock markets are giving both novice and seasoned investors some cause for reconsidering their portfolio compositions. ETFs like SCHD have aspects like dividend focus, which may make them less volatile than ones like VOO, which exclusively tracks the S&amp;P 500 Index. People who are new to investing can find the gigantic menu of choices overwhelming and intimidating, so knowing one’s own goals and risk tolerance before selecting an investment vehicle is a prudent rule of thumb to follow. Are you ahead, or behind on retirement? SmartAsset’s free tool can match you with a financial advisor in minutes to help you answer that today. Each advisor has been carefully vetted, and must act in your best interests. Don’t waste another minute; get started by clicking here here.(Sponsor) Navigating Through A Huge Menu Of Selections The huge array of available investment selections can be intimidating and overwhelming neophyte investors. A relatively new investor with $3,000 to invest was seeking vehicle suggestions, and posted a question on Reddit. He was considering the following, but was open to any other suggestions: He was considering investing in the Schwab US Dividend Equity ETF (NYSE: SCHD) based on what he’d read from other posts. The poster was looking to contribute $100 per week to take advantage of compounding and dollar cost averaging. Admittedly young and inexperienced, he did understand how investing for the long-term was to his advantage, so he was not seeking quick, short-term gains. He was concerned with putting all of his cookies in a single basket, so was inquiring about opinions on diversifying an allocation into the Vanguard S&amp;P 500 ETF (NYSE: VOO). To his credit, the poster realizes now that the Millennial FIRE (Financial Independence Retire Early) meme of “VOO and chill” might not be an appropriate direction to take in the current climate. Nevertheless, he acknowledges the long-term track record of the S&amp;P 500 and how it has benefited millions who have contributed to it regularly and let it compound to build wealth. As the poster has already established long term goals, assessing risk tolerance is probably the next factor to identify before finalizing his course of action. Taking a closer look at SCHD and VOO is probably a prudent step to accomplish this step. (All market quote details are as of the time of this writing.) Schwab US Dividend Equity ETF The Schwab US Dividend Equity ETF is an exchange traded fund that is designed to track The Dow Jones U.S. Dividend 100 Index. Dividend Yield 3.96% Dividend Payment Frequency Quarterly Dividend Growth 16.67% Dividend Payout Ratio 61.04% Total Assets $65.589 billion Daily Trade Volume Average 18.02 million shares Beta (5 year) 0.74% 1-Year Return 8.04% 5-Year Return 17.32% 10-Year Return 11.44% Inception Date 10-20-2011 Inception Price $8.40 Expense Ratio 0.06% Sector wise, SCHD’s top 5 heaviest weighted industrial areas are: Energy &#8211; 21.12% Consumer Defensive &#8211; 19.04% Health Care &#8211; 15.65% Industrials &#8211; 10.53% Technology &#8211; 9.76% The top 5 weighted holdings in SCHD are: Verizon Communications &#8211; 4.51% Coca-Cola &#8211; 4.46% Lockheed Martin &#8211; 4.26% Altria Group &#8211; 4.20% ConocoPhillips &#8211; 4.19% Vanguard S&amp;P 500 ETF The Vanguard S&amp;P 500 ETF is a favorite of Warren Buffett and many FIRE (Financial Independence, Retire Early) devotees. Its tracking of the S&amp;P 500 index has delivered sizable double digit growth for millions of portfolios over the past several years. Dividend Yield 1.30% Dividend Payment Frequency Quarterly 52-week high 563.92 52-week low 442.80 Total Assets $1.32 trillion Daily Trade Volume Average 8.34 million shares Beta (5 year) 1.00% 1-Year Return 8.22% 5-Year Return 18.55% 10-Year Return 12.46% Inception Date 11/13/2000 Inception Price $17.68 Expense Ratio 0.03% Top 5 Sector Weightings: Technology &#8211; 31.03% Financial Services &#8211; 14.15% Healthcare &#8211; 11.20% Consumer Cyclical &#8211; 10.36% Communication Services &#8211; 9.34% The top 5 largest holdings include: Apple &#8211; 7.03% Microsoft &#8211; 5.88% Nvidia &#8211; 5.59% Amazon &#8211; 3.78% Meta Platforms (Facebook) &#8211; 2.66% Helpful Insights Young investors are better off tailoring their investment selections to suit their own goals and risk tolerance levels than to just buy an investment because &#8220;other people told them to do it&#8221; only to regret it afterwards. As one might expect, a number of the respondents agreed that some diversification was a good idea, as was the plan to invest a new contribution every week. Some of the the specifics included: Due to his youth, some suggested that it would behoove the poster to focus more on growth, and suggested SCHG (Schwab Large Cap Growth ETF), which has a superior ROI history over SCHD. In either case, reinvesting dividends to leverage compounding over the long haul was advised. Some lauded the dividend consideration, since the extra income could serve as a safety net in the event that the poster’s job were to be in jeopardy in the future. Another respondent agreed with adding VOO, but also including an ETF for international exposure so that in the event of a US economic downturn, there would be non-US holdings that could potentially offset any bearishness from the other holdings. This article is intended for informational purposes. Any need for more in-depth advice should come from a financial professional. The post I have $3,000 to invest: Should I go all in on SCHD or mix it with VOO? appeared first on 24/7 Wall St..",
+    "url": "https://247wallst.com/investing/2025/04/16/i-have-3000-to-invest-should-i-go-all-in-on-schd-or-mix-it-with-voo/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-17T08:00:15-04:00",
+    "date_et": "2025-04-17"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-17 08:31:52",
+    "publisher": "Finbold",
+    "title": "Analyst updates Microsoft stock price target",
+    "image": "https://images.financialmodelingprep.com/news/analyst-updates-microsoft-stock-price-target-20250417.jpg",
+    "site": "finbold.com",
+    "text": "Overnight Microsoft (NASDAQ: MSFT) received a rather uncommon price target: not applicable. Specifically, KeyBanc's Jackson Ader removed the technology giant's previous target of $575 due to heightened sector and overall uncertainty.",
+    "url": "https://finbold.com/analyst-updates-microsoft-stock-price-target/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-17T08:31:52-04:00",
+    "date_et": "2025-04-17"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-17 10:40:47",
+    "publisher": "Zacks Investment Research",
+    "title": "NBIS vs. MSFT: Which AI Infrastructure Stock is the Better Buy?",
+    "image": "https://images.financialmodelingprep.com/news/nbis-vs-msft-which-ai-infrastructure-stock-is-the-20250417.jpg",
+    "site": "zacks.com",
+    "text": "Microsoft appears to be a better investment option compared to Nebius at the moment.",
+    "url": "https://www.zacks.com/stock/news/2450638/nbis-vs-msft-which-ai-infrastructure-stock-is-the-better-buy?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2450638",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-17T10:40:47-04:00",
+    "date_et": "2025-04-17"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-17 12:30:00",
+    "publisher": "Accesswire",
+    "title": "Activision and Call of Duty VPPA Violation - Levi & Korsinsky, LLP Launches Investigation",
+    "image": "https://images.financialmodelingprep.com/news/activision-and-call-of-duty-vppa-violation-levi-korsinsky-20250417.jpg",
+    "site": "accessnewswire.com",
+    "text": "NEW YORK CITY, NY / ACCESS Newswire / April 17, 2025 / Levi & Korsinsky, LLP is investigating potential claims on behalf of individuals who purchased video games through Call of Duty's Website (https://www.callofduty.com/). Levi & Korsinsky, LLP's investigation indicates that legally protected data may have been unlawfully intercepted during transactions with the Call of Duty Website, particularly affecting customers who purchased video games on the Call of Duty Website.",
+    "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/activision-and-call-of-duty-vppa-violation--levi-and-korsinsky-l-1016340",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-17T12:30:00-04:00",
+    "date_et": "2025-04-17"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-17 14:31:28",
+    "publisher": "Benzinga",
+    "title": "Microsoft Analyst Lowers Rating, Flags Slower Growth, Flat Valuation Outlook",
+    "image": "https://images.financialmodelingprep.com/news/microsoft-analyst-lowers-rating-flags-slower-growth-flat-valuation-20250417.jpg",
+    "site": "benzinga.com",
+    "text": "Keybanc Capital Markets analyst Jackson Ader downgraded Microsoft Corp MSFT on Thursday from Overweight to Sector Weight.",
+    "url": "https://www.benzinga.com/analyst-ratings/downgrades/25/04/44874447/microsoft-analyst-lowers-rating-flags-slower-growth-flat-valuation-outlook",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-17T14:31:28-04:00",
+    "date_et": "2025-04-17"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-18 06:00:06",
+    "publisher": "The Guardian",
+    "title": "Microsoft faces growing unrest over role in Israel's war on Gaza: ‘Close to a tipping point'",
+    "image": "https://images.financialmodelingprep.com/news/microsoft-faces-growing-unrest-over-role-in-israels-war-20250418.jpg",
+    "site": "theguardian.com",
+    "text": "Turmoil spreads at company over Israel's extensive use of its AI and cloud computing services in Gaza war",
+    "url": "https://www.theguardian.com/technology/2025/apr/18/microsoft-ai-israel-gaza-war",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-18T06:00:06-04:00",
+    "date_et": "2025-04-18"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-18 09:15:00",
+    "publisher": "Seeking Alpha",
+    "title": "MSFO: Big Yield On Microsoft",
+    "image": "https://images.financialmodelingprep.com/news/msfo-big-yield-on-microsoft-20250418.jpg",
+    "site": "seekingalpha.com",
+    "text": "The YieldMax MSFT Option Income Strategy ETF (MSFO) offers a trailing yield over 32% using options to generate monthly income without directly investing in Microsoft. MSFO employs synthetic covered call positions, buying and selling MSFT call options, and selling MSFT put options to generate income and offset costs. Incepted in August 2023, MSFO holds $105.6M in assets, with a 0.99% expense ratio, primarily in US short-term securities and MSFT options.",
+    "url": "https://seekingalpha.com/article/4776026-msfo-big-yield-on-microsoft",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-18T09:15:00-04:00",
+    "date_et": "2025-04-18"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-18 10:03:27",
+    "publisher": "Yahoo Finance",
+    "title": "Microsoft: Why this analyst downgraded the company",
+    "image": "https://images.financialmodelingprep.com/news/microsoft-why-this-analyst-downgraded-the-company-20250418.jpg",
+    "site": "youtube.com",
+    "text": "KeyBanc downgraded Microsoft (MSFT) to Sector Weight from Overweight, the firm's equivalent of Hold and Buy, respectively. The analyst behind the call, KeyBanc Capital Markets managing director and equity research analyst Jackson Ader, joins Market Domination with Josh Lipton and Unlimited co-founder, CEO, and chief investment officer Bob Elliott to share three reasons why he made the call.",
+    "url": "https://www.youtube.com/watch?v=eBfeMhqp7V4",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-18T10:03:27-04:00",
+    "date_et": "2025-04-18"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-18 12:30:00",
+    "publisher": "Accesswire",
+    "title": "Levi & Korsinsky, LLP Announces Investigation of Activision and Call of Duty VPPA Violation",
+    "image": "https://images.financialmodelingprep.com/news/levi-korsinsky-llp-announces-investigation-of-activision-and-call-20250418.jpg",
+    "site": "accessnewswire.com",
+    "text": "NEW YORK CITY, NY / ACCESS Newswire / April 18, 2025 / Levi & Korsinsky, LLP is investigating potential claims on behalf of individuals who purchased video games through Call of Duty's Website (https://www.callofduty.com/). Levi & Korsinsky, LLP's investigation indicates that legally protected data may have been unlawfully intercepted during transactions with the Call of Duty Website, particularly affecting customers who purchased video games on the Call of Duty Website.",
+    "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/levi-and-korsinsky-llp-announces-investigation-of-activision-and-1016885",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-18T12:30:00-04:00",
+    "date_et": "2025-04-18"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-19 18:30:00",
+    "publisher": "The Motley Fool",
+    "title": "This Is My Top Quantum Computing Stock for 2025, and It's Not IonQ or Rigetti Computing",
+    "image": "https://images.financialmodelingprep.com/news/this-is-my-top-quantum-computing-stock-for-2025-20250419.jpg",
+    "site": "fool.com",
+    "text": "Quantum computing has emerged as one of Wall Street's hottest investment topics. The hype is warranted -- the technology could be a game-changer for humankind.",
+    "url": "https://www.fool.com/investing/2025/04/19/this-is-my-top-quantum-computing-stock-for-2025-an/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-19T18:30:00-04:00",
+    "date_et": "2025-04-19"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-20 04:57:00",
+    "publisher": "The Motley Fool",
+    "title": "Down 18%, Is Microsoft Stock a Buy on the Dip Before April 30?",
+    "image": "https://images.financialmodelingprep.com/news/down-18-is-microsoft-stock-a-buy-on-the-20250420.jpg",
+    "site": "fool.com",
+    "text": "On April 2, President Donald Trump announced plans to impose a series of tariffs on imported goods from America's trading partners, which sparked fears of a global trade war and an economic slowdown. Investors have shunned stocks in favor of safe-haven assets like cash, so the S&P 500 (^GSPC 0.13%) is currently down 14% from its record high.",
+    "url": "https://www.fool.com/investing/2025/04/20/down-18-should-buy-microsoft-stock-on-dip-april-30/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-20T04:57:00-04:00",
+    "date_et": "2025-04-20"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-20 07:30:00",
+    "publisher": "The Motley Fool",
+    "title": "2 Recession-Proof Stocks to Buy With a Better Credit Rating Than the U.S. Government",
+    "image": "https://images.financialmodelingprep.com/news/2-recessionproof-stocks-to-buy-with-a-better-credit-20250420.jpg",
+    "site": "fool.com",
+    "text": "In 2011, following the difficulty caused by the Great Recession, S&P Global Ratings (formerly Standard & Poor's) downgraded the long-term credit outlook of the United States from its highest designation of AAA to AA+, citing budgetary issues. Fitch once again downgraded U.S. credit in 2023 and Moody's recently suggested it's contemplating a similar move.",
+    "url": "https://www.fool.com/investing/2025/04/20/2-recession-proof-stocks-to-buy-with-a-better-cred/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-20T07:30:00-04:00",
+    "date_et": "2025-04-20"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-20 09:15:00",
+    "publisher": "Seeking Alpha",
+    "title": "Selling America, Buying Europe - My Picks",
+    "image": "https://images.financialmodelingprep.com/news/selling-america-buying-europe-my-picks-20250420.jpg",
+    "site": "seekingalpha.com",
+    "text": "After years of strong returns, amidst the tariff-induced uncertainty, I am rotating towards European-based equities. US economy is facing mounting pressures, via weakening consumer demand, reduced CAPEX spending, inflation, and rising recession odds. European equities are relatively cheap, and despite structural issues, pockets of opportunities exist in high-growth areas and via re-arming Europe initiative.",
+    "url": "https://seekingalpha.com/article/4776258-selling-america-buying-europe-my-picks",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-20T09:15:00-04:00",
+    "date_et": "2025-04-20"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-20 11:01:30",
+    "publisher": "Schwab Network",
+    "title": "NVDA, MSFT & META: Charting Mag 7's Fall from All-Time Highs",
+    "image": "https://images.financialmodelingprep.com/news/nvda-msft-meta-charting-mag-7s-fall-from-alltime-20250420.jpg",
+    "site": "youtube.com",
+    "text": "Microsoft (MSFT) has fallen more than 20% off its all-time high while Nvidia (NVDA) and Meta Platforms (META) are more than 30% of theirs. Jenny Horne turns to the latest news flow showing why pressure remains around the market leaders.",
+    "url": "https://www.youtube.com/watch?v=wyPNX7CHrwo",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-20T11:01:30-04:00",
+    "date_et": "2025-04-20"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-20 23:59:00",
+    "publisher": "Seeking Alpha",
+    "title": "Microsoft: The Story Nobody's Talking About",
+    "image": "https://images.financialmodelingprep.com/news/microsoft-the-story-nobodys-talking-about-20250420.jpg",
+    "site": "seekingalpha.com",
+    "text": "Microsoft presents a buying opportunity due to its investments in the consumer discretionary sector, particularly through acquisitions of major video game studios like Activision Blizzard and ZeniMax Media. I believe the company's exclusive game titles and subscription services will drive significant revenue growth as new installments of popular game series are released. Despite current market uncertainties, Microsoft's strong fundamentals, high margins, and ability to pay off debt make it a resilient long-term investment.",
+    "url": "https://seekingalpha.com/article/4776449-microsoft-corporation-the-story-nobodys-talking-about",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-20T23:59:00-04:00",
+    "date_et": "2025-04-20"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-21 04:00:00",
+    "publisher": "Seeking Alpha",
+    "title": "Microsoft: Not A Strong Buy, But Don't Drop This Stock",
+    "image": "https://images.financialmodelingprep.com/news/microsoft-not-a-strong-buy-but-dont-drop-this-20250421.jpg",
+    "site": "seekingalpha.com",
+    "text": "Despite a 10% stock decline, I maintain a 'Buy' rating for Microsoft's long-term growth prospects, despite near-term trade turmoil impacts. Trade tensions and tariffs create uncertainty, affecting MSFT's hardware sales and potentially increasing R&D costs, impacting consumer confidence and economic growth. Earnings estimates for the Company have been revised down for 2026–2028, but long-term revenue and EPS projections remain positive, supporting a $429.65 price target.",
+    "url": "https://seekingalpha.com/article/4776444-microsoft-not-a-strong-buy-but-do-not-drop-this-stock",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-21T04:00:00-04:00",
+    "date_et": "2025-04-21"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-21 06:00:00",
+    "publisher": "The Motley Fool",
+    "title": "1 \"Magnificent Seven\" Stock You'll Regret Not Buying During the Dip",
+    "image": "https://images.financialmodelingprep.com/news/1-magnificent-seven-stock-youll-regret-not-buying-during-20250421.jpg",
+    "site": "fool.com",
+    "text": "The \"Magnificent Seven\" is a name given to Apple, Microsoft (MSFT -1.13%), Nvidia, Amazon, Alphabet, Meta Platforms, and Tesla because of their impact on the market over the past few years. Unfortunately, the \"Magnificent Seven\" hasn't been so magnificent in recent weeks, with all seven down year to date.",
+    "url": "https://www.fool.com/investing/2025/04/21/1-magnificent-seven-stock-youll-regret-not-buying/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-21T06:00:00-04:00",
+    "date_et": "2025-04-21"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-21 06:30:00",
+    "publisher": "Seeking Alpha",
+    "title": "The Elephant In The Room - March Dividend Income Report",
+    "image": "https://images.financialmodelingprep.com/news/the-elephant-in-the-room-march-dividend-income-report-20250421.jpg",
+    "site": "seekingalpha.com",
+    "text": "I've sold some higher-yielding stocks and reduced my portfolio yield in March. The goal was to get closer to my core strategy of investing only in companies with low dividend yields, but high dividend growth potential. While my portfolio yield decreased from 4% to 3.5%, my 5-year CAGR dividend growth rate went from 8% to 11%. Despite much uncertainty, the Canadian stock market has remained relatively strong since the beginning of the year.",
+    "url": "https://seekingalpha.com/article/4776515-elephant-in-the-room-march-dividend-income-report",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-21T06:30:00-04:00",
+    "date_et": "2025-04-21"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-21 07:00:00",
+    "publisher": "Business Wire",
+    "title": "Endace Integrates with Microsoft Sentinel for Deep Network Visibility",
+    "image": "https://images.financialmodelingprep.com/news/endace-integrates-with-microsoft-sentinel-for-deep-network-visibility-20250421.jpg",
+    "site": "businesswire.com",
+    "text": "AUCKLAND, New Zealand & AUSTIN, Texas--(BUSINESS WIRE)--EndaceProbe and Microsoft Sentinel combine AI-powered intelligent SIEM with always-on packet capture for accelerated incident response.",
+    "url": "https://www.businesswire.com/news/home/20250421012625/en/Endace-Integrates-with-Microsoft-Sentinel-for-Deep-Network-Visibility/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-21T07:00:00-04:00",
+    "date_et": "2025-04-21"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-21 07:52:48",
+    "publisher": "Investors Business Daily",
+    "title": "AI Stocks Face 'Show Me' Moment As Trump Tariff Drama Plays Out",
+    "image": "https://images.financialmodelingprep.com/news/ai-stocks-face-show-me-moment-as-trump-tariff-20250421.jpg",
+    "site": "investors.com",
+    "text": "Amid hype over artificial intelligence, the best AI stocks generate revenue or get a strategic edge from the fast evolving technology.",
+    "url": "https://www.investors.com/news/technology/artificial-intelligence-stocks-branch-14/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-21T07:52:48-04:00",
+    "date_et": "2025-04-21"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-21 08:59:00",
+    "publisher": "Barrons",
+    "title": "Microsoft Stock Is a Defensive Bet Amid Recession Fears. Why Its Price Target Was Cut.",
+    "image": "https://images.financialmodelingprep.com/news/microsoft-stock-is-a-defensive-bet-amid-recession-fears-20250421.jpg",
+    "site": "barrons.com",
+    "text": "Citi analysts also lower their capital expenditure estimates on Microsoft, pointing to a handful of factors including a heightened recessionary backdrop.",
+    "url": "https://www.barrons.com/articles/microsoft-stock-price-target-recession-b242e6c8",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-21T08:59:00-04:00",
+    "date_et": "2025-04-21"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-21 09:19:32",
+    "publisher": "CNBC",
+    "title": "The biggest questions facing Big Tech ahead of earnings",
+    "image": "https://images.financialmodelingprep.com/news/the-biggest-questions-facing-big-tech-ahead-of-earnings-20250421.jpg",
+    "site": "cnbc.com",
+    "text": "Tesla kicks off tech earnings season on Tuesday, followed by Alphabet on Thursday. All of the megacap companies have significant exposure to President Trump's sweeping tariffs, which will be a major topic on earnings calls.",
+    "url": "https://www.cnbc.com/2025/04/21/tech-earnings-trump-tariffs-tesla-apple-alphabet-meta-microsoft-amazon-nvidia.html",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-21T09:19:32-04:00",
+    "date_et": "2025-04-21"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-21 13:00:00",
+    "publisher": "Accesswire",
+    "title": "Levi & Korsinsky, LLP Announces Investigation of Activision and Call of Duty VPPA Violation",
+    "image": "https://images.financialmodelingprep.com/news/levi-korsinsky-llp-announces-investigation-of-activision-and-call-20250421.jpg",
+    "site": "accessnewswire.com",
+    "text": "NEW YORK CITY, NY / ACCESS Newswire / April 21, 2025 / Levi & Korsinsky, LLP is investigating potential claims on behalf of individuals who purchased video games through Call of Duty's Website (https://www.callofduty.com/). Levi & Korsinsky, LLP's investigation indicatesthat legally protected data may have been unlawfully intercepted during transactions with the Call of Duty Website, particularly affecting customers who purchased video games on the Call of Duty Website.",
+    "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/levi-and-korsinsky-llp-announces-investigation-of-activision-and-1017558",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-21T13:00:00-04:00",
+    "date_et": "2025-04-21"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-21 13:00:00",
+    "publisher": "Accesswire",
+    "title": "Activision and Call of Duty VPPA Violation - Levi & Korsinsky, LLP Launches Investigation",
+    "image": "https://images.financialmodelingprep.com/news/activision-and-call-of-duty-vppa-violation-levi-korsinsky-20250421.jpg",
+    "site": "accessnewswire.com",
+    "text": "NEW YORK, NY / ACCESS Newswire / April 21, 2025 / Levi & Korsinsky, LLP is investigating potential claims on behalf of individuals who purchased video games through Call of Duty's Website (https://www.callofduty.com/). Levi & Korsinsky, LLP's investigation indicates that legally protected data may have been unlawfully intercepted during transactions with the Call of Duty Website, particularly affecting customers who purchased video games on the Call of Duty Website.",
+    "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/activision-and-call-of-duty-vppa-violation--levi-and-korsinsky-l-1017590",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-21T13:00:00-04:00",
+    "date_et": "2025-04-21"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-21 13:03:12",
+    "publisher": "Reuters",
+    "title": "Hedge funds cut 'Mag Seven' to two-year low ahead of earnings",
+    "image": "https://images.financialmodelingprep.com/news/hedge-funds-cut-mag-seven-to-twoyear-low-ahead-of-20250421.jpg",
+    "site": "reuters.com",
+    "text": "Global hedge funds last week dumped the so-called Magnificent Seven megacap stocks, bringing their exposure to the group to a two-year low just ahead of their earnings, according to a Morgan Stanley note to clients seen by Reuters.",
+    "url": "https://www.reuters.com/business/autos-transportation/hedge-flow-hedge-funds-cut-mag-seven-two-year-low-ahead-earnings-2025-04-21/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-21T13:03:12-04:00",
+    "date_et": "2025-04-21"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-21 15:37:37",
+    "publisher": "The Motley Fool",
+    "title": "Why Microsoft Stock Was Getting Slammed Today",
+    "image": "https://images.financialmodelingprep.com/news/why-microsoft-stock-was-getting-slammed-today-20250421.jpg",
+    "site": "fool.com",
+    "text": "The kickoff of a high-profile antitrust case against a peer and an analyst's price target reduction put the hurt on Microsoft (MSFT -2.74%) shares Monday. The tech giant wasn't looking all that mighty on the exchange, with a more than 3% drop in price in late afternoon trading.",
+    "url": "https://www.fool.com/investing/2025/04/21/why-microsoft-stock-was-getting-slammed-today/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-21T15:37:37-04:00",
+    "date_et": "2025-04-21"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-21 17:56:00",
+    "publisher": "Yahoo Finance",
+    "title": "Mag 7 stocks fall, small businesses navigate tariffs",
+    "image": "https://images.financialmodelingprep.com/news/mag-7-stocks-fall-small-businesses-navigate-tariffs-20250421.jpg",
+    "site": "youtube.com",
+    "text": "Asking for a Trend host Josh Lipton breaks down some of the market action on April 21, 2025. Solidarity Capital CEO Jeff McClean joins the show to discuss the Magnificent 7, as the stocks fell amid the market sell-off.",
+    "url": "https://www.youtube.com/watch?v=rbEOz_2PxnQ",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-21T17:56:00-04:00",
+    "date_et": "2025-04-21"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-22 06:00:00",
+    "publisher": "GlobeNewsWire",
+    "title": "EdgarAgents Debuts EA34 Plugin at Centri Capital Conference to Simplify and Expedite Financial Filing Process for Mid-to-Microcap Companies",
+    "image": "https://images.financialmodelingprep.com/news/edgaragents-debuts-ea34-plugin-at-centri-capital-conference-to-20250422.jpg",
+    "site": "globenewswire.com",
+    "text": "EA34 Plugin eliminates complex tagging process for financial reporting teams and enables intuitive collaboration via familiar Microsoft 365® apps and services EA34 Plugin eliminates complex tagging process for financial reporting teams and enables intuitive collaboration via familiar Microsoft 365® apps and services",
+    "url": "https://www.globenewswire.com/news-release/2025/04/22/3065284/11768/en/EdgarAgents-Debuts-EA34-Plugin-at-Centri-Capital-Conference-to-Simplify-and-Expedite-Financial-Filing-Process-for-Mid-to-Microcap-Companies.html",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-22T06:00:00-04:00",
+    "date_et": "2025-04-22"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-22 07:00:00",
+    "publisher": "The Motley Fool",
+    "title": "Should You Buy Microsoft Stock Before April 30?",
+    "image": "https://images.financialmodelingprep.com/news/should-you-buy-microsoft-stock-before-april-30-20250422.jpg",
+    "site": "fool.com",
+    "text": "Microsoft (MSFT -2.22%) will face many questions from investors about how its business is dealing with rising uncertainty when it meets with Wall Street analysts on April 30.",
+    "url": "https://www.fool.com/investing/2025/04/22/should-you-buy-microsoft-stock-before-april-30/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-22T07:00:00-04:00",
+    "date_et": "2025-04-22"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-22 07:30:00",
+    "publisher": "Business Wire",
+    "title": "Arkose Labs Expands Strategic Relationship with Microsoft, Including Expanding Its Services to Microsoft Azure",
+    "image": "https://images.financialmodelingprep.com/news/arkose-labs-expands-strategic-relationship-with-microsoft-including-expanding-its-20250422.jpg",
+    "site": "businesswire.com",
+    "text": "SAN MATEO, Calif.--(BUSINESS WIRE)-- #bot--Arkose Labs, one of the leading global account security companies, announced the expansion of its strategic relationship with Microsoft.",
+    "url": "https://www.businesswire.com/news/home/20250422183283/en/Arkose-Labs-Expands-Strategic-Relationship-with-Microsoft-Including-Expanding-Its-Services-to-Microsoft-Azure/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-22T07:30:00-04:00",
+    "date_et": "2025-04-22"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-22 09:48:15",
+    "publisher": "Seeking Alpha",
+    "title": "Microsoft Earnings Preview: CIO Surveys By Morgan Stanley, KPMG Reveal Key Statistical Insights",
+    "image": "https://images.financialmodelingprep.com/news/microsoft-earnings-preview-cio-surveys-by-morgan-stanley-kpmg-20250422.jpg",
+    "site": "seekingalpha.com",
+    "text": "KPMG research reveals that enterprises plan to increase their expenditure on Gen AI in 2025, and survey findings from Morgan Stanley reveals how Microsoft will be a key beneficiary.",
+    "url": "https://seekingalpha.com/article/4776801-microsoft-earnings-preview-cio-surveys-by-morgan-stanley-kpmg-reveal-key-statistical-insights",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-22T09:48:15-04:00",
+    "date_et": "2025-04-22"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-22 10:36:47",
+    "publisher": "Zacks Investment Research",
+    "title": "Wall Street Analysts See Microsoft (MSFT) as a Buy: Should You Invest?",
+    "image": "https://images.financialmodelingprep.com/news/wall-street-analysts-see-microsoft-msft-as-a-buy-should-20250422.jpg",
+    "site": "zacks.com",
+    "text": "When deciding whether to buy, sell, or hold a stock, investors often rely on analyst recommendations. Media reports about rating changes by these brokerage-firm-employed (or sell-side) analysts often influence a stock's price, but are they really important?",
+    "url": "https://www.zacks.com/stock/news/2452657/wall-street-analysts-see-microsoft-msft-as-a-buy-should-you-invest?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|average_broker_rating-2452657",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-22T10:36:47-04:00",
+    "date_et": "2025-04-22"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-22 11:43:05",
+    "publisher": "MarketBeat",
+    "title": "Investors Sell Microsoft Stock on OpenAI News—Time to Buy?",
+    "image": "https://images.financialmodelingprep.com/news/investors-sell-microsoft-stock-on-openai-newstime-to-buy-20250422.jpg",
+    "site": "marketbeat.com",
+    "text": "It's been a terrible week for Microsoft Corporation NASDAQ: MSFT shareholders. As of the close on Apr. 21, MSFT stock has dropped more than 8.6% over the past five trading days.",
+    "url": "https://www.marketbeat.com/originals/investors-sell-microsoft-stock-on-openai-newstime-to-buy/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-22T11:43:05-04:00",
+    "date_et": "2025-04-22"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-22 12:00:00",
+    "publisher": "GlobeNewsWire",
+    "title": "Planet Technologies and Carahsoft Partner to Bring Optimization of Microsoft Solutions to Government Agencies",
+    "image": "https://images.financialmodelingprep.com/news/planet-technologies-and-carahsoft-partner-to-bring-optimization-of-20250422.jpg",
+    "site": "globenewswire.com",
+    "text": "Collaboration Enhances CMMC Consulting, Cloud Migration Services and Advanced Microsoft Capabilities to the Public Sector Collaboration Enhances CMMC Consulting, Cloud Migration Services and Advanced Microsoft Capabilities to the Public Sector",
+    "url": "https://www.globenewswire.com/news-release/2025/04/22/3065731/0/en/Planet-Technologies-and-Carahsoft-Partner-to-Bring-Optimization-of-Microsoft-Solutions-to-Government-Agencies.html",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-22T12:00:00-04:00",
+    "date_et": "2025-04-22"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-22 12:10:00",
+    "publisher": "Business Wire",
+    "title": "Veeam Data Cloud for Microsoft Entra ID Brings Effortless Data Resilience to Protect and Secure Identity Management",
+    "image": "https://images.financialmodelingprep.com/news/veeam-data-cloud-for-microsoft-entra-id-brings-effortless-20250422.jpg",
+    "site": "businesswire.com",
+    "text": "SAN DIEGO--(BUSINESS WIRE)--New Enterprise-Ready SaaS Solution simplifies the protection of organizations' Microsoft Entra ID users.",
+    "url": "https://www.businesswire.com/news/home/20250422334269/en/Veeam-Data-Cloud-for-Microsoft-Entra-ID-Brings-Effortless-Data-Resilience-to-Protect-and-Secure-Identity-Management/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-22T12:10:00-04:00",
+    "date_et": "2025-04-22"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-22 12:15:00",
+    "publisher": "Accesswire",
+    "title": "Levi & Korsinsky, LLP Announces Investigation of Activision and Call of Duty VPPA Violation",
+    "image": "https://images.financialmodelingprep.com/news/levi-korsinsky-llp-announces-investigation-of-activision-and-call-20250422.jpg",
+    "site": "accessnewswire.com",
+    "text": "NEW YORK, NY / ACCESS Newswire / April 22, 2025 / Levi & Korsinsky, LLP is investigating potential claims on behalf of individuals who purchased video games through Call of Duty's Website (https://www.callofduty.com/). Levi & Korsinsky, LLP's investigation indicates that legally protected data may have been unlawfully intercepted during transactions with the Call of Duty Website, particularly affecting customers who purchased video games on the Call of Duty Website.",
+    "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/levi-and-korsinsky-llp-announces-investigation-of-activision-and-1018114",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-22T12:15:00-04:00",
+    "date_et": "2025-04-22"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-22 12:39:23",
+    "publisher": "Reuters",
+    "title": "Dubai's du announces 2 billion dirhams hyperscale data center deal with Microsoft",
+    "image": "https://images.financialmodelingprep.com/news/dubais-du-announces-2-billion-dirhams-hyperscale-data-center-20250422.jpg",
+    "site": "reuters.com",
+    "text": "The Emirates Integrated Telecommunications Company PJSC (du) on Tuesday announced a 2 billion dirhams ($544.54 million) hyperscale data center deal with Microsoft.",
+    "url": "https://www.reuters.com/business/media-telecom/dubais-du-announces-2-billion-dirhams-hyperscale-data-center-deal-with-microsoft-2025-04-22/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-22T12:39:23-04:00",
+    "date_et": "2025-04-22"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-22 12:43:42",
+    "publisher": "Yahoo Finance",
+    "title": "Even if you are tempted to buy Mag 7, wait until they report results: Portfolio Manager",
+    "image": "https://images.financialmodelingprep.com/news/even-if-you-are-tempted-to-buy-mag-7-20250422.jpg",
+    "site": "youtube.com",
+    "text": "Tesla (TSLA) is set to report first quarter earnings results on Tuesday after the closing bell on Wall Street. Harvest Portfolio Management chief investment officer Paul Meeks joins Morning Brief with Brad Smith and Madison Mills to outline his bearish view of Tesla stock and what he wants to hear from Elon Musk.",
+    "url": "https://www.youtube.com/watch?v=pdsJs_BqCNE",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-22T12:43:42-04:00",
+    "date_et": "2025-04-22"
+  },
+  {
+    "symbol": "MSFT",
+    "publishedDate": "2025-04-22 17:59:08",
+    "publisher": "PYMNTS",
+    "title": "AWS, Microsoft Slow Down Data Center Deployments",
+    "image": "https://images.financialmodelingprep.com/news/aws-microsoft-slow-down-data-center-deployments-20250422.jpg",
+    "site": "pymnts.com",
+    "text": "AWS and Microsoft are pausing or slowing down the development of data centers, according to a Wells Fargo research note shared with PYMNTS. Several industry sources told Wells Fargo's analysts team that AWS has “paused a portion of its leading discussions” on colocated data centers, particularly those abroad.",
+    "url": "https://www.pymnts.com/technology/2025/aws-microsoft-slow-down-data-center-deployments/",
+    "ticker": "MSFT",
+    "event_date": "2025-04-30",
+    "window_start": "2025-04-16",
+    "window_end": "2025-05-14",
+    "publishedDateET": "2025-04-22T17:59:08-04:00",
+    "date_et": "2025-04-22"
+  },
+  {
+    "symbol": "MSFT",
     "publishedDate": "2025-04-23 04:20:00",
     "publisher": "The Motley Fool",
     "title": "3 No-Brainer Artificial Intelligence (AI) Stocks to Buy Now With $400",
@@ -10,7 +778,7 @@
     "url": "https://www.fool.com/investing/2025/04/23/no-brainer-artificial-intelligence-ai-stocks-buy/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-23T04:20:00-04:00",
     "date_et": "2025-04-23"
@@ -26,7 +794,7 @@
     "url": "https://www.businessinsider.com/amazon-ai-data-center-demand-aws-microsoft-2025-4",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-23T05:00:02-04:00",
     "date_et": "2025-04-23"
@@ -42,7 +810,7 @@
     "url": "https://www.barrons.com/articles/sap-earnings-stock-price-08b92026",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-23T05:26:00-04:00",
     "date_et": "2025-04-23"
@@ -58,7 +826,7 @@
     "url": "https://www.fool.com/investing/2025/04/23/3-no-brainer-stocks-to-buy-and-hold-for-the-next-d/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-23T06:00:00-04:00",
     "date_et": "2025-04-23"
@@ -74,7 +842,7 @@
     "url": "https://www.fool.com/investing/2025/04/23/should-you-buy-microsoft-stock-before-april-30/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-23T06:15:00-04:00",
     "date_et": "2025-04-23"
@@ -90,7 +858,7 @@
     "url": "https://www.benzinga.com/trading-ideas/technicals/25/04/44947382/palantir-rolls-out-tanks-microsoft-builds-clouds-whos-winning-ais-next-frontier",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-23T08:33:37-04:00",
     "date_et": "2025-04-23"
@@ -106,7 +874,7 @@
     "url": "https://www.businesswire.com/news/home/20250423995572/en/RAAPID-Joins-Microsoft-for-Startups-Pegasus-Program-with-Transactable-Marketplace-Offer/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-23T09:00:00-04:00",
     "date_et": "2025-04-23"
@@ -122,7 +890,7 @@
     "url": "https://www.fool.com/investing/2025/04/23/should-you-forget-rigetti-computing-and-buy-ai/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-23T09:30:00-04:00",
     "date_et": "2025-04-23"
@@ -138,7 +906,7 @@
     "url": "https://seekingalpha.com/article/4777183-microsoft-openai-stake-valued-at-147-bln",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-23T10:40:45-04:00",
     "date_et": "2025-04-23"
@@ -154,7 +922,7 @@
     "url": "https://www.zacks.com/stock/news/2453752/microsoft-msft-earnings-expected-to-grow-should-you-buy?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_9-2453752",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-23T11:05:59-04:00",
     "date_et": "2025-04-23"
@@ -170,7 +938,7 @@
     "url": "https://www.fxempire.com/forecasts/article/dow-jones-and-nasdaq-boeing-microsoft-apple-power-industrial-and-tech-rebound-1513843",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-23T11:18:10-04:00",
     "date_et": "2025-04-23"
@@ -186,7 +954,7 @@
     "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/levi-and-korsinsky-llp-announces-investigation-of-activision-and-1018726",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-23T12:15:00-04:00",
     "date_et": "2025-04-23"
@@ -202,7 +970,7 @@
     "url": "https://techcrunch.com/2025/04/23/discord-appoints-former-activision-blizzard-exec-humam-sakhnini-as-ceo/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-23T13:57:58-04:00",
     "date_et": "2025-04-23"
@@ -218,7 +986,7 @@
     "url": "https://www.fool.com/investing/2025/04/23/artificial-intelligence-ai-stocks-soar-2025/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-23T18:00:00-04:00",
     "date_et": "2025-04-23"
@@ -234,7 +1002,7 @@
     "url": "https://www.zacks.com/stock/news/2454171/microsoft-msft-beats-stock-market-upswing-what-investors-need-to-know?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_6-2454171",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-23T18:50:47-04:00",
     "date_et": "2025-04-23"
@@ -250,7 +1018,7 @@
     "url": "https://www.fool.com/investing/2025/04/24/microsoft-just-showed-the-future-of-ai-and-its-gre/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-24T06:10:00-04:00",
     "date_et": "2025-04-24"
@@ -266,7 +1034,7 @@
     "url": "https://www.prnewswire.com/news-releases/digital-realty-deploys-three-microsoft-azure-expressroute-cloud-on-ramps-302431232.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-24T07:00:00-04:00",
     "date_et": "2025-04-24"
@@ -282,7 +1050,7 @@
     "url": "https://www.benzinga.com/trading-ideas/long-ideas/25/04/44977897/exclusive-nvidia-alphabet-microsoft-amazon-meta-now-in-the-bargain-bin-after-being-heavily-sold-off-says-expert",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-24T08:43:01-04:00",
     "date_et": "2025-04-24"
@@ -298,7 +1066,7 @@
     "url": "https://seekingalpha.com/article/4777567-microsoft-is-dominating-the-business-ai-race",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-24T09:31:38-04:00",
     "date_et": "2025-04-24"
@@ -314,7 +1082,7 @@
     "url": "https://www.zacks.com/stock/news/2455042/top-cloud-computing-stocks-to-bet-on-for-healthy-returns?cid=CS-STOCKNEWSAPI-FT-cloud_computing-2455042",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-24T10:35:39-04:00",
     "date_et": "2025-04-24"
@@ -330,7 +1098,7 @@
     "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/activision-and-call-of-duty-vppa-violation--levi-and-korsinsky-l-1019256",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-24T12:15:00-04:00",
     "date_et": "2025-04-24"
@@ -346,7 +1114,7 @@
     "url": "https://247wallst.com/investing/2025/04/24/should-microsoft-and-meta-share-more-wealth-and-pay-investors-larger-dividends/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-24T13:35:15-04:00",
     "date_et": "2025-04-24"
@@ -362,7 +1130,7 @@
     "url": "https://www.youtube.com/watch?v=SP7_jRgKnsQ",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-25T09:04:51-04:00",
     "date_et": "2025-04-25"
@@ -378,7 +1146,7 @@
     "url": "https://www.zacks.com/stock/news/2455661/here-is-what-to-know-beyond-why-microsoft-corporation-msft-is-a-trending-stock?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|most_searched_stocks-2455661",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-25T10:05:58-04:00",
     "date_et": "2025-04-25"
@@ -394,7 +1162,7 @@
     "url": "https://www.zacks.com/stock/news/2455729/insights-into-microsoft-msft-q3-wall-street-projections-for-key-metrics?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|nfm_preview-2455729",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-25T10:20:56-04:00",
     "date_et": "2025-04-25"
@@ -410,7 +1178,7 @@
     "url": "https://www.zacks.com/stock/news/2455949/should-you-buy-sell-or-hold-microsoft-stock-before-q3-earnings?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2455949",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-25T10:35:36-04:00",
     "date_et": "2025-04-25"
@@ -426,7 +1194,7 @@
     "url": "https://seekingalpha.com/article/4778237-forget-oil-stocks-buy-microsoft",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-25T12:25:11-04:00",
     "date_et": "2025-04-25"
@@ -442,7 +1210,7 @@
     "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/activision-and-call-of-duty-vppa-violation-levi-and-korsinsky-ll-1019608",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-25T12:30:00-04:00",
     "date_et": "2025-04-25"
@@ -458,7 +1226,7 @@
     "url": "https://www.youtube.com/watch?v=nDGLeMnyPko",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-25T15:30:08-04:00",
     "date_et": "2025-04-25"
@@ -474,7 +1242,7 @@
     "url": "https://www.youtube.com/watch?v=ttlz2G1196w",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-25T17:46:05-04:00",
     "date_et": "2025-04-25"
@@ -490,7 +1258,7 @@
     "url": "https://www.zacks.com/commentary/2456279/mag-7-earnings-preview-what-can-investors-expect?cid=CS-STOCKNEWSAPI-FT-earnings_preview-2456279",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-25T18:20:33-04:00",
     "date_et": "2025-04-25"
@@ -506,7 +1274,7 @@
     "url": "https://seekingalpha.com/article/4778420-3-future-swans-swan-a-bees-poised-to-profit",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-26T07:00:00-04:00",
     "date_et": "2025-04-26"
@@ -522,7 +1290,7 @@
     "url": "https://seekingalpha.com/article/4777348-5-best-cefs-this-month-for-yields-up-to-15-percent-april-2025",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-26T08:00:00-04:00",
     "date_et": "2025-04-26"
@@ -538,7 +1306,7 @@
     "url": "https://www.fool.com/investing/2025/04/26/2-great-ai-stocks-to-buy-before-april-30/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-26T11:03:00-04:00",
     "date_et": "2025-04-26"
@@ -554,7 +1322,7 @@
     "url": "https://247wallst.com/investing/2025/04/27/why-jim-cramer-is-wrong-about-microsoft-stock-being-nothing-if-this-happens/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-27T00:54:18-04:00",
     "date_et": "2025-04-27"
@@ -570,7 +1338,7 @@
     "url": "https://www.fool.com/investing/2025/04/27/prediction-this-stock-will-be-worth-more-than-nvid/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-27T05:51:00-04:00",
     "date_et": "2025-04-27"
@@ -586,7 +1354,7 @@
     "url": "https://www.investopedia.com/what-analysts-think-of-microsoft-stock-ahead-of-earnings-q3-fy2025-11722394",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-27T07:31:02-04:00",
     "date_et": "2025-04-27"
@@ -602,7 +1370,7 @@
     "url": "https://www.cnbc.com/2025/04/27/ai-data-center-boom-isnt-going-bust-but-the-pause-is-trending.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-27T09:53:44-04:00",
     "date_et": "2025-04-27"
@@ -618,7 +1386,7 @@
     "url": "https://seekingalpha.com/article/4778527-more-it-underperform-more-buy",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-27T12:00:00-04:00",
     "date_et": "2025-04-27"
@@ -634,7 +1402,7 @@
     "url": "https://seekingalpha.com/article/4778621-wall-street-brunch-four-more-mag-7-plus-jobs-and-gdp",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-27T16:11:00-04:00",
     "date_et": "2025-04-27"
@@ -650,7 +1418,7 @@
     "url": "https://www.benzinga.com/25/04/45037345/microsoft-meta-amazon-apple-gear-up-for-ai-revolution-week-as-tariff-storm-brews",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T08:39:56-04:00",
     "date_et": "2025-04-28"
@@ -666,7 +1434,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/04/28/3069228/0/en/Arms-Cyber-Selected-for-Microsoft-for-Startups-Pegasus-Program.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T09:00:00-04:00",
     "date_et": "2025-04-28"
@@ -682,7 +1450,7 @@
     "url": "https://www.youtube.com/watch?v=yrUZu7QHK3o",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T09:10:00-04:00",
     "date_et": "2025-04-28"
@@ -698,7 +1466,7 @@
     "url": "https://seekingalpha.com/article/4778778-microsoft-what-to-consider-ahead-of-q2-25-earnings-event",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T10:45:55-04:00",
     "date_et": "2025-04-28"
@@ -714,7 +1482,7 @@
     "url": "https://www.benzinga.com/25/04/45043339/stock-of-the-day-will-microsoft-bring-the-entire-market-higher",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T11:18:34-04:00",
     "date_et": "2025-04-28"
@@ -730,7 +1498,7 @@
     "url": "https://www.youtube.com/watch?v=bYggTImgesM",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T11:38:13-04:00",
     "date_et": "2025-04-28"
@@ -746,7 +1514,7 @@
     "url": "https://www.zacks.com/stock/news/2456979/big-week-ahead-for-the-stock-market?cid=CS-STOCKNEWSAPI-FT-ahead_of_wall_street-2456979",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T11:40:36-04:00",
     "date_et": "2025-04-28"
@@ -762,7 +1530,7 @@
     "url": "https://www.fool.com/investing/2025/04/28/4-brilliant-growth-stocks-to-buy-now-and-hold-for/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T12:00:00-04:00",
     "date_et": "2025-04-28"
@@ -778,7 +1546,7 @@
     "url": "https://247wallst.com/investing/2025/04/27/the-nasdaq-fell-78-in-2000-it-could-happen-again/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T14:32:21-04:00",
     "date_et": "2025-04-28"
@@ -794,7 +1562,7 @@
     "url": "https://seekingalpha.com/article/4778875-apple-amazon-microsoft-and-meta-upcoming-earnings",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T14:40:00-04:00",
     "date_et": "2025-04-28"
@@ -810,7 +1578,7 @@
     "url": "https://www.geekwire.com/2025/microsoft-earnings-preview-ai-cloud-q3-2025/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T15:14:01-04:00",
     "date_et": "2025-04-28"
@@ -826,7 +1594,7 @@
     "url": "https://www.youtube.com/watch?v=IIeuNt2MtFo",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T15:42:05-04:00",
     "date_et": "2025-04-28"
@@ -842,7 +1610,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1070307",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T15:46:53-04:00",
     "date_et": "2025-04-28"
@@ -858,7 +1626,7 @@
     "url": "https://www.zacks.com/stock/news/2457221/azure-drives-microsoft-s-ai-strategy-wait-for-q3-before-buying?cid=CS-STOCKNEWSAPI-FT-analyst_blog|earnings_preview-2457221",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T16:00:42-04:00",
     "date_et": "2025-04-28"
@@ -874,7 +1642,7 @@
     "url": "https://www.globenewswire.com/news-release/2025/04/28/3069642/0/en/Clearway-Signs-335-MW-Power-Purchase-Agreement-with-Microsoft.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T16:05:00-04:00",
     "date_et": "2025-04-28"
@@ -890,7 +1658,7 @@
     "url": "https://www.cnbc.com/2025/04/28/microsoft-says-us-cant-risk-losing-quantum-computer-lead-to-china.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T16:20:29-04:00",
     "date_et": "2025-04-28"
@@ -906,7 +1674,7 @@
     "url": "https://seekingalpha.com/article/4778061-my-10-must-own-dividend-stocks-for-your-retirement-portfolio-one-yields-9-65-percent-",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T18:00:00-04:00",
     "date_et": "2025-04-28"
@@ -922,7 +1690,7 @@
     "url": "https://www.zacks.com/commentary/2457240/meta-microsoft-earnings-key-metrics-to-watch?cid=CS-STOCKNEWSAPI-FT-investment_ideas-2457240",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T18:10:37-04:00",
     "date_et": "2025-04-28"
@@ -938,7 +1706,7 @@
     "url": "https://www.investopedia.com/what-analysts-think-of-microsoft-stock-ahead-of-earnings-q3-fy2025-update-11722394",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T18:46:06-04:00",
     "date_et": "2025-04-28"
@@ -954,7 +1722,7 @@
     "url": "https://www.businesswire.com/news/home/20250428759634/en/Australian-IT-Spending-Set-to-Boost-Microsoft-Ecosystem/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T20:00:00-04:00",
     "date_et": "2025-04-28"
@@ -970,7 +1738,7 @@
     "url": "https://www.zacks.com/stock/news/2457386/time-to-buy-microsoft-or-meta-stock-as-earnings-approach?cid=CS-STOCKNEWSAPI-FT-stocks_in_the_news-2457386",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-28T20:10:31-04:00",
     "date_et": "2025-04-28"
@@ -986,7 +1754,7 @@
     "url": "https://www.fool.com/investing/2025/04/29/stock-market-rise-fall-sharp-this-week-key-reports/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-29T03:45:00-04:00",
     "date_et": "2025-04-29"
@@ -1002,7 +1770,7 @@
     "url": "https://www.prnewswire.com/news-releases/health-catalyst-announces-strategic-partnership-with-microsoft-to-accelerate-ai-adoption-and-transformation-for-care-delivery-organizations-302440565.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-29T08:30:00-04:00",
     "date_et": "2025-04-29"
@@ -1018,7 +1786,7 @@
     "url": "https://www.businesswire.com/news/home/20250429567442/en/Syncro-Launches-XMM-Unified-IT-and-Security-Management-Platform-with-Microsoft-Integration/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-29T08:45:00-04:00",
     "date_et": "2025-04-29"
@@ -1034,7 +1802,7 @@
     "url": "https://www.benzinga.com/trading-ideas/technicals/25/04/45067829/microsoft-q3-earnings-azure-may-rise-30-thats-not-where-ctos-are-aggressively-spending-analyst-warns",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-29T09:42:22-04:00",
     "date_et": "2025-04-29"
@@ -1050,7 +1818,7 @@
     "url": "https://www.marketwatch.com/story/what-options-trading-is-telling-us-now-about-amazon-apple-meta-and-microsoft-earnings-397e6ea7",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-29T15:35:00-04:00",
     "date_et": "2025-04-29"
@@ -1066,7 +1834,7 @@
     "url": "https://seekingalpha.com/article/4779358-microsoft-q3-preview-ai-capex-moment-of-truth",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-29T16:19:41-04:00",
     "date_et": "2025-04-29"
@@ -1082,7 +1850,7 @@
     "url": "https://www.youtube.com/watch?v=bMV_bHH-2x4",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-29T19:10:35-04:00",
     "date_et": "2025-04-29"
@@ -1098,7 +1866,7 @@
     "url": "https://www.cnbc.com/2025/04/29/satya-nadella-says-as-much-as-30percent-of-microsoft-code-is-written-by-ai.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-29T21:33:37-04:00",
     "date_et": "2025-04-29"
@@ -1114,7 +1882,7 @@
     "url": "https://www.barrons.com/articles/microsoft-earnings-ai-cloud-stock-62db2b86",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T03:30:00-04:00",
     "date_et": "2025-04-30"
@@ -1130,7 +1898,7 @@
     "url": "https://www.reuters.com/sustainability/boards-policy-regulation/microsofts-brad-smith-says-company-respects-european-laws-amid-us-criticism-2025-04-30/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T04:21:33-04:00",
     "date_et": "2025-04-30"
@@ -1146,7 +1914,7 @@
     "url": "https://www.reuters.com/sustainability/boards-policy-regulation/microsoft-president-says-company-respects-european-laws-amid-us-criticism-2025-04-30/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T04:44:55-04:00",
     "date_et": "2025-04-30"
@@ -1162,7 +1930,7 @@
     "url": "https://www.wsj.com/tech/microsoft-touts-new-european-data-centers-amid-clamor-for-eu-tech-sovereignty-72ccaa7f",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T05:01:00-04:00",
     "date_et": "2025-04-30"
@@ -1178,7 +1946,7 @@
     "url": "https://www.barrons.com/articles/nvidia-stock-price-meta-microsoft-68434e9a",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T05:12:00-04:00",
     "date_et": "2025-04-30"
@@ -1194,7 +1962,7 @@
     "url": "https://www.cnbc.com/2025/04/30/microsoft-says-it-respects-european-laws-as-us-eu-tensions-heat-up.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T05:58:38-04:00",
     "date_et": "2025-04-30"
@@ -1210,7 +1978,7 @@
     "url": "https://www.reuters.com/business/autos-transportation/tarnished-magnificent-7-stocks-rebound-faces-test-with-earnings-2025-04-30/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T06:08:34-04:00",
     "date_et": "2025-04-30"
@@ -1226,7 +1994,7 @@
     "url": "https://www.marketbeat.com/stock-ideas/the-5-top-buys-for-may-strong-signals-at-critical-support-levels/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T08:02:38-04:00",
     "date_et": "2025-04-30"
@@ -1242,7 +2010,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1070446",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T08:08:58-04:00",
     "date_et": "2025-04-30"
@@ -1258,7 +2026,7 @@
     "url": "https://www.fxempire.com/forecasts/article/msft-meta-and-nflx-forecast-us-stocks-look-towards-earnings-calls-1515403",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T08:41:24-04:00",
     "date_et": "2025-04-30"
@@ -1274,7 +2042,7 @@
     "url": "https://www.benzinga.com/25/04/45098855/how-to-earn-500-a-month-from-microsoft-stock-ahead-of-q3-earnings",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T08:45:21-04:00",
     "date_et": "2025-04-30"
@@ -1290,7 +2058,7 @@
     "url": "https://techxplore.com/news/2025-04-trump-microsoft-vows-europeans.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T08:48:59-04:00",
     "date_et": "2025-04-30"
@@ -1306,7 +2074,7 @@
     "url": "https://www.businesswire.com/news/home/20250430233489/en/AEG-Presents-and-Activision-Announce-Tony-Hawk%E2%80%99s%E2%84%A2-Pro-Skater%E2%84%A2-3-4-Collaboration/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T09:00:00-04:00",
     "date_et": "2025-04-30"
@@ -1322,7 +2090,7 @@
     "url": "https://www.forbes.com/sites/dereksaul/2025/04/30/meta-and-microsoft-will-report-earnings-today-what-to-expect-from-big-tech-results/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T09:08:07-04:00",
     "date_et": "2025-04-30"
@@ -1338,7 +2106,7 @@
     "url": "https://www.youtube.com/watch?v=83XCMhjv3K4",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T11:17:02-04:00",
     "date_et": "2025-04-30"
@@ -1354,7 +2122,7 @@
     "url": "https://www.youtube.com/watch?v=ArnFV_x1sJA",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T11:30:05-04:00",
     "date_et": "2025-04-30"
@@ -1370,7 +2138,7 @@
     "url": "https://www.zacks.com/commentary/2459147/magnificent-7-earnings-what-to-expect-amzn-aapl-meta-and-msft?cid=CS-STOCKNEWSAPI-FT-investment_ideas-2459147",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T11:35:30-04:00",
     "date_et": "2025-04-30"
@@ -1386,7 +2154,7 @@
     "url": "https://www.fxempire.com/forecasts/article/nasdaq-100-tech-stocks-dive-on-gdp-miss-msft-and-meta-in-spotlight-1515482",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T11:50:36-04:00",
     "date_et": "2025-04-30"
@@ -1402,7 +2170,7 @@
     "url": "https://www.cnbc.com/2025/04/30/microsoft-msft-q3-earnings-report-2025.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T12:00:01-04:00",
     "date_et": "2025-04-30"
@@ -1418,7 +2186,7 @@
     "url": "https://www.youtube.com/watch?v=yTzV1xNHlGU",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T13:15:04-04:00",
     "date_et": "2025-04-30"
@@ -1434,7 +2202,7 @@
     "url": "https://www.youtube.com/watch?v=2nUbZreR-ls",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T14:00:03-04:00",
     "date_et": "2025-04-30"
@@ -1450,7 +2218,7 @@
     "url": "https://www.theguardian.com/technology/2025/apr/30/microsoft-earnings-report",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T15:40:26-04:00",
     "date_et": "2025-04-30"
@@ -1466,7 +2234,7 @@
     "url": "https://www.prnewswire.com/news-releases/microsoft-earnings-press-release-available-on-investor-relations-website-302443274.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T16:04:00-04:00",
     "date_et": "2025-04-30"
@@ -1482,7 +2250,7 @@
     "url": "https://www.reuters.com/business/microsoft-beats-quarterly-revenue-estimates-ai-shift-bolsters-cloud-demand-2025-04-30/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T16:06:23-04:00",
     "date_et": "2025-04-30"
@@ -1498,7 +2266,7 @@
     "url": "https://www.forbes.com/sites/dereksaul/2025/04/30/meta-and-microsoft-stocks-soar-on-robust-earnings-reports/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T16:10:00-04:00",
     "date_et": "2025-04-30"
@@ -1514,7 +2282,7 @@
     "url": "https://www.wsj.com/business/earnings/microsoft-earnings-q3-2025-msft-stock-ce4f5422",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T16:11:00-04:00",
     "date_et": "2025-04-30"
@@ -1530,7 +2298,7 @@
     "url": "https://www.geekwire.com/2025/microsoft-stock-jumps-6-after-topping-estimates-with-70-1b-in-revenue-25-8b-in-profits/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T16:23:15-04:00",
     "date_et": "2025-04-30"
@@ -1546,7 +2314,7 @@
     "url": "https://www.businessinsider.com/microsoft-q3-earnings-report-msft-stock-beats-expectations-2025-4",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T16:23:26-04:00",
     "date_et": "2025-04-30"
@@ -1562,7 +2330,7 @@
     "url": "https://www.benzinga.com/25/04/45117886/microsoft-q3-earnings-highlights-revenue-beat-eps-beat-cloud-revenue-up-20",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T16:23:53-04:00",
     "date_et": "2025-04-30"
@@ -1578,7 +2346,7 @@
     "url": "https://www.youtube.com/watch?v=Hn-Duzda3yg",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T16:29:23-04:00",
     "date_et": "2025-04-30"
@@ -1594,7 +2362,7 @@
     "url": "https://www.youtube.com/watch?v=LgdH4x3ocSg",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T16:33:01-04:00",
     "date_et": "2025-04-30"
@@ -1610,7 +2378,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1070480",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T16:35:01-04:00",
     "date_et": "2025-04-30"
@@ -1626,7 +2394,7 @@
     "url": "https://www.nytimes.com/2025/04/30/technology/microsoft-earnings-ai-spending.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T16:43:46-04:00",
     "date_et": "2025-04-30"
@@ -1642,7 +2410,7 @@
     "url": "https://www.investopedia.com/microsoft-earnings-q3-fy2025-11724456",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T16:56:07-04:00",
     "date_et": "2025-04-30"
@@ -1658,7 +2426,7 @@
     "url": "https://www.reuters.com/business/retail-consumer/meta-microsoft-reports-lift-ai-related-stocks-2025-04-30/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T17:24:19-04:00",
     "date_et": "2025-04-30"
@@ -1674,7 +2442,7 @@
     "url": "https://www.youtube.com/watch?v=fivkVhQ4Nks",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T17:26:48-04:00",
     "date_et": "2025-04-30"
@@ -1690,7 +2458,7 @@
     "url": "https://www.youtube.com/watch?v=MnPrn8J5WSM",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T17:28:07-04:00",
     "date_et": "2025-04-30"
@@ -1706,7 +2474,7 @@
     "url": "https://www.youtube.com/watch?v=upQkxfkF0HE",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T17:33:52-04:00",
     "date_et": "2025-04-30"
@@ -1722,7 +2490,7 @@
     "url": "https://www.businessinsider.com/microsoft-q3-2025-earnings-cfo-amy-hood-email-employees-2025-4",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T18:14:34-04:00",
     "date_et": "2025-04-30"
@@ -1738,7 +2506,7 @@
     "url": "https://www.zacks.com/stock/news/2459421/microsoft-msft-q3-earnings-and-revenues-beat-estimates?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_4-2459421",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T18:20:42-04:00",
     "date_et": "2025-04-30"
@@ -1754,7 +2522,7 @@
     "url": "https://www.youtube.com/watch?v=syfwgkTQwJk",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T18:37:38-04:00",
     "date_et": "2025-04-30"
@@ -1770,7 +2538,7 @@
     "url": "https://www.geekwire.com/2025/if-a-recession-hits-microsoft-ceo-says-tech-giant-will-focus-on-how-we-help-our-customers/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T18:40:15-04:00",
     "date_et": "2025-04-30"
@@ -1786,7 +2554,7 @@
     "url": "https://www.youtube.com/watch?v=cVvZ_MPrPBY",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T18:44:36-04:00",
     "date_et": "2025-04-30"
@@ -1802,7 +2570,7 @@
     "url": "https://www.zacks.com/stock/news/2459491/steady-pce-higher-pending-home-sales-help-bolster-hump-day-trading?cid=CS-STOCKNEWSAPI-FT-ahead_of_wall_street-2459491",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T19:01:15-04:00",
     "date_et": "2025-04-30"
@@ -1818,7 +2586,7 @@
     "url": "https://techcrunch.com/2025/04/30/microsoft-expects-some-ai-capacity-constraints-this-quarter/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T19:02:20-04:00",
     "date_et": "2025-04-30"
@@ -1834,7 +2602,7 @@
     "url": "https://www.cnbc.com/2025/04/30/microsoft-passed-its-first-test-on-us-tariffs-with-limited-exposure.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T19:09:03-04:00",
     "date_et": "2025-04-30"
@@ -1850,7 +2618,7 @@
     "url": "https://seekingalpha.com/article/4780224-microsoft-corporation-msft-q3-2025-earnings-call-transcript",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T21:55:21-04:00",
     "date_et": "2025-04-30"
@@ -1866,7 +2634,7 @@
     "url": "https://seekingalpha.com/article/4780215-microsoft-stock-jumps-after-q3-earnings-still-more-upside",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T22:20:39-04:00",
     "date_et": "2025-04-30"
@@ -1882,7 +2650,7 @@
     "url": "https://www.pymnts.com/earnings/2025/microsoft-to-continue-building-data-centers-as-cloud-and-ai-lead-growth/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-04-30T22:35:50-04:00",
     "date_et": "2025-04-30"
@@ -1898,7 +2666,7 @@
     "url": "https://www.youtube.com/watch?v=yWgKtmeFOdU",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T03:45:01-04:00",
     "date_et": "2025-05-01"
@@ -1914,7 +2682,7 @@
     "url": "https://www.barrons.com/articles/nvidia-stock-price-meta-microsoft-earnings-91d6f11a",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T05:19:00-04:00",
     "date_et": "2025-05-01"
@@ -1930,7 +2698,7 @@
     "url": "https://seekingalpha.com/article/4780342-microsoft-q3-earnings-recession-resistant-relative-to-mag-7-peers",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T06:01:17-04:00",
     "date_et": "2025-05-01"
@@ -1946,7 +2714,7 @@
     "url": "https://finbold.com/wall-street-sets-microsoft-stock-price-for-next-12-months/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T06:41:26-04:00",
     "date_et": "2025-05-01"
@@ -1962,7 +2730,7 @@
     "url": "https://seekingalpha.com/article/4780363-wall-street-breakfast-podcast-meta-microsoft-soar-on-ai-cloud-strength",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T07:00:38-04:00",
     "date_et": "2025-05-01"
@@ -1978,7 +2746,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1070532",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T08:02:17-04:00",
     "date_et": "2025-05-01"
@@ -1994,7 +2762,7 @@
     "url": "https://www.marketwatch.com/story/why-microsofts-stock-is-seeing-an-unusually-large-gain-after-earnings-6d31ee04",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T08:24:00-04:00",
     "date_et": "2025-05-01"
@@ -2010,7 +2778,7 @@
     "url": "https://seekingalpha.com/article/4780371-microsoft-bulls-have-all-the-reason-to-celebrate",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T08:30:28-04:00",
     "date_et": "2025-05-01"
@@ -2026,7 +2794,7 @@
     "url": "https://www.fool.com/investing/2025/05/01/microsoft-q3-earnings-cloud-strength/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T08:58:41-04:00",
     "date_et": "2025-05-01"
@@ -2042,7 +2810,7 @@
     "url": "https://247wallst.com/technology-3/2025/05/01/microsoft-market-cap-hits-3-trillion-and-closes-in-on-apple/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T09:15:52-04:00",
     "date_et": "2025-05-01"
@@ -2058,7 +2826,7 @@
     "url": "https://www.fxempire.com/forecasts/article/nasdaq-100-bullish-rebound-in-tech-stocks-today-on-strong-microsoft-meta-earnings-1515650",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T09:20:28-04:00",
     "date_et": "2025-05-01"
@@ -2074,7 +2842,7 @@
     "url": "https://www.businessinsider.com/big-tech-earnings-microsoft-meta-amazon-apple-stock-price-market-2025-5",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T09:22:35-04:00",
     "date_et": "2025-05-01"
@@ -2090,7 +2858,7 @@
     "url": "https://seekingalpha.com/article/4780397-microsoft-q3-ai-narrative-intact-rating-upgrade",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T09:31:37-04:00",
     "date_et": "2025-05-01"
@@ -2106,7 +2874,7 @@
     "url": "https://www.youtube.com/watch?v=qrqNxjYeMpg",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T09:31:54-04:00",
     "date_et": "2025-05-01"
@@ -2122,7 +2890,7 @@
     "url": "https://www.fool.com/investing/2025/05/01/meta-platforms-and-microsoft-just-reported-amazing/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T09:41:16-04:00",
     "date_et": "2025-05-01"
@@ -2138,7 +2906,7 @@
     "url": "https://www.proactiveinvestors.co.uk/companies/news/1070527",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T09:47:01-04:00",
     "date_et": "2025-05-01"
@@ -2154,7 +2922,7 @@
     "url": "https://www.forbes.com/sites/dereksaul/2025/05/01/meta-and-microsoft-stocks-soar-on-robust-earnings-reports/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T09:48:22-04:00",
     "date_et": "2025-05-01"
@@ -2170,7 +2938,7 @@
     "url": "https://seekingalpha.com/article/4780408-microsoft-q3-great-earnings-ai-azure-strength",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T09:54:27-04:00",
     "date_et": "2025-05-01"
@@ -2186,7 +2954,7 @@
     "url": "https://www.businesswire.com/news/home/20250501506203/en/Microsoft-Cloud-AI-Solutions-Help-Firms-Face-Uncertainty/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T10:03:00-04:00",
     "date_et": "2025-05-01"
@@ -2202,7 +2970,7 @@
     "url": "https://seekingalpha.com/article/4780415-microsoft-fiscal-q3-earnings-review-rule-of-40-continues",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T10:18:22-04:00",
     "date_et": "2025-05-01"
@@ -2218,7 +2986,7 @@
     "url": "https://www.zacks.com/stock/news/2460015/cloud-ai-power-microsoft-s-fiscal-q3-earnings-etfs-to-tap?cid=CS-STOCKNEWSAPI-FT-etf_news_and_commentary-2460015",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T10:30:50-04:00",
     "date_et": "2025-05-01"
@@ -2234,7 +3002,7 @@
     "url": "https://www.marketbeat.com/originals/microsoft-crushes-earnings-whats-next-for-msft-stock/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T10:45:47-04:00",
     "date_et": "2025-05-01"
@@ -2250,7 +3018,7 @@
     "url": "https://www.youtube.com/watch?v=uSGj4EGJR-Y",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T10:48:05-04:00",
     "date_et": "2025-05-01"
@@ -2266,7 +3034,7 @@
     "url": "https://www.investors.com/news/technology/amazon-stock-q1-earnings-cloud-ai-microsoft/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T11:13:17-04:00",
     "date_et": "2025-05-01"
@@ -2282,7 +3050,7 @@
     "url": "https://www.cnbc.com/2025/05/01/microsoft-pops-9percent-after-earnings-beat-on-pace-for-best-day-in-5-years.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T11:28:35-04:00",
     "date_et": "2025-05-01"
@@ -2298,7 +3066,7 @@
     "url": "https://www.youtube.com/watch?v=t3XzNOiJEy0",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T11:34:36-04:00",
     "date_et": "2025-05-01"
@@ -2314,7 +3082,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1070554",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T11:35:02-04:00",
     "date_et": "2025-05-01"
@@ -2330,7 +3098,7 @@
     "url": "https://www.investors.com/news/technology/coreweave-stock-pops-ai-ipo-microsoft-meta-earnings/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T11:55:09-04:00",
     "date_et": "2025-05-01"
@@ -2346,7 +3114,7 @@
     "url": "https://www.zacks.com/stock/news/2460439/microsoft-q3-earnings-revenues-beat-on-surging-cloud-business?cid=CS-STOCKNEWSAPI-FT-analyst_blog|earnings_article-2460439",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T11:55:23-04:00",
     "date_et": "2025-05-01"
@@ -2362,7 +3130,7 @@
     "url": "https://247wallst.com/investing/2025/04/30/live-nasdaq-composite-is-this-the-start-of-a-2025-crash/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T12:01:57-04:00",
     "date_et": "2025-05-01"
@@ -2378,7 +3146,7 @@
     "url": "https://www.zacks.com/stock/news/2460366/ai-etfs-set-to-gain-on-robust-meta-microsoft-earnings?cid=CS-STOCKNEWSAPI-FT-etf_news_and_commentary-2460366",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T12:10:42-04:00",
     "date_et": "2025-05-01"
@@ -2394,7 +3162,7 @@
     "url": "https://www.investopedia.com/top-stock-movers-now-microsoft-meta-platforms-roblox-and-more-11725706",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T12:12:58-04:00",
     "date_et": "2025-05-01"
@@ -2410,7 +3178,7 @@
     "url": "https://www.youtube.com/watch?v=vENEgQ5PK2w",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T12:13:19-04:00",
     "date_et": "2025-05-01"
@@ -2426,7 +3194,7 @@
     "url": "https://www.cnbc.com/2025/05/01/microsoft-raises-prices-of-xbox-video-game-consoles-and-controllers.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T12:18:36-04:00",
     "date_et": "2025-05-01"
@@ -2442,7 +3210,7 @@
     "url": "https://www.reuters.com/business/xbox-joins-playstation-hiking-console-prices-amid-us-tariff-pressures-2025-05-01/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T12:38:59-04:00",
     "date_et": "2025-05-01"
@@ -2458,7 +3226,7 @@
     "url": "https://www.fool.com/investing/2025/05/01/why-microsoft-stock-is-skyrocketing-today/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T12:45:17-04:00",
     "date_et": "2025-05-01"
@@ -2474,7 +3242,7 @@
     "url": "https://www.zacks.com/commentary/2460423/bullish-signals-mount-as-q1-earnings-surprise-to-the-upside?cid=CS-STOCKNEWSAPI-FT-investment_ideas-2460423",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T12:55:37-04:00",
     "date_et": "2025-05-01"
@@ -2490,7 +3258,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1070561",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T12:58:56-04:00",
     "date_et": "2025-05-01"
@@ -2506,7 +3274,7 @@
     "url": "https://www.reuters.com/business/microsoft-preparing-host-musks-grok-ai-model-verge-reports-2025-05-01/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T13:10:21-04:00",
     "date_et": "2025-05-01"
@@ -2522,7 +3290,7 @@
     "url": "https://247wallst.com/investing/2025/05/01/microsoft-is-up-big-on-thursday-here-is-where-wall-street-experts-think-the-stock-is-going/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T13:21:42-04:00",
     "date_et": "2025-05-01"
@@ -2538,7 +3306,7 @@
     "url": "https://www.investors.com/research/magnificent-seven-stocks-may-2025/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T13:34:42-04:00",
     "date_et": "2025-05-01"
@@ -2554,7 +3322,7 @@
     "url": "https://www.reuters.com/business/us-tech-related-stocks-jump-after-microsoft-meta-platforms-results-2025-05-01/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T13:38:54-04:00",
     "date_et": "2025-05-01"
@@ -2570,7 +3338,7 @@
     "url": "https://www.fool.com/investing/2025/05/01/why-microsoft-stock-popped-this-week/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T13:40:51-04:00",
     "date_et": "2025-05-01"
@@ -2586,7 +3354,7 @@
     "url": "https://www.barrons.com/articles/microsoft-meta-earnings-stock-arista-nvidia-dc2a51e2",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T13:41:00-04:00",
     "date_et": "2025-05-01"
@@ -2602,7 +3370,7 @@
     "url": "https://nypost.com/2025/05/01/business/microsoft-raises-xbox-prices-due-to-tariffs-following-playstation-hike/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T13:51:55-04:00",
     "date_et": "2025-05-01"
@@ -2618,7 +3386,7 @@
     "url": "https://www.cnbc.com/2025/05/01/coreweave-stock-surges-after-microsoft-sticks-to-spending-plans.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T13:55:43-04:00",
     "date_et": "2025-05-01"
@@ -2634,7 +3402,7 @@
     "url": "https://www.youtube.com/watch?v=aCcmHYcmLUc",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T14:10:07-04:00",
     "date_et": "2025-05-01"
@@ -2650,7 +3418,7 @@
     "url": "https://www.youtube.com/watch?v=FNeNnc6U8Tw",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T14:19:32-04:00",
     "date_et": "2025-05-01"
@@ -2666,7 +3434,7 @@
     "url": "https://seekingalpha.com/article/4780637-microsoft-q3-a-big-relief-on-capex-cut-concerns",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T14:38:31-04:00",
     "date_et": "2025-05-01"
@@ -2682,7 +3450,7 @@
     "url": "https://www.youtube.com/watch?v=OSb8VPw_KBE",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T14:39:34-04:00",
     "date_et": "2025-05-01"
@@ -2698,7 +3466,7 @@
     "url": "https://www.pymnts.com/economy/2025/microsoft-raises-xbox-prices-citing-market-conditions/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T14:46:51-04:00",
     "date_et": "2025-05-01"
@@ -2714,7 +3482,7 @@
     "url": "https://invezz.com/news/2025/05/01/us-stocks-rally-as-meta-and-microsoft-earnings-revive-ai-optimism/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T15:02:19-04:00",
     "date_et": "2025-05-01"
@@ -2730,7 +3498,7 @@
     "url": "https://www.youtube.com/watch?v=5OOBo8bboD8",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T15:47:50-04:00",
     "date_et": "2025-05-01"
@@ -2746,7 +3514,7 @@
     "url": "https://seekingalpha.com/article/4780725-microsoft-a-strong-cloud-bet-for-2025-rating-upgrade",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T16:13:31-04:00",
     "date_et": "2025-05-01"
@@ -2762,7 +3530,7 @@
     "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-index-rises-after-strong-start-to-big-tech-earnings-11726544",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T16:46:10-04:00",
     "date_et": "2025-05-01"
@@ -2778,7 +3546,7 @@
     "url": "https://seekingalpha.com/article/4780748-microsoft-the-return-of-azure-rating-upgrade",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T16:51:24-04:00",
     "date_et": "2025-05-01"
@@ -2794,7 +3562,7 @@
     "url": "https://www.reuters.com/business/microsoft-swaps-law-firms-shareholder-case-hiring-trump-adversary-2025-05-01/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T17:07:59-04:00",
     "date_et": "2025-05-01"
@@ -2810,7 +3578,7 @@
     "url": "https://www.youtube.com/watch?v=JcJrJiitTVE",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T17:30:12-04:00",
     "date_et": "2025-05-01"
@@ -2826,7 +3594,7 @@
     "url": "https://www.zacks.com/commentary/2460568/these-3-stocks-soared-following-strong-quarterly-results?cid=CS-STOCKNEWSAPI-FT-investment_ideas-2460568",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T17:51:08-04:00",
     "date_et": "2025-05-01"
@@ -2842,7 +3610,7 @@
     "url": "https://www.zacks.com/stock/news/2460607/buy-meta-platforms-or-microsoft-stock-after-beating-earnings-expectations?cid=CS-STOCKNEWSAPI-FT-stocks_in_the_news-2460607",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-01T18:30:45-04:00",
     "date_et": "2025-05-01"
@@ -2858,7 +3626,7 @@
     "url": "https://www.benzinga.com/25/05/45160176/nasdaq-jumps-15-following-strong-earnings-from-meta-microsoft-investor-sentiment-improves-fear-greed-index-moves-to-neutral-zone",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-02T04:56:23-04:00",
     "date_et": "2025-05-02"
@@ -2874,7 +3642,7 @@
     "url": "https://seekingalpha.com/article/4781080-microsoft-q3-corporate-client-dominance-likely-to-propel-steady-earnings-growth",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-02T09:31:25-04:00",
     "date_et": "2025-05-02"
@@ -2890,7 +3658,7 @@
     "url": "https://www.prnewswire.com/news-releases/blockchain-as-a-service-market-is-expected-to-generate-a-revenue-of-usd-347-25-billion-by-2031--globally-at-71-20-cagr-verified-market-research-302444998.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-02T10:05:00-04:00",
     "date_et": "2025-05-02"
@@ -2906,7 +3674,7 @@
     "url": "https://www.prnewswire.com/news-releases/license-management-software-market-is-expected-to-generate-a-revenue-of-usd-1-04-billion-by-2031--globally-at-8-00-cagr-verified-market-research-302445008.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-02T10:15:00-04:00",
     "date_et": "2025-05-02"
@@ -2922,7 +3690,7 @@
     "url": "https://www.prnewswire.com/news-releases/life-science-analytics-market-worth-68-81-billion-by-2030-11-4-cagr--marketsandmarkets-302444901.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-02T10:30:00-04:00",
     "date_et": "2025-05-02"
@@ -2938,7 +3706,7 @@
     "url": "https://seekingalpha.com/article/4781138-top-15-high-growth-dividend-stocks-to-consider-for-may-2025",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-02T11:21:26-04:00",
     "date_et": "2025-05-02"
@@ -2954,7 +3722,7 @@
     "url": "https://www.fool.com/investing/2025/05/02/4-stocks-that-turned-1000-into-1-million/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-02T11:37:00-04:00",
     "date_et": "2025-05-02"
@@ -2970,7 +3738,7 @@
     "url": "https://seekingalpha.com/article/4781162-microsoft-q3-earnings-ai-growth-rebound-continues",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-02T11:56:17-04:00",
     "date_et": "2025-05-02"
@@ -2986,7 +3754,7 @@
     "url": "https://www.youtube.com/watch?v=SyVSEcX-OuM",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-02T14:16:21-04:00",
     "date_et": "2025-05-02"
@@ -3002,7 +3770,7 @@
     "url": "https://www.youtube.com/watch?v=dz61qnKUCmk",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-02T20:49:00-04:00",
     "date_et": "2025-05-02"
@@ -3018,7 +3786,7 @@
     "url": "https://seekingalpha.com/article/4781507-dogs-of-dow-chase-may-safer-buy",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-03T09:46:37-04:00",
     "date_et": "2025-05-03"
@@ -3034,7 +3802,7 @@
     "url": "https://www.youtube.com/watch?v=SegKijX-bqU",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-03T12:21:17-04:00",
     "date_et": "2025-05-03"
@@ -3050,7 +3818,7 @@
     "url": "https://www.fool.com/investing/2025/05/04/nvidia-stock-investors-meta-amazon-google/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-04T04:02:00-04:00",
     "date_et": "2025-05-04"
@@ -3066,7 +3834,7 @@
     "url": "https://seekingalpha.com/article/4781537-microsoft-and-meta-are-surging-is-it-time-to-buy",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-04T05:00:00-04:00",
     "date_et": "2025-05-04"
@@ -3082,7 +3850,7 @@
     "url": "https://www.fool.com/investing/2025/05/04/1-stock-nvidia-microsoft-amazon-apple-2-trillion-c/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-04T05:47:00-04:00",
     "date_et": "2025-05-04"
@@ -3098,7 +3866,7 @@
     "url": "https://www.fool.com/investing/2025/05/04/is-magnificent-seven-laggard-microsoft-rallying/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-04T11:41:00-04:00",
     "date_et": "2025-05-04"
@@ -3114,7 +3882,7 @@
     "url": "https://www.investors.com/news/technology/artificial-intelligence-stocks-branch-16/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-04T14:20:48-04:00",
     "date_et": "2025-05-04"
@@ -3130,7 +3898,7 @@
     "url": "https://www.fool.com/investing/2025/05/05/my-top-ai-growth-stock-to-buy-in-may-microsoft/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-05T05:10:00-04:00",
     "date_et": "2025-05-05"
@@ -3146,7 +3914,7 @@
     "url": "https://www.reuters.com/sustainability/boards-policy-regulation/eus-ribera-microsoft-chairman-says-his-company-will-abide-by-eu-rules-2025-05-05/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-05T07:19:48-04:00",
     "date_et": "2025-05-05"
@@ -3162,7 +3930,7 @@
     "url": "https://www.businesswire.com/news/home/20250505596016/en/Kore.ai-Forges-Strategic-Partnership-with-Microsoft-to-Accelerate-Enterprise-AI-Transformation/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-05T08:00:00-04:00",
     "date_et": "2025-05-05"
@@ -3178,7 +3946,7 @@
     "url": "https://seekingalpha.com/article/4781683-what-microsoft-balance-sheet-says-about-company-and-ai",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-05T08:15:00-04:00",
     "date_et": "2025-05-05"
@@ -3194,7 +3962,7 @@
     "url": "https://www.etftrends.com/leveraged-inverse-channel/chaos-mag-7s-earnings-break-internet-again/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-05T08:22:47-04:00",
     "date_et": "2025-05-05"
@@ -3210,7 +3978,7 @@
     "url": "https://www.zacks.com/stock/news/2461953/earnings-growth-price-strength-make-microsoft-msft-a-stock-to-watch?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|zacks_education_focus_list-2461953",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-05T10:30:48-04:00",
     "date_et": "2025-05-05"
@@ -3226,7 +3994,7 @@
     "url": "https://247wallst.com/personal-finance/2025/05/03/im-curious-about-dividend-investing-what-age-and-allocations-are-others-using/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-05T12:02:06-04:00",
     "date_et": "2025-05-05"
@@ -3242,7 +4010,7 @@
     "url": "https://www.fool.com/investing/2025/05/05/the-best-company-in-big-tech/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-05T12:35:00-04:00",
     "date_et": "2025-05-05"
@@ -3258,7 +4026,7 @@
     "url": "https://www.fool.com/investing/2025/05/05/2-top-growth-stocks-to-buy-and-hold-forever/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-05T12:38:00-04:00",
     "date_et": "2025-05-05"
@@ -3274,7 +4042,7 @@
     "url": "https://www.zacks.com/stock/news/2462307/microsoft-msft-upgraded-to-buy-what-does-it-mean-for-the-stock?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_12_zacks_rank_upgrade-2462307",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-05T13:05:46-04:00",
     "date_et": "2025-05-05"
@@ -3290,7 +4058,7 @@
     "url": "https://www.zacks.com/commentary/2462409/the-standout-magnificent-7-stock-microsoft-s-quiet-dominance?cid=CS-STOCKNEWSAPI-FT-investment_ideas-2462409",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-05T15:01:04-04:00",
     "date_et": "2025-05-05"
@@ -3306,7 +4074,7 @@
     "url": "https://www.marketwatch.com/story/heres-why-microsoft-is-beating-amazon-and-google-in-the-cloud-aae548e1",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-05T15:44:00-04:00",
     "date_et": "2025-05-05"
@@ -3322,7 +4090,7 @@
     "url": "https://www.pymnts.com/news/artificial-intelligence/2025/microsofts-ai-push-notches-early-profits/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-05T17:42:14-04:00",
     "date_et": "2025-05-05"
@@ -3338,7 +4106,7 @@
     "url": "https://www.fool.com/investing/2025/05/05/meta-microsoft-alphabet-amazon-news-nvidia-stock/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-05T18:05:00-04:00",
     "date_et": "2025-05-05"
@@ -3354,7 +4122,7 @@
     "url": "https://www.businessinsider.com/microsoft-ousted-employees-block-list-good-attrition-2025-5",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T05:00:02-04:00",
     "date_et": "2025-05-06"
@@ -3370,7 +4138,7 @@
     "url": "https://www.fool.com/investing/2025/05/06/should-you-buy-nvidia-stock-after-microsoft-amazon/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T07:00:00-04:00",
     "date_et": "2025-05-06"
@@ -3386,7 +4154,7 @@
     "url": "https://www.fool.com/investing/2025/05/06/microsoft-stock-analysis-buy-hold-or-sell/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T08:00:00-04:00",
     "date_et": "2025-05-06"
@@ -3402,7 +4170,7 @@
     "url": "https://www.barrons.com/articles/microsoft-stock-price-openai-chatgpt-profit-6e417661",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T08:21:00-04:00",
     "date_et": "2025-05-06"
@@ -3418,7 +4186,7 @@
     "url": "https://www.cnbc.com/2025/05/06/microsoft-introduces-surface-pcs-that-can-handle-ai-but-cost-less.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T09:00:01-04:00",
     "date_et": "2025-05-06"
@@ -3434,7 +4202,7 @@
     "url": "https://www.reuters.com/business/microsoft-launches-lower-priced-ai-laptops-with-qualcomm-chips-2025-05-06/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T09:02:18-04:00",
     "date_et": "2025-05-06"
@@ -3450,7 +4218,7 @@
     "url": "https://www.fxempire.com/forecasts/article/msft-meta-and-googl-forecast-major-us-stocks-look-to-drift-lower-1516886",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T09:14:29-04:00",
     "date_et": "2025-05-06"
@@ -3466,7 +4234,7 @@
     "url": "https://www.businesswire.com/news/home/20250506011619/en/Argano-Acquires-Microsoft-Partner-Real-Dynamics/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T09:30:00-04:00",
     "date_et": "2025-05-06"
@@ -3482,7 +4250,7 @@
     "url": "https://www.zacks.com/stock/news/2462841/investors-heavily-search-microsoft-corporation-msft-here-is-what-you-need-to-know?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|most_searched_stocks-2462841",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T10:05:53-04:00",
     "date_et": "2025-05-06"
@@ -3498,7 +4266,7 @@
     "url": "https://seekingalpha.com/article/4782167-microsoft-proves-why-ai-enterprise-spending-trends-remain-macro-resilient",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T10:20:00-04:00",
     "date_et": "2025-05-06"
@@ -3514,7 +4282,7 @@
     "url": "https://www.marketbeat.com/originals/microsoft-stock-after-xbox-price-hike-buy-or-hold/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T11:00:10-04:00",
     "date_et": "2025-05-06"
@@ -3530,7 +4298,7 @@
     "url": "https://seekingalpha.com/article/4782259-big-tech-breathes-life-into-q1-earnings",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T11:15:00-04:00",
     "date_et": "2025-05-06"
@@ -3546,7 +4314,7 @@
     "url": "https://www.youtube.com/watch?v=ygf0EBwh4PM",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T11:25:09-04:00",
     "date_et": "2025-05-06"
@@ -3562,7 +4330,7 @@
     "url": "https://www.zacks.com/stock/news/2463332/is-microsoft-msft-a-solid-growth-stock-3-reasons-to-think-yes?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|yseop_template_11_growth-2463332",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T13:46:03-04:00",
     "date_et": "2025-05-06"
@@ -3578,7 +4346,7 @@
     "url": "https://seekingalpha.com/article/4782534-microsofts-heavy-capex-spending-a-short-term-blip-not-a-long-term-risk",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T17:48:16-04:00",
     "date_et": "2025-05-06"
@@ -3594,7 +4362,7 @@
     "url": "https://www.reuters.com/business/openai-plans-slash-revenue-share-microsoft-information-reports-2025-05-07/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-06T22:04:48-04:00",
     "date_et": "2025-05-06"
@@ -3610,7 +4378,7 @@
     "url": "https://www.prnewswire.com/news-releases/microsoft-and-ffa-help-students-use-smart-sensors-and-ai-to-learn-about-the-future-of-farming-and-technology-302448011.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-07T00:00:00-04:00",
     "date_et": "2025-05-07"
@@ -3626,7 +4394,7 @@
     "url": "https://www.fool.com/investing/2025/05/07/microsoft-nvidia-meta-platforms-buy-growth-stocks/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-07T03:18:00-04:00",
     "date_et": "2025-05-07"
@@ -3642,7 +4410,7 @@
     "url": "https://techcrunch.com/2025/05/07/openai-expects-to-cut-share-of-revenue-it-pays-microsoft-by-2030/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-07T03:47:42-04:00",
     "date_et": "2025-05-07"
@@ -3658,7 +4426,7 @@
     "url": "https://www.fool.com/investing/2025/05/07/1-ai-stock-to-buy-before-it-soars-4-trillion-club/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-07T04:57:00-04:00",
     "date_et": "2025-05-07"
@@ -3674,7 +4442,7 @@
     "url": "https://www.fool.com/investing/2025/05/07/cloud-ai-stocks-help-set-you-up-msft-net-fivn/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-07T05:10:00-04:00",
     "date_et": "2025-05-07"
@@ -3690,7 +4458,7 @@
     "url": "https://www.newsfilecorp.com/release/250099/Carba-Announces-5Year-Carbon-Removal-Credit-Purchase-Agreement-with-Microsoft",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-07T05:24:00-04:00",
     "date_et": "2025-05-07"
@@ -3706,7 +4474,7 @@
     "url": "https://seekingalpha.com/article/4782559-microsoft-ignoring-the-noise-was-right-after-all",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-07T09:00:00-04:00",
     "date_et": "2025-05-07"
@@ -3722,7 +4490,7 @@
     "url": "https://www.reuters.com/legal/microsoft-wins-ftc-appeal-challenging-69-bln-activision-blizzard-deal-2025-05-07/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-07T12:18:00-04:00",
     "date_et": "2025-05-07"
@@ -3738,7 +4506,7 @@
     "url": "https://www.businesswire.com/news/home/20250507491038/en/EFM-Signs-Deal-With-Microsoft-for-Purchase-of-Nature-Based-Carbon-Removals-and-Fund-Investment/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-07T13:00:00-04:00",
     "date_et": "2025-05-07"
@@ -3754,7 +4522,7 @@
     "url": "https://www.pymnts.com/news/artificial-intelligence/2025/openai-aims-reduce-revenue-sharing-with-microsoft/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-07T15:23:06-04:00",
     "date_et": "2025-05-07"
@@ -3770,7 +4538,7 @@
     "url": "https://www.zacks.com/stock/news/2464396/azure-aids-msft-s-q3-beat-should-ai-focused-investors-buy-the-stock?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2464396",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-07T16:00:46-04:00",
     "date_et": "2025-05-07"
@@ -3786,7 +4554,7 @@
     "url": "https://www.foxbusiness.com/technology/microsoft-wins-appeal-ftc-challenge-69-bln-activision-blizzard-deal",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-07T17:09:56-04:00",
     "date_et": "2025-05-07"
@@ -3802,7 +4570,7 @@
     "url": "https://www.reuters.com/business/microsoft-urge-senators-speed-permitting-ai-boost-government-data-access-2025-05-07/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-07T18:49:49-04:00",
     "date_et": "2025-05-07"
@@ -3818,7 +4586,7 @@
     "url": "https://www.zacks.com/commentary/2464578/tech-earnings-estimates-increase-again-what-s-going-on?cid=CS-STOCKNEWSAPI-FT-earnings_trends-2464578",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-07T19:30:49-04:00",
     "date_et": "2025-05-07"
@@ -3834,7 +4602,7 @@
     "url": "https://www.zacks.com/commentary/2464609/tech-earnings-estimates-increase-again-what-s-going-on?cid=CS-STOCKNEWSAPI-FT-earnings_outlook-2464609",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-07T19:30:51-04:00",
     "date_et": "2025-05-07"
@@ -3850,7 +4618,7 @@
     "url": "https://www.fool.com/investing/2025/05/08/microsoft-best-artificial-intelligence-ai-stock/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-08T04:30:00-04:00",
     "date_et": "2025-05-08"
@@ -3866,7 +4634,7 @@
     "url": "https://www.businesswire.com/news/home/20250508411454/en/Kensington-Announces-Availability-of-Accessories-for-Microsoft-Surface-Pro-1st-Edition-12%E2%80%9D/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-08T08:05:00-04:00",
     "date_et": "2025-05-08"
@@ -3882,7 +4650,7 @@
     "url": "https://www.marketbeat.com/stock-ideas/5-stocks-that-crushed-earnings-and-guidance-forecasts/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-08T08:32:02-04:00",
     "date_et": "2025-05-08"
@@ -3898,7 +4666,7 @@
     "url": "https://seekingalpha.com/article/4783592-apple-is-seeking-a-catalyst-like-ballmer-microsoft",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-08T10:19:24-04:00",
     "date_et": "2025-05-08"
@@ -3914,7 +4682,7 @@
     "url": "https://247wallst.com/forecasts/2025/05/08/microsoft-msft-price-prediction-and-forecast/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-08T10:35:13-04:00",
     "date_et": "2025-05-08"
@@ -3930,7 +4698,7 @@
     "url": "https://www.zacks.com/stock/news/2465158/microsoft-msft-is-considered-a-good-investment-by-brokers-is-that-true?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|average_broker_rating-2465158",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-08T10:36:59-04:00",
     "date_et": "2025-05-08"
@@ -3946,7 +4714,7 @@
     "url": "https://www.youtube.com/watch?v=VhC5hX0CZWk",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-08T11:42:57-04:00",
     "date_et": "2025-05-08"
@@ -3962,7 +4730,7 @@
     "url": "https://www.youtube.com/watch?v=AVlio9hHGpY",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-08T12:15:00-04:00",
     "date_et": "2025-05-08"
@@ -3978,7 +4746,7 @@
     "url": "https://www.reuters.com/world/china/microsoft-doesnt-allow-its-employees-use-chinas-deepseek-president-2025-05-08/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-08T12:46:06-04:00",
     "date_et": "2025-05-08"
@@ -3994,7 +4762,7 @@
     "url": "https://247wallst.com/investing/2025/05/08/live-nasdaq-composite-markets-rise-on-trade-deal-promise/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-08T13:00:11-04:00",
     "date_et": "2025-05-08"
@@ -4010,7 +4778,7 @@
     "url": "https://www.youtube.com/watch?v=LslgYbvP8V4",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-08T13:34:23-04:00",
     "date_et": "2025-05-08"
@@ -4026,7 +4794,7 @@
     "url": "https://www.fool.com/investing/2025/05/09/2-no-brainer-ai-stocks-buy-right-now/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-09T04:35:00-04:00",
     "date_et": "2025-05-09"
@@ -4042,7 +4810,7 @@
     "url": "https://www.proactiveinvestors.co.uk/companies/news/1070957",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-09T06:18:11-04:00",
     "date_et": "2025-05-09"
@@ -4058,7 +4826,7 @@
     "url": "https://www.cnbc.com/2025/05/09/amazon-is-going-after-google-and-microsoft-in-quantum-computing.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-09T09:00:01-04:00",
     "date_et": "2025-05-09"
@@ -4074,7 +4842,7 @@
     "url": "https://www.zacks.com/stock/news/2465990/buy-these-5-cloud-computing-stocks-to-strengthen-your-portfolio?cid=CS-STOCKNEWSAPI-FT-analyst_blog|investment_ideas-2465990",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-09T10:30:51-04:00",
     "date_et": "2025-05-09"
@@ -4090,7 +4858,7 @@
     "url": "https://www.youtube.com/watch?v=ecp2782MCAc",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-09T13:38:58-04:00",
     "date_et": "2025-05-09"
@@ -4106,7 +4874,7 @@
     "url": "https://247wallst.com/investing/2025/05/08/5-dividend-etfs-to-buy-and-hold-for-a-lifetime-of-passive-income/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-09T15:32:05-04:00",
     "date_et": "2025-05-09"
@@ -4122,7 +4890,7 @@
     "url": "https://247wallst.com/investing/2025/05/08/sp-500-index-spx-live-broader-markets-rise-on-bullish-trade-optimism/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-09T15:32:05-04:00",
     "date_et": "2025-05-09"
@@ -4138,7 +4906,7 @@
     "url": "https://www.zacks.com/commentary/2466412/ai-stocks-are-back-msft-nvda-pltr?cid=CS-STOCKNEWSAPI-FT-investment_ideas-2466412",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-09T16:55:33-04:00",
     "date_et": "2025-05-09"
@@ -4154,7 +4922,7 @@
     "url": "https://www.fool.com/investing/2025/05/10/billionaire-terry-smith-english-warren-buffett/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-10T04:10:00-04:00",
     "date_et": "2025-05-10"
@@ -4170,7 +4938,7 @@
     "url": "https://www.fool.com/investing/2025/05/10/got-3000-ai-stocks-buy-hold-long-term/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-10T19:15:00-04:00",
     "date_et": "2025-05-10"
@@ -4186,7 +4954,7 @@
     "url": "https://www.reuters.com/business/openai-negotiates-with-microsoft-unlock-new-funding-future-ipo-ft-reports-2025-05-11/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-11T08:56:02-04:00",
     "date_et": "2025-05-11"
@@ -4202,7 +4970,7 @@
     "url": "https://techcrunch.com/2025/05/11/microsoft-and-openai-may-be-renegotiating-their-partnership/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-11T11:16:05-04:00",
     "date_et": "2025-05-11"
@@ -4218,7 +4986,7 @@
     "url": "https://www.geekwire.com/2025/openai-and-microsoft-reportedly-renegotiating-partnership-to-allow-for-potential-ipo/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-11T13:28:53-04:00",
     "date_et": "2025-05-11"
@@ -4234,7 +5002,7 @@
     "url": "https://nypost.com/2025/05/11/business/openai-negotiating-with-microsoft-for-new-funding-future-ipo-ft/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-11T14:03:29-04:00",
     "date_et": "2025-05-11"
@@ -4250,7 +5018,7 @@
     "url": "https://www.pymnts.com/artificial-intelligence-2/2025/openai-and-microsoft-reportedly-rework-pact-ahead-of-possible-ipo/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-11T18:16:55-04:00",
     "date_et": "2025-05-11"
@@ -4266,7 +5034,7 @@
     "url": "https://www.proactiveinvestors.co.uk/companies/news/1071023",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-12T04:01:55-04:00",
     "date_et": "2025-05-12"
@@ -4282,7 +5050,7 @@
     "url": "https://www.barrons.com/articles/microsoft-stock-openai-chatgpt-ipo-b318d2be",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-12T08:05:00-04:00",
     "date_et": "2025-05-12"
@@ -4298,7 +5066,7 @@
     "url": "https://www.proactiveinvestors.co.uk/companies/news/1071040",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-12T08:22:58-04:00",
     "date_et": "2025-05-12"
@@ -4314,7 +5082,7 @@
     "url": "https://247wallst.com/investing/2025/05/12/7-best-quantum-computing-stocks-to-buy-this-may/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-12T08:37:15-04:00",
     "date_et": "2025-05-12"
@@ -4330,7 +5098,7 @@
     "url": "https://www.businesswire.com/news/home/20250512950480/en/Procurify-Welcomes-Microsoft%E2%80%99s-Zia-Mansoor-to-Board-for-AI-Strategy-Acceleration-and-Product-Innovation/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-12T09:00:00-04:00",
     "date_et": "2025-05-12"
@@ -4346,7 +5114,7 @@
     "url": "https://www.zacks.com/commentary/2466619/surprise-breakthrough-us-china-talks-spark-market-rally?cid=CS-STOCKNEWSAPI-FT-investment_ideas-2466619",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-12T10:00:56-04:00",
     "date_et": "2025-05-12"
@@ -4362,7 +5130,7 @@
     "url": "https://www.zacks.com/stock/news/2466864/googl-meta-msft-3-promising-ai-giants-with-attractive-valuations?cid=CS-STOCKNEWSAPI-FT-analyst_blog|investment_ideas-2466864",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-12T10:10:51-04:00",
     "date_et": "2025-05-12"
@@ -4378,7 +5146,7 @@
     "url": "https://www.youtube.com/watch?v=wyBiVgaNi0k",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-12T14:31:14-04:00",
     "date_et": "2025-05-12"
@@ -4394,7 +5162,7 @@
     "url": "https://www.pymnts.com/artificial-intelligence-2/2025/microsoft-moves-to-protect-its-turf-as-openai-turns-into-rival/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-12T16:12:10-04:00",
     "date_et": "2025-05-12"
@@ -4410,7 +5178,7 @@
     "url": "https://www.zacks.com/commentary/2467118/stocks-to-watch-as-the-u-s-china-reach-a-trade-deal?cid=CS-STOCKNEWSAPI-FT-investment_ideas-2467118",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-12T18:55:35-04:00",
     "date_et": "2025-05-12"
@@ -4426,7 +5194,7 @@
     "url": "https://www.businesswire.com/news/home/20250513897203/en/German-Enterprises-Deploy-Microsoft-AI-Uncertain-of-ROI/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T04:00:00-04:00",
     "date_et": "2025-05-13"
@@ -4442,7 +5210,7 @@
     "url": "https://www.businesswire.com/news/home/20250512727183/en/R-Systems-Strengthens-Microsoft-Partnership-with-Advanced-Specialization-in-Kubernetes-and-Five-Solutions-Partner-Designations/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T06:00:00-04:00",
     "date_et": "2025-05-13"
@@ -4458,7 +5226,7 @@
     "url": "https://www.cnbc.com/2025/05/13/openai-restructure-plan-gets-softbank-blessing-as-microsoft-negotiates.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T07:22:35-04:00",
     "date_et": "2025-05-13"
@@ -4474,7 +5242,7 @@
     "url": "https://247wallst.com/investing/2025/05/11/the-stock-market-crash-that-could-ruin-everything/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T08:00:04-04:00",
     "date_et": "2025-05-13"
@@ -4490,7 +5258,7 @@
     "url": "https://247wallst.com/investing/2025/05/12/magnificent-7-stocks-live-trade-talks-lead-to-spiking-share-prices/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T08:00:04-04:00",
     "date_et": "2025-05-13"
@@ -4506,7 +5274,7 @@
     "url": "https://www.zacks.com/commentary/2467229/bull-of-the-day-microsoft-msft?cid=CS-STOCKNEWSAPI-FT-bull_of_the_day-2467229",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T08:10:44-04:00",
     "date_et": "2025-05-13"
@@ -4522,7 +5290,7 @@
     "url": "https://www.zacks.com/stock/news/2467872/these-2-computer-and-technology-stocks-could-beat-earnings-why-they-should-be-on-your-radar?cid=CS-STOCKNEWSAPI-FT-tale_of_the_tape|zacks_education_earnings_esp-2467872",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T09:50:47-04:00",
     "date_et": "2025-05-13"
@@ -4538,7 +5306,7 @@
     "url": "https://www.cnbc.com/2025/05/13/microsoft-is-cutting-3percent-of-workers-across-the-software-company.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T10:27:43-04:00",
     "date_et": "2025-05-13"
@@ -4554,7 +5322,7 @@
     "url": "https://www.geekwire.com/2025/microsoft-cuts-nearly-3-of-global-workforce-about-6000-jobs-in-latest-push-for-efficiency/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T10:31:07-04:00",
     "date_et": "2025-05-13"
@@ -4570,7 +5338,7 @@
     "url": "https://www.reuters.com/business/world-at-work/microsoft-lay-off-3-workforce-cnbc-reports-2025-05-13/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T10:34:40-04:00",
     "date_et": "2025-05-13"
@@ -4586,7 +5354,7 @@
     "url": "https://www.youtube.com/watch?v=SkeZL48V4u0",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T11:00:36-04:00",
     "date_et": "2025-05-13"
@@ -4602,7 +5370,7 @@
     "url": "https://www.businessinsider.com/microsoft-plans-to-cut-thousands-of-employees-2025-5",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T11:10:06-04:00",
     "date_et": "2025-05-13"
@@ -4618,7 +5386,7 @@
     "url": "https://seekingalpha.com/article/4786072-microsoft-phenomenal-q3-bounce-back-makes-it-best-performing-mag-7-stock-in-2025",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T11:40:26-04:00",
     "date_et": "2025-05-13"
@@ -4634,7 +5402,7 @@
     "url": "https://invezz.com/news/2025/05/13/microsoft-plans-to-lay-off-over-6800-employees-report/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T12:02:40-04:00",
     "date_et": "2025-05-13"
@@ -4650,7 +5418,7 @@
     "url": "https://www.youtube.com/watch?v=E2pexq70AC0",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T12:15:01-04:00",
     "date_et": "2025-05-13"
@@ -4666,7 +5434,7 @@
     "url": "https://www.youtube.com/watch?v=OXCJW__Nd0o",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T12:15:02-04:00",
     "date_et": "2025-05-13"
@@ -4682,7 +5450,7 @@
     "url": "https://www.investopedia.com/microsoft-reportedly-cutting-3-percent-of-global-workforce-11733745",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T12:31:16-04:00",
     "date_et": "2025-05-13"
@@ -4698,7 +5466,7 @@
     "url": "https://techcrunch.com/2025/05/13/microsoft-is-reportedly-about-to-layoff-3-of-its-workforce/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T12:48:43-04:00",
     "date_et": "2025-05-13"
@@ -4714,7 +5482,7 @@
     "url": "https://techcrunch.com/2025/05/13/microsoft-is-reportedly-about-to-lay-off-3-of-its-workforce/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T12:48:43-04:00",
     "date_et": "2025-05-13"
@@ -4730,7 +5498,7 @@
     "url": "https://www.barrons.com/articles/microsoft-stock-layoffs-job-cuts-bbd740dc",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T13:09:00-04:00",
     "date_et": "2025-05-13"
@@ -4746,7 +5514,7 @@
     "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-microsoft-msft-stock-buy-point/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T13:25:41-04:00",
     "date_et": "2025-05-13"
@@ -4762,7 +5530,7 @@
     "url": "https://nypost.com/2025/05/13/business/microsoft-layoffs-hit-3-of-global-workforce-roughly-7k-employees/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T13:32:50-04:00",
     "date_et": "2025-05-13"
@@ -4778,7 +5546,7 @@
     "url": "https://techcrunch.com/2025/05/13/tencent-hires-wizardlm-team-a-microsoft-ai-group-with-an-odd-history/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T13:58:58-04:00",
     "date_et": "2025-05-13"
@@ -4794,7 +5562,7 @@
     "url": "https://www.zacks.com/stock/news/2468798/dell-vs-microsoft-which-cloud-stock-is-the-better-buy-now?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-2468798",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T14:05:37-04:00",
     "date_et": "2025-05-13"
@@ -4810,7 +5578,7 @@
     "url": "https://www.etftrends.com/leveraged-inverse-channel/microsoft-earnings-reaffirm-strength-cloud-computing-ai/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T14:09:46-04:00",
     "date_et": "2025-05-13"
@@ -4826,7 +5594,7 @@
     "url": "https://www.wsj.com/tech/microsoft-layoffs-workers-2025-c1b9b6dd",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T14:18:00-04:00",
     "date_et": "2025-05-13"
@@ -4842,7 +5610,7 @@
     "url": "https://www.marketwatch.com/story/magnificent-seven-blows-past-a-major-threshold-but-a-few-more-marks-must-be-crossed-before-tech-is-really-back-ae134a22",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T14:34:00-04:00",
     "date_et": "2025-05-13"
@@ -4858,7 +5626,7 @@
     "url": "https://www.pymnts.com/personnel/2025/microsoft-cut-3percent-workforce-while-reducing-management-layers/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T14:50:46-04:00",
     "date_et": "2025-05-13"
@@ -4874,7 +5642,7 @@
     "url": "https://www.geekwire.com/2025/microsoft-will-cut-nearly-2000-jobs-in-washington-state-as-part-of-broader-layoffs/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T15:14:00-04:00",
     "date_et": "2025-05-13"
@@ -4890,7 +5658,7 @@
     "url": "https://techxplore.com/news/2025-05-microsoft-lay-workforce.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T15:18:38-04:00",
     "date_et": "2025-05-13"
@@ -4906,7 +5674,7 @@
     "url": "https://www.proactiveinvestors.com/companies/news/1071157",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T15:45:03-04:00",
     "date_et": "2025-05-13"
@@ -4922,7 +5690,7 @@
     "url": "https://seekingalpha.com/article/4786222-microsoft-reassured-the-market-that-data-center-growth-remains-strong",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T15:47:55-04:00",
     "date_et": "2025-05-13"
@@ -4938,7 +5706,7 @@
     "url": "https://www.businessinsider.com/microsoft-flattening-management-layers-cutting-jobs-2025-5",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-13T16:21:10-04:00",
     "date_et": "2025-05-13"
@@ -4954,7 +5722,7 @@
     "url": "https://www.businesswire.com/news/home/20250513072546/en/Reply-Presents-%E2%80%9CApp-to-the-Future%E2%80%9D-A-New-AI-Scape-Room-Experience-Powered-by-Microsoft-AI-and-Low-Code-Solutions/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-14T02:05:00-04:00",
     "date_et": "2025-05-14"
@@ -4970,7 +5738,7 @@
     "url": "https://www.fool.com/investing/2025/05/14/should-you-forget-alphabet-and-buy-2-tech-stocks-i/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-14T03:11:00-04:00",
     "date_et": "2025-05-14"
@@ -4986,7 +5754,7 @@
     "url": "https://www.businesswire.com/news/home/20250514018124/en/Swiss-Firms-Balance-Data-Laws-Microsoft-Cloud-Initiatives/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-14T04:00:00-04:00",
     "date_et": "2025-05-14"
@@ -5002,7 +5770,7 @@
     "url": "https://www.fool.com/investing/2025/05/14/3-warren-buffett-type-stocks-to-buy-and-hold-for-y/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-14T04:12:00-04:00",
     "date_et": "2025-05-14"
@@ -5018,7 +5786,7 @@
     "url": "https://techxplore.com/news/2025-05-microsoft-cites-technologies-decision-staff.html",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-14T05:00:02-04:00",
     "date_et": "2025-05-14"
@@ -5034,7 +5802,7 @@
     "url": "https://www.marketbeat.com/stock-ideas/3-ai-etfs-tapping-into-the-heart-of-the-ai-revolution/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-14T08:02:22-04:00",
     "date_et": "2025-05-14"
@@ -5050,7 +5818,7 @@
     "url": "https://www.fastcompany.com/91333700/microsoft-linkedin-layoffs-tech-giant-cutting-6000-jobs-today",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-14T09:01:49-04:00",
     "date_et": "2025-05-14"
@@ -5066,7 +5834,7 @@
     "url": "https://www.youtube.com/watch?v=rF3KYi4A2p0",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-14T10:07:48-04:00",
     "date_et": "2025-05-14"
@@ -5082,7 +5850,7 @@
     "url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-antitrust-regulators-accept-microsofts-office-teams-offer-sources-say-2025-05-14/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-14T13:47:59-04:00",
     "date_et": "2025-05-14"
@@ -5098,7 +5866,7 @@
     "url": "https://www.youtube.com/watch?v=CHcT3p7ccPM",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-14T14:18:11-04:00",
     "date_et": "2025-05-14"
@@ -5114,7 +5882,7 @@
     "url": "https://www.youtube.com/watch?v=lRSkurf6Mq0",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-14T15:30:06-04:00",
     "date_et": "2025-05-14"
@@ -5130,7 +5898,7 @@
     "url": "https://247wallst.com/personal-finance/2025/05/14/with-80000-coming-from-inheritance-should-we-use-it-for-college-retirement-or-a-future-home/",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-14T16:13:32-04:00",
     "date_et": "2025-05-14"
@@ -5146,7 +5914,7 @@
     "url": "https://www.youtube.com/watch?v=2EHTaN2-UJs",
     "ticker": "MSFT",
     "event_date": "2025-04-30",
-    "window_start": "2025-04-23",
+    "window_start": "2025-04-16",
     "window_end": "2025-05-14",
     "publishedDateET": "2025-05-14T17:59:29-04:00",
     "date_et": "2025-05-14"

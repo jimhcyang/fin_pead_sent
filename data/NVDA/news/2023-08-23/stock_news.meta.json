@@ -4,13 +4,13 @@
   "endpoint": "https://financialmodelingprep.com/stable/news/stock",
   "mode": "earnings_window",
   "earnings_date": "2023-08-23",
-  "pre_bdays": 5,
+  "pre_bdays": 10,
   "post_bdays": 10,
-  "start": "2023-08-16",
+  "start": "2023-08-09",
   "end": "2023-09-06",
   "chunks": [
     {
-      "start": "2023-08-16",
+      "start": "2023-08-09",
       "end": "2023-09-06"
     }
   ],
@@ -21,16 +21,16 @@
   "chunk_days": 0,
   "pad_days": 1,
   "sleep": 0.05,
-  "fetched_total": 512,
-  "kept_total": 473,
+  "fetched_total": 606,
+  "kept_total": 575,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2023-08-16T05:35:00-04:00",
+  "min_publishedDateET": "2023-08-09T05:15:22-04:00",
   "max_publishedDateET": "2023-09-06T17:32:54-04:00",
   "outputs": {
     "raw_json": "data/NVDA/news/2023-08-23/stock_news.raw.json",
     "jsonl": "data/NVDA/news/2023-08-23/stock_news.jsonl",
     "csv": "data/NVDA/news/2023-08-23/stock_news.csv"
   },
-  "generated_at": "2026-02-07T18:20:05.055567-05:00",
+  "generated_at": "2026-02-07T19:21:47.723818-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

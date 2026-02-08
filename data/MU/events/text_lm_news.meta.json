@@ -5,7 +5,7 @@
   "event_long_out": "data/MU/events/text_lm_news_event_long.csv",
   "event_wide_out": "data/MU/events/text_lm_news_event_wide.csv",
   "min_tokens": 20,
-  "rows_in": 1947,
-  "rows_scored": 1346,
+  "rows_in": 2239,
+  "rows_scored": 1560,
   "events_scored": 20
 }

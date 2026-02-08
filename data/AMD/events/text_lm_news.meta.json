@@ -5,7 +5,7 @@
   "event_long_out": "data/AMD/events/text_lm_news_event_long.csv",
   "event_wide_out": "data/AMD/events/text_lm_news_event_wide.csv",
   "min_tokens": 20,
-  "rows_in": 2556,
-  "rows_scored": 1661,
+  "rows_in": 3114,
+  "rows_scored": 2017,
   "events_scored": 20
 }
