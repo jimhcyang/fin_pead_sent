@@ -1,0 +1,36 @@
+{
+  "ticker": "HD",
+  "api_symbol": "HD",
+  "endpoint": "https://financialmodelingprep.com/stable/news/stock",
+  "mode": "earnings_window",
+  "earnings_date": "2023-11-14",
+  "pre_bdays": 5,
+  "post_bdays": 10,
+  "start": "2023-11-07",
+  "end": "2023-11-28",
+  "chunks": [
+    {
+      "start": "2023-11-07",
+      "end": "2023-11-28"
+    }
+  ],
+  "per_day": false,
+  "fallback_per_day_used": false,
+  "page_limit": 100,
+  "max_pages": 100,
+  "chunk_days": 0,
+  "pad_days": 1,
+  "sleep": 0.05,
+  "fetched_total": 79,
+  "kept_total": 75,
+  "dropped_dupes": 0,
+  "min_publishedDateET": "2023-11-07T09:56:00-05:00",
+  "max_publishedDateET": "2023-11-28T17:00:20-05:00",
+  "outputs": {
+    "raw_json": "data/HD/news/2023-11-14/stock_news.raw.json",
+    "jsonl": "data/HD/news/2023-11-14/stock_news.jsonl",
+    "csv": "data/HD/news/2023-11-14/stock_news.csv"
+  },
+  "generated_at": "2026-02-07T18:28:27.042795-05:00",
+  "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
+}

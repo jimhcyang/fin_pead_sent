@@ -14,21 +14,23 @@
       "end": "2023-12-05"
     }
   ],
+  "per_day": false,
+  "fallback_per_day_used": false,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
   "pad_days": 1,
-  "sleep": 0.25,
-  "fetched_total": 299,
-  "kept_total": 276,
+  "sleep": 0.05,
+  "fetched_total": 433,
+  "kept_total": 392,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2023-11-20T16:32:00-05:00",
+  "min_publishedDateET": "2023-11-14T02:00:00-05:00",
   "max_publishedDateET": "2023-12-05T18:30:39-05:00",
   "outputs": {
     "raw_json": "data/NVDA/news/2023-11-21/stock_news.raw.json",
     "jsonl": "data/NVDA/news/2023-11-21/stock_news.jsonl",
     "csv": "data/NVDA/news/2023-11-21/stock_news.csv"
   },
-  "generated_at": "2026-02-07T14:35:41.736502-05:00",
+  "generated_at": "2026-02-07T18:20:06.350617-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

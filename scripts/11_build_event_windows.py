@@ -13,7 +13,7 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--ticker", required=True)
     ap.add_argument("--data-dir", type=Path, default=None)
-    ap.add_argument("--pre-bdays", type=int, default=5)
+    ap.add_argument("--pre-bdays", type=int, default=10)
     ap.add_argument("--post-bdays", type=int, default=10)
     ap.add_argument("--out-name", default="event_windows")
     args = ap.parse_args()

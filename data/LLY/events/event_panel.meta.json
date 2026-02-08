@@ -1,0 +1,9 @@
+{
+  "ticker": "LLY",
+  "notes": [
+    "One row per earnings event: window returns + CARs + stable features."
+  ],
+  "rows": 20,
+  "cols": 137,
+  "created_at_local": "2026-02-07T18:35:19.086328"
+}

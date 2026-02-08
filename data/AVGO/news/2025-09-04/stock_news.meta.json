@@ -14,21 +14,23 @@
       "end": "2025-09-18"
     }
   ],
+  "per_day": false,
+  "fallback_per_day_used": false,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
   "pad_days": 1,
-  "sleep": 0.25,
-  "fetched_total": 90,
-  "kept_total": 88,
+  "sleep": 0.05,
+  "fetched_total": 169,
+  "kept_total": 167,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2025-09-05T11:21:09-04:00",
+  "min_publishedDateET": "2025-08-28T06:00:00-04:00",
   "max_publishedDateET": "2025-09-18T17:58:06-04:00",
   "outputs": {
     "raw_json": "data/AVGO/news/2025-09-04/stock_news.raw.json",
     "jsonl": "data/AVGO/news/2025-09-04/stock_news.jsonl",
     "csv": "data/AVGO/news/2025-09-04/stock_news.csv"
   },
-  "generated_at": "2026-02-07T14:39:43.334269-05:00",
+  "generated_at": "2026-02-07T18:24:08.529642-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

@@ -1,0 +1,9 @@
+{
+  "ticker": "BAC",
+  "call_date": "2021-10-14",
+  "fmp_year": 2021,
+  "fmp_quarter": 3,
+  "downloaded_at_et": "2026-02-07T18:32:14.499818-05:00",
+  "source": "Financial Modeling Prep (FMP) earning_call_transcript endpoint",
+  "expected": 20
+}

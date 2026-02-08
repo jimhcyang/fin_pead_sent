@@ -1,0 +1,11 @@
+{
+  "ticker": "AMZN",
+  "in_path": "data/AMZN/events/text_units_news.csv",
+  "units_out": "data/AMZN/events/text_lm_news_units.csv",
+  "event_long_out": "data/AMZN/events/text_lm_news_event_long.csv",
+  "event_wide_out": "data/AMZN/events/text_lm_news_event_wide.csv",
+  "min_tokens": 20,
+  "rows_in": 7004,
+  "rows_scored": 4669,
+  "events_scored": 20
+}

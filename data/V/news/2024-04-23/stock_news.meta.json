@@ -11,24 +11,110 @@
   "chunks": [
     {
       "start": "2024-04-16",
+      "end": "2024-04-16"
+    },
+    {
+      "start": "2024-04-17",
+      "end": "2024-04-17"
+    },
+    {
+      "start": "2024-04-18",
+      "end": "2024-04-18"
+    },
+    {
+      "start": "2024-04-19",
+      "end": "2024-04-19"
+    },
+    {
+      "start": "2024-04-20",
+      "end": "2024-04-20"
+    },
+    {
+      "start": "2024-04-21",
+      "end": "2024-04-21"
+    },
+    {
+      "start": "2024-04-22",
+      "end": "2024-04-22"
+    },
+    {
+      "start": "2024-04-23",
+      "end": "2024-04-23"
+    },
+    {
+      "start": "2024-04-24",
+      "end": "2024-04-24"
+    },
+    {
+      "start": "2024-04-25",
+      "end": "2024-04-25"
+    },
+    {
+      "start": "2024-04-26",
+      "end": "2024-04-26"
+    },
+    {
+      "start": "2024-04-27",
+      "end": "2024-04-27"
+    },
+    {
+      "start": "2024-04-28",
+      "end": "2024-04-28"
+    },
+    {
+      "start": "2024-04-29",
+      "end": "2024-04-29"
+    },
+    {
+      "start": "2024-04-30",
+      "end": "2024-04-30"
+    },
+    {
+      "start": "2024-05-01",
+      "end": "2024-05-01"
+    },
+    {
+      "start": "2024-05-02",
+      "end": "2024-05-02"
+    },
+    {
+      "start": "2024-05-03",
+      "end": "2024-05-03"
+    },
+    {
+      "start": "2024-05-04",
+      "end": "2024-05-04"
+    },
+    {
+      "start": "2024-05-05",
+      "end": "2024-05-05"
+    },
+    {
+      "start": "2024-05-06",
+      "end": "2024-05-06"
+    },
+    {
+      "start": "2024-05-07",
       "end": "2024-05-07"
     }
   ],
+  "per_day": true,
+  "fallback_per_day_used": true,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
-  "pad_days": 1,
-  "sleep": 0.25,
-  "fetched_total": 89,
+  "pad_days": 0,
+  "sleep": 0.05,
+  "fetched_total": 82,
   "kept_total": 82,
   "dropped_dupes": 0,
   "min_publishedDateET": "2024-04-16T04:23:42-04:00",
-  "max_publishedDateET": "2024-05-06T15:45:55-04:00",
+  "max_publishedDateET": "2024-05-06T07:00:23-04:00",
   "outputs": {
     "raw_json": "data/V/news/2024-04-23/stock_news.raw.json",
     "jsonl": "data/V/news/2024-04-23/stock_news.jsonl",
     "csv": "data/V/news/2024-04-23/stock_news.csv"
   },
-  "generated_at": "2026-02-07T14:42:27.376348-05:00",
+  "generated_at": "2026-02-07T18:27:40.233337-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

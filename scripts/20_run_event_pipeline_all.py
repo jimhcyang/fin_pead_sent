@@ -35,7 +35,7 @@ def main() -> None:
                     help="Download this many months before --start for market (default 15).")
     ap.add_argument("--market-buffer-after-months", type=int, default=1,
                     help="Download this many months after --end for market (default 1).")
-    ap.add_argument("--pre-bdays", type=int, default=5)
+    ap.add_argument("--pre-bdays", type=int, default=10)
     ap.add_argument("--post-bdays", type=int, default=10)
     ap.add_argument("--stable-period", choices=["quarter", "annual"], default="quarter")
     args = ap.parse_args()

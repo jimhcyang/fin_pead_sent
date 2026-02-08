@@ -1,0 +1,9 @@
+{
+  "ticker": "BAC",
+  "notes": [
+    "Daily close-to-close returns per offset (decimal + %)."
+  ],
+  "rows": 420,
+  "cols": 6,
+  "created_at_local": "2026-02-07T18:35:31.847221"
+}

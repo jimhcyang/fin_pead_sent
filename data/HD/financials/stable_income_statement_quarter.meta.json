@@ -1,0 +1,16 @@
+{
+  "ticker": "HD",
+  "endpoint": "stable/income-statement",
+  "params": {
+    "symbol": "HD",
+    "period": "quarter",
+    "limit": 400
+  },
+  "downloaded_at_et": "2026-02-07T18:28:49.479263-05:00",
+  "cutoff_end_used": "2025-11-18",
+  "cutoff_source": "arg",
+  "tail_n": 20,
+  "rows_saved": 20,
+  "anchor_source": "income-statement",
+  "sort": "date_asc"
+}

@@ -502,8 +502,8 @@ def main() -> None:
     summary_by_ticker = _group_mean(out_all, "ticker")
     summary_by_event_seq = _group_mean(out_all, "event_seq")
 
-    summary_by_ticker_path = root / "summary_by_ticker.csv"
-    summary_by_event_seq_path = root / "summary_by_event_seq.csv"
+    summary_by_ticker_path = out_dir / "summary_by_ticker.csv"
+    summary_by_event_seq_path = out_dir / "summary_by_event_seq.csv"
     summary_by_ticker.to_csv(summary_by_ticker_path, index=False)
     summary_by_event_seq.to_csv(summary_by_event_seq_path, index=False)
 
@@ -511,8 +511,8 @@ def main() -> None:
     y_col = _pick_corr_target(out_all, args.corr_target)
     corr_target_found = (y_col is not None)
 
-    top_corr_path = root / "top_correlations.csv"
-    top_corr_by_target_path = root / "top_correlations_by_target.csv"
+    top_corr_path = out_dir / "top_correlations.csv"
+    top_corr_by_target_path = out_dir / "top_correlations_by_target.csv"
 
     if corr_target_found:
         top_corr = _top_correlations(out_all, y_col=y_col, candidate_cols=text_feat_cols, min_n=args.corr_min_n)

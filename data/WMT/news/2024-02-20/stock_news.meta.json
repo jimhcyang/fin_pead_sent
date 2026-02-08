@@ -14,11 +14,13 @@
       "end": "2024-03-05"
     }
   ],
+  "per_day": false,
+  "fallback_per_day_used": false,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
   "pad_days": 1,
-  "sleep": 0.25,
+  "sleep": 0.05,
   "fetched_total": 139,
   "kept_total": 134,
   "dropped_dupes": 0,
@@ -29,6 +31,6 @@
     "jsonl": "data/WMT/news/2024-02-20/stock_news.jsonl",
     "csv": "data/WMT/news/2024-02-20/stock_news.csv"
   },
-  "generated_at": "2026-02-07T14:41:25.901937-05:00",
+  "generated_at": "2026-02-07T18:25:46.912731-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

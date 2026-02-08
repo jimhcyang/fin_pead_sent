@@ -1,0 +1,11 @@
+{
+  "ticker": "TSLA",
+  "in_path": "data/TSLA/events/text_units_news.csv",
+  "units_out": "data/TSLA/events/text_lm_news_units.csv",
+  "event_long_out": "data/TSLA/events/text_lm_news_event_long.csv",
+  "event_wide_out": "data/TSLA/events/text_lm_news_event_wide.csv",
+  "min_tokens": 20,
+  "rows_in": 7626,
+  "rows_scored": 4626,
+  "events_scored": 20
+}

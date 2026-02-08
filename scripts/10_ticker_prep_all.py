@@ -216,7 +216,7 @@ def main() -> None:
     ap.add_argument("--with_news", action="store_true")
     ap.set_defaults(with_news=True)
 
-    ap.add_argument("--news-pre-bdays", type=int, default=5)
+    ap.add_argument("--news-pre-bdays", type=int, default=10)
     ap.add_argument("--news-post-bdays", type=int, default=10)
     ap.add_argument("--news-page-limit", type=int, default=100)
     ap.add_argument("--news-max-pages", type=int, default=100)
@@ -285,7 +285,7 @@ def main() -> None:
         print(f"\n=== [{i}/{len(tickers)}] {tkr} ===", flush=True)
 
         try:
-            run([py, "-u", str(scripts / "00_init_ticker_dirs.py"), "--ticker", tkr] + common_data_dir, cwd=root)
+            run([py, "-u", str(scripts / "_init_ticker_dirs.py"), "--ticker", tkr] + common_data_dir, cwd=root)
 
             if not args.skip_yf:
                 run(

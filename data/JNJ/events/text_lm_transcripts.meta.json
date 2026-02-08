@@ -1,0 +1,12 @@
+{
+  "ticker": "JNJ",
+  "in_path": "data/JNJ/events/text_units_transcripts.csv",
+  "units_out": "data/JNJ/events/text_lm_transcripts_units.csv",
+  "event_long_out": "data/JNJ/events/text_lm_transcripts_event_long.csv",
+  "event_wide_out": "data/JNJ/events/text_lm_transcripts_event_wide.csv",
+  "min_tokens": 20,
+  "keep_operator": false,
+  "rows_in": 887,
+  "rows_scored": 609,
+  "events_scored": 20
+}

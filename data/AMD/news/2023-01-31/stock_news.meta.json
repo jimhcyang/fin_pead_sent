@@ -14,11 +14,13 @@
       "end": "2023-02-14"
     }
   ],
+  "per_day": false,
+  "fallback_per_day_used": false,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
   "pad_days": 1,
-  "sleep": 0.25,
+  "sleep": 0.05,
   "fetched_total": 93,
   "kept_total": 85,
   "dropped_dupes": 0,
@@ -29,6 +31,6 @@
     "jsonl": "data/AMD/news/2023-01-31/stock_news.jsonl",
     "csv": "data/AMD/news/2023-01-31/stock_news.csv"
   },
-  "generated_at": "2026-02-07T14:45:39.376159-05:00",
+  "generated_at": "2026-02-07T18:33:26.145761-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

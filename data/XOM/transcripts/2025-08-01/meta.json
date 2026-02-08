@@ -1,9 +1,0 @@
-{
-  "ticker": "XOM",
-  "call_date": "2025-08-01",
-  "fmp_year": 2025,
-  "fmp_quarter": 2,
-  "downloaded_at_et": "2026-02-07T14:42:43.576683-05:00",
-  "source": "Financial Modeling Prep (FMP) earning_call_transcript endpoint",
-  "expected": 20
-}

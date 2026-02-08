@@ -21,7 +21,7 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--ticker", required=True)
     ap.add_argument("--data-dir", type=Path, default=None)
-    ap.add_argument("--price-path-name", default="event_price_path_m5_p10")
+    ap.add_argument("--price-path-name", default="event_price_path_m10_p10")
     ap.add_argument("--out-windows", default="event_window_returns")
     ap.add_argument("--out-daily", default="event_daily_returns")
     args = ap.parse_args()

@@ -14,21 +14,23 @@
       "end": "2022-02-08"
     }
   ],
+  "per_day": false,
+  "fallback_per_day_used": false,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
   "pad_days": 1,
-  "sleep": 0.25,
-  "fetched_total": 288,
-  "kept_total": 278,
+  "sleep": 0.05,
+  "fetched_total": 315,
+  "kept_total": 298,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2022-01-18T11:05:33-05:00",
+  "min_publishedDateET": "2022-01-18T08:18:14-05:00",
   "max_publishedDateET": "2022-02-08T19:20:14-05:00",
   "outputs": {
     "raw_json": "data/MSFT/news/2022-01-25/stock_news.raw.json",
     "jsonl": "data/MSFT/news/2022-01-25/stock_news.jsonl",
     "csv": "data/MSFT/news/2022-01-25/stock_news.csv"
   },
-  "generated_at": "2026-02-07T14:37:30.374497-05:00",
+  "generated_at": "2026-02-07T18:21:51.388244-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

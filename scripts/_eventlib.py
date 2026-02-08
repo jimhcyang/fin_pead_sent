@@ -13,6 +13,7 @@ import pandas as pd
 
 
 WINDOWS: Dict[str, Tuple[int, int]] = {
+    "m10_p10": (-10, 10),
     "m5_p5": (-5, 5),
     "m1_p1": (-1, 1),
     "p0_p1": (0, 1),
@@ -145,7 +146,7 @@ def _idx(trading: List[pd.Timestamp], i: int) -> Optional[pd.Timestamp]:
 def build_event_windows_df(
     data_dir: Path,
     ticker: str,
-    pre_bdays: int = 5,
+    pre_bdays: int = 10,
     post_bdays: int = 10,
 ) -> pd.DataFrame:
     """
@@ -187,6 +188,7 @@ def build_event_windows_df(
         def off(k: int) -> Optional[pd.Timestamp]:
             return _idx(trading, day0_i + k)
 
+        dt_m10 = off(-10)
         dt_m5 = off(-5)
         dt_m1 = off(-1)
         dt_p1 = off(1)
@@ -195,7 +197,7 @@ def build_event_windows_df(
         win_start = off(-pre_bdays)
         win_end = off(post_bdays)
 
-        need = [dt_m5, dt_m1, day0_dt, dt_p1, dt_p5, dt_p10, win_start, win_end]
+        need = [dt_m10, dt_m5, dt_m1, day0_dt, dt_p1, dt_p5, dt_p10, win_start, win_end]
         if any(x is None for x in need):
             continue
 
@@ -207,6 +209,7 @@ def build_event_windows_df(
                 "pre_close_date": pre_dt.strftime("%Y-%m-%d"),
                 "day0_date": day0_dt.strftime("%Y-%m-%d"),
 
+                "dt_m10": dt_m10.strftime("%Y-%m-%d"),
                 "dt_m5": dt_m5.strftime("%Y-%m-%d"),
                 "dt_m1": dt_m1.strftime("%Y-%m-%d"),
                 "dt_p1": dt_p1.strftime("%Y-%m-%d"),
@@ -350,7 +353,7 @@ def compute_event_window_pct_changes(
 
         rec = {"ticker": tkr, "earnings_date": ed}
         # store key endpoint prices
-        for k in [-5, -1, 0, 1, 5, 10]:
+        for k in [-10, -5, -1, 0, 1, 5, 10]:
             rec[f"px_{k:+d}"] = float(mp.get(k, np.nan))
 
         for name, (a, b) in WINDOWS.items():

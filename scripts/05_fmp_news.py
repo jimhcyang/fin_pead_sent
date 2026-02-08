@@ -12,7 +12,7 @@ Mode A: earnings/event-window (recommended)
   Pass an earnings date (day 0). The script downloads news from:
     day -PRE_BDAYS (weekdays-only) to day +POST_BDAYS (weekdays-only), inclusive.
 
-  Example (day0=2024-01-10, pre=5, post=10): from=2024-01-03 to=2024-01-24
+  Example (day0=2024-01-10, pre=10, post=10): from=2023-12-27 to=2024-01-24
 
   Output directory:
     data/{TICKER}/news/{EARNINGS_DATE}/
@@ -129,16 +129,18 @@ def fetch_stock_news_paginated(
     page_limit: int,
     max_pages: int,
     sleep_s: float,
+    warn: Optional[callable] = None,
 ) -> List[Dict[str, Any]]:
-    """Fetch stock news from [from_d,to_d] (inclusive) with pagination."""
+    """Fetch stock news from [from_d,to_d] (inclusive) with pagination.
+
+    We keep paging until the API returns an empty list (or max_pages hit),
+    regardless of how many items are returned per page.
+    """
     out: List[Dict[str, Any]] = []
 
     # Conservative clamps (FMP plan tiers may be stricter).
     page_limit = max(1, min(int(page_limit), 250))
     max_pages = max(1, min(int(max_pages), 100))
-
-    last_page_fp: Optional[str] = None
-    repeated_pages = 0
 
     for page in range(max_pages):
         params = {
@@ -164,22 +166,9 @@ def fetch_stock_news_paginated(
         if not data:
             break
 
-        # Detect non-paginating behavior (same payload every page)
-        fp = _canonical_key(data[0]) + "::" + str(len(data))
-        if last_page_fp is not None and fp == last_page_fp:
-            repeated_pages += 1
-            if repeated_pages >= 2:
-                # API is likely ignoring `page`; stop to avoid infinite loop.
-                break
-        else:
-            repeated_pages = 0
-        last_page_fp = fp
-
         out.extend(data)
 
-        # If we got fewer than page_limit, likely last page.
-        if len(data) < page_limit:
-            break
+        # keep going; stop only when API returns empty or max_pages hit
 
     return out
 
@@ -213,6 +202,20 @@ def write_csv(records: List[Dict[str, Any]], path: Path) -> int:
     return len(records)
 
 
+def _default_warn_path() -> Path:
+    return Path("data") / "_derived" / "logs" / "news_warnings.log"
+
+
+def _warn_logger(path: Path) -> callable:
+    ensure_dir(path.parent)
+
+    def _log(msg: str) -> None:
+        ts = datetime.now(ET).isoformat()
+        with path.open("a", encoding="utf-8") as f:
+            f.write(f"{ts} | {msg}\n")
+    return _log
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description="Download FMP STABLE stock news for a ticker over a date range.")
     ap.add_argument("--ticker", required=True)
@@ -223,7 +226,7 @@ def main() -> None:
         default=None,
         help="Event date (YYYY-MM-DD). If set, downloads [-pre-bdays,+post-bdays] weekdays-only window.",
     )
-    ap.add_argument("--pre-bdays", type=int, default=5, help="Weekday offset before event date (default: 5).")
+    ap.add_argument("--pre-bdays", type=int, default=10, help="Weekday offset before event date (default: 10).")
     ap.add_argument("--post-bdays", type=int, default=10, help="Weekday offset after event date (default: 10).")
 
     # Mode B: explicit date range
@@ -239,8 +242,13 @@ def main() -> None:
     ap.add_argument("--chunk-days", type=int, default=90)
     ap.add_argument("--pad-days", type=int, default=1)
     ap.add_argument("--sleep", type=float, default=0.2)
+    per_day_group = ap.add_mutually_exclusive_group()
+    per_day_group.add_argument("--per-day", dest="per_day", action="store_true", help="Force daily fetch (from=to each day) to avoid pagination gaps.")
+    per_day_group.add_argument("--chunked", dest="per_day", action="store_false", help="Use chunked window fetch (default).")
+    ap.set_defaults(per_day=False)
 
     ap.add_argument("--overwrite", action="store_true", help="Overwrite existing outputs")
+    ap.add_argument("--warn-path", type=Path, default=None, help="Append warnings here (default: data/_derived/logs/news_warnings.log)")
 
     args = ap.parse_args()
 
@@ -293,8 +301,17 @@ def main() -> None:
         print(f"[SKIP] {ticker}: news already exists -> {out_dir}")
         return
 
-    chunks = _daterange_chunks(start_d, end_d, int(args.chunk_days))
+    chunks: List[Tuple[date, date]]
+    def _make_chunks(per_day: bool) -> List[Tuple[date, date]]:
+        if per_day:
+            days = (end_d - start_d).days
+            return [(start_d + timedelta(days=i), start_d + timedelta(days=i)) for i in range(days + 1)]
+        return _daterange_chunks(start_d, end_d, int(args.chunk_days))
+
+    chunks = _make_chunks(bool(args.per_day))
     pad = max(0, int(args.pad_days))
+    warn_path = args.warn_path if args.warn_path else _default_warn_path()
+    warn = _warn_logger(warn_path)
 
     seen: set[str] = set()
     kept: List[Dict[str, Any]] = []
@@ -302,50 +319,120 @@ def main() -> None:
     total_fetched = 0
     total_dupes = 0
 
-    for (c0, c1) in chunks:
-        req_from = c0 - timedelta(days=pad)
-        req_to = c1 + timedelta(days=pad)
+    def _run_fetch(per_day: bool, pad_days: int) -> Tuple[List[Dict[str, Any]], int, int, List[Tuple[date, date]]]:
+        per_day_chunks = _make_chunks(per_day)
+        local_seen: set[str] = set()
+        local_kept: List[Dict[str, Any]] = []
+        local_fetched = 0
+        local_dupes = 0
 
-        batch = fetch_stock_news_paginated(
-            api_key,
-            api_symbol,
-            req_from,
-            req_to,
-            page_limit=int(args.page_limit),
-            max_pages=int(args.max_pages),
-            sleep_s=float(args.sleep),
-        )
-        total_fetched += len(batch)
+        for (c0, c1) in per_day_chunks:
+            req_from = c0 - timedelta(days=pad_days)
+            req_to = c1 + timedelta(days=pad_days)
 
-        for item in batch:
-            if not isinstance(item, dict):
-                continue
+            batch = fetch_stock_news_paginated(
+                api_key,
+                api_symbol,
+                req_from,
+                req_to,
+                page_limit=int(args.page_limit),
+                max_pages=int(args.max_pages),
+                sleep_s=float(args.sleep),
+                warn=lambda m: warn(f"{ticker} {event_date or start_d} pagination: {m}"),
+            )
+            local_fetched += len(batch)
 
-            item = dict(item)  # copy
-            item["ticker"] = ticker
-            item["event_date"] = event_date or ""
-            item["window_start"] = start_d.isoformat()
-            item["window_end"] = end_d.isoformat()
+            for item in batch:
+                if not isinstance(item, dict):
+                    continue
 
-            _normalize_dates(item)
+                item = dict(item)  # copy
+                item["ticker"] = ticker
+                item["event_date"] = event_date or ""
+                item["window_start"] = start_d.isoformat()
+                item["window_end"] = end_d.isoformat()
 
-            # Filter to exact requested window
-            if not _in_date_window(item, start_d, end_d):
-                continue
+                _normalize_dates(item)
 
-            k = _canonical_key(item)
-            if k in seen:
-                total_dupes += 1
-                continue
-            seen.add(k)
+                # Filter to exact requested window
+                if not _in_date_window(item, start_d, end_d):
+                    continue
 
-            kept.append(item)
+                k = _canonical_key(item)
+                if k in local_seen:
+                    local_dupes += 1
+                    continue
+                local_seen.add(k)
+
+                local_kept.append(item)
+
+        return local_kept, local_fetched, local_dupes, per_day_chunks
+
+    kept, total_fetched, total_dupes, chunks = _run_fetch(bool(args.per_day), pad)
 
     # Sort by ET timestamp if available
     def _sort_key(x: Dict[str, Any]) -> str:
         return (x.get("publishedDateET") or x.get("publishedDate") or "")
 
     kept.sort(key=_sort_key)
+
+    # Coverage sanity checks
+    min_date = kept[0].get("date_et") if kept else None
+    max_date = kept[-1].get("date_et") if kept else None
+
+    def _d(s: Optional[str]) -> Optional[date]:
+        try:
+            return _parse_yyyy_mm_dd(s) if s else None
+        except Exception:
+            return None
+
+    min_d = _d(min_date)
+    max_d = _d(max_date)
+
+    def _check_coverage(records: List[Dict[str, Any]]) -> Tuple[bool, Optional[date], Optional[date], int, int]:
+        if not records:
+            warn(f"{ticker} {event_date or f'{start_d}..{end_d}'} kept=0 fetched={total_fetched}")
+            return False, None, None, 0, 0
+
+        min_date = records[0].get("date_et")
+        max_date = records[-1].get("date_et")
+        min_d = _d(min_date)
+        max_d = _d(max_date)
+
+        ok = True
+        pre_n = post_n = 0
+
+        if min_d and min_d > start_d:
+            warn(f"{ticker} {event_date or start_d}: missing pre-window coverage; earliest={min_d} start={start_d}")
+            ok = False
+        if max_d and max_d < end_d:
+            warn(f"{ticker} {event_date or start_d}: missing post-window coverage; latest={max_d} end={end_d}")
+            ok = False
+
+        if event_date:
+            day0 = _parse_yyyy_mm_dd(event_date)
+            pre_n = sum(1 for r in records if _d(r.get("date_et")) and _d(r.get("date_et")) < day0)
+            post_n = sum(1 for r in records if _d(r.get("date_et")) and _d(r.get("date_et")) > day0)
+            if pre_n == 0:
+                warn(f"{ticker} {event_date}: no PRE articles in window (start={start_d}, end={end_d})")
+                ok = False
+            if post_n == 0:
+                warn(f"{ticker} {event_date}: no POST articles in window (start={start_d}, end={end_d})")
+                ok = False
+
+        return ok, min_d, max_d, pre_n, post_n
+
+    coverage_ok, min_d, max_d, pre_n, post_n = _check_coverage(kept)
+
+    # Auto fallback: if coverage failed and not already per-day, retry with per-day and pad=0
+    fallback_used = False
+    if (not coverage_ok) and (not bool(args.per_day)):
+        warn(f"{ticker} {event_date or start_d}: coverage incomplete; retrying per-day mode")
+        kept, total_fetched, total_dupes, chunks = _run_fetch(per_day=True, pad_days=0)
+        coverage_ok, min_d, max_d, pre_n, post_n = _check_coverage(kept)
+        args.per_day = True
+        pad = 0
+        fallback_used = True
 
     # Write files
     raw_path.write_text(json.dumps(kept, indent=2, ensure_ascii=False), encoding="utf-8")
@@ -368,6 +455,8 @@ def main() -> None:
         "start": start_d.isoformat(),
         "end": end_d.isoformat(),
         "chunks": [{"start": a.isoformat(), "end": b.isoformat()} for (a, b) in chunks],
+        "per_day": bool(args.per_day),
+        "fallback_per_day_used": bool(fallback_used),
         "page_limit": int(args.page_limit),
         "max_pages": int(args.max_pages),
         "chunk_days": int(args.chunk_days),

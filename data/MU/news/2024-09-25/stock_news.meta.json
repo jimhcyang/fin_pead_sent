@@ -11,24 +11,110 @@
   "chunks": [
     {
       "start": "2024-09-18",
+      "end": "2024-09-18"
+    },
+    {
+      "start": "2024-09-19",
+      "end": "2024-09-19"
+    },
+    {
+      "start": "2024-09-20",
+      "end": "2024-09-20"
+    },
+    {
+      "start": "2024-09-21",
+      "end": "2024-09-21"
+    },
+    {
+      "start": "2024-09-22",
+      "end": "2024-09-22"
+    },
+    {
+      "start": "2024-09-23",
+      "end": "2024-09-23"
+    },
+    {
+      "start": "2024-09-24",
+      "end": "2024-09-24"
+    },
+    {
+      "start": "2024-09-25",
+      "end": "2024-09-25"
+    },
+    {
+      "start": "2024-09-26",
+      "end": "2024-09-26"
+    },
+    {
+      "start": "2024-09-27",
+      "end": "2024-09-27"
+    },
+    {
+      "start": "2024-09-28",
+      "end": "2024-09-28"
+    },
+    {
+      "start": "2024-09-29",
+      "end": "2024-09-29"
+    },
+    {
+      "start": "2024-09-30",
+      "end": "2024-09-30"
+    },
+    {
+      "start": "2024-10-01",
+      "end": "2024-10-01"
+    },
+    {
+      "start": "2024-10-02",
+      "end": "2024-10-02"
+    },
+    {
+      "start": "2024-10-03",
+      "end": "2024-10-03"
+    },
+    {
+      "start": "2024-10-04",
+      "end": "2024-10-04"
+    },
+    {
+      "start": "2024-10-05",
+      "end": "2024-10-05"
+    },
+    {
+      "start": "2024-10-06",
+      "end": "2024-10-06"
+    },
+    {
+      "start": "2024-10-07",
+      "end": "2024-10-07"
+    },
+    {
+      "start": "2024-10-08",
+      "end": "2024-10-08"
+    },
+    {
+      "start": "2024-10-09",
       "end": "2024-10-09"
     }
   ],
+  "per_day": true,
+  "fallback_per_day_used": true,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
-  "pad_days": 1,
-  "sleep": 0.25,
-  "fetched_total": 164,
+  "pad_days": 0,
+  "sleep": 0.05,
+  "fetched_total": 155,
   "kept_total": 155,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2024-09-18T08:11:13-04:00",
-  "max_publishedDateET": "2024-10-08T09:30:52-04:00",
+  "min_publishedDateET": "2024-09-18T13:17:50-04:00",
+  "max_publishedDateET": "2024-10-08T07:00:23-04:00",
   "outputs": {
     "raw_json": "data/MU/news/2024-09-25/stock_news.raw.json",
     "jsonl": "data/MU/news/2024-09-25/stock_news.jsonl",
     "csv": "data/MU/news/2024-09-25/stock_news.csv"
   },
-  "generated_at": "2026-02-07T14:44:47.349873-05:00",
+  "generated_at": "2026-02-07T18:31:59.703873-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

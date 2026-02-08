@@ -1,0 +1,9 @@
+{
+  "ticker": "HD",
+  "call_date": "2025-05-20",
+  "fmp_year": 2025,
+  "fmp_quarter": 1,
+  "downloaded_at_et": "2026-02-07T18:27:55.407621-05:00",
+  "source": "Financial Modeling Prep (FMP) earning_call_transcript endpoint",
+  "expected": 20
+}

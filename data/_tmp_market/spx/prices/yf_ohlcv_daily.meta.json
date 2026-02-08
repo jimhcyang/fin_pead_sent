@@ -1,0 +1,15 @@
+{
+  "symbol": "^GSPC",
+  "rows": 1592,
+  "start": "2021-01-01",
+  "end": "2025-12-31",
+  "buffer_before_months": 15,
+  "buffer_after_months": 1,
+  "download_start": "2019-10-01",
+  "download_end": "2026-02-01",
+  "created_at_local": "2026-02-07T18:35:05.529543",
+  "schema": [
+    "date",
+    "adj_close"
+  ]
+}

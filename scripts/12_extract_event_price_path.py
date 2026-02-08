@@ -14,9 +14,9 @@ def main() -> None:
     ap.add_argument("--ticker", required=True)
     ap.add_argument("--data-dir", type=Path, default=None)
     ap.add_argument("--windows-name", default="event_windows")
-    ap.add_argument("--pre-bdays", type=int, default=5)
+    ap.add_argument("--pre-bdays", type=int, default=10)
     ap.add_argument("--post-bdays", type=int, default=10)
-    ap.add_argument("--out-name", default="event_price_path_m5_p10")
+    ap.add_argument("--out-name", default="event_price_path_m10_p10")
     args = ap.parse_args()
 
     tkr = args.ticker.upper()

@@ -14,21 +14,23 @@
       "end": "2021-02-10"
     }
   ],
+  "per_day": false,
+  "fallback_per_day_used": false,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
   "pad_days": 1,
-  "sleep": 0.25,
-  "fetched_total": 199,
-  "kept_total": 177,
+  "sleep": 0.05,
+  "fetched_total": 463,
+  "kept_total": 411,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2021-02-01T06:49:00-05:00",
+  "min_publishedDateET": "2021-01-20T02:50:27-05:00",
   "max_publishedDateET": "2021-02-10T20:00:03-05:00",
   "outputs": {
     "raw_json": "data/TSLA/news/2021-01-27/stock_news.raw.json",
     "jsonl": "data/TSLA/news/2021-01-27/stock_news.jsonl",
     "csv": "data/TSLA/news/2021-01-27/stock_news.csv"
   },
-  "generated_at": "2026-02-07T14:39:59.035856-05:00",
+  "generated_at": "2026-02-07T18:24:22.516288-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

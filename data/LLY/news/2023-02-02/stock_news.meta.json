@@ -14,11 +14,13 @@
       "end": "2023-02-16"
     }
   ],
+  "per_day": false,
+  "fallback_per_day_used": false,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
   "pad_days": 1,
-  "sleep": 0.25,
+  "sleep": 0.05,
   "fetched_total": 37,
   "kept_total": 32,
   "dropped_dupes": 0,
@@ -29,6 +31,6 @@
     "jsonl": "data/LLY/news/2023-02-02/stock_news.jsonl",
     "csv": "data/LLY/news/2023-02-02/stock_news.csv"
   },
-  "generated_at": "2026-02-07T14:40:52.156805-05:00",
+  "generated_at": "2026-02-07T18:25:10.673045-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

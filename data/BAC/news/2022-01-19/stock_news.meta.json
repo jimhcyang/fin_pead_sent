@@ -1,0 +1,36 @@
+{
+  "ticker": "BAC",
+  "api_symbol": "BAC",
+  "endpoint": "https://financialmodelingprep.com/stable/news/stock",
+  "mode": "earnings_window",
+  "earnings_date": "2022-01-19",
+  "pre_bdays": 5,
+  "post_bdays": 10,
+  "start": "2022-01-12",
+  "end": "2022-02-02",
+  "chunks": [
+    {
+      "start": "2022-01-12",
+      "end": "2022-02-02"
+    }
+  ],
+  "per_day": false,
+  "fallback_per_day_used": false,
+  "page_limit": 100,
+  "max_pages": 100,
+  "chunk_days": 0,
+  "pad_days": 1,
+  "sleep": 0.05,
+  "fetched_total": 88,
+  "kept_total": 75,
+  "dropped_dupes": 0,
+  "min_publishedDateET": "2022-01-12T07:35:52-05:00",
+  "max_publishedDateET": "2022-02-02T20:47:58-05:00",
+  "outputs": {
+    "raw_json": "data/BAC/news/2022-01-19/stock_news.raw.json",
+    "jsonl": "data/BAC/news/2022-01-19/stock_news.jsonl",
+    "csv": "data/BAC/news/2022-01-19/stock_news.csv"
+  },
+  "generated_at": "2026-02-07T18:32:28.912472-05:00",
+  "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
+}

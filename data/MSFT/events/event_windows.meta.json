@@ -1,0 +1,10 @@
+{
+  "ticker": "MSFT",
+  "notes": [
+    "day0_date is the first close that reflects earnings: BMO=same day close, AMC=next trading day close.",
+    "Path window uses trading-day offsets: [-10, +10] relative to day0_date."
+  ],
+  "rows": 20,
+  "cols": 15,
+  "created_at_local": "2026-02-07T18:35:10.291421"
+}

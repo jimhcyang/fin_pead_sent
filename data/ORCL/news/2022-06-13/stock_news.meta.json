@@ -11,24 +11,110 @@
   "chunks": [
     {
       "start": "2022-06-06",
+      "end": "2022-06-06"
+    },
+    {
+      "start": "2022-06-07",
+      "end": "2022-06-07"
+    },
+    {
+      "start": "2022-06-08",
+      "end": "2022-06-08"
+    },
+    {
+      "start": "2022-06-09",
+      "end": "2022-06-09"
+    },
+    {
+      "start": "2022-06-10",
+      "end": "2022-06-10"
+    },
+    {
+      "start": "2022-06-11",
+      "end": "2022-06-11"
+    },
+    {
+      "start": "2022-06-12",
+      "end": "2022-06-12"
+    },
+    {
+      "start": "2022-06-13",
+      "end": "2022-06-13"
+    },
+    {
+      "start": "2022-06-14",
+      "end": "2022-06-14"
+    },
+    {
+      "start": "2022-06-15",
+      "end": "2022-06-15"
+    },
+    {
+      "start": "2022-06-16",
+      "end": "2022-06-16"
+    },
+    {
+      "start": "2022-06-17",
+      "end": "2022-06-17"
+    },
+    {
+      "start": "2022-06-18",
+      "end": "2022-06-18"
+    },
+    {
+      "start": "2022-06-19",
+      "end": "2022-06-19"
+    },
+    {
+      "start": "2022-06-20",
+      "end": "2022-06-20"
+    },
+    {
+      "start": "2022-06-21",
+      "end": "2022-06-21"
+    },
+    {
+      "start": "2022-06-22",
+      "end": "2022-06-22"
+    },
+    {
+      "start": "2022-06-23",
+      "end": "2022-06-23"
+    },
+    {
+      "start": "2022-06-24",
+      "end": "2022-06-24"
+    },
+    {
+      "start": "2022-06-25",
+      "end": "2022-06-25"
+    },
+    {
+      "start": "2022-06-26",
+      "end": "2022-06-26"
+    },
+    {
+      "start": "2022-06-27",
       "end": "2022-06-27"
     }
   ],
+  "per_day": true,
+  "fallback_per_day_used": true,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
-  "pad_days": 1,
-  "sleep": 0.25,
-  "fetched_total": 67,
+  "pad_days": 0,
+  "sleep": 0.05,
+  "fetched_total": 63,
   "kept_total": 63,
   "dropped_dupes": 0,
-  "min_publishedDateET": "2022-06-07T08:00:00-04:00",
-  "max_publishedDateET": "2022-06-27T16:57:00-04:00",
+  "min_publishedDateET": "2022-06-07T11:28:53-04:00",
+  "max_publishedDateET": "2022-06-27T08:05:00-04:00",
   "outputs": {
     "raw_json": "data/ORCL/news/2022-06-13/stock_news.raw.json",
     "jsonl": "data/ORCL/news/2022-06-13/stock_news.jsonl",
     "csv": "data/ORCL/news/2022-06-13/stock_news.csv"
   },
-  "generated_at": "2026-02-07T14:43:44.267242-05:00",
+  "generated_at": "2026-02-07T18:30:00.086045-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

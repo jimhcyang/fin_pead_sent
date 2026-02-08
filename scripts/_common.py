@@ -26,8 +26,8 @@ UTC = ZoneInfo("UTC")
 DEFAULT_20 = [
     "NVDA", "GOOGL", "AAPL", "MSFT", "AMZN",
     "META", "AVGO", "TSLA", "LLY", "WMT",
-    "JPM", "V", "XOM", "JNJ", "ORCL",
-    "MA", "MU", "COST", "AMD", "ABBV",
+    "JPM", "V", "HD", "JNJ", "ORCL",
+    "MA", "MU", "BAC", "AMD", "ABBV",
 ]
 
 

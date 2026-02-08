@@ -14,21 +14,23 @@
       "end": "2025-02-18"
     }
   ],
+  "per_day": false,
+  "fallback_per_day_used": false,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
   "pad_days": 1,
-  "sleep": 0.25,
-  "fetched_total": 99,
-  "kept_total": 95,
+  "sleep": 0.05,
+  "fetched_total": 180,
+  "kept_total": 170,
   "dropped_dupes": 1,
-  "min_publishedDateET": "2025-02-05T09:20:00-05:00",
+  "min_publishedDateET": "2025-01-28T02:04:49-05:00",
   "max_publishedDateET": "2025-02-18T21:15:11-05:00",
   "outputs": {
     "raw_json": "data/AMD/news/2025-02-04/stock_news.raw.json",
     "jsonl": "data/AMD/news/2025-02-04/stock_news.jsonl",
     "csv": "data/AMD/news/2025-02-04/stock_news.csv"
   },
-  "generated_at": "2026-02-07T14:45:46.089665-05:00",
+  "generated_at": "2026-02-07T18:33:32.175791-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

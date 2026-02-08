@@ -14,11 +14,13 @@
       "end": "2021-05-12"
     }
   ],
+  "per_day": false,
+  "fallback_per_day_used": false,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
   "pad_days": 1,
-  "sleep": 0.25,
+  "sleep": 0.05,
   "fetched_total": 373,
   "kept_total": 317,
   "dropped_dupes": 0,
@@ -29,6 +31,6 @@
     "jsonl": "data/AAPL/news/2021-04-28/stock_news.jsonl",
     "csv": "data/AAPL/news/2021-04-28/stock_news.csv"
   },
-  "generated_at": "2026-02-07T14:36:48.522241-05:00",
+  "generated_at": "2026-02-07T18:21:12.678894-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

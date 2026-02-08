@@ -1,0 +1,9 @@
+{
+  "ticker": "AAPL",
+  "notes": [
+    "Daily abnormal returns (decimal) at each offset."
+  ],
+  "rows": 420,
+  "cols": 14,
+  "created_at_local": "2026-02-07T18:35:09.667510"
+}

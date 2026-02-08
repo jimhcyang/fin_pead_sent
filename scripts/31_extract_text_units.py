@@ -17,7 +17,7 @@ Key behavior:
     Alignment is 1-to-1 BY ORDER (sorted events vs sorted transcript folders) using the
     tail(min(N)) to avoid quarter drift when counts mismatch.
   - We label transcript units as section ∈ {prepared, qa} using a robust Q&A start detector:
-      * lines 1–3 (non-empty) are ALWAYS ineligible to start Q&A
+      * lines 1–2 (non-empty) are ALWAYS ineligible to start Q&A (unless a hard marker overrides)
       * Q&A start must occur at/after line 4 and is usually within lines 4–10
       * we look for headings ("QUESTION-AND-ANSWER", "Q&A", etc.)
       * or a candidate speaker line ("Operator:" OR the same <NAME>: as transcript line 1)
@@ -74,6 +74,14 @@ class EventWindow:
 
 def _ensure_dir(p: Path) -> None:
     p.mkdir(parents=True, exist_ok=True)
+
+
+def _log_warn(path: Path, msg: str) -> None:
+    _ensure_dir(path.parent)
+    ts = datetime.now(ET).isoformat()
+    with path.open("a", encoding="utf-8") as f:
+        f.write(f"{ts} | {msg}\n")
+    print(f"[WARN] {msg}", flush=True)
 
 
 def _parse_yyyy_mm_dd(s: str) -> Optional[date]:
@@ -308,7 +316,7 @@ def find_qa_start(lines_non_empty: List[str]) -> Tuple[Optional[int], str, Optio
     Returns (idx, marker, anchor_name).
 
     Rules:
-      - lines 0..2 are ALWAYS ineligible
+      - lines 0..1 are ALWAYS ineligible
       - allow pure heading lines containing Q&A headings
       - allow candidate speaker lines:
           * starts with 'Operator:'
@@ -324,9 +332,12 @@ def find_qa_start(lines_non_empty: List[str]) -> Tuple[Optional[int], str, Optio
     if first_speaker and first_speaker.lower() != "operator":
         anchor_name = first_speaker
 
-    start_i = 3  # line 4 (1-indexed)
-    if len(lines_non_empty) <= start_i:
-        return None, "", anchor_name
+    # Hard marker: first line starting with "A - "
+    for i, ln in enumerate(lines_non_empty):
+        if (ln or "").strip().lower().startswith("a - "):
+            return i, "a_dash_marker", anchor_name
+
+    start_i = 2  # line 3 (1-indexed)
 
     for i in range(start_i, len(lines_non_empty)):
         cur = (lines_non_empty[i] or "").strip()
@@ -354,6 +365,16 @@ def find_qa_start(lines_non_empty: List[str]) -> Tuple[Optional[int], str, Optio
                 return i, "speaker_line_contains_cue", anchor_name
             if any(cue in prev_low for cue in _QA_CUES):
                 return i, "prev_line_contains_cue", anchor_name
+    # Fallback heuristics when nothing matched above
+    fallback_pats = [
+        (r"\bfirst question\b", "fallback_first_question"),
+        (r"\bfirst .{0,20}? question\b", "fallback_first_any_question"),
+        (r"\binvestor question\b", "fallback_investor_question"),
+    ]
+    for pat, marker in fallback_pats:
+        for i, ln in enumerate(lines_non_empty):
+            if re.search(pat, ln, flags=re.IGNORECASE):
+                return i, marker, anchor_name
 
     return None, "", anchor_name
 
@@ -428,6 +449,8 @@ def build_transcript_units(
     missing = 0
     section_totals = {"prepared": 0, "qa": 0}
     qa_marker_counts: Dict[str, int] = {}
+    warn_path = Path("data") / "_derived" / "logs" / "transcript_warnings.log"
+    _ensure_dir(warn_path.parent)
 
     for ev in events:
         tx_root = data_dir / ev.ticker / "transcripts"
@@ -440,16 +463,30 @@ def build_transcript_units(
 
         if not folder_date:
             missing += 1
+            _log_warn(warn_path, f"{ev.ticker} {ev.earnings_date}: missing transcript folder")
             continue
 
         tpath = tx_root / folder_date / "transcript.txt"
         try:
             text = tpath.read_text(encoding="utf-8", errors="ignore")
-        except Exception:
+        except Exception as e:
             missing += 1
+            _log_warn(warn_path, f"{ev.ticker} {ev.earnings_date}: failed to read transcript ({e})")
             continue
 
         turns, info = transcript_speaker_turns(text)
+
+        qa_start = info.get("qa_start_pos")
+        if qa_start is None:
+            _log_warn(
+                warn_path,
+                f"{ev.ticker} {ev.earnings_date}: QA start not found; please inspect transcript at {tpath}",
+            )
+        elif qa_start <= 0:
+            _log_warn(
+                warn_path,
+                f"{ev.ticker} {ev.earnings_date}: QA start at pos {qa_start}; expected prepared then QA",
+            )
 
         for tr in turns:
             sec = str(tr.get("section", "prepared"))
@@ -480,6 +517,23 @@ def build_transcript_units(
             )
 
     df = pd.DataFrame(rows)
+    # After full pass, check global presence per event
+    if "ticker" in df.columns and "earnings_date" in df.columns and "section" in df.columns:
+        for ev in events:
+            ev_rows = df[(df["ticker"] == ev.ticker) & (df["earnings_date"] == ev.earnings_date)]
+            has_pre = (ev_rows["section"] == "prepared").any()
+            has_qa = (ev_rows["section"] == "qa").any()
+            if not (has_pre and has_qa):
+                _log_warn(
+                    warn_path,
+                    f"{ev.ticker} {ev.earnings_date}: sections prepared={has_pre} qa={has_qa}; verify split logic",
+                )
+    else:
+        for ev in events:
+            _log_warn(
+                warn_path,
+                f"{ev.ticker} {ev.earnings_date}: no transcript rows captured; verify transcript and splitter",
+            )
     return df, missing, section_totals, qa_marker_counts
 
 

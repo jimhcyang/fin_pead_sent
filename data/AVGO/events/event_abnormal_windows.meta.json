@@ -1,0 +1,9 @@
+{
+  "ticker": "AVGO",
+  "notes": [
+    "Window CARs for simple and market-model abnormal returns."
+  ],
+  "rows": 20,
+  "cols": 20,
+  "created_at_local": "2026-02-07T18:35:15.658808"
+}

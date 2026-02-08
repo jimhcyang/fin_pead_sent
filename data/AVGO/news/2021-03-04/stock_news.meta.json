@@ -11,15 +11,101 @@
   "chunks": [
     {
       "start": "2021-02-25",
+      "end": "2021-02-25"
+    },
+    {
+      "start": "2021-02-26",
+      "end": "2021-02-26"
+    },
+    {
+      "start": "2021-02-27",
+      "end": "2021-02-27"
+    },
+    {
+      "start": "2021-02-28",
+      "end": "2021-02-28"
+    },
+    {
+      "start": "2021-03-01",
+      "end": "2021-03-01"
+    },
+    {
+      "start": "2021-03-02",
+      "end": "2021-03-02"
+    },
+    {
+      "start": "2021-03-03",
+      "end": "2021-03-03"
+    },
+    {
+      "start": "2021-03-04",
+      "end": "2021-03-04"
+    },
+    {
+      "start": "2021-03-05",
+      "end": "2021-03-05"
+    },
+    {
+      "start": "2021-03-06",
+      "end": "2021-03-06"
+    },
+    {
+      "start": "2021-03-07",
+      "end": "2021-03-07"
+    },
+    {
+      "start": "2021-03-08",
+      "end": "2021-03-08"
+    },
+    {
+      "start": "2021-03-09",
+      "end": "2021-03-09"
+    },
+    {
+      "start": "2021-03-10",
+      "end": "2021-03-10"
+    },
+    {
+      "start": "2021-03-11",
+      "end": "2021-03-11"
+    },
+    {
+      "start": "2021-03-12",
+      "end": "2021-03-12"
+    },
+    {
+      "start": "2021-03-13",
+      "end": "2021-03-13"
+    },
+    {
+      "start": "2021-03-14",
+      "end": "2021-03-14"
+    },
+    {
+      "start": "2021-03-15",
+      "end": "2021-03-15"
+    },
+    {
+      "start": "2021-03-16",
+      "end": "2021-03-16"
+    },
+    {
+      "start": "2021-03-17",
+      "end": "2021-03-17"
+    },
+    {
+      "start": "2021-03-18",
       "end": "2021-03-18"
     }
   ],
+  "per_day": true,
+  "fallback_per_day_used": true,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
-  "pad_days": 1,
-  "sleep": 0.25,
-  "fetched_total": 35,
+  "pad_days": 0,
+  "sleep": 0.05,
+  "fetched_total": 34,
   "kept_total": 34,
   "dropped_dupes": 0,
   "min_publishedDateET": "2021-02-26T08:42:11-05:00",
@@ -29,6 +115,6 @@
     "jsonl": "data/AVGO/news/2021-03-04/stock_news.jsonl",
     "csv": "data/AVGO/news/2021-03-04/stock_news.csv"
   },
-  "generated_at": "2026-02-07T14:39:29.662517-05:00",
+  "generated_at": "2026-02-07T18:23:34.751236-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

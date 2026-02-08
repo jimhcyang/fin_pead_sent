@@ -14,11 +14,13 @@
       "end": "2024-02-15"
     }
   ],
+  "per_day": false,
+  "fallback_per_day_used": false,
   "page_limit": 100,
   "max_pages": 100,
   "chunk_days": 0,
   "pad_days": 1,
-  "sleep": 0.25,
+  "sleep": 0.05,
   "fetched_total": 453,
   "kept_total": 413,
   "dropped_dupes": 0,
@@ -29,6 +31,6 @@
     "jsonl": "data/AMZN/news/2024-02-01/stock_news.jsonl",
     "csv": "data/AMZN/news/2024-02-01/stock_news.csv"
   },
-  "generated_at": "2026-02-07T14:38:22.088277-05:00",
+  "generated_at": "2026-02-07T18:22:34.912314-05:00",
   "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
 }

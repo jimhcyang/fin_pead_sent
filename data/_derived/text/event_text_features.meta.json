@@ -1,0 +1,254 @@
+{
+  "tickers": [
+    "NVDA",
+    "GOOGL",
+    "AAPL",
+    "MSFT",
+    "AMZN",
+    "META",
+    "AVGO",
+    "TSLA",
+    "LLY",
+    "WMT",
+    "JPM",
+    "V",
+    "HD",
+    "JNJ",
+    "ORCL",
+    "MA",
+    "MU",
+    "BAC",
+    "AMD",
+    "ABBV"
+  ],
+  "rows": 400,
+  "cols": 101,
+  "out_path": "data/_derived/text/event_text_features.csv",
+  "return_files_requested": [
+    "event_abnormal_windows.csv",
+    "event_window_returns.csv"
+  ],
+  "return_targets_detected": [
+    "car_simple_m10_p10_pct",
+    "car_mm_1y_m10_p10_pct",
+    "car_mm_1q_m10_p10_pct",
+    "car_simple_m5_p5_pct",
+    "car_mm_1y_m5_p5_pct",
+    "car_mm_1q_m5_p5_pct",
+    "car_simple_m1_p1_pct",
+    "car_mm_1y_m1_p1_pct",
+    "car_mm_1q_m1_p1_pct",
+    "car_simple_p0_p1_pct",
+    "car_mm_1y_p0_p1_pct",
+    "car_mm_1q_p0_p1_pct",
+    "car_simple_p0_p5_pct",
+    "car_mm_1y_p0_p5_pct",
+    "car_mm_1q_p0_p5_pct",
+    "car_simple_p0_p10_pct",
+    "car_mm_1y_p0_p10_pct",
+    "car_mm_1q_p0_p10_pct"
+  ],
+  "corr_target": "car_simple_m10_p10_pct",
+  "per_ticker": [
+    {
+      "ticker": "NVDA",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "META",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "WMT",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "V",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "HD",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "JNJ",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "MA",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "BAC",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    },
+    {
+      "ticker": "ABBV",
+      "events": 20,
+      "tr": true,
+      "news": true,
+      "merged_return_files": [
+        "event_abnormal_windows.csv",
+        "event_window_returns.csv"
+      ]
+    }
+  ]
+}

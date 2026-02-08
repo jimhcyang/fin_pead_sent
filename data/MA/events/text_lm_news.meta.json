@@ -1,0 +1,11 @@
+{
+  "ticker": "MA",
+  "in_path": "data/MA/events/text_units_news.csv",
+  "units_out": "data/MA/events/text_lm_news_units.csv",
+  "event_long_out": "data/MA/events/text_lm_news_event_long.csv",
+  "event_wide_out": "data/MA/events/text_lm_news_event_wide.csv",
+  "min_tokens": 20,
+  "rows_in": 853,
+  "rows_scored": 551,
+  "events_scored": 20
+}

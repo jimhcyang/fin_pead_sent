@@ -1,9 +1,0 @@
-{
-  "ticker": "COST",
-  "call_date": "2022-03-03",
-  "fmp_year": 2022,
-  "fmp_quarter": 2,
-  "downloaded_at_et": "2026-02-07T14:45:05.502273-05:00",
-  "source": "Financial Modeling Prep (FMP) earning_call_transcript endpoint",
-  "expected": 20
-}

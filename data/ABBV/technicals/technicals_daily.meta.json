@@ -1,7 +1,7 @@
 {
   "ticker": "ABBV",
   "source_prices": "Yahoo Finance (via yfinance)",
-  "generated_at_et": "2026-02-07T14:45:52.941717-05:00",
+  "generated_at_et": "2026-02-07T18:33:36.802594-05:00",
   "rows": 1592,
   "analysis_window_start": "2019-10-01",
   "analysis_window_end": "2026-01-30",

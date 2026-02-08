@@ -1,0 +1,120 @@
+{
+  "ticker": "HD",
+  "api_symbol": "HD",
+  "endpoint": "https://financialmodelingprep.com/stable/news/stock",
+  "mode": "earnings_window",
+  "earnings_date": "2022-02-22",
+  "pre_bdays": 5,
+  "post_bdays": 10,
+  "start": "2022-02-15",
+  "end": "2022-03-08",
+  "chunks": [
+    {
+      "start": "2022-02-15",
+      "end": "2022-02-15"
+    },
+    {
+      "start": "2022-02-16",
+      "end": "2022-02-16"
+    },
+    {
+      "start": "2022-02-17",
+      "end": "2022-02-17"
+    },
+    {
+      "start": "2022-02-18",
+      "end": "2022-02-18"
+    },
+    {
+      "start": "2022-02-19",
+      "end": "2022-02-19"
+    },
+    {
+      "start": "2022-02-20",
+      "end": "2022-02-20"
+    },
+    {
+      "start": "2022-02-21",
+      "end": "2022-02-21"
+    },
+    {
+      "start": "2022-02-22",
+      "end": "2022-02-22"
+    },
+    {
+      "start": "2022-02-23",
+      "end": "2022-02-23"
+    },
+    {
+      "start": "2022-02-24",
+      "end": "2022-02-24"
+    },
+    {
+      "start": "2022-02-25",
+      "end": "2022-02-25"
+    },
+    {
+      "start": "2022-02-26",
+      "end": "2022-02-26"
+    },
+    {
+      "start": "2022-02-27",
+      "end": "2022-02-27"
+    },
+    {
+      "start": "2022-02-28",
+      "end": "2022-02-28"
+    },
+    {
+      "start": "2022-03-01",
+      "end": "2022-03-01"
+    },
+    {
+      "start": "2022-03-02",
+      "end": "2022-03-02"
+    },
+    {
+      "start": "2022-03-03",
+      "end": "2022-03-03"
+    },
+    {
+      "start": "2022-03-04",
+      "end": "2022-03-04"
+    },
+    {
+      "start": "2022-03-05",
+      "end": "2022-03-05"
+    },
+    {
+      "start": "2022-03-06",
+      "end": "2022-03-06"
+    },
+    {
+      "start": "2022-03-07",
+      "end": "2022-03-07"
+    },
+    {
+      "start": "2022-03-08",
+      "end": "2022-03-08"
+    }
+  ],
+  "per_day": true,
+  "fallback_per_day_used": true,
+  "page_limit": 100,
+  "max_pages": 100,
+  "chunk_days": 0,
+  "pad_days": 0,
+  "sleep": 0.05,
+  "fetched_total": 66,
+  "kept_total": 66,
+  "dropped_dupes": 0,
+  "min_publishedDateET": "2022-02-16T11:29:17-05:00",
+  "max_publishedDateET": "2022-03-08T01:40:00-05:00",
+  "outputs": {
+    "raw_json": "data/HD/news/2022-02-22/stock_news.raw.json",
+    "jsonl": "data/HD/news/2022-02-22/stock_news.jsonl",
+    "csv": "data/HD/news/2022-02-22/stock_news.csv"
+  },
+  "generated_at": "2026-02-07T18:28:05.494516-05:00",
+  "notes": "Dates are filtered using America/New_York (ET) day boundaries. Business days are Mon–Fri only; US market holidays are not excluded."
+}

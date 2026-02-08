@@ -1,0 +1,9 @@
+{
+  "ticker": "ABBV",
+  "notes": [
+    "Long format: one row per (event, offset). Offsets are trading-day offsets around day0_date."
+  ],
+  "rows": 420,
+  "cols": 12,
+  "created_at_local": "2026-02-07T18:35:34.669019"
+}
